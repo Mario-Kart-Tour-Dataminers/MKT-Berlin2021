@@ -1,0 +1,135 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": -2094441087577622512
+  },
+  "m_Name": "BbDaisy",
+  "mModel": {
+    "m_FileID": 1,
+    "m_PathID": -5046937325522761020
+  },
+  "mFaceTextures": [
+    {
+      "m_FileID": 2,
+      "m_PathID": -1404134992640720772
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 3971649281461113041
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -7060934536108598302
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 8047642997140258096
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 4896745291502517419
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -1287023837562216709
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -6153595025413458619
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 3006785413379361915
+    }
+  ],
+  "mIsFaceTextureEmission": 0,
+  "mEmblem": {
+    "m_FileID": 0,
+    "m_PathID": -8274235184132056960
+  },
+  "mAnimatorOverrideController": {
+    "m_FileID": 3,
+    "m_PathID": -6214116574940970488
+  },
+  "mKartScaleSize": 0.85,
+  "mWingJointType": 0,
+  "mFaceChangeEvent": {
+    "m_FileID": 0,
+    "m_PathID": -3415329220874060622
+  },
+  "mIconInfo": [
+    {
+      "mPath": "Assets/Main/Content/Driver/BbDaisy/Icons/BbDaisy.png",
+      "mGuid": "ac4a018ef74a0514a991d68d529f9993"
+    },
+    {
+      "mPath": "Assets/Main/Content/Driver/BbDaisy/Icons/BbDaisyMap.png",
+      "mGuid": "85e7ea0cc387f154cabdf9a1a21dcd1e"
+    },
+    {
+      "mPath": "Assets/Main/Content/Driver/BbDaisy/Icons/BbDaisyFaceEntry.png",
+      "mGuid": "c9e46ea02f813494bae0584cd991fede"
+    },
+    {
+      "mPath": "Assets/Main/Content/Driver/BbDaisy/Icons/BbDaisyWholeBody.png",
+      "mGuid": "7b31465b45c92b045939c4ecc00a4963"
+    },
+    {
+      "mPath": "Assets/Main/Content/Driver/BbDaisy/Icons/BbDaisyUpperBody.png",
+      "mGuid": "4639dc1c6ad660e4b9255b509da5636b"
+    },
+    {
+      "mPath": "",
+      "mGuid": ""
+    },
+    {
+      "mPath": "Assets/Main/Content/Driver/BbDaisy/Icons/BbDaisy_Small.png",
+      "mGuid": "375f599f96bb16144ad5f5ad72119ab8"
+    },
+    {
+      "mPath": "Assets/Main/Content/Driver/BbDaisy/Icons/BbDaisyFaceEntry_Small.png",
+      "mGuid": "a4d7e0145db6b4f438e17901355af0de"
+    },
+    {
+      "mPath": "Assets/Main/Content/Driver/BbDaisy/Icons/BbDaisyWholeBody_Small.png",
+      "mGuid": "dfd282ff40c195c49b4a559ccd774467"
+    },
+    {
+      "mPath": "Assets/Main/Content/Driver/BbDaisy/Icons/BbDaisyUpperBody_Small.png",
+      "mGuid": "b685b43cc0a4b4845812698faf97a606"
+    }
+  ],
+  "mColorGroup": 0,
+  "mCharacterTextureList": [],
+  "mBaseParameter": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "mBodyMaterial": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "mEyeMaterial": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "mDynamicUnitMngInitData": {
+    "m_FileID": 0,
+    "m_PathID": -378156569576264712
+  },
+  "mMetamorData": [],
+  "mDotDriverData": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "mDescription": "ベビィデイジー",
+  "mEffectContainer": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  }
+}

@@ -1,0 +1,176 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": -4450292051221925171
+  },
+  "m_Name": "TourEndingParade",
+  "mIntroCut": {
+    "Time": 1.5,
+    "Formation": 0,
+    "IsWarpCamera": 0,
+    "BrakeTime": 1.0,
+    "MarginTime": 0.8
+  },
+  "mCharacterCutList": [
+    {
+      "Time": 2.8,
+      "Formation": 0,
+      "IsWarpCamera": 1,
+      "AtOffset": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "DegX": 5.5,
+      "DegY": 180.0,
+      "IsFocusedCharaAnimEnable": 1,
+      "IsAllCharaAnimEnable": 0,
+      "IsDisplayTelop": 0,
+      "IsTelopSyncCut": 1,
+      "TelopDisplaySec": 0.0
+    },
+    {
+      "Time": 2.8,
+      "Formation": 0,
+      "IsWarpCamera": 0,
+      "AtOffset": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "DegX": 5.5,
+      "DegY": 180.0,
+      "IsFocusedCharaAnimEnable": 1,
+      "IsAllCharaAnimEnable": 0,
+      "IsDisplayTelop": 0,
+      "IsTelopSyncCut": 1,
+      "TelopDisplaySec": 0.0
+    },
+    {
+      "Time": 2.8,
+      "Formation": 0,
+      "IsWarpCamera": 0,
+      "AtOffset": {
+        "x": 0.0,
+        "y": -0.5,
+        "z": 0.0
+      },
+      "DegX": 5.5,
+      "DegY": 180.0,
+      "IsFocusedCharaAnimEnable": 1,
+      "IsAllCharaAnimEnable": 0,
+      "IsDisplayTelop": 1,
+      "IsTelopSyncCut": 1,
+      "TelopDisplaySec": 0.0
+    },
+    {
+      "Time": 2.8,
+      "Formation": 0,
+      "IsWarpCamera": 0,
+      "AtOffset": {
+        "x": 0.0,
+        "y": -0.5,
+        "z": 0.0
+      },
+      "DegX": 5.5,
+      "DegY": 180.0,
+      "IsFocusedCharaAnimEnable": 1,
+      "IsAllCharaAnimEnable": 0,
+      "IsDisplayTelop": 1,
+      "IsTelopSyncCut": 1,
+      "TelopDisplaySec": 0.0
+    },
+    {
+      "Time": 2.8,
+      "Formation": 0,
+      "IsWarpCamera": 0,
+      "AtOffset": {
+        "x": 0.0,
+        "y": -0.5,
+        "z": 0.0
+      },
+      "DegX": 5.5,
+      "DegY": 180.0,
+      "IsFocusedCharaAnimEnable": 1,
+      "IsAllCharaAnimEnable": 0,
+      "IsDisplayTelop": 1,
+      "IsTelopSyncCut": 1,
+      "TelopDisplaySec": 0.0
+    },
+    {
+      "Time": 2.8,
+      "Formation": 0,
+      "IsWarpCamera": 0,
+      "AtOffset": {
+        "x": 0.0,
+        "y": -0.5,
+        "z": 0.0
+      },
+      "DegX": 5.5,
+      "DegY": 180.0,
+      "IsFocusedCharaAnimEnable": 1,
+      "IsAllCharaAnimEnable": 0,
+      "IsDisplayTelop": 1,
+      "IsTelopSyncCut": 1,
+      "TelopDisplaySec": 0.0
+    },
+    {
+      "Time": 2.8,
+      "Formation": 0,
+      "IsWarpCamera": 0,
+      "AtOffset": {
+        "x": 0.0,
+        "y": -0.5,
+        "z": 0.0
+      },
+      "DegX": 5.5,
+      "DegY": 180.0,
+      "IsFocusedCharaAnimEnable": 1,
+      "IsAllCharaAnimEnable": 0,
+      "IsDisplayTelop": 1,
+      "IsTelopSyncCut": 1,
+      "TelopDisplaySec": 0.0
+    },
+    {
+      "Time": 1.0,
+      "Formation": 1,
+      "IsWarpCamera": 0,
+      "AtOffset": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "DegX": 5.5,
+      "DegY": 180.0,
+      "IsFocusedCharaAnimEnable": 0,
+      "IsAllCharaAnimEnable": 1,
+      "IsDisplayTelop": 1,
+      "IsTelopSyncCut": 0,
+      "TelopDisplaySec": 3.0
+    }
+  ],
+  "mRotation": {
+    "LerpRate": 0.2,
+    "TimeOut": 0.5
+  },
+  "mTarget": {
+    "FollowRate": 1.0
+  },
+  "mStart": {
+    "BackwardSectorNum": 2.0
+  },
+  "mAnim": {
+    "TelopFadeOutMargin": 0.5
+  },
+  "mPicture": {
+    "Time": 3.0
+  },
+  "mCamera": {
+    "DefaultFovy": 60.0
+  }
+}

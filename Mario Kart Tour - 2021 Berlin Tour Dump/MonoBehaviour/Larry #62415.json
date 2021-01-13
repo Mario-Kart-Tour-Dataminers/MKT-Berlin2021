@@ -1,0 +1,135 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": -2094441087577622512
+  },
+  "m_Name": "Larry",
+  "mModel": {
+    "m_FileID": 3,
+    "m_PathID": -8206402823731678187
+  },
+  "mFaceTextures": [
+    {
+      "m_FileID": 1,
+      "m_PathID": 3800054914836346750
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 8345150628277702760
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 4796538437812553039
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -4191526471512588521
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -1879215419754352738
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 6648526713129563370
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -1450569292442542267
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 6238952651960180920
+    }
+  ],
+  "mIsFaceTextureEmission": 0,
+  "mEmblem": {
+    "m_FileID": 0,
+    "m_PathID": 6047073863244603523
+  },
+  "mAnimatorOverrideController": {
+    "m_FileID": 2,
+    "m_PathID": 2587586646530507601
+  },
+  "mKartScaleSize": 0.85,
+  "mWingJointType": 0,
+  "mFaceChangeEvent": {
+    "m_FileID": 0,
+    "m_PathID": 351545545415223903
+  },
+  "mIconInfo": [
+    {
+      "mPath": "Assets/Main/Content/Driver/Larry/Icons/Larry.png",
+      "mGuid": "0763212af9fb4bd49ba60badd2f9c22f"
+    },
+    {
+      "mPath": "Assets/Main/Content/Driver/Larry/Icons/LarryMap.png",
+      "mGuid": "4dd2566228e88f54f8297862000c4a0c"
+    },
+    {
+      "mPath": "Assets/Main/Content/Driver/Larry/Icons/LarryFaceEntry.png",
+      "mGuid": "f979f2fbe8caf7f43bc72c92fd393a98"
+    },
+    {
+      "mPath": "Assets/Main/Content/Driver/Larry/Icons/LarryWholeBody.png",
+      "mGuid": "6d9953fdd00bf054fb513ba66dd8fca8"
+    },
+    {
+      "mPath": "Assets/Main/Content/Driver/Larry/Icons/LarryUpperBody.png",
+      "mGuid": "0dc3869abc68c604d9cf17dee17527df"
+    },
+    {
+      "mPath": "",
+      "mGuid": ""
+    },
+    {
+      "mPath": "Assets/Main/Content/Driver/Larry/Icons/Larry_Small.png",
+      "mGuid": "0f6e0404ecf285d48bfa8b0b780ad512"
+    },
+    {
+      "mPath": "Assets/Main/Content/Driver/Larry/Icons/LarryFaceEntry_Small.png",
+      "mGuid": "e45d9034dbc17224eada307f96e88a1f"
+    },
+    {
+      "mPath": "Assets/Main/Content/Driver/Larry/Icons/LarryWholeBody_Small.png",
+      "mGuid": "22b5eb33b7e143245be35c7fdc5ec741"
+    },
+    {
+      "mPath": "Assets/Main/Content/Driver/Larry/Icons/LarryUpperBody_Small.png",
+      "mGuid": "1d8bc665a8d50464f98f7884e81441b0"
+    }
+  ],
+  "mColorGroup": 0,
+  "mCharacterTextureList": [],
+  "mBaseParameter": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "mBodyMaterial": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "mEyeMaterial": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "mDynamicUnitMngInitData": {
+    "m_FileID": 0,
+    "m_PathID": -3104242301453435315
+  },
+  "mMetamorData": [],
+  "mDotDriverData": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "mDescription": "ラリー",
+  "mEffectContainer": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  }
+}

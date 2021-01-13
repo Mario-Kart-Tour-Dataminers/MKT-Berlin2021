@@ -1,0 +1,102 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": -2094441087577622512
+  },
+  "m_Name": "FK",
+  "mModel": {
+    "m_FileID": 2,
+    "m_PathID": 7208636539375580668
+  },
+  "mFaceTextures": [],
+  "mIsFaceTextureEmission": 0,
+  "mEmblem": {
+    "m_FileID": 0,
+    "m_PathID": 3440441558918401260
+  },
+  "mAnimatorOverrideController": {
+    "m_FileID": 1,
+    "m_PathID": -7088380784656445709
+  },
+  "mKartScaleSize": 1.1,
+  "mWingJointType": 0,
+  "mFaceChangeEvent": {
+    "m_FileID": 0,
+    "m_PathID": -6666778320107142568
+  },
+  "mIconInfo": [
+    {
+      "mPath": "Assets/Main/Content/Driver/FK/Icons/FK.png",
+      "mGuid": "c07f15ade0e475642a5ea4cb8aba0bfa"
+    },
+    {
+      "mPath": "Assets/Main/Content/Driver/FK/Icons/FKMap.png",
+      "mGuid": "418bb776e7ef2234da3261e9d31136ba"
+    },
+    {
+      "mPath": "Assets/Main/Content/Driver/FK/Icons/FKFaceEntry.png",
+      "mGuid": "ae44463d97f5ab24cabd2384841dd3af"
+    },
+    {
+      "mPath": "Assets/Main/Content/Driver/FK/Icons/FKWholeBody.png",
+      "mGuid": "33c88c5b4c96f274b857cfbece9e1290"
+    },
+    {
+      "mPath": "Assets/Main/Content/Driver/FK/Icons/FKUpperBody.png",
+      "mGuid": "47e5e27c9a85cf747a8cb5a217a8013f"
+    },
+    {
+      "mPath": "",
+      "mGuid": ""
+    },
+    {
+      "mPath": "Assets/Main/Content/Driver/FK/Icons/FK_Small.png",
+      "mGuid": "6c4ef3a3d673dc74ebabb52953d4c2b3"
+    },
+    {
+      "mPath": "Assets/Main/Content/Driver/FK/Icons/FKFaceEntry_Small.png",
+      "mGuid": "afdc96032fac40a4fb23fb353587b5bd"
+    },
+    {
+      "mPath": "Assets/Main/Content/Driver/FK/Icons/FKWholeBody_Small.png",
+      "mGuid": "6aa153df090dd984db7a5a601f5146a4"
+    },
+    {
+      "mPath": "Assets/Main/Content/Driver/FK/Icons/FKUpperBody_Small.png",
+      "mGuid": "bef2509dea82b894ca2704b9a3bca03b"
+    }
+  ],
+  "mColorGroup": 0,
+  "mCharacterTextureList": [],
+  "mBaseParameter": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "mBodyMaterial": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "mEyeMaterial": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "mDynamicUnitMngInitData": {
+    "m_FileID": 0,
+    "m_PathID": -3236272579556574181
+  },
+  "mMetamorData": [],
+  "mDotDriverData": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "mDescription": "",
+  "mEffectContainer": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  }
+}

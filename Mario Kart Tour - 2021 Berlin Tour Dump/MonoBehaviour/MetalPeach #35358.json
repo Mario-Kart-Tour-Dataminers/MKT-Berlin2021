@@ -1,0 +1,135 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": -2094441087577622512
+  },
+  "m_Name": "MetalPeach",
+  "mModel": {
+    "m_FileID": 2,
+    "m_PathID": -3280349715877173393
+  },
+  "mFaceTextures": [
+    {
+      "m_FileID": 3,
+      "m_PathID": -749599013792565695
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -1226207569090729113
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -350464587911596144
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 808141904468038003
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -2306267616555103562
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 2694844918038193001
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 5349550409198051917
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 2995177743053640478
+    }
+  ],
+  "mIsFaceTextureEmission": 0,
+  "mEmblem": {
+    "m_FileID": 0,
+    "m_PathID": 5002077973265784777
+  },
+  "mAnimatorOverrideController": {
+    "m_FileID": 1,
+    "m_PathID": 8802047364412885852
+  },
+  "mKartScaleSize": 1.0,
+  "mWingJointType": 0,
+  "mFaceChangeEvent": {
+    "m_FileID": 0,
+    "m_PathID": 2155891852633440511
+  },
+  "mIconInfo": [
+    {
+      "mPath": "Assets/Main/Content/Driver/MetalPeach/Icons/MetalPeach.png",
+      "mGuid": "309304980f78b624381548c5fa5e5e91"
+    },
+    {
+      "mPath": "Assets/Main/Content/Driver/MetalPeach/Icons/MetalPeachMap.png",
+      "mGuid": "cae5cadec8841b34d99a98a9d264d8f1"
+    },
+    {
+      "mPath": "Assets/Main/Content/Driver/MetalPeach/Icons/MetalPeachFaceEntry.png",
+      "mGuid": "55187220e19596a42811839d307112cc"
+    },
+    {
+      "mPath": "Assets/Main/Content/Driver/MetalPeach/Icons/MetalPeachWholeBody.png",
+      "mGuid": "2299a0a6f24410a499cf275f02b446a7"
+    },
+    {
+      "mPath": "Assets/Main/Content/Driver/MetalPeach/Icons/MetalPeachUpperBody.png",
+      "mGuid": "0cc73ebee5b640448b2ed1709fcb62dc"
+    },
+    {
+      "mPath": "",
+      "mGuid": ""
+    },
+    {
+      "mPath": "Assets/Main/Content/Driver/MetalPeach/Icons/MetalPeach_Small.png",
+      "mGuid": "e10feeb30e98cd84691876ce8ef25bf8"
+    },
+    {
+      "mPath": "Assets/Main/Content/Driver/MetalPeach/Icons/MetalPeachFaceEntry_Small.png",
+      "mGuid": "7725d5d1d2448904188addb9c3c41d98"
+    },
+    {
+      "mPath": "Assets/Main/Content/Driver/MetalPeach/Icons/MetalPeachWholeBody_Small.png",
+      "mGuid": "991846d36fda9984f9f4a3067f7377fe"
+    },
+    {
+      "mPath": "Assets/Main/Content/Driver/MetalPeach/Icons/MetalPeachUpperBody_Small.png",
+      "mGuid": "85c6bfca310f31240b968acd53eb658f"
+    }
+  ],
+  "mColorGroup": 0,
+  "mCharacterTextureList": [],
+  "mBaseParameter": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "mBodyMaterial": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "mEyeMaterial": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "mDynamicUnitMngInitData": {
+    "m_FileID": 0,
+    "m_PathID": -3834717177545805587
+  },
+  "mMetamorData": [],
+  "mDotDriverData": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "mDescription": "ピンクゴールドピーチ",
+  "mEffectContainer": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  }
+}

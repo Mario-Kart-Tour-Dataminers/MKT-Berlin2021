@@ -1,0 +1,36 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": -3977807471082417869
+  },
+  "m_Name": "MainSeasonRewardHeaderList00",
+  "savePath": 1,
+  "isEnableCheckNoEmptyValue": 0,
+  "assetDataList": [
+    {
+      "obj": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      },
+      "path": "Assets/Main/Content/UI/Texture/MainSeasonRewardSilver00.png",
+      "guid": "5e264866f93dd4446a3f51c82dbddb8a",
+      "substitutedArrayIndex": 0
+    },
+    {
+      "obj": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      },
+      "path": "Assets/Main/Content/UI/Texture/MainSeasonRewardHeaderGold00.png",
+      "guid": "54d54a7b923a71648a4761b925f2feed",
+      "substitutedArrayIndex": 1
+    }
+  ],
+  "assetType": 0,
+  "keyType": 0
+}

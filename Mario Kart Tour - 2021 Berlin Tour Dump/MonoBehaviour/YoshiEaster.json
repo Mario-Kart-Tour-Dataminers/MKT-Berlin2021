@@ -1,0 +1,135 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": -2094441087577622512
+  },
+  "m_Name": "YoshiEaster",
+  "mModel": {
+    "m_FileID": 3,
+    "m_PathID": -3734027247906170281
+  },
+  "mFaceTextures": [
+    {
+      "m_FileID": 2,
+      "m_PathID": -1779500548539995245
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 3001962912930125751
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -6541488188368657511
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 1167691261972934540
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -9120465618311392296
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 7365365179966690264
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 2815078977816450870
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 4834686265080495691
+    }
+  ],
+  "mIsFaceTextureEmission": 0,
+  "mEmblem": {
+    "m_FileID": 0,
+    "m_PathID": 5843285030788916166
+  },
+  "mAnimatorOverrideController": {
+    "m_FileID": 1,
+    "m_PathID": 6176897389238713798
+  },
+  "mKartScaleSize": 1.0,
+  "mWingJointType": 0,
+  "mFaceChangeEvent": {
+    "m_FileID": 0,
+    "m_PathID": -1787774788842475433
+  },
+  "mIconInfo": [
+    {
+      "mPath": "Assets/Main/Content/Driver/YoshiEaster/Icons/YoshiEaster.png",
+      "mGuid": "cd0243f1180774241a82eac631982e85"
+    },
+    {
+      "mPath": "Assets/Main/Content/Driver/YoshiEaster/Icons/YoshiEasterMap.png",
+      "mGuid": "a982f1243bdf8084ea9216c4b334504c"
+    },
+    {
+      "mPath": "Assets/Main/Content/Driver/YoshiEaster/Icons/YoshiEasterFaceEntry.png",
+      "mGuid": "fa80df8c83afc914c8b9160d8d42df10"
+    },
+    {
+      "mPath": "Assets/Main/Content/Driver/YoshiEaster/Icons/YoshiEasterWholeBody.png",
+      "mGuid": "5cbe8a09fb4efaf48acc0547df9ac417"
+    },
+    {
+      "mPath": "Assets/Main/Content/Driver/YoshiEaster/Icons/YoshiEasterUpperBody.png",
+      "mGuid": "6071a5a1aeb9eaf4283eee0d677b3157"
+    },
+    {
+      "mPath": "",
+      "mGuid": ""
+    },
+    {
+      "mPath": "Assets/Main/Content/Driver/YoshiEaster/Icons/YoshiEaster_Small.png",
+      "mGuid": "a0270e3c07dc0d94fbf2276cdac8bb4e"
+    },
+    {
+      "mPath": "Assets/Main/Content/Driver/YoshiEaster/Icons/YoshiEasterFaceEntry_Small.png",
+      "mGuid": "775abeeceaacc3742a86d53f04bc07e3"
+    },
+    {
+      "mPath": "Assets/Main/Content/Driver/YoshiEaster/Icons/YoshiEasterWholeBody_Small.png",
+      "mGuid": "e49c6995aff04bb44a77c1263ce2eeaf"
+    },
+    {
+      "mPath": "Assets/Main/Content/Driver/YoshiEaster/Icons/YoshiEasterUpperBody_Small.png",
+      "mGuid": "9db67cb0c6f2cd549b62709739b257be"
+    }
+  ],
+  "mColorGroup": 0,
+  "mCharacterTextureList": [],
+  "mBaseParameter": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "mBodyMaterial": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "mEyeMaterial": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "mDynamicUnitMngInitData": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "mMetamorData": [],
+  "mDotDriverData": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "mDescription": "",
+  "mEffectContainer": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  }
+}

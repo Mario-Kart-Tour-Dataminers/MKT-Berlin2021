@@ -1,0 +1,50 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": 2434717279687273224
+  },
+  "m_Name": "Wing_Std_3color",
+  "mWingModel": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "mIconInfo": [
+    {
+      "mPath": "Assets/Main/Content/Kart/Wing/Wing_Std/Icons/Wing_Std_3color.png",
+      "mGuid": "264a8160c78a6ea48b3d4901587a3084"
+    },
+    {
+      "mPath": "Assets/Main/Content/Kart/Wing/Wing_Std/Icons/Wing_Std_3color_Large.png",
+      "mGuid": "8ef34e595084b694e8ddbc87635a8b77"
+    },
+    {
+      "mPath": "Assets/Main/Content/Kart/Wing/Wing_Std/Icons/Wing_Std_3color_Small.png",
+      "mGuid": "92adffc08cb344c4b9eff7cc99447e9d"
+    }
+  ],
+  "mWingType": 0,
+  "mIsFixedIcon": 0,
+  "mBaseParameter": {
+    "m_FileID": 5,
+    "m_PathID": 2790807988414546290
+  },
+  "mMaterial": {
+    "m_FileID": 0,
+    "m_PathID": -7248845512273342753
+  },
+  "mEffectContainer": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "mIsDisableAngleAnimation": 0,
+  "mDescription": "",
+  "mColorValiationRoot": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  }
+}

@@ -1,0 +1,47 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": -7390034604700155635
+  },
+  "m_Name": "DemoGoalCamera",
+  "mMasterSpeed": 0.015,
+  "mDegY": 180.0,
+  "mFovy": 85.0,
+  "mDegX_L": -5.5,
+  "mTargetOffset_L": {
+    "x": 0.0,
+    "y": 0.2,
+    "z": 0.4
+  },
+  "mDist_L": 5.0,
+  "mDegX_M": -5.5,
+  "mTargetOffset_M": {
+    "x": 0.0,
+    "y": -0.1,
+    "z": 0.2
+  },
+  "mDist_M": 4.0,
+  "mDegX_S": -5.5,
+  "mTargetOffset_S": {
+    "x": 0.0,
+    "y": 0.8,
+    "z": 0.0
+  },
+  "cDist_S": 3.5,
+  "mCheckWallCollisionRadius": 1.75,
+  "mDegX_Giant": -13.0,
+  "mTargetOffset_Giant": {
+    "x": 0.0,
+    "y": 1.5,
+    "z": 0.0
+  },
+  "mDist_Giant": 8.0,
+  "mDistanceFollowRatio": 0.1,
+  "mOffsetFollowRatio": 0.1,
+  "mDegXFollowRatio": 0.1
+}

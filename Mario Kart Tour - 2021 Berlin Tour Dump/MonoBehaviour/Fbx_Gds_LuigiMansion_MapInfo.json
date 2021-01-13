@@ -1,0 +1,26 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": 980329048157257672
+  },
+  "m_Name": "Fbx_Gds_LuigiMansion_MapInfo",
+  "rect": {
+    "x": -404.705536,
+    "y": -443.45575,
+    "width": 736.0266,
+    "height": 736.0266
+  },
+  "sprite": {
+    "m_FileID": 0,
+    "m_PathID": -4243407674181586977
+  },
+  "offset": {
+    "x": 0.0,
+    "y": 0.0
+  }
+}

@@ -1,0 +1,100 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": -8652336194674809844
+  },
+  "m_Name": "BodyK_DKJumbo",
+  "mBodyModel": {
+    "m_FileID": 0,
+    "m_PathID": 6693202451575588149
+  },
+  "mDriverOffset": {
+    "x": 0.0,
+    "y": 0.0,
+    "z": 0.0
+  },
+  "mBodyCenterPosition": {
+    "x": 0.0,
+    "y": 0.0,
+    "z": 0.0
+  },
+  "mScrewPosition": {
+    "x": 0.0,
+    "y": -0.015,
+    "z": -0.68
+  },
+  "mShaftPositionList": [],
+  "mGearBoxData": {
+    "m_FileID": 1,
+    "m_PathID": 3532631435007547029
+  },
+  "mGearBoxScale": {
+    "x": 2.0,
+    "y": 1.5,
+    "z": 1.5
+  },
+  "mGearBoxPosition": {
+    "x": 0.0,
+    "y": -0.24,
+    "z": 0.85
+  },
+  "mGearBoxSlideOffset": {
+    "x": 0.0,
+    "y": 0.0,
+    "z": -0.08
+  },
+  "mBodyWingParams": {
+    "m_FileID": 0,
+    "m_PathID": -9040325814466787888
+  },
+  "mBodyTireParams": {
+    "m_FileID": 0,
+    "m_PathID": -7020601363664671607
+  },
+  "mIconInfo": [
+    {
+      "mPath": "Assets/Main/Content/Kart/Body/BodyK_DKJumbo/Icons/BodyK_DKJumbo.png",
+      "mGuid": "6cc5a36f6e97baf46bdccf5ba22d9dcb"
+    }
+  ],
+  "mJointMode": 1,
+  "mScrewScale": {
+    "x": 0.9,
+    "y": 0.9,
+    "z": 0.9
+  },
+  "mScrewAxisOffset": {
+    "x": 0.0,
+    "y": 0.0,
+    "z": -0.08
+  },
+  "mBackrestHeight": 0.0,
+  "mIsFixedIcon": 0,
+  "mBaseParameter": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "mMaterial": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "mGearBoxMaterial": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "mEffectContainer": {
+    "m_FileID": 0,
+    "m_PathID": -6792897705083726834
+  },
+  "mEffectContainerForTire": [],
+  "mDescription": "DKジャンボ",
+  "mColorValiationRoot": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  }
+}

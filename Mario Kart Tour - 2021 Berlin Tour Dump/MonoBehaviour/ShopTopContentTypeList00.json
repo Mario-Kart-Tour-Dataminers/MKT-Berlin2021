@@ -1,0 +1,36 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": -3977807471082417869
+  },
+  "m_Name": "ShopTopContentTypeList00",
+  "savePath": 1,
+  "isEnableCheckNoEmptyValue": 0,
+  "assetDataList": [
+    {
+      "obj": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      },
+      "path": "Assets/Main/Content/UI/Menu/Shop/Shop/ShopBannerTourPass00.png",
+      "guid": "b8c60b42e06bb984bba53b5331f6bfc4",
+      "substitutedArrayIndex": 0
+    },
+    {
+      "obj": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      },
+      "path": "Assets/Main/Content/UI/Menu/Shop/Shop/ShopBannerSpecialOffer00.png",
+      "guid": "b845d25428fab2c44abd1fb797302f36",
+      "substitutedArrayIndex": 1
+    }
+  ],
+  "assetType": 0,
+  "keyType": 11
+}

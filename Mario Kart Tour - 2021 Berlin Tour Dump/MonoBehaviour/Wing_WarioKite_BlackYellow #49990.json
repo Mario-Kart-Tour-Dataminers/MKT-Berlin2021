@@ -1,0 +1,50 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": 2434717279687273224
+  },
+  "m_Name": "Wing_WarioKite_BlackYellow",
+  "mWingModel": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "mIconInfo": [
+    {
+      "mPath": "Assets/Main/Content/Kart/Wing/Wing_WarioKite/Icons/Wing_WarioKite_BlackYellow.png",
+      "mGuid": "fe886dd671104294d9512a05b2a24d50"
+    },
+    {
+      "mPath": "Assets/Main/Content/Kart/Wing/Wing_WarioKite/Icons/Wing_WarioKite_BlackYellow_Large.png",
+      "mGuid": "e38d3b2e4cc94e041805ee21e230bf03"
+    },
+    {
+      "mPath": "Assets/Main/Content/Kart/Wing/Wing_WarioKite/Icons/Wing_WarioKite_BlackYellow_Small.png",
+      "mGuid": "e830968450a1b1e43a6d170b02e68ac1"
+    }
+  ],
+  "mWingType": 0,
+  "mIsFixedIcon": 0,
+  "mBaseParameter": {
+    "m_FileID": 1,
+    "m_PathID": 9124757297423815860
+  },
+  "mMaterial": {
+    "m_FileID": 0,
+    "m_PathID": 4058366327991608970
+  },
+  "mEffectContainer": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "mIsDisableAngleAnimation": 0,
+  "mDescription": "",
+  "mColorValiationRoot": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  }
+}

@@ -1,0 +1,207 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": -8840372896776316124
+  },
+  "m_Name": "AIParam",
+  "mHateIncreaseRate": [
+    15.0,
+    20.0,
+    15.0,
+    20.0,
+    20.0,
+    20.0,
+    20.0,
+    30.0,
+    20.0,
+    20.0,
+    25.0,
+    20.0,
+    15.0,
+    25.0,
+    15.0,
+    20.0,
+    0.0,
+    30.0,
+    30.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0
+  ],
+  "mHateRateMax": 180.0,
+  "mPlayerSkill": {
+    "mFactorWeight": [
+      700,
+      500,
+      0,
+      0
+    ],
+    "mPathTotalLengthRateBase": 1.0
+  },
+  "mPSParam_JumpActionProb": {
+    "Min": 0.0,
+    "Max": 90.0
+  },
+  "mPSParam_TimeToUseItem": {
+    "Min": 0.5,
+    "Max": 3.0
+  },
+  "mPSParam_StandOutSpeedRate_CatchUp": {
+    "Min": 1.0,
+    "Max": 1.06
+  },
+  "mPSParam_StandOutSpeedRate_CatchDown": {
+    "Min": 0.8,
+    "Max": 1.0
+  },
+  "mPSParam_SpeedRateEasy": {
+    "Min": 0.96,
+    "Max": 0.98
+  },
+  "mPSParam_SpeedRateNormal": {
+    "Min": 0.98,
+    "Max": 1.0
+  },
+  "mPSParam_SpeedRateHard": {
+    "Min": 1.0,
+    "Max": 1.02
+  },
+  "mPSParam_SpeedRateFinalCatchDown": {
+    "Min": 0.8,
+    "Max": 0.98
+  },
+  "mStandOutDistancePlayerMin": 120.0,
+  "mStandOutDistancePlayerMax": 280.0,
+  "mStandOutDistanceCpuEasy": {
+    "Min": -40.0,
+    "Max": 20.0
+  },
+  "mStandOutDistanceCpuNormal": {
+    "Min": 30.0,
+    "Max": 120.0
+  },
+  "mStandOutDistanceCpuHard": {
+    "Min": 80.0,
+    "Max": 200.0
+  },
+  "mStandOutMarginDistance": 50.0,
+  "mTimeToUseItemFeverMin": 1.0,
+  "mTimeToUseItemFeverMax": 2.0,
+  "mTimeToUseItemNormalMin_Parade": 0.5,
+  "mTimeToUseItemNormalMax_Parade": 3.0,
+  "mTimeToUseItemNormalRetrySec_Parade": 0.5,
+  "mTimeToUseItemFeverMin_Parade": 1.0,
+  "mTimeToUseItemFeverMax_Parade": 2.0,
+  "mDistanceForKouraB": 80.0,
+  "mProbabilityForAvoidTargetEasy": [
+    0,
+    50,
+    50,
+    0
+  ],
+  "mProbabilityForAvoidTargetNormal": [
+    0,
+    20,
+    30,
+    50
+  ],
+  "mProbabilityForAvoidTargetHard": [
+    0,
+    10,
+    10,
+    80
+  ],
+  "mProbabilityForAvoidTargetGesso": [
+    0,
+    50,
+    50,
+    0
+  ],
+  "IsModuleActive": [
+    {
+      "Value": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "Value": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "Value": [
+        1,
+        1,
+        1,
+        0,
+        1,
+        1,
+        0
+      ]
+    },
+    {
+      "Value": [
+        1,
+        0,
+        1,
+        0,
+        0,
+        0,
+        1
+      ]
+    },
+    {
+      "Value": [
+        1,
+        0,
+        1,
+        1,
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "Value": [
+        1,
+        1,
+        1,
+        0,
+        1,
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "Value": [
+        1,
+        0,
+        1,
+        0,
+        1,
+        1,
+        0,
+        0
+      ]
+    }
+  ]
+}

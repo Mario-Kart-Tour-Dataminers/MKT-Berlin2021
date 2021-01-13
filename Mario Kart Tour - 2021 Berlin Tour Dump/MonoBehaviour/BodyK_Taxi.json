@@ -1,0 +1,100 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": -8652336194674809844
+  },
+  "m_Name": "BodyK_Taxi",
+  "mBodyModel": {
+    "m_FileID": 0,
+    "m_PathID": 2062683199312322509
+  },
+  "mDriverOffset": {
+    "x": 0.0,
+    "y": 0.0,
+    "z": 0.0
+  },
+  "mBodyCenterPosition": {
+    "x": 0.0,
+    "y": 0.0,
+    "z": 0.0
+  },
+  "mScrewPosition": {
+    "x": 0.0,
+    "y": -0.02,
+    "z": -0.725
+  },
+  "mShaftPositionList": [],
+  "mGearBoxData": {
+    "m_FileID": 4,
+    "m_PathID": 3532631435007547029
+  },
+  "mGearBoxScale": {
+    "x": 1.5,
+    "y": 1.4,
+    "z": 1.4
+  },
+  "mGearBoxPosition": {
+    "x": 0.0,
+    "y": -0.15,
+    "z": 0.95
+  },
+  "mGearBoxSlideOffset": {
+    "x": 0.0,
+    "y": 0.0,
+    "z": -0.2
+  },
+  "mBodyWingParams": {
+    "m_FileID": 0,
+    "m_PathID": 471694986615929886
+  },
+  "mBodyTireParams": {
+    "m_FileID": 0,
+    "m_PathID": 7973707143767472835
+  },
+  "mIconInfo": [
+    {
+      "mPath": "",
+      "mGuid": "887bdd6cff494f74c8d132ed28a0c810"
+    }
+  ],
+  "mJointMode": 1,
+  "mScrewScale": {
+    "x": 0.8,
+    "y": 0.8,
+    "z": 0.8
+  },
+  "mScrewAxisOffset": {
+    "x": 0.0,
+    "y": 0.0,
+    "z": 0.0
+  },
+  "mBackrestHeight": 0.0,
+  "mIsFixedIcon": 0,
+  "mBaseParameter": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "mMaterial": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "mGearBoxMaterial": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "mEffectContainer": {
+    "m_FileID": 0,
+    "m_PathID": -4795850701580447808
+  },
+  "mEffectContainerForTire": [],
+  "mDescription": "イエローキャブ",
+  "mColorValiationRoot": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  }
+}

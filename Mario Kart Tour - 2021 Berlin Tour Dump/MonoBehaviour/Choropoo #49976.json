@@ -1,0 +1,111 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": -2094441087577622512
+  },
+  "m_Name": "Choropoo",
+  "mModel": {
+    "m_FileID": 1,
+    "m_PathID": -4436435708750335944
+  },
+  "mFaceTextures": [
+    {
+      "m_FileID": 2,
+      "m_PathID": 8047837547556537013
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -7828014015696055452
+    }
+  ],
+  "mIsFaceTextureEmission": 0,
+  "mEmblem": {
+    "m_FileID": 0,
+    "m_PathID": 7196561875865692660
+  },
+  "mAnimatorOverrideController": {
+    "m_FileID": 3,
+    "m_PathID": -991338658076456359
+  },
+  "mKartScaleSize": 1.0,
+  "mWingJointType": 0,
+  "mFaceChangeEvent": {
+    "m_FileID": 0,
+    "m_PathID": -4932297457482645822
+  },
+  "mIconInfo": [
+    {
+      "mPath": "Assets/Main/Content/Driver/Choropoo/Icons/Choropoo.png",
+      "mGuid": "e4025758c65022c4abdb1434217510b0"
+    },
+    {
+      "mPath": "Assets/Main/Content/Driver/Choropoo/Icons/ChoropooMap.png",
+      "mGuid": "593d8dc9ee5530144a89e69ee0a510ad"
+    },
+    {
+      "mPath": "Assets/Main/Content/Driver/Choropoo/Icons/ChoropooFaceEntry.png",
+      "mGuid": "b0cbf31338c209c4b80e9db0dfedfeba"
+    },
+    {
+      "mPath": "Assets/Main/Content/Driver/Choropoo/Icons/ChoropooWholeBody.png",
+      "mGuid": "0b21d67bdf4a2a24b8f36bd38697c3d5"
+    },
+    {
+      "mPath": "Assets/Main/Content/Driver/Choropoo/Icons/ChoropooUpperBody.png",
+      "mGuid": "f3b9e491b447bb14e8e4b42d9d19bbcd"
+    },
+    {
+      "mPath": "",
+      "mGuid": ""
+    },
+    {
+      "mPath": "Assets/Main/Content/Driver/Choropoo/Icons/Choropoo_Small.png",
+      "mGuid": "8346361112605594397073c6ce877eb8"
+    },
+    {
+      "mPath": "Assets/Main/Content/Driver/Choropoo/Icons/ChoropooFaceEntry_Small.png",
+      "mGuid": "03522ddcefdbfad41a77012e3b489213"
+    },
+    {
+      "mPath": "Assets/Main/Content/Driver/Choropoo/Icons/ChoropooWholeBody_Small.png",
+      "mGuid": "48c73a27440d66e4c9089387ff28b61a"
+    },
+    {
+      "mPath": "Assets/Main/Content/Driver/Choropoo/Icons/ChoropooUpperBody_Small.png",
+      "mGuid": "e8620c272a41cbe409d8003a8b47d60a"
+    }
+  ],
+  "mColorGroup": 0,
+  "mCharacterTextureList": [],
+  "mBaseParameter": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "mBodyMaterial": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "mEyeMaterial": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "mDynamicUnitMngInitData": {
+    "m_FileID": 0,
+    "m_PathID": -7971439216203106231
+  },
+  "mMetamorData": [],
+  "mDotDriverData": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "mDescription": "",
+  "mEffectContainer": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  }
+}

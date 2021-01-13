@@ -1,0 +1,151 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": 6390104249597991665
+  },
+  "m_Name": "TutorialGuide00List00",
+  "savePath": 1,
+  "isEnableCheckNoEmptyValue": 0,
+  "assetDataList": [
+    {
+      "obj": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      },
+      "path": "Assets/Main/Content/UI/Texture/Text/Race/TutorialGuide00JPja.png",
+      "guid": "606892c0a4df51e419257431087b1eca",
+      "substitutedArrayIndex": 0
+    },
+    {
+      "obj": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      },
+      "path": "Assets/Main/Content/UI/Texture/Text/Race/TutorialGuide00USen.png",
+      "guid": "6132908201d15c2489425262e70faa21",
+      "substitutedArrayIndex": 0
+    },
+    {
+      "obj": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      },
+      "path": "",
+      "guid": "",
+      "substitutedArrayIndex": 1
+    },
+    {
+      "obj": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      },
+      "path": "Assets/Main/Content/UI/Texture/Text/Race/TutorialGuide00USes.png",
+      "guid": "cb34d44b3147fbf44afa284ff178dde8",
+      "substitutedArrayIndex": 0
+    },
+    {
+      "obj": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      },
+      "path": "",
+      "guid": "",
+      "substitutedArrayIndex": 3
+    },
+    {
+      "obj": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      },
+      "path": "",
+      "guid": "",
+      "substitutedArrayIndex": 0
+    },
+    {
+      "obj": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      },
+      "path": "Assets/Main/Content/UI/Texture/Text/Race/TutorialGuide00EUfr.png",
+      "guid": "ff15b31493e4a3446be2ed0bfde7da22",
+      "substitutedArrayIndex": 0
+    },
+    {
+      "obj": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      },
+      "path": "Assets/Main/Content/UI/Texture/Text/Race/TutorialGuide00EUde.png",
+      "guid": "93d357a3944b4684ca5a32a9c83724f7",
+      "substitutedArrayIndex": 0
+    },
+    {
+      "obj": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      },
+      "path": "Assets/Main/Content/UI/Texture/Text/Race/TutorialGuide00EUit.png",
+      "guid": "e5b126d036c5ead40b404a585e30f676",
+      "substitutedArrayIndex": 0
+    },
+    {
+      "obj": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      },
+      "path": "",
+      "guid": "",
+      "substitutedArrayIndex": 0
+    },
+    {
+      "obj": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      },
+      "path": "",
+      "guid": "",
+      "substitutedArrayIndex": 0
+    },
+    {
+      "obj": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      },
+      "path": "Assets/Main/Content/UI/Texture/Text/Race/TutorialGuide00USpt.png",
+      "guid": "8d9ab67ce0b46c54a8fee2f6b42279a4",
+      "substitutedArrayIndex": 0
+    },
+    {
+      "obj": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      },
+      "path": "Assets/Main/Content/UI/Texture/Text/Race/TutorialGuide00KRko.png",
+      "guid": "10d43718081e1924eb4cae603b6c8bb4",
+      "substitutedArrayIndex": 0
+    },
+    {
+      "obj": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      },
+      "path": "Assets/Main/Content/UI/Texture/Text/Race/TutorialGuide00CNzh.png",
+      "guid": "c1b571a756890a94290a93be9663b8b5",
+      "substitutedArrayIndex": 0
+    },
+    {
+      "obj": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      },
+      "path": "Assets/Main/Content/UI/Texture/Text/Race/TutorialGuide00TWzh.png",
+      "guid": "835b0efc48d707d46b43d338b8ad0f03",
+      "substitutedArrayIndex": 0
+    }
+  ]
+}

@@ -1,0 +1,151 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": 6390104249597991665
+  },
+  "m_Name": "RaceRank20thList00",
+  "savePath": 1,
+  "isEnableCheckNoEmptyValue": 0,
+  "assetDataList": [
+    {
+      "obj": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      },
+      "path": "Assets/Main/Content/UI/Texture/Text/RaceRank/RaceRank20thJPja.png",
+      "guid": "36435dec07fa39543885b8a4c931c6e3",
+      "substitutedArrayIndex": 0
+    },
+    {
+      "obj": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      },
+      "path": "",
+      "guid": "",
+      "substitutedArrayIndex": 0
+    },
+    {
+      "obj": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      },
+      "path": "",
+      "guid": "",
+      "substitutedArrayIndex": 1
+    },
+    {
+      "obj": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      },
+      "path": "Assets/Main/Content/UI/Texture/Text/RaceRank/RaceRank20thUSes.png",
+      "guid": "578e3d579187c1944aa1c070ba16ae9c",
+      "substitutedArrayIndex": 0
+    },
+    {
+      "obj": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      },
+      "path": "",
+      "guid": "",
+      "substitutedArrayIndex": 3
+    },
+    {
+      "obj": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      },
+      "path": "",
+      "guid": "",
+      "substitutedArrayIndex": 1
+    },
+    {
+      "obj": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      },
+      "path": "Assets/Main/Content/UI/Texture/Text/RaceRank/RaceRank20thEUfr.png",
+      "guid": "c86bd4c085e255646adea49961212d93",
+      "substitutedArrayIndex": 0
+    },
+    {
+      "obj": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      },
+      "path": "Assets/Main/Content/UI/Texture/Text/RaceRank/RaceRank20thEUde.png",
+      "guid": "6c776c97e19d81744ac860f8957e74e3",
+      "substitutedArrayIndex": 0
+    },
+    {
+      "obj": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      },
+      "path": "",
+      "guid": "",
+      "substitutedArrayIndex": 11
+    },
+    {
+      "obj": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      },
+      "path": "",
+      "guid": "",
+      "substitutedArrayIndex": 1
+    },
+    {
+      "obj": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      },
+      "path": "",
+      "guid": "",
+      "substitutedArrayIndex": 1
+    },
+    {
+      "obj": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      },
+      "path": "Assets/Main/Content/UI/Texture/Text/RaceRank/RaceRank20thUSpt.png",
+      "guid": "356d83366a36af74ebe5fd93afb5e96f",
+      "substitutedArrayIndex": 0
+    },
+    {
+      "obj": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      },
+      "path": "",
+      "guid": "",
+      "substitutedArrayIndex": 0
+    },
+    {
+      "obj": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      },
+      "path": "",
+      "guid": "",
+      "substitutedArrayIndex": 0
+    },
+    {
+      "obj": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      },
+      "path": "",
+      "guid": "",
+      "substitutedArrayIndex": 0
+    }
+  ]
+}

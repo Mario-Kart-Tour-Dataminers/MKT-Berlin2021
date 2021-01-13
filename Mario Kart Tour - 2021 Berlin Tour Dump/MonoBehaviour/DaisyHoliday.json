@@ -1,0 +1,131 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": -2094441087577622512
+  },
+  "m_Name": "DaisyHoliday",
+  "mModel": {
+    "m_FileID": 2,
+    "m_PathID": 721338245400939646
+  },
+  "mFaceTextures": [
+    {
+      "m_FileID": 0,
+      "m_PathID": -6325225925214213823
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -7136152252926161583
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 1041772350829518187
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 7845834069693167384
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -4136335593218102978
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -1431442826161487301
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -9036608274611614817
+    }
+  ],
+  "mIsFaceTextureEmission": 0,
+  "mEmblem": {
+    "m_FileID": 0,
+    "m_PathID": 8790912448713502495
+  },
+  "mAnimatorOverrideController": {
+    "m_FileID": 1,
+    "m_PathID": -8403276904656754773
+  },
+  "mKartScaleSize": 1.0,
+  "mWingJointType": 0,
+  "mFaceChangeEvent": {
+    "m_FileID": 0,
+    "m_PathID": -7073600540249566289
+  },
+  "mIconInfo": [
+    {
+      "mPath": "Assets/Main/Content/Driver/DaisyHoliday/Icons/DaisyHoliday.png",
+      "mGuid": "9ad9656a05ac98a46afe2b9cf5005183"
+    },
+    {
+      "mPath": "Assets/Main/Content/Driver/DaisyHoliday/Icons/DaisyHolidayMap.png",
+      "mGuid": "8657956171894b343bb90cdf78c8bcd9"
+    },
+    {
+      "mPath": "Assets/Main/Content/Driver/DaisyHoliday/Icons/DaisyHolidayFaceEntry.png",
+      "mGuid": "c2d4c6633c9567c4dab8492956787fe3"
+    },
+    {
+      "mPath": "Assets/Main/Content/Driver/DaisyHoliday/Icons/DaisyHolidayWholeBody.png",
+      "mGuid": "81e1d5ed55a0cb346beaa3d1c15943c2"
+    },
+    {
+      "mPath": "Assets/Main/Content/Driver/DaisyHoliday/Icons/DaisyHolidayUpperBody.png",
+      "mGuid": "d4ad65d570da93f41adade24a1470d25"
+    },
+    {
+      "mPath": "",
+      "mGuid": ""
+    },
+    {
+      "mPath": "Assets/Main/Content/Driver/DaisyHoliday/Icons/DaisyHoliday_Small.png",
+      "mGuid": "aebe48621f2612a48b4eb4688a346f89"
+    },
+    {
+      "mPath": "Assets/Main/Content/Driver/DaisyHoliday/Icons/DaisyHolidayFaceEntry_Small.png",
+      "mGuid": "a32fc86eccfcd1e4fac67d943737e171"
+    },
+    {
+      "mPath": "Assets/Main/Content/Driver/DaisyHoliday/Icons/DaisyHolidayWholeBody_Small.png",
+      "mGuid": "a54a331c3f1eced45bda45e0a4e7c74d"
+    },
+    {
+      "mPath": "Assets/Main/Content/Driver/DaisyHoliday/Icons/DaisyHolidayUpperBody_Small.png",
+      "mGuid": "e7f9c00e446b1dd45887f6ed7649a2b6"
+    }
+  ],
+  "mColorGroup": 0,
+  "mCharacterTextureList": [],
+  "mBaseParameter": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "mBodyMaterial": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "mEyeMaterial": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "mDynamicUnitMngInitData": {
+    "m_FileID": 0,
+    "m_PathID": 7251936232271974185
+  },
+  "mMetamorData": [],
+  "mDotDriverData": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "mDescription": "",
+  "mEffectContainer": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  }
+}

@@ -1,0 +1,135 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": -2094441087577622512
+  },
+  "m_Name": "KinopioBrigade",
+  "mModel": {
+    "m_FileID": 2,
+    "m_PathID": -5856137536059899413
+  },
+  "mFaceTextures": [
+    {
+      "m_FileID": 1,
+      "m_PathID": -1389204875831348420
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 4360364930411705317
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 5831085452770951491
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -5248178181216910779
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 7760544098193026850
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -8792478808165886144
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 332148725857095351
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 5943547612320126207
+    }
+  ],
+  "mIsFaceTextureEmission": 0,
+  "mEmblem": {
+    "m_FileID": 0,
+    "m_PathID": -4285750713408626530
+  },
+  "mAnimatorOverrideController": {
+    "m_FileID": 3,
+    "m_PathID": -864590887658260328
+  },
+  "mKartScaleSize": 0.85,
+  "mWingJointType": 0,
+  "mFaceChangeEvent": {
+    "m_FileID": 0,
+    "m_PathID": 8994197996239262326
+  },
+  "mIconInfo": [
+    {
+      "mPath": "Assets/Main/Content/Driver/KinopioBrigade/Icons/KinopioBrigade.png",
+      "mGuid": "bc90fecc37bb9ab4c83e05302d266469"
+    },
+    {
+      "mPath": "Assets/Main/Content/Driver/KinopioBrigade/Icons/KinopioBrigadeMap.png",
+      "mGuid": "a1a9fb1f593b6144c85d5c2b69545319"
+    },
+    {
+      "mPath": "Assets/Main/Content/Driver/KinopioBrigade/Icons/KinopioBrigadeFaceEntry.png",
+      "mGuid": "9e7e1fe829d8a814b91e8091d6e9a0cb"
+    },
+    {
+      "mPath": "Assets/Main/Content/Driver/KinopioBrigade/Icons/KinopioBrigadeWholeBody.png",
+      "mGuid": "6ea41a2c93fd8344992a1cf222cfbdf0"
+    },
+    {
+      "mPath": "Assets/Main/Content/Driver/KinopioBrigade/Icons/KinopioBrigadeUpperBody.png",
+      "mGuid": "dcec08a07562fe14d9949a786066c2aa"
+    },
+    {
+      "mPath": "",
+      "mGuid": ""
+    },
+    {
+      "mPath": "Assets/Main/Content/Driver/KinopioBrigade/Icons/KinopioBrigade_Small.png",
+      "mGuid": "e2e02952958470945a0a9c70bdb347fe"
+    },
+    {
+      "mPath": "Assets/Main/Content/Driver/KinopioBrigade/Icons/KinopioBrigadeFaceEntry_Small.png",
+      "mGuid": "65d8817f43cf2444f8f73d06421d36bd"
+    },
+    {
+      "mPath": "Assets/Main/Content/Driver/KinopioBrigade/Icons/KinopioBrigadeWholeBody_Small.png",
+      "mGuid": "89d141dd54c718b40a5dc630c511f91f"
+    },
+    {
+      "mPath": "Assets/Main/Content/Driver/KinopioBrigade/Icons/KinopioBrigadeUpperBody_Small.png",
+      "mGuid": "c1f9d02b3c23e54469b0a8d38bff4de1"
+    }
+  ],
+  "mColorGroup": 0,
+  "mCharacterTextureList": [],
+  "mBaseParameter": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "mBodyMaterial": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "mEyeMaterial": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "mDynamicUnitMngInitData": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "mMetamorData": [],
+  "mDotDriverData": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "mDescription": "",
+  "mEffectContainer": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  }
+}

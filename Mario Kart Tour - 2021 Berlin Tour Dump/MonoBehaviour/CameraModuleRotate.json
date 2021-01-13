@@ -1,0 +1,133 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": 7621033284453131704
+  },
+  "m_Name": "CameraModuleRotate",
+  "Common": {
+    "Distance": {
+      "L": 6.5,
+      "M": 5.0,
+      "S": 4.0,
+      "Giant": 8.0,
+      "Glide": 5.6
+    },
+    "TargetOffset": {
+      "L": {
+        "x": 0.0,
+        "y": 1.2,
+        "z": 0.4
+      },
+      "M": {
+        "x": 0.0,
+        "y": 0.5,
+        "z": 0.4
+      },
+      "S": {
+        "x": 0.0,
+        "y": -0.2,
+        "z": 0.4
+      },
+      "Giant": {
+        "x": 0.0,
+        "y": 1.5,
+        "z": 0.0
+      },
+      "Glide": {
+        "x": 0.0,
+        "y": 0.5,
+        "z": 0.0
+      }
+    },
+    "DegX": {
+      "L": 15.0,
+      "M": 8.0,
+      "S": 10.0,
+      "Giant": 10.0,
+      "Glide": 12.0
+    },
+    "DistanceFollowRatioDec": 0.1,
+    "DistanceFollowRatioInc": 0.3,
+    "DistanceFollowRatioChangingTarget": 0.3,
+    "OffsetFollowRatio": 0.1,
+    "DegXFollowRatio": 0.1,
+    "CameraAttFollow": 0.08
+  },
+  "AutoRotate": {
+    "MasterSpeed": 0.015,
+    "CheckWallCollisionRadius": 1.75,
+    "DegY": 180.0,
+    "Fovy": 70.0,
+    "ColRadius": 1.0
+  },
+  "Rotate": {
+    "RotationInput": {
+      "Pitch": {
+        "Init": 5.5,
+        "Min": -45.0,
+        "Max": 45.0,
+        "MinDotDriver": -20.0,
+        "MaxDotDriver": 20.0,
+        "Vel": 0.15,
+        "LerpRate": 0.7,
+        "LerpRateExceed": 0.2,
+        "DumpingRate": 0.09,
+        "DumpingRateHitPrev": 0.09
+      },
+      "PitchGyro": {
+        "Init": 5.5,
+        "Min": -45.0,
+        "Max": 45.0,
+        "MinDotDriver": -20.0,
+        "MaxDotDriver": 20.0,
+        "Vel": 0.02,
+        "LerpRate": 0.7,
+        "LerpRateExceed": 0.2,
+        "DumpingRate": 0.09,
+        "DumpingRateHitPrev": 0.09
+      },
+      "Yaw": {
+        "Init": 180.0,
+        "Vel": 0.2,
+        "LerpRate": 0.5,
+        "DumpingRate": 0.07,
+        "DumpingRateHitPrev": 0.07
+      },
+      "YawGyro": {
+        "Init": 180.0,
+        "Vel": 0.2,
+        "LerpRate": 0.5,
+        "DumpingRate": 0.07,
+        "DumpingRateHitPrev": 0.07
+      },
+      "MinSwipeDistance": 0.01,
+      "IgnoreAngle": 0.5,
+      "DegVelAvgLerpRatio": 0.8
+    },
+    "GndCol": {
+      "LerpRatePitchReject": 0.7,
+      "LerpRatePitchPause": 0.7,
+      "LerpRateYawReject": 0.7,
+      "LerpRateYawPause": 0.7,
+      "LerpRatePitch": 0.03,
+      "DecreaseDumpingRateThreshold": 5.0,
+      "DestFollowMax": 0.5
+    },
+    "FovyVal": {
+      "Init": 75.0,
+      "Min": 30.0,
+      "Max": 100.0,
+      "Vel": 110.0,
+      "LerpParam": {
+        "Ratio": 0.3,
+        "MaxSpeed": 80.0,
+        "MinSpeed": 1.0
+      }
+    }
+  }
+}

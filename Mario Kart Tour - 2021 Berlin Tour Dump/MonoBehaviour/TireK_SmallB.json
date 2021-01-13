@@ -1,0 +1,191 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": -3205259396417638272
+  },
+  "m_Name": "TireK_SmallB",
+  "mTireType": 1,
+  "mTireList": [
+    {
+      "mTireModel": {
+        "m_FileID": 0,
+        "m_PathID": -1437204641700830064
+      },
+      "mTireJointOffset": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "mShaftModel": {
+        "m_FileID": 45,
+        "m_PathID": 4431166047170482888
+      },
+      "mShaftRotationLimit": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "mShaftScaleLimit": {
+        "x": 1.0,
+        "y": 1.0,
+        "z": 1.0
+      },
+      "mMirrorFront": 0
+    },
+    {
+      "mTireModel": {
+        "m_FileID": 0,
+        "m_PathID": -5751544147476066311
+      },
+      "mTireJointOffset": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "mShaftModel": {
+        "m_FileID": 57,
+        "m_PathID": -1166448813254856955
+      },
+      "mShaftRotationLimit": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "mShaftScaleLimit": {
+        "x": 1.0,
+        "y": 1.0,
+        "z": 1.0
+      },
+      "mMirrorFront": 0
+    },
+    {
+      "mTireModel": {
+        "m_FileID": 0,
+        "m_PathID": -1437204641700830064
+      },
+      "mTireJointOffset": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "mShaftModel": {
+        "m_FileID": 45,
+        "m_PathID": 4431166047170482888
+      },
+      "mShaftRotationLimit": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "mShaftScaleLimit": {
+        "x": 1.0,
+        "y": 1.0,
+        "z": 1.0
+      },
+      "mMirrorFront": 1
+    },
+    {
+      "mTireModel": {
+        "m_FileID": 0,
+        "m_PathID": -5751544147476066311
+      },
+      "mTireJointOffset": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "mShaftModel": {
+        "m_FileID": 57,
+        "m_PathID": -1166448813254856955
+      },
+      "mShaftRotationLimit": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "mShaftScaleLimit": {
+        "x": 1.0,
+        "y": 1.0,
+        "z": 1.0
+      },
+      "mMirrorFront": 1
+    }
+  ],
+  "mIconInfo": [
+    {
+      "mPath": "Assets/Main/Content/Kart/Tire/TireK_SmallB/Icons/TireK_SmallB.png",
+      "mGuid": "02f10e7c31f84894fa12bcc6a8f9ff56"
+    }
+  ],
+  "mIsFixedIcon": 0,
+  "mBaseParameter": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "mMaterial": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "mShaftMaterial": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "mEffectContainer": {
+    "m_FileID": 0,
+    "m_PathID": -1399713815931075863
+  },
+  "mEffectContainerForBody": [
+    {
+      "mKey": 1894510494,
+      "mContainer": {
+        "m_FileID": 0,
+        "m_PathID": 479125598189394382
+      }
+    },
+    {
+      "mKey": 1594305071,
+      "mContainer": {
+        "m_FileID": 0,
+        "m_PathID": -4058280616390788777
+      }
+    },
+    {
+      "mKey": 1177062736,
+      "mContainer": {
+        "m_FileID": 0,
+        "m_PathID": -4097547154958181700
+      }
+    },
+    {
+      "mKey": 4192937177,
+      "mContainer": {
+        "m_FileID": 0,
+        "m_PathID": -6696845538476240459
+      }
+    },
+    {
+      "mKey": 2480727258,
+      "mContainer": {
+        "m_FileID": 0,
+        "m_PathID": 1741633762723652237
+      }
+    },
+    {
+      "mKey": 521017335,
+      "mContainer": {
+        "m_FileID": 0,
+        "m_PathID": 5460287982344310974
+      }
+    }
+  ],
+  "mDescription": "ローラーブルー",
+  "mColorValiationRoot": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  }
+}

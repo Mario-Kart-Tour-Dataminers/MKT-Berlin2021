@@ -1,0 +1,20 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": 206706604336703620
+  },
+  "m_Name": "ArrowTutorial",
+  "mGameObject": {
+    "m_FileID": 0,
+    "m_PathID": 7911925969351609894
+  },
+  "mAnimatorController": {
+    "m_FileID": 0,
+    "m_PathID": -1989898618610104217
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": 4454195247659244470
+  },
+  "m_Name": "Fancy",
+  "settings": [
+    {
+      "m_FileID": 0,
+      "m_PathID": -4351650368467344639
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 7291130085046411010
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 3998489091223476575
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 2873421774658861172
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 9193769375623745938
+    }
+  ]
+}

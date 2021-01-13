@@ -1,0 +1,26 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": 980329048157257672
+  },
+  "m_Name": "Fbx_Gagb_BowserCastle2_MapInfo",
+  "rect": {
+    "x": -322.621857,
+    "y": -325.5283,
+    "width": 640.104736,
+    "height": 640.104736
+  },
+  "sprite": {
+    "m_FileID": 0,
+    "m_PathID": 8201826657714839451
+  },
+  "offset": {
+    "x": 0.0,
+    "y": 0.0
+  }
+}

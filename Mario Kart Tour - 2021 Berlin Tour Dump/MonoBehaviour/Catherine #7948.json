@@ -1,0 +1,135 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": -2094441087577622512
+  },
+  "m_Name": "Catherine",
+  "mModel": {
+    "m_FileID": 1,
+    "m_PathID": 5084056530497133878
+  },
+  "mFaceTextures": [
+    {
+      "m_FileID": 2,
+      "m_PathID": 5388816847957235240
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 2808012470474106547
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -6207844436474320166
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -5779190154105451609
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -3004099359050883262
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 5673895257663717751
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -4347936910605984060
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -2113303236177108851
+    }
+  ],
+  "mIsFaceTextureEmission": 0,
+  "mEmblem": {
+    "m_FileID": 0,
+    "m_PathID": 8537029450666763748
+  },
+  "mAnimatorOverrideController": {
+    "m_FileID": 3,
+    "m_PathID": 2522589235535880807
+  },
+  "mKartScaleSize": 1.0,
+  "mWingJointType": 0,
+  "mFaceChangeEvent": {
+    "m_FileID": 0,
+    "m_PathID": 4635910091820052751
+  },
+  "mIconInfo": [
+    {
+      "mPath": "Assets/Main/Content/Driver/Catherine/Icons/Catherine.png",
+      "mGuid": "8b99fc6733e3a754d99abad5418bf4e7"
+    },
+    {
+      "mPath": "Assets/Main/Content/Driver/Catherine/Icons/CatherineMap.png",
+      "mGuid": "6de520daf7c476946b0bf4a112c5176e"
+    },
+    {
+      "mPath": "Assets/Main/Content/Driver/Catherine/Icons/CatherineFaceEntry.png",
+      "mGuid": "e858ed200803f2541a43dbecbe3b9484"
+    },
+    {
+      "mPath": "Assets/Main/Content/Driver/Catherine/Icons/CatherineWholeBody.png",
+      "mGuid": "a5481bbea8d84ab4796f32bcf59aa44c"
+    },
+    {
+      "mPath": "Assets/Main/Content/Driver/Catherine/Icons/CatherineUpperBody.png",
+      "mGuid": "876206c11e499b74d8eca59f48f3eedc"
+    },
+    {
+      "mPath": "",
+      "mGuid": ""
+    },
+    {
+      "mPath": "Assets/Main/Content/Driver/Catherine/Icons/Catherine_Small.png",
+      "mGuid": "7d73b79d98b5a1b46b40a19c7011e9a0"
+    },
+    {
+      "mPath": "Assets/Main/Content/Driver/Catherine/Icons/CatherineFaceEntry_Small.png",
+      "mGuid": "b5a73020415b4044ea38c44d9a459ad5"
+    },
+    {
+      "mPath": "Assets/Main/Content/Driver/Catherine/Icons/CatherineWholeBody_Small.png",
+      "mGuid": "c53129285e20ae544a6924bf845dc912"
+    },
+    {
+      "mPath": "Assets/Main/Content/Driver/Catherine/Icons/CatherineUpperBody_Small.png",
+      "mGuid": "f5ab9fe8a4cb2db48b431d72f90fee43"
+    }
+  ],
+  "mColorGroup": 0,
+  "mCharacterTextureList": [],
+  "mBaseParameter": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "mBodyMaterial": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "mEyeMaterial": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "mDynamicUnitMngInitData": {
+    "m_FileID": 0,
+    "m_PathID": -7416331736288911856
+  },
+  "mMetamorData": [],
+  "mDotDriverData": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "mDescription": "キャサリン",
+  "mEffectContainer": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  }
+}

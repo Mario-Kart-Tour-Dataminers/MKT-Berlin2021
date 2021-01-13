@@ -1,0 +1,50 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": 2434717279687273224
+  },
+  "m_Name": "Wing_Ribbon_Holiday",
+  "mWingModel": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "mIconInfo": [
+    {
+      "mPath": "Assets/Main/Content/Kart/Wing/Wing_Ribbon/Icons/Wing_Ribbon_Holiday.png",
+      "mGuid": "077e073c3c164af4483e605586061f1c"
+    },
+    {
+      "mPath": "Assets/Main/Content/Kart/Wing/Wing_Ribbon/Icons/Wing_Ribbon_Holiday_Large.png",
+      "mGuid": "55c9785b86bd60e419e911287d61c4d0"
+    },
+    {
+      "mPath": "Assets/Main/Content/Kart/Wing/Wing_Ribbon/Icons/Wing_Ribbon_Holiday_Small.png",
+      "mGuid": "ee95d4ef6d93dde42aa376564f99e9d1"
+    }
+  ],
+  "mWingType": 0,
+  "mIsFixedIcon": 0,
+  "mBaseParameter": {
+    "m_FileID": 1,
+    "m_PathID": 6941257669023791266
+  },
+  "mMaterial": {
+    "m_FileID": 0,
+    "m_PathID": 905278483842258254
+  },
+  "mEffectContainer": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "mIsDisableAngleAnimation": 0,
+  "mDescription": "",
+  "mColorValiationRoot": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  }
+}

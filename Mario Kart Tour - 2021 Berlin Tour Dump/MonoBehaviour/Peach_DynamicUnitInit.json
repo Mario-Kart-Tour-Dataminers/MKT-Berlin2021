@@ -1,0 +1,262 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": 2590768194287000671
+  },
+  "m_Name": "Peach_DynamicUnitInit",
+  "m_arInitProp": [
+    {
+      "strParentName": "",
+      "rigProp": {
+        "pos": {
+          "x": -0.3,
+          "y": -0.2,
+          "z": 0.0
+        },
+        "rot": {
+          "x": 90.0,
+          "y": -90.0,
+          "z": 0.0
+        },
+        "posHandleDef": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.2
+        },
+        "fRigRangeLimit": 0.5,
+        "fGravRate": 1.0,
+        "fAttract": 50.0,
+        "fFriction": 0.0,
+        "fUnderLimit": -1.0
+      },
+      "objProp": {
+        "fZReflectRate": 0.3,
+        "arFlapCycle": [
+          0.3,
+          0.2,
+          0.15
+        ]
+      },
+      "arNodeProp": [
+        {
+          "name": "Hair1",
+          "arRot": [
+            {
+              "x": -60.0,
+              "y": 0.0,
+              "z": 50.0
+            },
+            {
+              "x": 0.0,
+              "y": 0.0,
+              "z": 30.0
+            },
+            {
+              "x": 60.0,
+              "y": 0.0,
+              "z": 50.0
+            },
+            {
+              "x": -40.0,
+              "y": -30.0,
+              "z": 110.0
+            },
+            {
+              "x": 0.0,
+              "y": 0.0,
+              "z": 90.0
+            },
+            {
+              "x": 40.0,
+              "y": 30.0,
+              "z": 110.0
+            },
+            {
+              "x": -20.0,
+              "y": -20.0,
+              "z": 140.0
+            },
+            {
+              "x": 0.0,
+              "y": 0.0,
+              "z": 140.0
+            },
+            {
+              "x": 20.0,
+              "y": 20.0,
+              "z": 140.0
+            }
+          ],
+          "arRotEditHint": [
+            {
+              "nRowCopy": 3,
+              "bColumnCopy": 1
+            },
+            {
+              "nRowCopy": 3,
+              "bColumnCopy": 1
+            },
+            {
+              "nRowCopy": 2,
+              "bColumnCopy": 0
+            }
+          ],
+          "vecFlap": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 5.0
+          },
+          "fFlapTiming": 0.0
+        },
+        {
+          "name": "Hair2",
+          "arRot": [
+            {
+              "x": 0.0,
+              "y": 20.0,
+              "z": -20.0
+            },
+            {
+              "x": 0.0,
+              "y": 0.0,
+              "z": -20.0
+            },
+            {
+              "x": 0.0,
+              "y": -20.0,
+              "z": -20.0
+            },
+            {
+              "x": 0.0,
+              "y": 50.0,
+              "z": 20.0
+            },
+            {
+              "x": 0.0,
+              "y": 0.0,
+              "z": 0.0
+            },
+            {
+              "x": 0.0,
+              "y": -50.0,
+              "z": 20.0
+            },
+            {
+              "x": 0.0,
+              "y": 40.0,
+              "z": 20.0
+            },
+            {
+              "x": 0.0,
+              "y": 0.0,
+              "z": 40.0
+            },
+            {
+              "x": 0.0,
+              "y": -40.0,
+              "z": 20.0
+            }
+          ],
+          "arRotEditHint": [
+            {
+              "nRowCopy": 3,
+              "bColumnCopy": 1
+            },
+            {
+              "nRowCopy": 3,
+              "bColumnCopy": 1
+            },
+            {
+              "nRowCopy": 2,
+              "bColumnCopy": 0
+            }
+          ],
+          "vecFlap": {
+            "x": 5.0,
+            "y": 5.0,
+            "z": 15.0
+          },
+          "fFlapTiming": 0.2
+        },
+        {
+          "name": "Hair3",
+          "arRot": [
+            {
+              "x": 0.0,
+              "y": 20.0,
+              "z": -20.0
+            },
+            {
+              "x": 0.0,
+              "y": 0.0,
+              "z": -20.0
+            },
+            {
+              "x": 0.0,
+              "y": -20.0,
+              "z": -20.0
+            },
+            {
+              "x": 0.0,
+              "y": 50.0,
+              "z": 20.0
+            },
+            {
+              "x": 0.0,
+              "y": 0.0,
+              "z": 0.0
+            },
+            {
+              "x": 0.0,
+              "y": -50.0,
+              "z": 20.0
+            },
+            {
+              "x": 0.0,
+              "y": 40.0,
+              "z": 20.0
+            },
+            {
+              "x": 0.0,
+              "y": 0.0,
+              "z": 40.0
+            },
+            {
+              "x": 0.0,
+              "y": -40.0,
+              "z": 20.0
+            }
+          ],
+          "arRotEditHint": [
+            {
+              "nRowCopy": 3,
+              "bColumnCopy": 1
+            },
+            {
+              "nRowCopy": 3,
+              "bColumnCopy": 1
+            },
+            {
+              "nRowCopy": 2,
+              "bColumnCopy": 0
+            }
+          ],
+          "vecFlap": {
+            "x": 15.0,
+            "y": 15.0,
+            "z": 40.0
+          },
+          "fFlapTiming": 0.4
+        }
+      ]
+    }
+  ],
+  "m_arInvalidMotion": [
+    14
+  ]
+}

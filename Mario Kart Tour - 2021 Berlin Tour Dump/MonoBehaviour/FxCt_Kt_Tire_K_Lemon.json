@@ -1,0 +1,2130 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": 209972380458786307
+  },
+  "m_Name": "FxCt_Kt_Tire_K_Lemon",
+  "mEffectParameterList": [
+    {
+      "Name": "DriftSmoke01",
+      "Prefab": {
+        "m_FileID": 3,
+        "m_PathID": 3661424073522101448
+      },
+      "AnimatorController": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      },
+      "Max": 1,
+      "MaxInPowerSaving": -1,
+      "PlayAtTransform": "",
+      "FollowPlayAtTransform": 0,
+      "UseAlpha": 1,
+      "PositionOffset": {
+        "x": -0.15,
+        "y": 0.1,
+        "z": -0.3
+      },
+      "RotateOffset": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "ScaleOffset": {
+        "x": 1.0,
+        "y": 1.0,
+        "z": 1.0
+      },
+      "LookAtTransform": "",
+      "EmitState": "",
+      "EmitDelay": 0.0,
+      "IsStopOnStateLeave": 0,
+      "StopDelay": 0.0,
+      "IsFollowShaftScaleForTire": 1,
+      "IsCheckCondition": 0,
+      "IsCheckGroundAttribute": 0,
+      "GroundAttribute": 0,
+      "GroundMaterial": 0,
+      "IsCheckCourseId": 0,
+      "CourseIdHash": 0,
+      "IsCheckInWater": 0,
+      "InWater": 0,
+      "IsExpand": 0
+    },
+    {
+      "Name": "Drift00",
+      "Prefab": {
+        "m_FileID": 4,
+        "m_PathID": 2898337494394056556
+      },
+      "AnimatorController": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      },
+      "Max": 1,
+      "MaxInPowerSaving": -1,
+      "PlayAtTransform": "",
+      "FollowPlayAtTransform": 0,
+      "UseAlpha": 1,
+      "PositionOffset": {
+        "x": -0.12,
+        "y": 0.05,
+        "z": -0.17
+      },
+      "RotateOffset": {
+        "x": -35.0,
+        "y": -90.0,
+        "z": 0.0
+      },
+      "ScaleOffset": {
+        "x": 1.0,
+        "y": 1.0,
+        "z": 1.0
+      },
+      "LookAtTransform": "",
+      "EmitState": "",
+      "EmitDelay": 0.0,
+      "IsStopOnStateLeave": 0,
+      "StopDelay": 0.0,
+      "IsFollowShaftScaleForTire": 1,
+      "IsCheckCondition": 0,
+      "IsCheckGroundAttribute": 0,
+      "GroundAttribute": 0,
+      "GroundMaterial": 0,
+      "IsCheckCourseId": 0,
+      "CourseIdHash": 0,
+      "IsCheckInWater": 0,
+      "InWater": 0,
+      "IsExpand": 0
+    },
+    {
+      "Name": "Drift01",
+      "Prefab": {
+        "m_FileID": 5,
+        "m_PathID": 8459572209480645541
+      },
+      "AnimatorController": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      },
+      "Max": 1,
+      "MaxInPowerSaving": -1,
+      "PlayAtTransform": "",
+      "FollowPlayAtTransform": 0,
+      "UseAlpha": 1,
+      "PositionOffset": {
+        "x": -0.2,
+        "y": 0.05,
+        "z": -0.25
+      },
+      "RotateOffset": {
+        "x": 0.0,
+        "y": -100.0,
+        "z": 0.0
+      },
+      "ScaleOffset": {
+        "x": 1.0,
+        "y": 1.0,
+        "z": 1.0
+      },
+      "LookAtTransform": "",
+      "EmitState": "",
+      "EmitDelay": 0.0,
+      "IsStopOnStateLeave": 0,
+      "StopDelay": 0.0,
+      "IsFollowShaftScaleForTire": 1,
+      "IsCheckCondition": 0,
+      "IsCheckGroundAttribute": 0,
+      "GroundAttribute": 0,
+      "GroundMaterial": 0,
+      "IsCheckCourseId": 0,
+      "CourseIdHash": 0,
+      "IsCheckInWater": 0,
+      "InWater": 0,
+      "IsExpand": 0
+    },
+    {
+      "Name": "Drift01_LOD",
+      "Prefab": {
+        "m_FileID": 6,
+        "m_PathID": -1436755960559568950
+      },
+      "AnimatorController": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      },
+      "Max": 1,
+      "MaxInPowerSaving": -1,
+      "PlayAtTransform": "",
+      "FollowPlayAtTransform": 0,
+      "UseAlpha": 1,
+      "PositionOffset": {
+        "x": -0.2,
+        "y": 0.05,
+        "z": -0.25
+      },
+      "RotateOffset": {
+        "x": 0.0,
+        "y": -100.0,
+        "z": 0.0
+      },
+      "ScaleOffset": {
+        "x": 1.0,
+        "y": 1.0,
+        "z": 1.0
+      },
+      "LookAtTransform": "",
+      "EmitState": "",
+      "EmitDelay": 0.0,
+      "IsStopOnStateLeave": 0,
+      "StopDelay": 0.0,
+      "IsFollowShaftScaleForTire": 1,
+      "IsCheckCondition": 0,
+      "IsCheckGroundAttribute": 0,
+      "GroundAttribute": 0,
+      "GroundMaterial": 0,
+      "IsCheckCourseId": 0,
+      "CourseIdHash": 0,
+      "IsCheckInWater": 0,
+      "InWater": 0,
+      "IsExpand": 0
+    },
+    {
+      "Name": "Drift02",
+      "Prefab": {
+        "m_FileID": 7,
+        "m_PathID": -7937196335806816074
+      },
+      "AnimatorController": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      },
+      "Max": 1,
+      "MaxInPowerSaving": -1,
+      "PlayAtTransform": "",
+      "FollowPlayAtTransform": 0,
+      "UseAlpha": 1,
+      "PositionOffset": {
+        "x": -0.2,
+        "y": 0.05,
+        "z": -0.25
+      },
+      "RotateOffset": {
+        "x": 0.0,
+        "y": -100.0,
+        "z": 0.0
+      },
+      "ScaleOffset": {
+        "x": 1.0,
+        "y": 1.0,
+        "z": 1.0
+      },
+      "LookAtTransform": "",
+      "EmitState": "",
+      "EmitDelay": 0.0,
+      "IsStopOnStateLeave": 0,
+      "StopDelay": 0.0,
+      "IsFollowShaftScaleForTire": 1,
+      "IsCheckCondition": 0,
+      "IsCheckGroundAttribute": 0,
+      "GroundAttribute": 0,
+      "GroundMaterial": 0,
+      "IsCheckCourseId": 0,
+      "CourseIdHash": 0,
+      "IsCheckInWater": 0,
+      "InWater": 0,
+      "IsExpand": 0
+    },
+    {
+      "Name": "Drift02_LOD",
+      "Prefab": {
+        "m_FileID": 8,
+        "m_PathID": -2462542192504950889
+      },
+      "AnimatorController": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      },
+      "Max": 1,
+      "MaxInPowerSaving": -1,
+      "PlayAtTransform": "",
+      "FollowPlayAtTransform": 0,
+      "UseAlpha": 1,
+      "PositionOffset": {
+        "x": -0.2,
+        "y": 0.05,
+        "z": -0.25
+      },
+      "RotateOffset": {
+        "x": 0.0,
+        "y": -100.0,
+        "z": 0.0
+      },
+      "ScaleOffset": {
+        "x": 1.0,
+        "y": 1.0,
+        "z": 1.0
+      },
+      "LookAtTransform": "",
+      "EmitState": "",
+      "EmitDelay": 0.0,
+      "IsStopOnStateLeave": 0,
+      "StopDelay": 0.0,
+      "IsFollowShaftScaleForTire": 1,
+      "IsCheckCondition": 0,
+      "IsCheckGroundAttribute": 0,
+      "GroundAttribute": 0,
+      "GroundMaterial": 0,
+      "IsCheckCourseId": 0,
+      "CourseIdHash": 0,
+      "IsCheckInWater": 0,
+      "InWater": 0,
+      "IsExpand": 0
+    },
+    {
+      "Name": "Drift03",
+      "Prefab": {
+        "m_FileID": 9,
+        "m_PathID": -2827196599421104313
+      },
+      "AnimatorController": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      },
+      "Max": 1,
+      "MaxInPowerSaving": -1,
+      "PlayAtTransform": "",
+      "FollowPlayAtTransform": 0,
+      "UseAlpha": 1,
+      "PositionOffset": {
+        "x": -0.2,
+        "y": 0.05,
+        "z": -0.25
+      },
+      "RotateOffset": {
+        "x": 0.0,
+        "y": -100.0,
+        "z": 0.0
+      },
+      "ScaleOffset": {
+        "x": 1.0,
+        "y": 1.0,
+        "z": 1.0
+      },
+      "LookAtTransform": "",
+      "EmitState": "",
+      "EmitDelay": 0.0,
+      "IsStopOnStateLeave": 0,
+      "StopDelay": 0.0,
+      "IsFollowShaftScaleForTire": 1,
+      "IsCheckCondition": 0,
+      "IsCheckGroundAttribute": 0,
+      "GroundAttribute": 0,
+      "GroundMaterial": 0,
+      "IsCheckCourseId": 0,
+      "CourseIdHash": 0,
+      "IsCheckInWater": 0,
+      "InWater": 0,
+      "IsExpand": 0
+    },
+    {
+      "Name": "Drift03_LOD",
+      "Prefab": {
+        "m_FileID": 10,
+        "m_PathID": -4178658061192112367
+      },
+      "AnimatorController": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      },
+      "Max": 1,
+      "MaxInPowerSaving": -1,
+      "PlayAtTransform": "",
+      "FollowPlayAtTransform": 0,
+      "UseAlpha": 1,
+      "PositionOffset": {
+        "x": -0.2,
+        "y": 0.05,
+        "z": -0.25
+      },
+      "RotateOffset": {
+        "x": 0.0,
+        "y": -100.0,
+        "z": 0.0
+      },
+      "ScaleOffset": {
+        "x": 1.0,
+        "y": 1.0,
+        "z": 1.0
+      },
+      "LookAtTransform": "",
+      "EmitState": "",
+      "EmitDelay": 0.0,
+      "IsStopOnStateLeave": 0,
+      "StopDelay": 0.0,
+      "IsFollowShaftScaleForTire": 1,
+      "IsCheckCondition": 0,
+      "IsCheckGroundAttribute": 0,
+      "GroundAttribute": 0,
+      "GroundMaterial": 0,
+      "IsCheckCourseId": 0,
+      "CourseIdHash": 0,
+      "IsCheckInWater": 0,
+      "InWater": 0,
+      "IsExpand": 0
+    },
+    {
+      "Name": "Drift01St",
+      "Prefab": {
+        "m_FileID": 11,
+        "m_PathID": -7039209021316702555
+      },
+      "AnimatorController": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      },
+      "Max": 1,
+      "MaxInPowerSaving": -1,
+      "PlayAtTransform": "",
+      "FollowPlayAtTransform": 0,
+      "UseAlpha": 1,
+      "PositionOffset": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "RotateOffset": {
+        "x": -90.0,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "ScaleOffset": {
+        "x": 1.0,
+        "y": 1.0,
+        "z": 1.0
+      },
+      "LookAtTransform": "",
+      "EmitState": "",
+      "EmitDelay": 0.0,
+      "IsStopOnStateLeave": 0,
+      "StopDelay": 0.0,
+      "IsFollowShaftScaleForTire": 1,
+      "IsCheckCondition": 0,
+      "IsCheckGroundAttribute": 0,
+      "GroundAttribute": 0,
+      "GroundMaterial": 0,
+      "IsCheckCourseId": 0,
+      "CourseIdHash": 0,
+      "IsCheckInWater": 0,
+      "InWater": 0,
+      "IsExpand": 0
+    },
+    {
+      "Name": "Drift01St_LOD",
+      "Prefab": {
+        "m_FileID": 12,
+        "m_PathID": -437500030406688077
+      },
+      "AnimatorController": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      },
+      "Max": 1,
+      "MaxInPowerSaving": -1,
+      "PlayAtTransform": "",
+      "FollowPlayAtTransform": 0,
+      "UseAlpha": 1,
+      "PositionOffset": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "RotateOffset": {
+        "x": -90.0,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "ScaleOffset": {
+        "x": 1.0,
+        "y": 1.0,
+        "z": 1.0
+      },
+      "LookAtTransform": "",
+      "EmitState": "",
+      "EmitDelay": 0.0,
+      "IsStopOnStateLeave": 0,
+      "StopDelay": 0.0,
+      "IsFollowShaftScaleForTire": 1,
+      "IsCheckCondition": 0,
+      "IsCheckGroundAttribute": 0,
+      "GroundAttribute": 0,
+      "GroundMaterial": 0,
+      "IsCheckCourseId": 0,
+      "CourseIdHash": 0,
+      "IsCheckInWater": 0,
+      "InWater": 0,
+      "IsExpand": 0
+    },
+    {
+      "Name": "Drift02St",
+      "Prefab": {
+        "m_FileID": 13,
+        "m_PathID": -9147185256975448315
+      },
+      "AnimatorController": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      },
+      "Max": 1,
+      "MaxInPowerSaving": -1,
+      "PlayAtTransform": "",
+      "FollowPlayAtTransform": 0,
+      "UseAlpha": 1,
+      "PositionOffset": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "RotateOffset": {
+        "x": -90.0,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "ScaleOffset": {
+        "x": 1.0,
+        "y": 1.0,
+        "z": 1.0
+      },
+      "LookAtTransform": "",
+      "EmitState": "",
+      "EmitDelay": 0.0,
+      "IsStopOnStateLeave": 0,
+      "StopDelay": 0.0,
+      "IsFollowShaftScaleForTire": 1,
+      "IsCheckCondition": 0,
+      "IsCheckGroundAttribute": 0,
+      "GroundAttribute": 0,
+      "GroundMaterial": 0,
+      "IsCheckCourseId": 0,
+      "CourseIdHash": 0,
+      "IsCheckInWater": 0,
+      "InWater": 0,
+      "IsExpand": 0
+    },
+    {
+      "Name": "Drift02St_LOD",
+      "Prefab": {
+        "m_FileID": 14,
+        "m_PathID": 58701695494155259
+      },
+      "AnimatorController": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      },
+      "Max": 1,
+      "MaxInPowerSaving": -1,
+      "PlayAtTransform": "",
+      "FollowPlayAtTransform": 0,
+      "UseAlpha": 1,
+      "PositionOffset": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "RotateOffset": {
+        "x": -90.0,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "ScaleOffset": {
+        "x": 1.0,
+        "y": 1.0,
+        "z": 1.0
+      },
+      "LookAtTransform": "",
+      "EmitState": "",
+      "EmitDelay": 0.0,
+      "IsStopOnStateLeave": 0,
+      "StopDelay": 0.0,
+      "IsFollowShaftScaleForTire": 1,
+      "IsCheckCondition": 0,
+      "IsCheckGroundAttribute": 0,
+      "GroundAttribute": 0,
+      "GroundMaterial": 0,
+      "IsCheckCourseId": 0,
+      "CourseIdHash": 0,
+      "IsCheckInWater": 0,
+      "InWater": 0,
+      "IsExpand": 0
+    },
+    {
+      "Name": "Drift03St",
+      "Prefab": {
+        "m_FileID": 15,
+        "m_PathID": 2045963188016622699
+      },
+      "AnimatorController": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      },
+      "Max": 1,
+      "MaxInPowerSaving": -1,
+      "PlayAtTransform": "",
+      "FollowPlayAtTransform": 0,
+      "UseAlpha": 1,
+      "PositionOffset": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "RotateOffset": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "ScaleOffset": {
+        "x": 1.0,
+        "y": 1.0,
+        "z": 1.0
+      },
+      "LookAtTransform": "",
+      "EmitState": "",
+      "EmitDelay": 0.0,
+      "IsStopOnStateLeave": 0,
+      "StopDelay": 0.0,
+      "IsFollowShaftScaleForTire": 1,
+      "IsCheckCondition": 0,
+      "IsCheckGroundAttribute": 0,
+      "GroundAttribute": 0,
+      "GroundMaterial": 0,
+      "IsCheckCourseId": 0,
+      "CourseIdHash": 0,
+      "IsCheckInWater": 0,
+      "InWater": 0,
+      "IsExpand": 0
+    },
+    {
+      "Name": "Drift03St_LOD",
+      "Prefab": {
+        "m_FileID": 16,
+        "m_PathID": -9163326040396293577
+      },
+      "AnimatorController": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      },
+      "Max": 1,
+      "MaxInPowerSaving": -1,
+      "PlayAtTransform": "",
+      "FollowPlayAtTransform": 0,
+      "UseAlpha": 1,
+      "PositionOffset": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "RotateOffset": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "ScaleOffset": {
+        "x": 1.0,
+        "y": 1.0,
+        "z": 1.0
+      },
+      "LookAtTransform": "",
+      "EmitState": "",
+      "EmitDelay": 0.0,
+      "IsStopOnStateLeave": 0,
+      "StopDelay": 0.0,
+      "IsFollowShaftScaleForTire": 1,
+      "IsCheckCondition": 0,
+      "IsCheckGroundAttribute": 0,
+      "GroundAttribute": 0,
+      "GroundMaterial": 0,
+      "IsCheckCourseId": 0,
+      "CourseIdHash": 0,
+      "IsCheckInWater": 0,
+      "InWater": 0,
+      "IsExpand": 0
+    },
+    {
+      "Name": "WheelSpinTire",
+      "Prefab": {
+        "m_FileID": 17,
+        "m_PathID": 307208070126663079
+      },
+      "AnimatorController": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      },
+      "Max": 1,
+      "MaxInPowerSaving": -1,
+      "PlayAtTransform": "",
+      "FollowPlayAtTransform": 1,
+      "UseAlpha": 1,
+      "PositionOffset": {
+        "x": 0.05,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "RotateOffset": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "ScaleOffset": {
+        "x": 1.35,
+        "y": 0.5,
+        "z": 1.35
+      },
+      "LookAtTransform": "",
+      "EmitState": "",
+      "EmitDelay": 0.0,
+      "IsStopOnStateLeave": 0,
+      "StopDelay": 0.0,
+      "IsFollowShaftScaleForTire": 1,
+      "IsCheckCondition": 0,
+      "IsCheckGroundAttribute": 0,
+      "GroundAttribute": 0,
+      "GroundMaterial": 0,
+      "IsCheckCourseId": 0,
+      "CourseIdHash": 0,
+      "IsCheckInWater": 0,
+      "InWater": 0,
+      "IsExpand": 0
+    },
+    {
+      "Name": "WheelSpinSmoke",
+      "Prefab": {
+        "m_FileID": 2,
+        "m_PathID": 1878946682578366223
+      },
+      "AnimatorController": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      },
+      "Max": 1,
+      "MaxInPowerSaving": -1,
+      "PlayAtTransform": "",
+      "FollowPlayAtTransform": 1,
+      "UseAlpha": 1,
+      "PositionOffset": {
+        "x": 0.0,
+        "y": -0.1,
+        "z": -0.1
+      },
+      "RotateOffset": {
+        "x": 0.0,
+        "y": 180.0,
+        "z": 0.0
+      },
+      "ScaleOffset": {
+        "x": 1.0,
+        "y": 1.0,
+        "z": 1.0
+      },
+      "LookAtTransform": "",
+      "EmitState": "",
+      "EmitDelay": 0.0,
+      "IsStopOnStateLeave": 0,
+      "StopDelay": 0.0,
+      "IsFollowShaftScaleForTire": 1,
+      "IsCheckCondition": 0,
+      "IsCheckGroundAttribute": 0,
+      "GroundAttribute": 0,
+      "GroundMaterial": 0,
+      "IsCheckCourseId": 0,
+      "CourseIdHash": 0,
+      "IsCheckInWater": 0,
+      "InWater": 0,
+      "IsExpand": 0
+    },
+    {
+      "Name": "WheelSpinWind",
+      "Prefab": {
+        "m_FileID": 1,
+        "m_PathID": 7121113522303053154
+      },
+      "AnimatorController": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      },
+      "Max": 1,
+      "MaxInPowerSaving": -1,
+      "PlayAtTransform": "",
+      "FollowPlayAtTransform": 1,
+      "UseAlpha": 1,
+      "PositionOffset": {
+        "x": -0.1,
+        "y": -0.1,
+        "z": -0.1
+      },
+      "RotateOffset": {
+        "x": 0.0,
+        "y": 180.0,
+        "z": 0.0
+      },
+      "ScaleOffset": {
+        "x": 1.0,
+        "y": 1.0,
+        "z": 1.0
+      },
+      "LookAtTransform": "",
+      "EmitState": "",
+      "EmitDelay": 0.0,
+      "IsStopOnStateLeave": 0,
+      "StopDelay": 0.0,
+      "IsFollowShaftScaleForTire": 1,
+      "IsCheckCondition": 0,
+      "IsCheckGroundAttribute": 0,
+      "GroundAttribute": 0,
+      "GroundMaterial": 0,
+      "IsCheckCourseId": 0,
+      "CourseIdHash": 0,
+      "IsCheckInWater": 0,
+      "InWater": 0,
+      "IsExpand": 0
+    },
+    {
+      "Name": "Attri_Sand_0",
+      "Prefab": {
+        "m_FileID": 18,
+        "m_PathID": 5940661216690799120
+      },
+      "AnimatorController": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      },
+      "Max": 1,
+      "MaxInPowerSaving": -1,
+      "PlayAtTransform": "",
+      "FollowPlayAtTransform": 0,
+      "UseAlpha": 1,
+      "PositionOffset": {
+        "x": -0.15,
+        "y": 0.0,
+        "z": -0.1
+      },
+      "RotateOffset": {
+        "x": 0.0,
+        "y": 180.0,
+        "z": 0.0
+      },
+      "ScaleOffset": {
+        "x": 1.0,
+        "y": 1.0,
+        "z": 1.0
+      },
+      "LookAtTransform": "",
+      "EmitState": "",
+      "EmitDelay": 0.0,
+      "IsStopOnStateLeave": 0,
+      "StopDelay": 0.0,
+      "IsFollowShaftScaleForTire": 1,
+      "IsCheckCondition": 1,
+      "IsCheckGroundAttribute": 1,
+      "GroundAttribute": 2,
+      "GroundMaterial": 0,
+      "IsCheckCourseId": 1,
+      "CourseIdHash": 3290751399,
+      "IsCheckInWater": 1,
+      "InWater": 0,
+      "IsExpand": 0
+    },
+    {
+      "Name": "Attri_Sand_0_KD",
+      "Prefab": {
+        "m_FileID": 19,
+        "m_PathID": -8458250828136989400
+      },
+      "AnimatorController": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      },
+      "Max": 1,
+      "MaxInPowerSaving": -1,
+      "PlayAtTransform": "",
+      "FollowPlayAtTransform": 0,
+      "UseAlpha": 1,
+      "PositionOffset": {
+        "x": -0.15,
+        "y": 0.0,
+        "z": -0.1
+      },
+      "RotateOffset": {
+        "x": 0.0,
+        "y": 180.0,
+        "z": 0.0
+      },
+      "ScaleOffset": {
+        "x": 1.0,
+        "y": 1.0,
+        "z": 1.0
+      },
+      "LookAtTransform": "",
+      "EmitState": "",
+      "EmitDelay": 0.0,
+      "IsStopOnStateLeave": 0,
+      "StopDelay": 0.0,
+      "IsFollowShaftScaleForTire": 1,
+      "IsCheckCondition": 1,
+      "IsCheckGroundAttribute": 1,
+      "GroundAttribute": 2,
+      "GroundMaterial": 0,
+      "IsCheckCourseId": 1,
+      "CourseIdHash": 3097047576,
+      "IsCheckInWater": 1,
+      "InWater": 0,
+      "IsExpand": 0
+    },
+    {
+      "Name": "Attri_Sand_1",
+      "Prefab": {
+        "m_FileID": 20,
+        "m_PathID": -1933745443932110263
+      },
+      "AnimatorController": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      },
+      "Max": 1,
+      "MaxInPowerSaving": -1,
+      "PlayAtTransform": "",
+      "FollowPlayAtTransform": 0,
+      "UseAlpha": 1,
+      "PositionOffset": {
+        "x": -0.15,
+        "y": 0.05,
+        "z": -0.1
+      },
+      "RotateOffset": {
+        "x": 0.0,
+        "y": 180.0,
+        "z": 0.0
+      },
+      "ScaleOffset": {
+        "x": 1.0,
+        "y": 1.0,
+        "z": 1.0
+      },
+      "LookAtTransform": "",
+      "EmitState": "",
+      "EmitDelay": 0.0,
+      "IsStopOnStateLeave": 0,
+      "StopDelay": 0.0,
+      "IsFollowShaftScaleForTire": 1,
+      "IsCheckCondition": 1,
+      "IsCheckGroundAttribute": 1,
+      "GroundAttribute": 2,
+      "GroundMaterial": 1,
+      "IsCheckCourseId": 0,
+      "CourseIdHash": 0,
+      "IsCheckInWater": 1,
+      "InWater": 0,
+      "IsExpand": 0
+    },
+    {
+      "Name": "Attri_Sand_2",
+      "Prefab": {
+        "m_FileID": 21,
+        "m_PathID": -51681715033891450
+      },
+      "AnimatorController": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      },
+      "Max": 1,
+      "MaxInPowerSaving": -1,
+      "PlayAtTransform": "",
+      "FollowPlayAtTransform": 0,
+      "UseAlpha": 1,
+      "PositionOffset": {
+        "x": -0.15,
+        "y": 0.1,
+        "z": -0.1
+      },
+      "RotateOffset": {
+        "x": 0.0,
+        "y": 180.0,
+        "z": 0.0
+      },
+      "ScaleOffset": {
+        "x": 1.0,
+        "y": 1.0,
+        "z": 1.0
+      },
+      "LookAtTransform": "",
+      "EmitState": "",
+      "EmitDelay": 0.0,
+      "IsStopOnStateLeave": 0,
+      "StopDelay": 0.0,
+      "IsFollowShaftScaleForTire": 1,
+      "IsCheckCondition": 1,
+      "IsCheckGroundAttribute": 1,
+      "GroundAttribute": 2,
+      "GroundMaterial": 2,
+      "IsCheckCourseId": 0,
+      "CourseIdHash": 0,
+      "IsCheckInWater": 1,
+      "InWater": 0,
+      "IsExpand": 0
+    },
+    {
+      "Name": "Attri_Dirt_0",
+      "Prefab": {
+        "m_FileID": 22,
+        "m_PathID": 8819905646914281337
+      },
+      "AnimatorController": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      },
+      "Max": 1,
+      "MaxInPowerSaving": -1,
+      "PlayAtTransform": "",
+      "FollowPlayAtTransform": 0,
+      "UseAlpha": 1,
+      "PositionOffset": {
+        "x": -0.15,
+        "y": 0.1,
+        "z": -0.1
+      },
+      "RotateOffset": {
+        "x": 0.0,
+        "y": 180.0,
+        "z": 0.0
+      },
+      "ScaleOffset": {
+        "x": 1.0,
+        "y": 1.0,
+        "z": 1.0
+      },
+      "LookAtTransform": "",
+      "EmitState": "",
+      "EmitDelay": 0.0,
+      "IsStopOnStateLeave": 0,
+      "StopDelay": 0.0,
+      "IsFollowShaftScaleForTire": 1,
+      "IsCheckCondition": 1,
+      "IsCheckGroundAttribute": 1,
+      "GroundAttribute": 4,
+      "GroundMaterial": 0,
+      "IsCheckCourseId": 1,
+      "CourseIdHash": 3290751399,
+      "IsCheckInWater": 1,
+      "InWater": 0,
+      "IsExpand": 1
+    },
+    {
+      "Name": "Attri_Dirt_0_N64kd",
+      "Prefab": {
+        "m_FileID": 23,
+        "m_PathID": -1124962347918721146
+      },
+      "AnimatorController": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      },
+      "Max": 1,
+      "MaxInPowerSaving": -1,
+      "PlayAtTransform": "",
+      "FollowPlayAtTransform": 0,
+      "UseAlpha": 1,
+      "PositionOffset": {
+        "x": -0.15,
+        "y": 0.1,
+        "z": -0.1
+      },
+      "RotateOffset": {
+        "x": 0.0,
+        "y": 180.0,
+        "z": 0.0
+      },
+      "ScaleOffset": {
+        "x": 1.0,
+        "y": 1.0,
+        "z": 1.0
+      },
+      "LookAtTransform": "",
+      "EmitState": "",
+      "EmitDelay": 0.0,
+      "IsStopOnStateLeave": 0,
+      "StopDelay": 0.0,
+      "IsFollowShaftScaleForTire": 1,
+      "IsCheckCondition": 1,
+      "IsCheckGroundAttribute": 1,
+      "GroundAttribute": 4,
+      "GroundMaterial": 0,
+      "IsCheckCourseId": 1,
+      "CourseIdHash": 3097047576,
+      "IsCheckInWater": 1,
+      "InWater": 0,
+      "IsExpand": 1
+    },
+    {
+      "Name": "Attri_Dirt_1",
+      "Prefab": {
+        "m_FileID": 24,
+        "m_PathID": -3483357274793130020
+      },
+      "AnimatorController": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      },
+      "Max": 1,
+      "MaxInPowerSaving": -1,
+      "PlayAtTransform": "",
+      "FollowPlayAtTransform": 0,
+      "UseAlpha": 1,
+      "PositionOffset": {
+        "x": -0.15,
+        "y": 0.1,
+        "z": -0.1
+      },
+      "RotateOffset": {
+        "x": 0.0,
+        "y": 180.0,
+        "z": 0.0
+      },
+      "ScaleOffset": {
+        "x": 1.0,
+        "y": 1.0,
+        "z": 1.0
+      },
+      "LookAtTransform": "",
+      "EmitState": "",
+      "EmitDelay": 0.0,
+      "IsStopOnStateLeave": 0,
+      "StopDelay": 0.0,
+      "IsFollowShaftScaleForTire": 1,
+      "IsCheckCondition": 1,
+      "IsCheckGroundAttribute": 1,
+      "GroundAttribute": 4,
+      "GroundMaterial": 1,
+      "IsCheckCourseId": 0,
+      "CourseIdHash": 0,
+      "IsCheckInWater": 1,
+      "InWater": 0,
+      "IsExpand": 0
+    },
+    {
+      "Name": "Attri_Dirt_2",
+      "Prefab": {
+        "m_FileID": 25,
+        "m_PathID": 1722139396886261418
+      },
+      "AnimatorController": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      },
+      "Max": 1,
+      "MaxInPowerSaving": -1,
+      "PlayAtTransform": "",
+      "FollowPlayAtTransform": 0,
+      "UseAlpha": 1,
+      "PositionOffset": {
+        "x": -0.15,
+        "y": 0.1,
+        "z": -0.1
+      },
+      "RotateOffset": {
+        "x": 0.0,
+        "y": 180.0,
+        "z": 0.0
+      },
+      "ScaleOffset": {
+        "x": 1.0,
+        "y": 1.0,
+        "z": 1.0
+      },
+      "LookAtTransform": "",
+      "EmitState": "",
+      "EmitDelay": 0.0,
+      "IsStopOnStateLeave": 0,
+      "StopDelay": 0.0,
+      "IsFollowShaftScaleForTire": 1,
+      "IsCheckCondition": 1,
+      "IsCheckGroundAttribute": 1,
+      "GroundAttribute": 4,
+      "GroundMaterial": 2,
+      "IsCheckCourseId": 0,
+      "CourseIdHash": 0,
+      "IsCheckInWater": 1,
+      "InWater": 0,
+      "IsExpand": 0
+    },
+    {
+      "Name": "Attri_Dirt_4",
+      "Prefab": {
+        "m_FileID": 26,
+        "m_PathID": 3270582723058870180
+      },
+      "AnimatorController": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      },
+      "Max": 1,
+      "MaxInPowerSaving": -1,
+      "PlayAtTransform": "",
+      "FollowPlayAtTransform": 0,
+      "UseAlpha": 1,
+      "PositionOffset": {
+        "x": -0.15,
+        "y": 0.2,
+        "z": -0.1
+      },
+      "RotateOffset": {
+        "x": 0.0,
+        "y": 180.0,
+        "z": 0.0
+      },
+      "ScaleOffset": {
+        "x": 1.0,
+        "y": 1.0,
+        "z": 1.0
+      },
+      "LookAtTransform": "",
+      "EmitState": "",
+      "EmitDelay": 0.0,
+      "IsStopOnStateLeave": 0,
+      "StopDelay": 0.0,
+      "IsFollowShaftScaleForTire": 1,
+      "IsCheckCondition": 1,
+      "IsCheckGroundAttribute": 1,
+      "GroundAttribute": 4,
+      "GroundMaterial": 4,
+      "IsCheckCourseId": 0,
+      "CourseIdHash": 0,
+      "IsCheckInWater": 1,
+      "InWater": 0,
+      "IsExpand": 0
+    },
+    {
+      "Name": "Attri_Dirt_7",
+      "Prefab": {
+        "m_FileID": 27,
+        "m_PathID": 656040448042813595
+      },
+      "AnimatorController": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      },
+      "Max": 1,
+      "MaxInPowerSaving": -1,
+      "PlayAtTransform": "",
+      "FollowPlayAtTransform": 0,
+      "UseAlpha": 1,
+      "PositionOffset": {
+        "x": -0.15,
+        "y": 0.1,
+        "z": -0.1
+      },
+      "RotateOffset": {
+        "x": 0.0,
+        "y": 180.0,
+        "z": 0.0
+      },
+      "ScaleOffset": {
+        "x": 1.0,
+        "y": 1.0,
+        "z": 1.0
+      },
+      "LookAtTransform": "",
+      "EmitState": "",
+      "EmitDelay": 0.0,
+      "IsStopOnStateLeave": 0,
+      "StopDelay": 0.0,
+      "IsFollowShaftScaleForTire": 1,
+      "IsCheckCondition": 1,
+      "IsCheckGroundAttribute": 1,
+      "GroundAttribute": 4,
+      "GroundMaterial": 7,
+      "IsCheckCourseId": 0,
+      "CourseIdHash": 0,
+      "IsCheckInWater": 1,
+      "InWater": 0,
+      "IsExpand": 0
+    },
+    {
+      "Name": "Attri_Dirt_8",
+      "Prefab": {
+        "m_FileID": 28,
+        "m_PathID": -3759839521922412564
+      },
+      "AnimatorController": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      },
+      "Max": 1,
+      "MaxInPowerSaving": -1,
+      "PlayAtTransform": "",
+      "FollowPlayAtTransform": 0,
+      "UseAlpha": 1,
+      "PositionOffset": {
+        "x": -0.15,
+        "y": 0.0,
+        "z": -0.1
+      },
+      "RotateOffset": {
+        "x": 0.0,
+        "y": 180.0,
+        "z": 0.0
+      },
+      "ScaleOffset": {
+        "x": 1.0,
+        "y": 1.0,
+        "z": 1.0
+      },
+      "LookAtTransform": "",
+      "EmitState": "",
+      "EmitDelay": 0.0,
+      "IsStopOnStateLeave": 0,
+      "StopDelay": 0.0,
+      "IsFollowShaftScaleForTire": 1,
+      "IsCheckCondition": 1,
+      "IsCheckGroundAttribute": 1,
+      "GroundAttribute": 4,
+      "GroundMaterial": 8,
+      "IsCheckCourseId": 0,
+      "CourseIdHash": 0,
+      "IsCheckInWater": 1,
+      "InWater": 1,
+      "IsExpand": 0
+    },
+    {
+      "Name": "Attri_LDirt_1",
+      "Prefab": {
+        "m_FileID": 26,
+        "m_PathID": 3270582723058870180
+      },
+      "AnimatorController": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      },
+      "Max": 1,
+      "MaxInPowerSaving": -1,
+      "PlayAtTransform": "",
+      "FollowPlayAtTransform": 0,
+      "UseAlpha": 1,
+      "PositionOffset": {
+        "x": -0.15,
+        "y": 0.2,
+        "z": -0.1
+      },
+      "RotateOffset": {
+        "x": 0.0,
+        "y": 180.0,
+        "z": 0.0
+      },
+      "ScaleOffset": {
+        "x": 1.0,
+        "y": 1.0,
+        "z": 1.0
+      },
+      "LookAtTransform": "",
+      "EmitState": "",
+      "EmitDelay": 0.0,
+      "IsStopOnStateLeave": 0,
+      "StopDelay": 0.0,
+      "IsFollowShaftScaleForTire": 1,
+      "IsCheckCondition": 1,
+      "IsCheckGroundAttribute": 1,
+      "GroundAttribute": 3,
+      "GroundMaterial": 1,
+      "IsCheckCourseId": 0,
+      "CourseIdHash": 0,
+      "IsCheckInWater": 0,
+      "InWater": 0,
+      "IsExpand": 0
+    },
+    {
+      "Name": "Attri_LDirt_2",
+      "Prefab": {
+        "m_FileID": 29,
+        "m_PathID": -4424289608931587326
+      },
+      "AnimatorController": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      },
+      "Max": 1,
+      "MaxInPowerSaving": -1,
+      "PlayAtTransform": "",
+      "FollowPlayAtTransform": 0,
+      "UseAlpha": 1,
+      "PositionOffset": {
+        "x": -0.15,
+        "y": 0.2,
+        "z": -0.1
+      },
+      "RotateOffset": {
+        "x": 0.0,
+        "y": 180.0,
+        "z": 0.0
+      },
+      "ScaleOffset": {
+        "x": 1.0,
+        "y": 1.0,
+        "z": 1.0
+      },
+      "LookAtTransform": "",
+      "EmitState": "",
+      "EmitDelay": 0.0,
+      "IsStopOnStateLeave": 0,
+      "StopDelay": 0.0,
+      "IsFollowShaftScaleForTire": 1,
+      "IsCheckCondition": 1,
+      "IsCheckGroundAttribute": 1,
+      "GroundAttribute": 3,
+      "GroundMaterial": 2,
+      "IsCheckCourseId": 0,
+      "CourseIdHash": 0,
+      "IsCheckInWater": 0,
+      "InWater": 0,
+      "IsExpand": 0
+    },
+    {
+      "Name": "Attri_LDirt_3",
+      "Prefab": {
+        "m_FileID": 30,
+        "m_PathID": 7998165327217366781
+      },
+      "AnimatorController": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      },
+      "Max": 1,
+      "MaxInPowerSaving": -1,
+      "PlayAtTransform": "",
+      "FollowPlayAtTransform": 0,
+      "UseAlpha": 1,
+      "PositionOffset": {
+        "x": -0.15,
+        "y": 0.1,
+        "z": -0.1
+      },
+      "RotateOffset": {
+        "x": 0.0,
+        "y": 180.0,
+        "z": 0.0
+      },
+      "ScaleOffset": {
+        "x": 1.0,
+        "y": 1.0,
+        "z": 1.0
+      },
+      "LookAtTransform": "",
+      "EmitState": "",
+      "EmitDelay": 0.0,
+      "IsStopOnStateLeave": 0,
+      "StopDelay": 0.0,
+      "IsFollowShaftScaleForTire": 1,
+      "IsCheckCondition": 1,
+      "IsCheckGroundAttribute": 1,
+      "GroundAttribute": 3,
+      "GroundMaterial": 3,
+      "IsCheckCourseId": 0,
+      "CourseIdHash": 0,
+      "IsCheckInWater": 1,
+      "InWater": 1,
+      "IsExpand": 0
+    },
+    {
+      "Name": "Attri_LDirt_4",
+      "Prefab": {
+        "m_FileID": 31,
+        "m_PathID": -8775698008137968680
+      },
+      "AnimatorController": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      },
+      "Max": 1,
+      "MaxInPowerSaving": -1,
+      "PlayAtTransform": "",
+      "FollowPlayAtTransform": 0,
+      "UseAlpha": 1,
+      "PositionOffset": {
+        "x": -0.15,
+        "y": 0.1,
+        "z": -0.1
+      },
+      "RotateOffset": {
+        "x": 0.0,
+        "y": 180.0,
+        "z": 0.0
+      },
+      "ScaleOffset": {
+        "x": 1.0,
+        "y": 1.0,
+        "z": 1.0
+      },
+      "LookAtTransform": "",
+      "EmitState": "",
+      "EmitDelay": 0.0,
+      "IsStopOnStateLeave": 0,
+      "StopDelay": 0.0,
+      "IsFollowShaftScaleForTire": 1,
+      "IsCheckCondition": 1,
+      "IsCheckGroundAttribute": 1,
+      "GroundAttribute": 3,
+      "GroundMaterial": 4,
+      "IsCheckCourseId": 1,
+      "CourseIdHash": 3290751399,
+      "IsCheckInWater": 1,
+      "InWater": 0,
+      "IsExpand": 1
+    },
+    {
+      "Name": "Attri_LDirt_5",
+      "Prefab": {
+        "m_FileID": 32,
+        "m_PathID": -612796292755413976
+      },
+      "AnimatorController": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      },
+      "Max": 1,
+      "MaxInPowerSaving": -1,
+      "PlayAtTransform": "",
+      "FollowPlayAtTransform": 0,
+      "UseAlpha": 1,
+      "PositionOffset": {
+        "x": -0.15,
+        "y": 0.1,
+        "z": -0.1
+      },
+      "RotateOffset": {
+        "x": 0.0,
+        "y": 180.0,
+        "z": 0.0
+      },
+      "ScaleOffset": {
+        "x": 1.0,
+        "y": 1.0,
+        "z": 1.0
+      },
+      "LookAtTransform": "",
+      "EmitState": "",
+      "EmitDelay": 0.0,
+      "IsStopOnStateLeave": 0,
+      "StopDelay": 0.0,
+      "IsFollowShaftScaleForTire": 1,
+      "IsCheckCondition": 1,
+      "IsCheckGroundAttribute": 1,
+      "GroundAttribute": 3,
+      "GroundMaterial": 5,
+      "IsCheckCourseId": 1,
+      "CourseIdHash": 3290751399,
+      "IsCheckInWater": 1,
+      "InWater": 0,
+      "IsExpand": 1
+    },
+    {
+      "Name": "Attri_LDirt_4_Agbbc1",
+      "Prefab": {
+        "m_FileID": 33,
+        "m_PathID": -7759485477437932572
+      },
+      "AnimatorController": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      },
+      "Max": 1,
+      "MaxInPowerSaving": -1,
+      "PlayAtTransform": "",
+      "FollowPlayAtTransform": 0,
+      "UseAlpha": 1,
+      "PositionOffset": {
+        "x": -0.15,
+        "y": 0.1,
+        "z": -0.1
+      },
+      "RotateOffset": {
+        "x": 0.0,
+        "y": 180.0,
+        "z": 0.0
+      },
+      "ScaleOffset": {
+        "x": 1.0,
+        "y": 1.0,
+        "z": 1.0
+      },
+      "LookAtTransform": "",
+      "EmitState": "",
+      "EmitDelay": 0.0,
+      "IsStopOnStateLeave": 0,
+      "StopDelay": 0.0,
+      "IsFollowShaftScaleForTire": 1,
+      "IsCheckCondition": 1,
+      "IsCheckGroundAttribute": 1,
+      "GroundAttribute": 3,
+      "GroundMaterial": 4,
+      "IsCheckCourseId": 1,
+      "CourseIdHash": 2958809005,
+      "IsCheckInWater": 1,
+      "InWater": 0,
+      "IsExpand": 1
+    },
+    {
+      "Name": "Attri_Ice_0",
+      "Prefab": {
+        "m_FileID": 34,
+        "m_PathID": -233172778722594424
+      },
+      "AnimatorController": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      },
+      "Max": 1,
+      "MaxInPowerSaving": -1,
+      "PlayAtTransform": "",
+      "FollowPlayAtTransform": 0,
+      "UseAlpha": 1,
+      "PositionOffset": {
+        "x": -0.15,
+        "y": 0.0,
+        "z": -0.1
+      },
+      "RotateOffset": {
+        "x": 0.0,
+        "y": 180.0,
+        "z": 0.0
+      },
+      "ScaleOffset": {
+        "x": 1.0,
+        "y": 1.0,
+        "z": 1.0
+      },
+      "LookAtTransform": "",
+      "EmitState": "",
+      "EmitDelay": 0.0,
+      "IsStopOnStateLeave": 0,
+      "StopDelay": 0.0,
+      "IsFollowShaftScaleForTire": 1,
+      "IsCheckCondition": 1,
+      "IsCheckGroundAttribute": 1,
+      "GroundAttribute": 7,
+      "GroundMaterial": 0,
+      "IsCheckCourseId": 0,
+      "CourseIdHash": 0,
+      "IsCheckInWater": 0,
+      "InWater": 0,
+      "IsExpand": 0
+    },
+    {
+      "Name": "Attri_Ice_1",
+      "Prefab": {
+        "m_FileID": 35,
+        "m_PathID": -4933367837854748951
+      },
+      "AnimatorController": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      },
+      "Max": 1,
+      "MaxInPowerSaving": -1,
+      "PlayAtTransform": "",
+      "FollowPlayAtTransform": 0,
+      "UseAlpha": 1,
+      "PositionOffset": {
+        "x": -0.15,
+        "y": 0.1,
+        "z": -0.1
+      },
+      "RotateOffset": {
+        "x": 0.0,
+        "y": 180.0,
+        "z": 0.0
+      },
+      "ScaleOffset": {
+        "x": 1.0,
+        "y": 1.0,
+        "z": 1.0
+      },
+      "LookAtTransform": "",
+      "EmitState": "",
+      "EmitDelay": 0.0,
+      "IsStopOnStateLeave": 0,
+      "StopDelay": 0.0,
+      "IsFollowShaftScaleForTire": 1,
+      "IsCheckCondition": 1,
+      "IsCheckGroundAttribute": 1,
+      "GroundAttribute": 7,
+      "GroundMaterial": 1,
+      "IsCheckCourseId": 0,
+      "CourseIdHash": 0,
+      "IsCheckInWater": 0,
+      "InWater": 0,
+      "IsExpand": 0
+    },
+    {
+      "Name": "Attri_Ice_3",
+      "Prefab": {
+        "m_FileID": 36,
+        "m_PathID": -2234086459484478918
+      },
+      "AnimatorController": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      },
+      "Max": 1,
+      "MaxInPowerSaving": -1,
+      "PlayAtTransform": "",
+      "FollowPlayAtTransform": 0,
+      "UseAlpha": 1,
+      "PositionOffset": {
+        "x": -0.15,
+        "y": 0.0,
+        "z": -0.1
+      },
+      "RotateOffset": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "ScaleOffset": {
+        "x": 1.0,
+        "y": 1.0,
+        "z": 1.0
+      },
+      "LookAtTransform": "",
+      "EmitState": "",
+      "EmitDelay": 0.0,
+      "IsStopOnStateLeave": 0,
+      "StopDelay": 0.0,
+      "IsFollowShaftScaleForTire": 1,
+      "IsCheckCondition": 1,
+      "IsCheckGroundAttribute": 1,
+      "GroundAttribute": 7,
+      "GroundMaterial": 3,
+      "IsCheckCourseId": 0,
+      "CourseIdHash": 0,
+      "IsCheckInWater": 0,
+      "InWater": 0,
+      "IsExpand": 0
+    },
+    {
+      "Name": "Attri_Pull_0",
+      "Prefab": {
+        "m_FileID": 37,
+        "m_PathID": -3769939688214084793
+      },
+      "AnimatorController": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      },
+      "Max": 1,
+      "MaxInPowerSaving": -1,
+      "PlayAtTransform": "",
+      "FollowPlayAtTransform": 0,
+      "UseAlpha": 1,
+      "PositionOffset": {
+        "x": -0.15,
+        "y": 0.0,
+        "z": -0.1
+      },
+      "RotateOffset": {
+        "x": 0.0,
+        "y": 180.0,
+        "z": 0.0
+      },
+      "ScaleOffset": {
+        "x": 1.0,
+        "y": 1.0,
+        "z": 1.0
+      },
+      "LookAtTransform": "",
+      "EmitState": "",
+      "EmitDelay": 0.0,
+      "IsStopOnStateLeave": 0,
+      "StopDelay": 0.0,
+      "IsFollowShaftScaleForTire": 1,
+      "IsCheckCondition": 1,
+      "IsCheckGroundAttribute": 1,
+      "GroundAttribute": 11,
+      "GroundMaterial": 0,
+      "IsCheckCourseId": 0,
+      "CourseIdHash": 0,
+      "IsCheckInWater": 0,
+      "InWater": 0,
+      "IsExpand": 0
+    },
+    {
+      "Name": "Attri_HDirt_5",
+      "Prefab": {
+        "m_FileID": 38,
+        "m_PathID": -7876045649070267930
+      },
+      "AnimatorController": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      },
+      "Max": 1,
+      "MaxInPowerSaving": -1,
+      "PlayAtTransform": "",
+      "FollowPlayAtTransform": 0,
+      "UseAlpha": 1,
+      "PositionOffset": {
+        "x": -0.15,
+        "y": 0.1,
+        "z": -0.1
+      },
+      "RotateOffset": {
+        "x": 0.0,
+        "y": 180.0,
+        "z": 0.0
+      },
+      "ScaleOffset": {
+        "x": 1.0,
+        "y": 1.0,
+        "z": 1.0
+      },
+      "LookAtTransform": "",
+      "EmitState": "",
+      "EmitDelay": 0.0,
+      "IsStopOnStateLeave": 0,
+      "StopDelay": 0.0,
+      "IsFollowShaftScaleForTire": 1,
+      "IsCheckCondition": 1,
+      "IsCheckGroundAttribute": 1,
+      "GroundAttribute": 6,
+      "GroundMaterial": 5,
+      "IsCheckCourseId": 0,
+      "CourseIdHash": 0,
+      "IsCheckInWater": 0,
+      "InWater": 0,
+      "IsExpand": 0
+    },
+    {
+      "Name": "Attri_Sand_0",
+      "Prefab": {
+        "m_FileID": 39,
+        "m_PathID": -3936623906791457947
+      },
+      "AnimatorController": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      },
+      "Max": 1,
+      "MaxInPowerSaving": -1,
+      "PlayAtTransform": "",
+      "FollowPlayAtTransform": 0,
+      "UseAlpha": 1,
+      "PositionOffset": {
+        "x": -0.15,
+        "y": 0.105,
+        "z": -0.1
+      },
+      "RotateOffset": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "ScaleOffset": {
+        "x": 1.0,
+        "y": 1.0,
+        "z": 1.0
+      },
+      "LookAtTransform": "",
+      "EmitState": "",
+      "EmitDelay": 0.0,
+      "IsStopOnStateLeave": 0,
+      "StopDelay": 0.0,
+      "IsFollowShaftScaleForTire": 1,
+      "IsCheckCondition": 1,
+      "IsCheckGroundAttribute": 1,
+      "GroundAttribute": 2,
+      "GroundMaterial": 0,
+      "IsCheckCourseId": 0,
+      "CourseIdHash": 0,
+      "IsCheckInWater": 1,
+      "InWater": 1,
+      "IsExpand": 0
+    },
+    {
+      "Name": "Attri_Road_11",
+      "Prefab": {
+        "m_FileID": 18,
+        "m_PathID": 5940661216690799120
+      },
+      "AnimatorController": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      },
+      "Max": 1,
+      "MaxInPowerSaving": -1,
+      "PlayAtTransform": "",
+      "FollowPlayAtTransform": 0,
+      "UseAlpha": 1,
+      "PositionOffset": {
+        "x": -0.15,
+        "y": 0.0,
+        "z": -0.1
+      },
+      "RotateOffset": {
+        "x": 0.0,
+        "y": 180.0,
+        "z": 0.0
+      },
+      "ScaleOffset": {
+        "x": 1.0,
+        "y": 1.0,
+        "z": 1.0
+      },
+      "LookAtTransform": "",
+      "EmitState": "",
+      "EmitDelay": 0.0,
+      "IsStopOnStateLeave": 0,
+      "StopDelay": 0.0,
+      "IsFollowShaftScaleForTire": 1,
+      "IsCheckCondition": 1,
+      "IsCheckGroundAttribute": 1,
+      "GroundAttribute": 0,
+      "GroundMaterial": 11,
+      "IsCheckCourseId": 0,
+      "CourseIdHash": 0,
+      "IsCheckInWater": 1,
+      "InWater": 0,
+      "IsExpand": 0
+    },
+    {
+      "Name": "Attri_Road_11",
+      "Prefab": {
+        "m_FileID": 39,
+        "m_PathID": -3936623906791457947
+      },
+      "AnimatorController": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      },
+      "Max": 1,
+      "MaxInPowerSaving": -1,
+      "PlayAtTransform": "",
+      "FollowPlayAtTransform": 0,
+      "UseAlpha": 1,
+      "PositionOffset": {
+        "x": -0.15,
+        "y": 0.1,
+        "z": -0.1
+      },
+      "RotateOffset": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "ScaleOffset": {
+        "x": 1.0,
+        "y": 1.0,
+        "z": 1.0
+      },
+      "LookAtTransform": "",
+      "EmitState": "",
+      "EmitDelay": 0.0,
+      "IsStopOnStateLeave": 0,
+      "StopDelay": 0.0,
+      "IsFollowShaftScaleForTire": 1,
+      "IsCheckCondition": 1,
+      "IsCheckGroundAttribute": 1,
+      "GroundAttribute": 0,
+      "GroundMaterial": 11,
+      "IsCheckCourseId": 0,
+      "CourseIdHash": 0,
+      "IsCheckInWater": 1,
+      "InWater": 1,
+      "IsExpand": 0
+    },
+    {
+      "Name": "Attri_Dirt_0",
+      "Prefab": {
+        "m_FileID": 40,
+        "m_PathID": 228752175747522765
+      },
+      "AnimatorController": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      },
+      "Max": 1,
+      "MaxInPowerSaving": -1,
+      "PlayAtTransform": "",
+      "FollowPlayAtTransform": 0,
+      "UseAlpha": 1,
+      "PositionOffset": {
+        "x": -0.15,
+        "y": 0.1,
+        "z": -0.1
+      },
+      "RotateOffset": {
+        "x": 0.0,
+        "y": 180.0,
+        "z": 0.0
+      },
+      "ScaleOffset": {
+        "x": 1.0,
+        "y": 1.0,
+        "z": 1.0
+      },
+      "LookAtTransform": "",
+      "EmitState": "",
+      "EmitDelay": 0.0,
+      "IsStopOnStateLeave": 0,
+      "StopDelay": 0.0,
+      "IsFollowShaftScaleForTire": 1,
+      "IsCheckCondition": 1,
+      "IsCheckGroundAttribute": 1,
+      "GroundAttribute": 4,
+      "GroundMaterial": 0,
+      "IsCheckCourseId": 0,
+      "CourseIdHash": 0,
+      "IsCheckInWater": 1,
+      "InWater": 1,
+      "IsExpand": 0
+    },
+    {
+      "Name": "Attri_Road_8",
+      "Prefab": {
+        "m_FileID": 41,
+        "m_PathID": -7291866081918710534
+      },
+      "AnimatorController": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      },
+      "Max": 1,
+      "MaxInPowerSaving": -1,
+      "PlayAtTransform": "",
+      "FollowPlayAtTransform": 1,
+      "UseAlpha": 1,
+      "PositionOffset": {
+        "x": -0.15,
+        "y": 0.2,
+        "z": -0.1
+      },
+      "RotateOffset": {
+        "x": 0.0,
+        "y": 180.0,
+        "z": 0.0
+      },
+      "ScaleOffset": {
+        "x": 1.0,
+        "y": 1.0,
+        "z": 1.0
+      },
+      "LookAtTransform": "",
+      "EmitState": "",
+      "EmitDelay": 0.0,
+      "IsStopOnStateLeave": 0,
+      "StopDelay": 0.0,
+      "IsFollowShaftScaleForTire": 0,
+      "IsCheckCondition": 1,
+      "IsCheckGroundAttribute": 1,
+      "GroundAttribute": 0,
+      "GroundMaterial": 8,
+      "IsCheckCourseId": 0,
+      "CourseIdHash": 0,
+      "IsCheckInWater": 0,
+      "InWater": 0,
+      "IsExpand": 0
+    },
+    {
+      "Name": "Attri_Road_15",
+      "Prefab": {
+        "m_FileID": 37,
+        "m_PathID": -3769939688214084793
+      },
+      "AnimatorController": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      },
+      "Max": 1,
+      "MaxInPowerSaving": -1,
+      "PlayAtTransform": "",
+      "FollowPlayAtTransform": 0,
+      "UseAlpha": 1,
+      "PositionOffset": {
+        "x": -0.15,
+        "y": 0.2,
+        "z": -0.1
+      },
+      "RotateOffset": {
+        "x": 0.0,
+        "y": 180.0,
+        "z": 0.0
+      },
+      "ScaleOffset": {
+        "x": 1.0,
+        "y": 1.0,
+        "z": 1.0
+      },
+      "LookAtTransform": "",
+      "EmitState": "",
+      "EmitDelay": 0.0,
+      "IsStopOnStateLeave": 0,
+      "StopDelay": 0.0,
+      "IsFollowShaftScaleForTire": 1,
+      "IsCheckCondition": 1,
+      "IsCheckGroundAttribute": 1,
+      "GroundAttribute": 0,
+      "GroundMaterial": 15,
+      "IsCheckCourseId": 0,
+      "CourseIdHash": 0,
+      "IsCheckInWater": 0,
+      "InWater": 0,
+      "IsExpand": 0
+    },
+    {
+      "Name": "Attri_Zone_1",
+      "Prefab": {
+        "m_FileID": 42,
+        "m_PathID": -4427051897019931282
+      },
+      "AnimatorController": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      },
+      "Max": 1,
+      "MaxInPowerSaving": -1,
+      "PlayAtTransform": "",
+      "FollowPlayAtTransform": 0,
+      "UseAlpha": 1,
+      "PositionOffset": {
+        "x": -0.15,
+        "y": 0.2,
+        "z": -0.1
+      },
+      "RotateOffset": {
+        "x": 0.0,
+        "y": 180.0,
+        "z": 0.0
+      },
+      "ScaleOffset": {
+        "x": 1.0,
+        "y": 1.0,
+        "z": 1.0
+      },
+      "LookAtTransform": "",
+      "EmitState": "",
+      "EmitDelay": 0.0,
+      "IsStopOnStateLeave": 0,
+      "StopDelay": 0.0,
+      "IsFollowShaftScaleForTire": 1,
+      "IsCheckCondition": 1,
+      "IsCheckGroundAttribute": 1,
+      "GroundAttribute": 10,
+      "GroundMaterial": 1,
+      "IsCheckCourseId": 0,
+      "CourseIdHash": 0,
+      "IsCheckInWater": 1,
+      "InWater": 0,
+      "IsExpand": 0
+    }
+  ]
+}

@@ -1,0 +1,83 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": -8094386303974766579
+  },
+  "m_Name": "CourseSceneParam",
+  "mProjectorShadowGlobalCutOffDistanceY": 0.0,
+  "mFogChangeData": {
+    "mElements": [
+      {
+        "mEffBit": 0,
+        "mFogPattern": 0,
+        "mColor": {
+          "r": 0.09883915,
+          "g": 0.09515571,
+          "b": 0.323529422,
+          "a": 0.747
+        },
+        "mDistanceBegin": -200.0,
+        "mDistanceEnd": 1000.0,
+        "mRaceStartTimeSecond": 56.0,
+        "mDurationSecond": 8.0,
+        "mAreaStartSecond": 0.0,
+        "mAreaEndSecond": 0.0,
+        "mReferenceWater": 0
+      }
+    ]
+  },
+  "mFlareChangeData": {
+    "mDefaultOn": 0,
+    "mElements": []
+  },
+  "mPowerSavingAdjustColor": {
+    "x": 0.0,
+    "y": 0.0,
+    "z": 0.0,
+    "w": 0.0
+  },
+  "mIsDisableProjectionShadowStencil": 0,
+  "mProjectionShadowRenderQueue": -1,
+  "mIsMapObjShadowRenderAfterTransparent": 0,
+  "mLightParametersChangeData": {
+    "mElements": [
+      {
+        "mLightName": "D_Dynamic",
+        "mStartTime": 56.0,
+        "mDuration": 8.0,
+        "mFinalIntensity": 1.0,
+        "mFinalColor": {
+          "r": 0.286764681,
+          "g": 0.383896083,
+          "b": 1.0,
+          "a": 1.0
+        }
+      },
+      {
+        "mLightName": "D_Static",
+        "mStartTime": 56.0,
+        "mDuration": 8.0,
+        "mFinalIntensity": 2.0,
+        "mFinalColor": {
+          "r": 0.286764681,
+          "g": 0.383896083,
+          "b": 1.0,
+          "a": 1.0
+        }
+      }
+    ]
+  },
+  "mLightProbeChangeData": {
+    "mElements": [
+      {
+        "mStartTime": 0.0,
+        "mScale": 0.5
+      }
+    ]
+  }
+}

@@ -1,0 +1,50 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": 2434717279687273224
+  },
+  "m_Name": "Wing_Hanafuda_M01MatsuBMario",
+  "mWingModel": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "mIconInfo": [
+    {
+      "mPath": "Assets/Main/Content/Kart/Wing/Wing_Hanafuda/Icons/Wing_Hanafuda_M01MatsuBMario.png",
+      "mGuid": "b4fca5d6093529b418e96ca5b8c309c6"
+    },
+    {
+      "mPath": "Assets/Main/Content/Kart/Wing/Wing_Hanafuda/Icons/Wing_Hanafuda_M01MatsuBMario_Large.png",
+      "mGuid": "6ba96135e18f7c340b64ff2e5f079e6b"
+    },
+    {
+      "mPath": "Assets/Main/Content/Kart/Wing/Wing_Hanafuda/Icons/Wing_Hanafuda_M01MatsuBMario_Small.png",
+      "mGuid": "aeea0429eddae1a4284aaa6cac83454b"
+    }
+  ],
+  "mWingType": 0,
+  "mIsFixedIcon": 0,
+  "mBaseParameter": {
+    "m_FileID": 4,
+    "m_PathID": 5343345796712438386
+  },
+  "mMaterial": {
+    "m_FileID": 0,
+    "m_PathID": -4946633119983825196
+  },
+  "mEffectContainer": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "mIsDisableAngleAnimation": 0,
+  "mDescription": "",
+  "mColorValiationRoot": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  }
+}

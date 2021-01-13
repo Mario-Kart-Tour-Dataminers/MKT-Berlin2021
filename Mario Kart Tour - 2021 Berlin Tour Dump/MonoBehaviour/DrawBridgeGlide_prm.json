@@ -1,0 +1,126 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": 1150354629195081500
+  },
+  "m_Name": "DrawBridgeGlide_prm",
+  "mMapObjName": "DrawBridgeGlide",
+  "mResource": [
+    {
+      "m_FileID": 1,
+      "m_PathID": -9212529657376219691
+    }
+  ],
+  "mKCol": [
+    {
+      "Name": "DrawBridgeGlide_col_Before_Glide",
+      "KCol": {
+        "m_FileID": 0,
+        "m_PathID": -5617525186146333433
+      },
+      "KCol_0_5": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      },
+      "KCol_0_1": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      }
+    },
+    {
+      "Name": "DrawBridgeGlide_col_Before_Glide_JA",
+      "KCol": {
+        "m_FileID": 0,
+        "m_PathID": -4215112349976978807
+      },
+      "KCol_0_5": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      },
+      "KCol_0_1": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      }
+    },
+    {
+      "Name": "DrawBridgeGlide_col_After_Glide",
+      "KCol": {
+        "m_FileID": 0,
+        "m_PathID": -7602670906751710085
+      },
+      "KCol_0_5": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      },
+      "KCol_0_1": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      }
+    },
+    {
+      "Name": "DrawBridgeGlide_col_After_Glide_JA",
+      "KCol": {
+        "m_FileID": 0,
+        "m_PathID": -4394470356189312479
+      },
+      "KCol_0_5": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      },
+      "KCol_0_1": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      }
+    }
+  ],
+  "mKColScale": 0,
+  "mModelOrigin": 0,
+  "mOffset": {
+    "x": 0.0,
+    "y": 0.0,
+    "z": 0.0
+  },
+  "mCollision": [],
+  "mAnimatorController": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "mSubAnimatorController": [],
+  "mEffectContainer": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "mEnableClip": 0,
+  "mEnableReceiveShadow": 0,
+  "mShadowType": 0,
+  "mProjectionMaterial": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "mShadowSize": {
+    "x": 0.0,
+    "y": 0.0,
+    "z": 0.0
+  },
+  "mShadowDensity": 0.5,
+  "mGndColRayLen": 10.0,
+  "mReactionInterval": 0.0,
+  "mLodScreenRelativeTransitionHeights": [
+    0.03,
+    0.0
+  ],
+  "mIsUseLodSettingsForPowerSaving": 0,
+  "mLodScreenRelativeTransitionHegihtsForPowerSaving": [],
+  "mDistancedDiscardHeight": 0.0,
+  "mIsDisableReverseScroll": 1,
+  "mDurationOnlyList": [],
+  "mIsDisableEvent": 0,
+  "mScoreUpMetaId": 0,
+  "mAlternateColorMaterials": [],
+  "mVariationNameList": []
+}

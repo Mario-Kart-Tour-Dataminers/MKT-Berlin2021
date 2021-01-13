@@ -1,0 +1,50 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": 2434717279687273224
+  },
+  "m_Name": "Wing_Hanafuda_M12HagiKiller",
+  "mWingModel": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "mIconInfo": [
+    {
+      "mPath": "Assets/Main/Content/Kart/Wing/Wing_Hanafuda/Icons/Wing_Hanafuda_M12HagiKiller.png",
+      "mGuid": "f221da802208a5a48872e51b74efdfd7"
+    },
+    {
+      "mPath": "Assets/Main/Content/Kart/Wing/Wing_Hanafuda/Icons/Wing_Hanafuda_M12HagiKiller_Large.png",
+      "mGuid": "95560fc275cb47544b624cae7099a23f"
+    },
+    {
+      "mPath": "Assets/Main/Content/Kart/Wing/Wing_Hanafuda/Icons/Wing_Hanafuda_M12HagiKiller_Small.png",
+      "mGuid": "7cdf1a3a8f5410645994f9b3912cf004"
+    }
+  ],
+  "mWingType": 0,
+  "mIsFixedIcon": 0,
+  "mBaseParameter": {
+    "m_FileID": 1,
+    "m_PathID": 5343345796712438386
+  },
+  "mMaterial": {
+    "m_FileID": 0,
+    "m_PathID": 8673436021905018298
+  },
+  "mEffectContainer": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "mIsDisableAngleAnimation": 0,
+  "mDescription": "",
+  "mColorValiationRoot": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  }
+}

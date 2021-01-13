@@ -1,0 +1,54 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": -3977807471082417869
+  },
+  "m_Name": "ItemBackgroundPreloadList01",
+  "savePath": 1,
+  "isEnableCheckNoEmptyValue": 0,
+  "assetDataList": [
+    {
+      "obj": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      },
+      "path": "",
+      "guid": "",
+      "substitutedArrayIndex": 0
+    },
+    {
+      "obj": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      },
+      "path": "Assets/Main/Content/UI/Texture/RareItemNormalBase01.png",
+      "guid": "2d48dbc9ed07f3d4eb25fca0cac99b66",
+      "substitutedArrayIndex": 1
+    },
+    {
+      "obj": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      },
+      "path": "Assets/Main/Content/UI/Texture/RareItemRareBase01.png",
+      "guid": "f37230e781cee6b488e8a1bacb4badf9",
+      "substitutedArrayIndex": 2
+    },
+    {
+      "obj": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      },
+      "path": "Assets/Main/Content/UI/Texture/RareItemUltraBase01.png",
+      "guid": "4aa5145b21a8f98458957fa1f1c638b3",
+      "substitutedArrayIndex": 3
+    }
+  ],
+  "assetType": 0,
+  "keyType": 7
+}

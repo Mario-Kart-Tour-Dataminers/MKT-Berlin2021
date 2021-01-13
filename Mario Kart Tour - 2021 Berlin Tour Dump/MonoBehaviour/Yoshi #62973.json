@@ -1,0 +1,135 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": -2094441087577622512
+  },
+  "m_Name": "Yoshi",
+  "mModel": {
+    "m_FileID": 1,
+    "m_PathID": -5135096708085064976
+  },
+  "mFaceTextures": [
+    {
+      "m_FileID": 2,
+      "m_PathID": -6389495567331308808
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -3867143441762241125
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 483088817883624580
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 7639531911290544384
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -3172100311114184444
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 440020409976008128
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 6389883502341189325
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 697030313911650722
+    }
+  ],
+  "mIsFaceTextureEmission": 0,
+  "mEmblem": {
+    "m_FileID": 0,
+    "m_PathID": -3023003523699976039
+  },
+  "mAnimatorOverrideController": {
+    "m_FileID": 3,
+    "m_PathID": 2150611819950450649
+  },
+  "mKartScaleSize": 1.0,
+  "mWingJointType": 0,
+  "mFaceChangeEvent": {
+    "m_FileID": 0,
+    "m_PathID": -9193351531069950055
+  },
+  "mIconInfo": [
+    {
+      "mPath": "Assets/Main/Content/Driver/Yoshi/Icons/Yoshi.png",
+      "mGuid": "7d6fe8c17df144d4b910fff29d9d9c8c"
+    },
+    {
+      "mPath": "Assets/Main/Content/Driver/Yoshi/Icons/YoshiMap.png",
+      "mGuid": "8735e3bd127de574c992e7d46355a459"
+    },
+    {
+      "mPath": "Assets/Main/Content/Driver/Yoshi/Icons/YoshiFaceEntry.png",
+      "mGuid": "5e83df5e84ee25440b95a82b689e0d0d"
+    },
+    {
+      "mPath": "Assets/Main/Content/Driver/Yoshi/Icons/YoshiWholeBody.png",
+      "mGuid": "36132764676796c468e34a57b06139fd"
+    },
+    {
+      "mPath": "Assets/Main/Content/Driver/Yoshi/Icons/YoshiUpperBody.png",
+      "mGuid": "34075cd8494d6af4e8f8d065575b8642"
+    },
+    {
+      "mPath": "",
+      "mGuid": ""
+    },
+    {
+      "mPath": "Assets/Main/Content/Driver/Yoshi/Icons/Yoshi_Small.png",
+      "mGuid": "1c31464b04955f24da979c65f9690fc2"
+    },
+    {
+      "mPath": "Assets/Main/Content/Driver/Yoshi/Icons/YoshiFaceEntry_Small.png",
+      "mGuid": "c7aeb3916c399204d9cc3e0d27cc7533"
+    },
+    {
+      "mPath": "Assets/Main/Content/Driver/Yoshi/Icons/YoshiWholeBody_Small.png",
+      "mGuid": "1d03f1b37454fea4382a4241f1caf3eb"
+    },
+    {
+      "mPath": "Assets/Main/Content/Driver/Yoshi/Icons/YoshiUpperBody_Small.png",
+      "mGuid": "2014f8b2e0ef15d48b0c921a4a6e8de0"
+    }
+  ],
+  "mColorGroup": 0,
+  "mCharacterTextureList": [],
+  "mBaseParameter": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "mBodyMaterial": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "mEyeMaterial": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "mDynamicUnitMngInitData": {
+    "m_FileID": 0,
+    "m_PathID": 71960329960759020
+  },
+  "mMetamorData": [],
+  "mDotDriverData": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "mDescription": "ヨッシー",
+  "mEffectContainer": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  }
+}

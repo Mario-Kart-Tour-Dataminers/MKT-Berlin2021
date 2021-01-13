@@ -1,0 +1,131 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": -2094441087577622512
+  },
+  "m_Name": "BrosBoomerang",
+  "mModel": {
+    "m_FileID": 1,
+    "m_PathID": 1473667571418410312
+  },
+  "mFaceTextures": [
+    {
+      "m_FileID": 2,
+      "m_PathID": 3380017145463138277
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -2304697543151042235
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 8710214077263099230
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -6234590470866063533
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 5164351261662661533
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -5423060621382119092
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 7481734911902263889
+    }
+  ],
+  "mIsFaceTextureEmission": 0,
+  "mEmblem": {
+    "m_FileID": 0,
+    "m_PathID": 1880852321708114906
+  },
+  "mAnimatorOverrideController": {
+    "m_FileID": 3,
+    "m_PathID": 48451360144423165
+  },
+  "mKartScaleSize": 1.0,
+  "mWingJointType": 0,
+  "mFaceChangeEvent": {
+    "m_FileID": 0,
+    "m_PathID": -6659036636148687838
+  },
+  "mIconInfo": [
+    {
+      "mPath": "Assets/Main/Content/Driver/BrosBoomerang/Icons/BrosBoomerang.png",
+      "mGuid": "041a83a2c5c7f214381e21792904203d"
+    },
+    {
+      "mPath": "Assets/Main/Content/Driver/BrosBoomerang/Icons/BrosBoomerangMap.png",
+      "mGuid": "0c3443043ee9f7847916be6f73c323bc"
+    },
+    {
+      "mPath": "Assets/Main/Content/Driver/BrosBoomerang/Icons/BrosBoomerangFaceEntry.png",
+      "mGuid": "aa2627f806ea7ae4b87a44c6e85b8194"
+    },
+    {
+      "mPath": "Assets/Main/Content/Driver/BrosBoomerang/Icons/BrosBoomerangWholeBody.png",
+      "mGuid": "132a1dc410bd4f3499f20164d4af265b"
+    },
+    {
+      "mPath": "Assets/Main/Content/Driver/BrosBoomerang/Icons/BrosBoomerangUpperBody.png",
+      "mGuid": "fb7a0febb5ac5c241bb4e8b98d4b2e61"
+    },
+    {
+      "mPath": "",
+      "mGuid": ""
+    },
+    {
+      "mPath": "Assets/Main/Content/Driver/BrosBoomerang/Icons/BrosBoomerang_Small.png",
+      "mGuid": "156128e0da0cda84d9d7a0804837f08d"
+    },
+    {
+      "mPath": "Assets/Main/Content/Driver/BrosBoomerang/Icons/BrosBoomerangFaceEntry_Small.png",
+      "mGuid": "5afc1e36305c4b149ac7ecc31c7d9a71"
+    },
+    {
+      "mPath": "Assets/Main/Content/Driver/BrosBoomerang/Icons/BrosBoomerangWholeBody_Small.png",
+      "mGuid": "c1cf70eade7764b439e621031e5b721d"
+    },
+    {
+      "mPath": "Assets/Main/Content/Driver/BrosBoomerang/Icons/BrosBoomerangUpperBody_Small.png",
+      "mGuid": "b2cc28c95769e674487da433c85c8e16"
+    }
+  ],
+  "mColorGroup": 0,
+  "mCharacterTextureList": [],
+  "mBaseParameter": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "mBodyMaterial": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "mEyeMaterial": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "mDynamicUnitMngInitData": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "mMetamorData": [],
+  "mDotDriverData": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "mDescription": "",
+  "mEffectContainer": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  }
+}

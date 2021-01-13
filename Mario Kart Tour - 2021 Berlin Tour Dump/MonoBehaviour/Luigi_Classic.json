@@ -1,0 +1,135 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": -2094441087577622512
+  },
+  "m_Name": "Luigi_Classic",
+  "mModel": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "mFaceTextures": [
+    {
+      "m_FileID": 7,
+      "m_PathID": -1338374798362746587
+    },
+    {
+      "m_FileID": 9,
+      "m_PathID": -6037193555099044673
+    },
+    {
+      "m_FileID": 12,
+      "m_PathID": -2678892201164430695
+    },
+    {
+      "m_FileID": 10,
+      "m_PathID": -4525757327796342102
+    },
+    {
+      "m_FileID": 14,
+      "m_PathID": 749072558018591254
+    },
+    {
+      "m_FileID": 13,
+      "m_PathID": 8929111777518399988
+    },
+    {
+      "m_FileID": 11,
+      "m_PathID": 8905424323698255565
+    },
+    {
+      "m_FileID": 8,
+      "m_PathID": -8471317184618697282
+    }
+  ],
+  "mIsFaceTextureEmission": 0,
+  "mEmblem": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "mAnimatorOverrideController": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "mKartScaleSize": 0.0,
+  "mWingJointType": 0,
+  "mFaceChangeEvent": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "mIconInfo": [
+    {
+      "mPath": "Assets/Main/Content/Driver/Luigi/Icons/Luigi_Classic.png",
+      "mGuid": "8af730fe6ccf937429d8c235fe189848"
+    },
+    {
+      "mPath": "Assets/Main/Content/Driver/Luigi/Icons/Luigi_ClassicMap.png",
+      "mGuid": "b981d740b7b66564ab4079bdf5719226"
+    },
+    {
+      "mPath": "Assets/Main/Content/Driver/Luigi/Icons/Luigi_ClassicFaceEntry.png",
+      "mGuid": "4d73f99e2277d394eb3dd9dad0a82e32"
+    },
+    {
+      "mPath": "Assets/Main/Content/Driver/Luigi/Icons/Luigi_ClassicWholeBody.png",
+      "mGuid": "39d49308909fb8540a9bc4dc5dcb9fad"
+    },
+    {
+      "mPath": "Assets/Main/Content/Driver/Luigi/Icons/Luigi_ClassicUpperBody.png",
+      "mGuid": "45014fe614c625c45a76b983a28073a7"
+    },
+    {
+      "mPath": "",
+      "mGuid": ""
+    },
+    {
+      "mPath": "Assets/Main/Content/Driver/Luigi/Icons/Luigi_Classic_Small.png",
+      "mGuid": "d6efcf05bfa578248924d85ce03a5b2d"
+    },
+    {
+      "mPath": "Assets/Main/Content/Driver/Luigi/Icons/Luigi_ClassicFaceEntry_Small.png",
+      "mGuid": "582a6d542e1d52449ba8eb7db2dbc5d9"
+    },
+    {
+      "mPath": "Assets/Main/Content/Driver/Luigi/Icons/Luigi_ClassicWholeBody_Small.png",
+      "mGuid": "c7a13665a087551429aeca612da6d7c2"
+    },
+    {
+      "mPath": "Assets/Main/Content/Driver/Luigi/Icons/Luigi_ClassicUpperBody_Small.png",
+      "mGuid": "583614e8b886b524696770a8db4074a2"
+    }
+  ],
+  "mColorGroup": 0,
+  "mCharacterTextureList": [],
+  "mBaseParameter": {
+    "m_FileID": 15,
+    "m_PathID": 6211199556549876831
+  },
+  "mBodyMaterial": {
+    "m_FileID": 0,
+    "m_PathID": -8117812528083392616
+  },
+  "mEyeMaterial": {
+    "m_FileID": 0,
+    "m_PathID": -694633461315261088
+  },
+  "mDynamicUnitMngInitData": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "mMetamorData": [],
+  "mDotDriverData": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "mDescription": "",
+  "mEffectContainer": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  }
+}

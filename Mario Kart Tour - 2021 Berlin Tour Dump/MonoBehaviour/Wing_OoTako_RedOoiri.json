@@ -1,0 +1,50 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": 2434717279687273224
+  },
+  "m_Name": "Wing_OoTako_RedOoiri",
+  "mWingModel": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "mIconInfo": [
+    {
+      "mPath": "Assets/Main/Content/Kart/Wing/Wing_OoTako/Icons/Wing_OoTako_RedOoiri.png",
+      "mGuid": "b7f05863813d4c349a4d10b5dacf16fd"
+    },
+    {
+      "mPath": "Assets/Main/Content/Kart/Wing/Wing_OoTako/Icons/Wing_OoTako_RedOoiri_Large.png",
+      "mGuid": "5e3c00dc88b0f784db4006d460b54c82"
+    },
+    {
+      "mPath": "Assets/Main/Content/Kart/Wing/Wing_OoTako/Icons/Wing_OoTako_RedOoiri_Small.png",
+      "mGuid": "13136ce48fa54804fa23d4eb9697c577"
+    }
+  ],
+  "mWingType": 0,
+  "mIsFixedIcon": 0,
+  "mBaseParameter": {
+    "m_FileID": 1,
+    "m_PathID": -7452357288680968741
+  },
+  "mMaterial": {
+    "m_FileID": 0,
+    "m_PathID": 5530810745426385862
+  },
+  "mEffectContainer": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "mIsDisableAngleAnimation": 0,
+  "mDescription": "",
+  "mColorValiationRoot": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": 8670473757938694334
+  },
+  "m_Name": "Fx_Rock_Mesh",
+  "mMeshes": [
+    {
+      "m_FileID": 0,
+      "m_PathID": 4247200522356749773
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 6209345821342197408
+    }
+  ]
+}

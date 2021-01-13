@@ -1,0 +1,135 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": -2094441087577622512
+  },
+  "m_Name": "Lemmy",
+  "mModel": {
+    "m_FileID": 1,
+    "m_PathID": -182925871993295307
+  },
+  "mFaceTextures": [
+    {
+      "m_FileID": 2,
+      "m_PathID": 3769288622466043886
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 3253705933021327458
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -2403788844336400983
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 4182924365278931443
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -6964380948768294429
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -1323370454292474803
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 754033529957390711
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 1401267982338773143
+    }
+  ],
+  "mIsFaceTextureEmission": 0,
+  "mEmblem": {
+    "m_FileID": 0,
+    "m_PathID": 7731729160564797756
+  },
+  "mAnimatorOverrideController": {
+    "m_FileID": 3,
+    "m_PathID": 8156464442510916600
+  },
+  "mKartScaleSize": 0.85,
+  "mWingJointType": 0,
+  "mFaceChangeEvent": {
+    "m_FileID": 0,
+    "m_PathID": 6182879218760946817
+  },
+  "mIconInfo": [
+    {
+      "mPath": "Assets/Main/Content/Driver/Lemmy/Icons/Lemmy.png",
+      "mGuid": "4de4f3af8b70fbe4dacb628456db5f2a"
+    },
+    {
+      "mPath": "Assets/Main/Content/Driver/Lemmy/Icons/LemmyMap.png",
+      "mGuid": "ee52d195310ae64408e650800fe500ab"
+    },
+    {
+      "mPath": "Assets/Main/Content/Driver/Lemmy/Icons/LemmyFaceEntry.png",
+      "mGuid": "acaf570c959054647acc327c56876ef6"
+    },
+    {
+      "mPath": "Assets/Main/Content/Driver/Lemmy/Icons/LemmyWholeBody.png",
+      "mGuid": "5a202edce550d4b41baa6477d8033a67"
+    },
+    {
+      "mPath": "Assets/Main/Content/Driver/Lemmy/Icons/LemmyUpperBody.png",
+      "mGuid": "813791142c1fea9448693fae4120e8b1"
+    },
+    {
+      "mPath": "",
+      "mGuid": ""
+    },
+    {
+      "mPath": "Assets/Main/Content/Driver/Lemmy/Icons/Lemmy_Small.png",
+      "mGuid": "0a834760b606c2e4c9124ffc53c3d4b5"
+    },
+    {
+      "mPath": "Assets/Main/Content/Driver/Lemmy/Icons/LemmyFaceEntry_Small.png",
+      "mGuid": "fefb21d4b9ad55b48bbbe161296322b6"
+    },
+    {
+      "mPath": "Assets/Main/Content/Driver/Lemmy/Icons/LemmyWholeBody_Small.png",
+      "mGuid": "c95235ce6ad86e9489afef1826c1fc4f"
+    },
+    {
+      "mPath": "Assets/Main/Content/Driver/Lemmy/Icons/LemmyUpperBody_Small.png",
+      "mGuid": "02484d568f9b0ff429e89dbcc03ac399"
+    }
+  ],
+  "mColorGroup": 0,
+  "mCharacterTextureList": [],
+  "mBaseParameter": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "mBodyMaterial": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "mEyeMaterial": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "mDynamicUnitMngInitData": {
+    "m_FileID": 0,
+    "m_PathID": -484853804852132441
+  },
+  "mMetamorData": [],
+  "mDotDriverData": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "mDescription": "レミー",
+  "mEffectContainer": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  }
+}

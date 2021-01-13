@@ -1,0 +1,50 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": 2434717279687273224
+  },
+  "m_Name": "Wing_TaxiKite_Yellow",
+  "mWingModel": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "mIconInfo": [
+    {
+      "mPath": "Assets/Main/Content/Kart/Wing/Wing_TaxiKite/Icons/Wing_TaxiKite_Yellow.png",
+      "mGuid": "bb27f62b1ce3e3349bf7622223cf99b6"
+    },
+    {
+      "mPath": "Assets/Main/Content/Kart/Wing/Wing_TaxiKite/Icons/Wing_TaxiKite_Yellow_Large.png",
+      "mGuid": "93773da62e1eca34c975ff6ccecc3cef"
+    },
+    {
+      "mPath": "Assets/Main/Content/Kart/Wing/Wing_TaxiKite/Icons/Wing_TaxiKite_Yellow_Small.png",
+      "mGuid": "d258f3b77bde7b643be78ed35108dbd9"
+    }
+  ],
+  "mWingType": 0,
+  "mIsFixedIcon": 0,
+  "mBaseParameter": {
+    "m_FileID": 0,
+    "m_PathID": -4658410477493515115
+  },
+  "mMaterial": {
+    "m_FileID": 0,
+    "m_PathID": -7629792010076770234
+  },
+  "mEffectContainer": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "mIsDisableAngleAnimation": 0,
+  "mDescription": "",
+  "mColorValiationRoot": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  }
+}

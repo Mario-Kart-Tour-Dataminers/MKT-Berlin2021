@@ -1,0 +1,156 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": -3205259396417638272
+  },
+  "m_Name": "TireK_BigB",
+  "mTireType": 2,
+  "mTireList": [
+    {
+      "mTireModel": {
+        "m_FileID": 0,
+        "m_PathID": 5237525548774307888
+      },
+      "mTireJointOffset": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "mShaftModel": {
+        "m_FileID": 1,
+        "m_PathID": 504348470510527353
+      },
+      "mShaftRotationLimit": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "mShaftScaleLimit": {
+        "x": 1.0,
+        "y": 1.0,
+        "z": 1.0
+      },
+      "mMirrorFront": 0
+    },
+    {
+      "mTireModel": {
+        "m_FileID": 0,
+        "m_PathID": -5020933408907009921
+      },
+      "mTireJointOffset": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "mShaftModel": {
+        "m_FileID": 2,
+        "m_PathID": 2543947140795984784
+      },
+      "mShaftRotationLimit": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "mShaftScaleLimit": {
+        "x": 1.0,
+        "y": 1.0,
+        "z": 1.0
+      },
+      "mMirrorFront": 0
+    },
+    {
+      "mTireModel": {
+        "m_FileID": 0,
+        "m_PathID": 5237525548774307888
+      },
+      "mTireJointOffset": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "mShaftModel": {
+        "m_FileID": 1,
+        "m_PathID": 504348470510527353
+      },
+      "mShaftRotationLimit": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "mShaftScaleLimit": {
+        "x": 1.0,
+        "y": 1.0,
+        "z": 1.0
+      },
+      "mMirrorFront": 1
+    },
+    {
+      "mTireModel": {
+        "m_FileID": 0,
+        "m_PathID": -5020933408907009921
+      },
+      "mTireJointOffset": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "mShaftModel": {
+        "m_FileID": 2,
+        "m_PathID": 2543947140795984784
+      },
+      "mShaftRotationLimit": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "mShaftScaleLimit": {
+        "x": 1.0,
+        "y": 1.0,
+        "z": 1.0
+      },
+      "mMirrorFront": 1
+    }
+  ],
+  "mIconInfo": [
+    {
+      "mPath": "Assets/Main/Content/Kart/Tire/TireK_BigB/Icons/TireK_BigB.png",
+      "mGuid": "895ceaa31d5609648b14eff741d3b728"
+    }
+  ],
+  "mIsFixedIcon": 0,
+  "mBaseParameter": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "mMaterial": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "mShaftMaterial": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "mEffectContainer": {
+    "m_FileID": 0,
+    "m_PathID": 1946537012100336171
+  },
+  "mEffectContainerForBody": [
+    {
+      "mKey": 1894510494,
+      "mContainer": {
+        "m_FileID": 0,
+        "m_PathID": -1049075670093635366
+      }
+    }
+  ],
+  "mDescription": "ワイルドブルー",
+  "mColorValiationRoot": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  }
+}

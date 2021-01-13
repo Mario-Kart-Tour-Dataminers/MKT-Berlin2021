@@ -1,0 +1,135 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": -2094441087577622512
+  },
+  "m_Name": "PeachKimono",
+  "mModel": {
+    "m_FileID": 2,
+    "m_PathID": 140747365753926842
+  },
+  "mFaceTextures": [
+    {
+      "m_FileID": 1,
+      "m_PathID": 9222206736938316672
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -7387241504399791504
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -210434116770704512
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 4095521370934923054
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 5823323117247919555
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -3131282364326270068
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 7901399144255014488
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -2894758763275313252
+    }
+  ],
+  "mIsFaceTextureEmission": 0,
+  "mEmblem": {
+    "m_FileID": 0,
+    "m_PathID": -1457573305725135157
+  },
+  "mAnimatorOverrideController": {
+    "m_FileID": 3,
+    "m_PathID": 7780811207050895808
+  },
+  "mKartScaleSize": 1.0,
+  "mWingJointType": 0,
+  "mFaceChangeEvent": {
+    "m_FileID": 0,
+    "m_PathID": 6761497012580110138
+  },
+  "mIconInfo": [
+    {
+      "mPath": "Assets/Main/Content/Driver/PeachKimono/Icons/PeachKimono.png",
+      "mGuid": "8d3d3c74f68763547869e00b97fc647d"
+    },
+    {
+      "mPath": "Assets/Main/Content/Driver/PeachKimono/Icons/PeachKimonoMap.png",
+      "mGuid": "66a85c056f31c664db268c00a302c6f5"
+    },
+    {
+      "mPath": "Assets/Main/Content/Driver/PeachKimono/Icons/PeachKimonoFaceEntry.png",
+      "mGuid": "ef325451f6d415c4390809207d4033da"
+    },
+    {
+      "mPath": "Assets/Main/Content/Driver/PeachKimono/Icons/PeachKimonoWholeBody.png",
+      "mGuid": "63b238517d5b00c41b5916c15a58c768"
+    },
+    {
+      "mPath": "Assets/Main/Content/Driver/PeachKimono/Icons/PeachKimonoUpperBody.png",
+      "mGuid": "5f6dee167df5ec7499d6e33c1eaacd2b"
+    },
+    {
+      "mPath": "",
+      "mGuid": ""
+    },
+    {
+      "mPath": "Assets/Main/Content/Driver/PeachKimono/Icons/PeachKimono_Small.png",
+      "mGuid": "842c3f045c26bc64fa7098ce9f16aa2c"
+    },
+    {
+      "mPath": "Assets/Main/Content/Driver/PeachKimono/Icons/PeachKimonoFaceEntry_Small.png",
+      "mGuid": "ed6c9578fa4d7c645b6fe53caaccbe55"
+    },
+    {
+      "mPath": "Assets/Main/Content/Driver/PeachKimono/Icons/PeachKimonoWholeBody_Small.png",
+      "mGuid": "a824e1110760cb14e8911afb52bcb150"
+    },
+    {
+      "mPath": "Assets/Main/Content/Driver/PeachKimono/Icons/PeachKimonoUpperBody_Small.png",
+      "mGuid": "c18012b2ab133d84490004d22570efb0"
+    }
+  ],
+  "mColorGroup": 0,
+  "mCharacterTextureList": [],
+  "mBaseParameter": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "mBodyMaterial": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "mEyeMaterial": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "mDynamicUnitMngInitData": {
+    "m_FileID": 0,
+    "m_PathID": -8467714716173731380
+  },
+  "mMetamorData": [],
+  "mDotDriverData": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "mDescription": "きものピーチ",
+  "mEffectContainer": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  }
+}

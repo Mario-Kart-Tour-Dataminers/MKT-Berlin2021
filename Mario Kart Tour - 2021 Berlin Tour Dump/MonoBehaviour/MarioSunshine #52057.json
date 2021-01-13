@@ -1,0 +1,147 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": -2094441087577622512
+  },
+  "m_Name": "MarioSunshine",
+  "mModel": {
+    "m_FileID": 1,
+    "m_PathID": -5176687919094034916
+  },
+  "mFaceTextures": [
+    {
+      "m_FileID": 2,
+      "m_PathID": -2367834111551879485
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 2711670998658491738
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 8927952087070922173
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -9012051714231319576
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -2795045779634007300
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 4912735455511943187
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 83588737409026921
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 6611468061641912910
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 0
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 0
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 0
+    }
+  ],
+  "mIsFaceTextureEmission": 0,
+  "mEmblem": {
+    "m_FileID": 0,
+    "m_PathID": -8701727572209986895
+  },
+  "mAnimatorOverrideController": {
+    "m_FileID": 3,
+    "m_PathID": 4876063443465461820
+  },
+  "mKartScaleSize": 1.0,
+  "mWingJointType": 0,
+  "mFaceChangeEvent": {
+    "m_FileID": 0,
+    "m_PathID": 5035367593199016255
+  },
+  "mIconInfo": [
+    {
+      "mPath": "Assets/Main/Content/Driver/MarioSunshine/Icons/MarioSunshine.png",
+      "mGuid": "f3ff25c8275beb5479bc4378c94e62dd"
+    },
+    {
+      "mPath": "Assets/Main/Content/Driver/MarioSunshine/Icons/MarioSunshineMap.png",
+      "mGuid": "9fabf385697ebbc47909272ff4ad3be0"
+    },
+    {
+      "mPath": "Assets/Main/Content/Driver/MarioSunshine/Icons/MarioSunshineFaceEntry.png",
+      "mGuid": "8ee4646b68a3e144884f113f1b0f343e"
+    },
+    {
+      "mPath": "Assets/Main/Content/Driver/MarioSunshine/Icons/MarioSunshineWholeBody.png",
+      "mGuid": "7c55c75cfd4673b429287d5aafbf6332"
+    },
+    {
+      "mPath": "Assets/Main/Content/Driver/MarioSunshine/Icons/MarioSunshineUpperBody.png",
+      "mGuid": "0c9a619368b1856409298109e5cb4aac"
+    },
+    {
+      "mPath": "",
+      "mGuid": ""
+    },
+    {
+      "mPath": "Assets/Main/Content/Driver/MarioSunshine/Icons/MarioSunshine_Small.png",
+      "mGuid": "c196dc3841d2b294186844eccdbb31bb"
+    },
+    {
+      "mPath": "Assets/Main/Content/Driver/MarioSunshine/Icons/MarioSunshineFaceEntry_Small.png",
+      "mGuid": "c93e9f44743a4574b9072cc2093e3938"
+    },
+    {
+      "mPath": "Assets/Main/Content/Driver/MarioSunshine/Icons/MarioSunshineWholeBody_Small.png",
+      "mGuid": "26a3512aae08e3545b912cd5c053e351"
+    },
+    {
+      "mPath": "Assets/Main/Content/Driver/MarioSunshine/Icons/MarioSunshineUpperBody_Small.png",
+      "mGuid": "eb867727f77d3e94b9075b08c22b613a"
+    }
+  ],
+  "mColorGroup": 0,
+  "mCharacterTextureList": [],
+  "mBaseParameter": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "mBodyMaterial": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "mEyeMaterial": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "mDynamicUnitMngInitData": {
+    "m_FileID": 0,
+    "m_PathID": -6334288757600992435
+  },
+  "mMetamorData": [],
+  "mDotDriverData": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "mDescription": "",
+  "mEffectContainer": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": 980329048157257672
+  },
+  "m_Name": "Fbx_G3ds_CheepCheepLagoon_MapInfo",
+  "rect": {
+    "x": -358.5742,
+    "y": -320.074554,
+    "width": 701.8041,
+    "height": 701.8041
+  },
+  "sprite": {
+    "m_FileID": 0,
+    "m_PathID": 7196093537747633360
+  },
+  "offset": {
+    "x": 0.0,
+    "y": 0.0
+  }
+}

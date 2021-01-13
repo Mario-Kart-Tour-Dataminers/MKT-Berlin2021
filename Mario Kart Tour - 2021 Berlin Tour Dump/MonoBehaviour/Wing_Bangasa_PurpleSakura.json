@@ -1,0 +1,50 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": 2434717279687273224
+  },
+  "m_Name": "Wing_Bangasa_PurpleSakura",
+  "mWingModel": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "mIconInfo": [
+    {
+      "mPath": "Assets/Main/Content/Kart/Wing/Wing_Bangasa/Icons/Wing_Bangasa_PurpleSakura.png",
+      "mGuid": "d9154a8a9e075944b9720b0c74354154"
+    },
+    {
+      "mPath": "Assets/Main/Content/Kart/Wing/Wing_Bangasa/Icons/Wing_Bangasa_PurpleSakura_Large.png",
+      "mGuid": "6692833075e825a44a3b336545fbcc53"
+    },
+    {
+      "mPath": "Assets/Main/Content/Kart/Wing/Wing_Bangasa/Icons/Wing_Bangasa_PurpleSakura_Small.png",
+      "mGuid": "a8825f6c98ae5114ea2825d7dc0c84fa"
+    }
+  ],
+  "mWingType": 0,
+  "mIsFixedIcon": 0,
+  "mBaseParameter": {
+    "m_FileID": 1,
+    "m_PathID": 5574116931583460884
+  },
+  "mMaterial": {
+    "m_FileID": 0,
+    "m_PathID": 7361027220729959268
+  },
+  "mEffectContainer": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "mIsDisableAngleAnimation": 0,
+  "mDescription": "",
+  "mColorValiationRoot": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  }
+}

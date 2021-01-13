@@ -1,0 +1,51 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": 5729155180541303578
+  },
+  "m_Name": "Formation_05_05_Circle",
+  "mDisplayName": "Circle",
+  "mKart": [
+    {
+      "Offset": {
+        "x": 0.0,
+        "y": 0.0
+      },
+      "RatioX": 0.0
+    },
+    {
+      "Offset": {
+        "x": -3.5,
+        "y": 4.0
+      },
+      "RatioX": 0.0
+    },
+    {
+      "Offset": {
+        "x": 3.5,
+        "y": 4.0
+      },
+      "RatioX": 0.0
+    },
+    {
+      "Offset": {
+        "x": -3.5,
+        "y": -4.0
+      },
+      "RatioX": 0.0
+    },
+    {
+      "Offset": {
+        "x": 3.5,
+        "y": -4.0
+      },
+      "RatioX": 0.0
+    }
+  ],
+  "mRouteRadiusMin": 0.0
+}

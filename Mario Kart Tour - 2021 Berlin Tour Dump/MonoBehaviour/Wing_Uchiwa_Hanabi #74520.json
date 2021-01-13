@@ -1,0 +1,50 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": 2434717279687273224
+  },
+  "m_Name": "Wing_Uchiwa_Hanabi",
+  "mWingModel": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "mIconInfo": [
+    {
+      "mPath": "Assets/Main/Content/Kart/Wing/Wing_Uchiwa/Icons/Wing_Uchiwa_Hanabi.png",
+      "mGuid": "c77503404cf3df8449fbeed48336f0b8"
+    },
+    {
+      "mPath": "Assets/Main/Content/Kart/Wing/Wing_Uchiwa/Icons/Wing_Uchiwa_Hanabi_Large.png",
+      "mGuid": "796b8c59098a99d419ddffd6ff2d3a62"
+    },
+    {
+      "mPath": "Assets/Main/Content/Kart/Wing/Wing_Uchiwa/Icons/Wing_Uchiwa_Hanabi_Small.png",
+      "mGuid": "02b7e779d7914e143b368ea8c88567c3"
+    }
+  ],
+  "mWingType": 0,
+  "mIsFixedIcon": 0,
+  "mBaseParameter": {
+    "m_FileID": 0,
+    "m_PathID": 4018484177698264010
+  },
+  "mMaterial": {
+    "m_FileID": 0,
+    "m_PathID": 1016521392987661408
+  },
+  "mEffectContainer": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "mIsDisableAngleAnimation": 0,
+  "mDescription": "",
+  "mColorValiationRoot": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  }
+}

@@ -1,0 +1,54 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": -3977807471082417869
+  },
+  "m_Name": "RareBaseFrameList02",
+  "savePath": 1,
+  "isEnableCheckNoEmptyValue": 0,
+  "assetDataList": [
+    {
+      "obj": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      },
+      "path": "Assets/Main/Content/UI/Texture/RareItemRareBaseFrame01.png",
+      "guid": "ecdfac86b9d0f3f499be89a00957fa8d",
+      "substitutedArrayIndex": 0
+    },
+    {
+      "obj": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      },
+      "path": "Assets/Main/Content/UI/Texture/RareItemRareBaseFrame01.png",
+      "guid": "ecdfac86b9d0f3f499be89a00957fa8d",
+      "substitutedArrayIndex": 1
+    },
+    {
+      "obj": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      },
+      "path": "Assets/Main/Content/UI/Texture/RareItemRareBaseFrame01.png",
+      "guid": "ecdfac86b9d0f3f499be89a00957fa8d",
+      "substitutedArrayIndex": 2
+    },
+    {
+      "obj": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      },
+      "path": "Assets/Main/Content/UI/Texture/RareItemRareBaseFrame01.png",
+      "guid": "ecdfac86b9d0f3f499be89a00957fa8d",
+      "substitutedArrayIndex": 3
+    }
+  ],
+  "assetType": 0,
+  "keyType": 7
+}

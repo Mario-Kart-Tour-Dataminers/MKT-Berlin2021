@@ -1,0 +1,101 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": 1150354629195081500
+  },
+  "m_Name": "Mound_prm",
+  "mMapObjName": "Mound",
+  "mResource": [
+    {
+      "m_FileID": 3,
+      "m_PathID": -7505925312536118967
+    },
+    {
+      "m_FileID": 2,
+      "m_PathID": 7939325137010297828
+    },
+    {
+      "m_FileID": 1,
+      "m_PathID": 8899024097558853031
+    }
+  ],
+  "mKCol": [
+    {
+      "Name": "Mound_Soil_cl",
+      "KCol": {
+        "m_FileID": 0,
+        "m_PathID": -8545887360943820685
+      },
+      "KCol_0_5": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      },
+      "KCol_0_1": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      }
+    },
+    {
+      "Name": "Mound_Grass_cl",
+      "KCol": {
+        "m_FileID": 0,
+        "m_PathID": 3198600676342391163
+      },
+      "KCol_0_5": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      },
+      "KCol_0_1": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      }
+    }
+  ],
+  "mKColScale": 0,
+  "mModelOrigin": 0,
+  "mOffset": {
+    "x": 0.0,
+    "y": 0.0,
+    "z": 0.0
+  },
+  "mCollision": [],
+  "mAnimatorController": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "mSubAnimatorController": [],
+  "mEffectContainer": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "mEnableClip": 0,
+  "mEnableReceiveShadow": 0,
+  "mShadowType": 0,
+  "mProjectionMaterial": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "mShadowSize": {
+    "x": 0.0,
+    "y": 0.0,
+    "z": 0.0
+  },
+  "mShadowDensity": 0.5,
+  "mGndColRayLen": 10.0,
+  "mReactionInterval": 0.0,
+  "mLodScreenRelativeTransitionHeights": [],
+  "mIsUseLodSettingsForPowerSaving": 0,
+  "mLodScreenRelativeTransitionHegihtsForPowerSaving": [],
+  "mDistancedDiscardHeight": 0.0,
+  "mIsDisableReverseScroll": 1,
+  "mDurationOnlyList": [],
+  "mIsDisableEvent": 0,
+  "mScoreUpMetaId": 0,
+  "mAlternateColorMaterials": [],
+  "mVariationNameList": []
+}

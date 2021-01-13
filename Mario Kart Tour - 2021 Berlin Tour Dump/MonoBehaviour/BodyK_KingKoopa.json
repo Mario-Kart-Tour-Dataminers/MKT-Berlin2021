@@ -1,0 +1,100 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": -8652336194674809844
+  },
+  "m_Name": "BodyK_KingKoopa",
+  "mBodyModel": {
+    "m_FileID": 0,
+    "m_PathID": 7927438333394847374
+  },
+  "mDriverOffset": {
+    "x": 0.0,
+    "y": 0.0,
+    "z": 0.0
+  },
+  "mBodyCenterPosition": {
+    "x": 0.0,
+    "y": 0.0,
+    "z": 0.0
+  },
+  "mScrewPosition": {
+    "x": 0.0,
+    "y": -0.05,
+    "z": -0.78
+  },
+  "mShaftPositionList": [],
+  "mGearBoxData": {
+    "m_FileID": 2,
+    "m_PathID": 3532631435007547029
+  },
+  "mGearBoxScale": {
+    "x": 1.0,
+    "y": 1.0,
+    "z": 1.0
+  },
+  "mGearBoxPosition": {
+    "x": 0.0,
+    "y": 0.0,
+    "z": 0.0
+  },
+  "mGearBoxSlideOffset": {
+    "x": 0.0,
+    "y": 0.0,
+    "z": 0.0
+  },
+  "mBodyWingParams": {
+    "m_FileID": 0,
+    "m_PathID": -6822624253751770379
+  },
+  "mBodyTireParams": {
+    "m_FileID": 0,
+    "m_PathID": -8242917295644943845
+  },
+  "mIconInfo": [
+    {
+      "mPath": "",
+      "mGuid": "887bdd6cff494f74c8d132ed28a0c810"
+    }
+  ],
+  "mJointMode": 1,
+  "mScrewScale": {
+    "x": 1.0,
+    "y": 1.0,
+    "z": 1.0
+  },
+  "mScrewAxisOffset": {
+    "x": 0.0,
+    "y": 0.0,
+    "z": -0.15
+  },
+  "mBackrestHeight": 0.0,
+  "mIsFixedIcon": 0,
+  "mBaseParameter": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "mMaterial": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "mGearBoxMaterial": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "mEffectContainer": {
+    "m_FileID": 0,
+    "m_PathID": 7321479523245412187
+  },
+  "mEffectContainerForTire": [],
+  "mDescription": "キングクッパ",
+  "mColorValiationRoot": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  }
+}

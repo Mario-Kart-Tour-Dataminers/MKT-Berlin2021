@@ -1,0 +1,257 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": 1150354629195081500
+  },
+  "m_Name": "DurationPumpkinBig_prm",
+  "mMapObjName": "DurationPumpkinBig",
+  "mResource": [
+    {
+      "m_FileID": 1,
+      "m_PathID": -1231638516147363707
+    }
+  ],
+  "mKCol": [],
+  "mKColScale": 0,
+  "mModelOrigin": 0,
+  "mOffset": {
+    "x": 0.0,
+    "y": 0.0,
+    "z": 0.0
+  },
+  "mCollision": [
+    {
+      "mName": "本体",
+      "mShapes": [
+        {
+          "mName": "幹",
+          "mShape": 0,
+          "mSize": {
+            "x": 2.0,
+            "y": 0.0,
+            "z": 0.0
+          },
+          "mPos": {
+            "x": 0.0,
+            "y": -0.4,
+            "z": 0.0
+          },
+          "mRotate": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          },
+          "mIsStrictContinuous": 0
+        }
+      ],
+      "mObjReactToKart": [
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        0,
+        1,
+        1,
+        1
+      ],
+      "mObjReactToItem": [
+        0,
+        1,
+        1,
+        1,
+        0,
+        0,
+        1,
+        0,
+        0,
+        0,
+        1,
+        0,
+        0,
+        1,
+        1,
+        1,
+        1,
+        0,
+        0,
+        1,
+        1,
+        1,
+        1,
+        0,
+        0,
+        1,
+        0,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        0,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        0,
+        0,
+        0,
+        0,
+        1,
+        0,
+        0,
+        0,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1
+      ],
+      "mKartReactToObj": [
+        4,
+        4,
+        4,
+        4,
+        4,
+        4,
+        4,
+        4,
+        4,
+        4
+      ],
+      "mItemReactToObj": [
+        0,
+        1,
+        1,
+        1,
+        1,
+        1,
+        0,
+        0,
+        0,
+        0,
+        1,
+        0,
+        0,
+        1,
+        1,
+        1,
+        1,
+        0,
+        0,
+        1,
+        1,
+        1,
+        0,
+        0,
+        0,
+        1,
+        0,
+        0,
+        0,
+        0,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        0,
+        0,
+        1,
+        1,
+        1,
+        0,
+        0,
+        0,
+        0,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1
+      ],
+      "mObjReactToObj": [
+        0,
+        0
+      ],
+      "mItemReflectBoundCoef": {
+        "Enabled": 0,
+        "Value": 0.0
+      },
+      "mItemReflectFricCoef": {
+        "Enabled": 0,
+        "Value": 0.0
+      },
+      "mIsAIApproach": 0,
+      "mAIReact": 0,
+      "mScore": [
+        0,
+        10,
+        0
+      ],
+      "mTargetMask": {
+        "Bit": 255
+      },
+      "mBoxColRadius": 15.0
+    }
+  ],
+  "mAnimatorController": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "mSubAnimatorController": [],
+  "mEffectContainer": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "mEnableClip": 0,
+  "mEnableReceiveShadow": 0,
+  "mShadowType": 1,
+  "mProjectionMaterial": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "mShadowSize": {
+    "x": 5.0,
+    "y": 0.0,
+    "z": 5.0
+  },
+  "mShadowDensity": 0.5,
+  "mGndColRayLen": 10.0,
+  "mReactionInterval": 0.0,
+  "mLodScreenRelativeTransitionHeights": [
+    0.05,
+    0.005
+  ],
+  "mIsUseLodSettingsForPowerSaving": 1,
+  "mLodScreenRelativeTransitionHegihtsForPowerSaving": [
+    0.08,
+    0.02
+  ],
+  "mDistancedDiscardHeight": 0.0,
+  "mIsDisableReverseScroll": 1,
+  "mDurationOnlyList": [
+    "HalloweenDuration"
+  ],
+  "mIsDisableEvent": 0,
+  "mScoreUpMetaId": 4,
+  "mAlternateColorMaterials": [],
+  "mVariationNameList": []
+}

@@ -1,0 +1,26 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": 980329048157257672
+  },
+  "m_Name": "Fbx_Gagb_SunsetWilds_MapInfo",
+  "rect": {
+    "x": -263.796265,
+    "y": -261.707428,
+    "width": 517.3597,
+    "height": 517.3597
+  },
+  "sprite": {
+    "m_FileID": 0,
+    "m_PathID": 3250976578582821071
+  },
+  "offset": {
+    "x": 0.0,
+    "y": 0.0
+  }
+}

@@ -1,0 +1,45 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": -3977807471082417869
+  },
+  "m_Name": "SNSList00",
+  "savePath": 1,
+  "isEnableCheckNoEmptyValue": 0,
+  "assetDataList": [
+    {
+      "obj": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      },
+      "path": "Assets/Main/Content/UI/Texture/SNS/Facebook.png",
+      "guid": "de249721e6c46c443bce2c82f98921bc",
+      "substitutedArrayIndex": 0
+    },
+    {
+      "obj": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      },
+      "path": "Assets/Main/Content/UI/Texture/SNS/Twitter.png",
+      "guid": "b05318cee428d8d4c921b2a4f6d952c1",
+      "substitutedArrayIndex": 1
+    },
+    {
+      "obj": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      },
+      "path": "Assets/Main/Content/UI/Texture/SNS/Nintendo.png",
+      "guid": "fb1d3aa7f9aa48e448b2a77bceaed1d8",
+      "substitutedArrayIndex": 2
+    }
+  ],
+  "assetType": 0,
+  "keyType": 0
+}

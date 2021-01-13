@@ -1,0 +1,33 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": -2954206603855530343
+  },
+  "m_Name": "TilingTextureColor",
+  "active": 1,
+  "enabled": {
+    "overrideState": 1,
+    "value": 1
+  },
+  "tileScale": {
+    "overrideState": 1,
+    "value": 0.0023
+  },
+  "colorThreshold": {
+    "overrideState": 0,
+    "value": 1.0
+  },
+  "clut": {
+    "overrideState": 1,
+    "value": {
+      "m_FileID": 0,
+      "m_PathID": -306510026981083884
+    },
+    "defaultState": 1
+  }
+}

@@ -1,0 +1,144 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": 1150354629195081500
+  },
+  "m_Name": "Train3dsrr_prm",
+  "mMapObjName": "Train3dsrr",
+  "mResource": [
+    {
+      "m_FileID": 6,
+      "m_PathID": -5913552835352194626
+    },
+    {
+      "m_FileID": 3,
+      "m_PathID": 2875229458412521249
+    },
+    {
+      "m_FileID": 3,
+      "m_PathID": 2875229458412521249
+    },
+    {
+      "m_FileID": 4,
+      "m_PathID": -7549437039462644088
+    },
+    {
+      "m_FileID": 4,
+      "m_PathID": -7549437039462644088
+    },
+    {
+      "m_FileID": 4,
+      "m_PathID": -7549437039462644088
+    },
+    {
+      "m_FileID": 4,
+      "m_PathID": -7549437039462644088
+    }
+  ],
+  "mKCol": [
+    {
+      "Name": "Train3dsrr_cl",
+      "KCol": {
+        "m_FileID": 0,
+        "m_PathID": 8923040323251775465
+      },
+      "KCol_0_5": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      },
+      "KCol_0_1": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      }
+    },
+    {
+      "Name": "Train3dsrrB_cl",
+      "KCol": {
+        "m_FileID": 0,
+        "m_PathID": -5001638481706873098
+      },
+      "KCol_0_5": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      },
+      "KCol_0_1": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      }
+    },
+    {
+      "Name": "Train3dsrrB2_cl",
+      "KCol": {
+        "m_FileID": 0,
+        "m_PathID": 5776295360390005959
+      },
+      "KCol_0_5": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      },
+      "KCol_0_1": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      }
+    }
+  ],
+  "mKColScale": 0,
+  "mModelOrigin": 0,
+  "mOffset": {
+    "x": 0.0,
+    "y": 0.0,
+    "z": 0.0
+  },
+  "mCollision": [],
+  "mAnimatorController": {
+    "m_FileID": 0,
+    "m_PathID": 3999329860590452989
+  },
+  "mSubAnimatorController": [
+    {
+      "m_FileID": 0,
+      "m_PathID": 6785812771569660491
+    },
+    {
+      "m_FileID": 5,
+      "m_PathID": -7795190942717991522
+    }
+  ],
+  "mEffectContainer": {
+    "m_FileID": 0,
+    "m_PathID": -6902798314089785837
+  },
+  "mEnableClip": 0,
+  "mEnableReceiveShadow": 0,
+  "mShadowType": 0,
+  "mProjectionMaterial": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "mShadowSize": {
+    "x": 0.0,
+    "y": 0.0,
+    "z": 0.0
+  },
+  "mShadowDensity": 0.5,
+  "mGndColRayLen": 10.0,
+  "mReactionInterval": 0.0,
+  "mLodScreenRelativeTransitionHeights": [
+    0.02,
+    0.001
+  ],
+  "mIsUseLodSettingsForPowerSaving": 0,
+  "mLodScreenRelativeTransitionHegihtsForPowerSaving": [],
+  "mDistancedDiscardHeight": 0.0,
+  "mIsDisableReverseScroll": 1,
+  "mDurationOnlyList": [],
+  "mIsDisableEvent": 0,
+  "mScoreUpMetaId": 0,
+  "mAlternateColorMaterials": [],
+  "mVariationNameList": []
+}

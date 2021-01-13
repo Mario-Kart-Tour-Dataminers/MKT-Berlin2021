@@ -1,0 +1,435 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": 2590768194287000671
+  },
+  "m_Name": "GoldMario_DynamicUnitInit",
+  "m_arInitProp": [
+    {
+      "strParentName": "",
+      "rigProp": {
+        "pos": {
+          "x": -0.399999976,
+          "y": 0.0,
+          "z": 0.0
+        },
+        "rot": {
+          "x": 0.0,
+          "y": -90.0,
+          "z": 0.0
+        },
+        "posHandleDef": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.2
+        },
+        "fRigRangeLimit": 0.2,
+        "fGravRate": 0.0,
+        "fAttract": 200.0,
+        "fFriction": 0.1,
+        "fUnderLimit": -1.0
+      },
+      "objProp": {
+        "fZReflectRate": 0.0,
+        "arFlapCycle": [
+          0.3,
+          0.2,
+          0.15
+        ]
+      },
+      "arNodeProp": [
+        {
+          "name": "HairL",
+          "arRot": [
+            {
+              "x": -60.0,
+              "y": 0.0,
+              "z": 90.0
+            },
+            {
+              "x": -30.0,
+              "y": 0.0,
+              "z": 90.0
+            },
+            {
+              "x": 0.0,
+              "y": 0.0,
+              "z": 90.0
+            },
+            {
+              "x": -60.0,
+              "y": 0.0,
+              "z": 120.0
+            },
+            {
+              "x": -30.0,
+              "y": 0.0,
+              "z": 120.0
+            },
+            {
+              "x": 0.0,
+              "y": 0.0,
+              "z": 120.0
+            },
+            {
+              "x": -60.0,
+              "y": 0.0,
+              "z": 150.0
+            },
+            {
+              "x": -30.0,
+              "y": 0.0,
+              "z": 150.0
+            },
+            {
+              "x": 0.0,
+              "y": 0.0,
+              "z": 150.0
+            }
+          ],
+          "arRotEditHint": [
+            {
+              "nRowCopy": 0,
+              "bColumnCopy": 1
+            },
+            {
+              "nRowCopy": 1,
+              "bColumnCopy": 1
+            },
+            {
+              "nRowCopy": 1,
+              "bColumnCopy": 0
+            }
+          ],
+          "vecFlap": {
+            "x": 5.0,
+            "y": 5.0,
+            "z": 5.0
+          },
+          "fFlapTiming": 0.0
+        }
+      ]
+    },
+    {
+      "strParentName": "",
+      "rigProp": {
+        "pos": {
+          "x": -0.4,
+          "y": 0.0,
+          "z": 0.0
+        },
+        "rot": {
+          "x": 0.0,
+          "y": -90.0,
+          "z": 0.0
+        },
+        "posHandleDef": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.2
+        },
+        "fRigRangeLimit": 0.2,
+        "fGravRate": 0.0,
+        "fAttract": 200.0,
+        "fFriction": 0.1,
+        "fUnderLimit": -1.0
+      },
+      "objProp": {
+        "fZReflectRate": 0.0,
+        "arFlapCycle": [
+          0.3,
+          0.2,
+          0.15
+        ]
+      },
+      "arNodeProp": [
+        {
+          "name": "HairR",
+          "arRot": [
+            {
+              "x": 0.0,
+              "y": 0.0,
+              "z": -90.0
+            },
+            {
+              "x": 30.0,
+              "y": 0.0,
+              "z": -90.0
+            },
+            {
+              "x": 60.0,
+              "y": 0.0,
+              "z": -90.0
+            },
+            {
+              "x": 0.0,
+              "y": 0.0,
+              "z": -60.0
+            },
+            {
+              "x": 30.0,
+              "y": 0.0,
+              "z": -60.0
+            },
+            {
+              "x": 60.0,
+              "y": 0.0,
+              "z": -60.0
+            },
+            {
+              "x": 0.0,
+              "y": 0.0,
+              "z": -30.0
+            },
+            {
+              "x": 30.0,
+              "y": 0.0,
+              "z": -30.0
+            },
+            {
+              "x": 60.0,
+              "y": 0.0,
+              "z": -30.0
+            }
+          ],
+          "arRotEditHint": [
+            {
+              "nRowCopy": 0,
+              "bColumnCopy": 1
+            },
+            {
+              "nRowCopy": 1,
+              "bColumnCopy": 1
+            },
+            {
+              "nRowCopy": 1,
+              "bColumnCopy": 0
+            }
+          ],
+          "vecFlap": {
+            "x": 5.0,
+            "y": 5.0,
+            "z": 5.0
+          },
+          "fFlapTiming": 0.0
+        }
+      ]
+    },
+    {
+      "strParentName": "",
+      "rigProp": {
+        "pos": {
+          "x": -0.12,
+          "y": 0.299999982,
+          "z": 0.049999997
+        },
+        "rot": {
+          "x": -40.0,
+          "y": 0.0,
+          "z": 90.0
+        },
+        "posHandleDef": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.2
+        },
+        "fRigRangeLimit": 0.2,
+        "fGravRate": 0.0,
+        "fAttract": 200.0,
+        "fFriction": 0.1,
+        "fUnderLimit": -1.0
+      },
+      "objProp": {
+        "fZReflectRate": 0.0,
+        "arFlapCycle": [
+          0.3,
+          0.2,
+          0.15
+        ]
+      },
+      "arNodeProp": [
+        {
+          "name": "MustacheL",
+          "arRot": [
+            {
+              "x": -80.0,
+              "y": -10.0,
+              "z": 65.0
+            },
+            {
+              "x": -70.0,
+              "y": -10.0,
+              "z": 65.0
+            },
+            {
+              "x": -60.0,
+              "y": -10.0,
+              "z": 65.0
+            },
+            {
+              "x": -80.0,
+              "y": 0.0,
+              "z": 65.0
+            },
+            {
+              "x": -70.0,
+              "y": 0.0,
+              "z": 65.0
+            },
+            {
+              "x": -60.0,
+              "y": 0.0,
+              "z": 65.0
+            },
+            {
+              "x": -80.0,
+              "y": 15.0,
+              "z": 65.0
+            },
+            {
+              "x": -70.0,
+              "y": 15.0,
+              "z": 65.0
+            },
+            {
+              "x": -60.0,
+              "y": 15.0,
+              "z": 65.0
+            }
+          ],
+          "arRotEditHint": [
+            {
+              "nRowCopy": 0,
+              "bColumnCopy": 1
+            },
+            {
+              "nRowCopy": 1,
+              "bColumnCopy": 0
+            },
+            {
+              "nRowCopy": 1,
+              "bColumnCopy": 1
+            }
+          ],
+          "vecFlap": {
+            "x": 2.0,
+            "y": 2.0,
+            "z": 2.0
+          },
+          "fFlapTiming": 0.0
+        }
+      ]
+    },
+    {
+      "strParentName": "",
+      "rigProp": {
+        "pos": {
+          "x": -0.12,
+          "y": 0.3,
+          "z": -0.05
+        },
+        "rot": {
+          "x": -130.0,
+          "y": 0.0,
+          "z": 90.0
+        },
+        "posHandleDef": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.2
+        },
+        "fRigRangeLimit": 0.2,
+        "fGravRate": 0.0,
+        "fAttract": 200.0,
+        "fFriction": 0.1,
+        "fUnderLimit": -1.0
+      },
+      "objProp": {
+        "fZReflectRate": 0.0,
+        "arFlapCycle": [
+          0.3,
+          0.2,
+          0.15
+        ]
+      },
+      "arNodeProp": [
+        {
+          "name": "MustacheR",
+          "arRot": [
+            {
+              "x": 60.0,
+              "y": 10.0,
+              "z": -115.0
+            },
+            {
+              "x": 70.0,
+              "y": 10.0,
+              "z": -115.0
+            },
+            {
+              "x": 80.0,
+              "y": 10.0,
+              "z": -115.0
+            },
+            {
+              "x": 60.0,
+              "y": 0.0,
+              "z": -115.0
+            },
+            {
+              "x": 70.0,
+              "y": 0.0,
+              "z": -115.0
+            },
+            {
+              "x": 80.0,
+              "y": 0.0,
+              "z": -115.0
+            },
+            {
+              "x": 60.0,
+              "y": -15.0,
+              "z": -115.0
+            },
+            {
+              "x": 70.0,
+              "y": -15.0,
+              "z": -115.0
+            },
+            {
+              "x": 80.0,
+              "y": -15.0,
+              "z": -115.0
+            }
+          ],
+          "arRotEditHint": [
+            {
+              "nRowCopy": 0,
+              "bColumnCopy": 1
+            },
+            {
+              "nRowCopy": 1,
+              "bColumnCopy": 0
+            },
+            {
+              "nRowCopy": 1,
+              "bColumnCopy": 1
+            }
+          ],
+          "vecFlap": {
+            "x": 2.0,
+            "y": 2.0,
+            "z": 2.0
+          },
+          "fFlapTiming": 0.1
+        }
+      ]
+    }
+  ],
+  "m_arInvalidMotion": []
+}

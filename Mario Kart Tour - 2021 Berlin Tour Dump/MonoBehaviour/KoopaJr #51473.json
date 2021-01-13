@@ -1,0 +1,135 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": -2094441087577622512
+  },
+  "m_Name": "KoopaJr",
+  "mModel": {
+    "m_FileID": 1,
+    "m_PathID": 265073731785864837
+  },
+  "mFaceTextures": [
+    {
+      "m_FileID": 2,
+      "m_PathID": -1658372156083496137
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -9096393658037396200
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -1116949704712522246
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 885603643702545102
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -5411847736228365275
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 739266972647471825
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -6093563856708566773
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 1109052042529485032
+    }
+  ],
+  "mIsFaceTextureEmission": 0,
+  "mEmblem": {
+    "m_FileID": 0,
+    "m_PathID": -6713776874104173771
+  },
+  "mAnimatorOverrideController": {
+    "m_FileID": 3,
+    "m_PathID": 8565258003895435879
+  },
+  "mKartScaleSize": 0.85,
+  "mWingJointType": 0,
+  "mFaceChangeEvent": {
+    "m_FileID": 0,
+    "m_PathID": 5964597087386261174
+  },
+  "mIconInfo": [
+    {
+      "mPath": "Assets/Main/Content/Driver/KoopaJr/Icons/KoopaJr.png",
+      "mGuid": "2d656c5c967d6e64b864746fd4d10b97"
+    },
+    {
+      "mPath": "Assets/Main/Content/Driver/KoopaJr/Icons/KoopaJrMap.png",
+      "mGuid": "c506dc876ae9ff1409f6bfeaf746712f"
+    },
+    {
+      "mPath": "Assets/Main/Content/Driver/KoopaJr/Icons/KoopaJrFaceEntry.png",
+      "mGuid": "5ee0fd146b3bfac48a2cf98aeaf7ed61"
+    },
+    {
+      "mPath": "Assets/Main/Content/Driver/KoopaJr/Icons/KoopaJrWholeBody.png",
+      "mGuid": "aacc3bfdb516c904f9d20f3cbd7ca4a6"
+    },
+    {
+      "mPath": "Assets/Main/Content/Driver/KoopaJr/Icons/KoopaJrUpperBody.png",
+      "mGuid": "859b0e65f16921b4994ea6292f85d658"
+    },
+    {
+      "mPath": "",
+      "mGuid": ""
+    },
+    {
+      "mPath": "Assets/Main/Content/Driver/KoopaJr/Icons/KoopaJr_Small.png",
+      "mGuid": "b055a7102e2dc2540a0eb7d695d0e2b1"
+    },
+    {
+      "mPath": "Assets/Main/Content/Driver/KoopaJr/Icons/KoopaJrFaceEntry_Small.png",
+      "mGuid": "e4548d220632e9f469d4f86be580263e"
+    },
+    {
+      "mPath": "Assets/Main/Content/Driver/KoopaJr/Icons/KoopaJrWholeBody_Small.png",
+      "mGuid": "5c9676e39288cd74282d7ea26366ca23"
+    },
+    {
+      "mPath": "Assets/Main/Content/Driver/KoopaJr/Icons/KoopaJrUpperBody_Small.png",
+      "mGuid": "dd319c868c1ba2a4685bacb9e527f99b"
+    }
+  ],
+  "mColorGroup": 0,
+  "mCharacterTextureList": [],
+  "mBaseParameter": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "mBodyMaterial": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "mEyeMaterial": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "mDynamicUnitMngInitData": {
+    "m_FileID": 0,
+    "m_PathID": -8388907653323257506
+  },
+  "mMetamorData": [],
+  "mDotDriverData": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "mDescription": "クッパJr.",
+  "mEffectContainer": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  }
+}

@@ -1,0 +1,135 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": -2094441087577622512
+  },
+  "m_Name": "MarioIce",
+  "mModel": {
+    "m_FileID": 1,
+    "m_PathID": -1585134973678460602
+  },
+  "mFaceTextures": [
+    {
+      "m_FileID": 3,
+      "m_PathID": -928517060048171441
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 8615392759903073707
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 4463211363843350485
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -1017718273128060186
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -5059970691604231331
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -2944899600495688098
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 1969659110139702166
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 2235737284263362470
+    }
+  ],
+  "mIsFaceTextureEmission": 0,
+  "mEmblem": {
+    "m_FileID": 0,
+    "m_PathID": 7184669270629739948
+  },
+  "mAnimatorOverrideController": {
+    "m_FileID": 2,
+    "m_PathID": -8644037231005755752
+  },
+  "mKartScaleSize": 1.0,
+  "mWingJointType": 0,
+  "mFaceChangeEvent": {
+    "m_FileID": 0,
+    "m_PathID": -4470736671686931611
+  },
+  "mIconInfo": [
+    {
+      "mPath": "Assets/Main/Content/Driver/MarioIce/Icons/MarioIce.png",
+      "mGuid": "f2f0724ebec7ffb4b966b4cd77ee628e"
+    },
+    {
+      "mPath": "Assets/Main/Content/Driver/MarioIce/Icons/MarioIceMap.png",
+      "mGuid": "0272aa15b96856f4a8c0a3c4b1bb45bf"
+    },
+    {
+      "mPath": "Assets/Main/Content/Driver/MarioIce/Icons/MarioIceFaceEntry.png",
+      "mGuid": "dc0e80d4c53198d41b2660eb5f0a7944"
+    },
+    {
+      "mPath": "Assets/Main/Content/Driver/MarioIce/Icons/MarioIceWholeBody.png",
+      "mGuid": "1f9a2c6d20293d044a417fee8a2068fa"
+    },
+    {
+      "mPath": "Assets/Main/Content/Driver/MarioIce/Icons/MarioIceUpperBody.png",
+      "mGuid": "eebceaa08634d364f8c305a636c3c619"
+    },
+    {
+      "mPath": "",
+      "mGuid": ""
+    },
+    {
+      "mPath": "Assets/Main/Content/Driver/MarioIce/Icons/MarioIce_Small.png",
+      "mGuid": "14a5122343d1a0e4aaf35d14c5677535"
+    },
+    {
+      "mPath": "Assets/Main/Content/Driver/MarioIce/Icons/MarioIceFaceEntry_Small.png",
+      "mGuid": "937cb40f79777c247aa64852d99975f0"
+    },
+    {
+      "mPath": "Assets/Main/Content/Driver/MarioIce/Icons/MarioIceWholeBody_Small.png",
+      "mGuid": "469b8bb5c8cf04c4b832f95268b9cd61"
+    },
+    {
+      "mPath": "Assets/Main/Content/Driver/MarioIce/Icons/MarioIceUpperBody_Small.png",
+      "mGuid": "49fea1d0dd3de5543820436f5516408c"
+    }
+  ],
+  "mColorGroup": 0,
+  "mCharacterTextureList": [],
+  "mBaseParameter": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "mBodyMaterial": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "mEyeMaterial": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "mDynamicUnitMngInitData": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "mMetamorData": [],
+  "mDotDriverData": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "mDescription": "",
+  "mEffectContainer": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  }
+}

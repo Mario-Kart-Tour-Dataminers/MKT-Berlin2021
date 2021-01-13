@@ -1,0 +1,100 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": -8652336194674809844
+  },
+  "m_Name": "BodyK_BananaB",
+  "mBodyModel": {
+    "m_FileID": 0,
+    "m_PathID": -3419886879053209451
+  },
+  "mDriverOffset": {
+    "x": 0.0,
+    "y": 0.0,
+    "z": 0.0
+  },
+  "mBodyCenterPosition": {
+    "x": 0.0,
+    "y": 0.0,
+    "z": 0.0
+  },
+  "mScrewPosition": {
+    "x": 0.0,
+    "y": 0.02,
+    "z": -0.57
+  },
+  "mShaftPositionList": [],
+  "mGearBoxData": {
+    "m_FileID": 2,
+    "m_PathID": 3532631435007547029
+  },
+  "mGearBoxScale": {
+    "x": 1.7,
+    "y": 1.3,
+    "z": 1.3
+  },
+  "mGearBoxPosition": {
+    "x": 0.0,
+    "y": -0.24,
+    "z": 0.7
+  },
+  "mGearBoxSlideOffset": {
+    "x": 0.0,
+    "y": 0.0,
+    "z": 0.05
+  },
+  "mBodyWingParams": {
+    "m_FileID": 0,
+    "m_PathID": 1490063037770889194
+  },
+  "mBodyTireParams": {
+    "m_FileID": 0,
+    "m_PathID": 7607920813744974492
+  },
+  "mIconInfo": [
+    {
+      "mPath": "Assets/Main/Content/Kart/Body/BodyK_BananaB/Icons/BodyK_BananaB.png",
+      "mGuid": "8ef61fe8f98c2574f96687c172f77bd9"
+    }
+  ],
+  "mJointMode": 1,
+  "mScrewScale": {
+    "x": 1.0,
+    "y": 1.0,
+    "z": 1.0
+  },
+  "mScrewAxisOffset": {
+    "x": 0.0,
+    "y": 0.0,
+    "z": -0.05
+  },
+  "mBackrestHeight": 0.0,
+  "mIsFixedIcon": 0,
+  "mBaseParameter": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "mMaterial": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "mGearBoxMaterial": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "mEffectContainer": {
+    "m_FileID": 0,
+    "m_PathID": 8151748094551815574
+  },
+  "mEffectContainerForTire": [],
+  "mDescription": "バナナバギー",
+  "mColorValiationRoot": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  }
+}

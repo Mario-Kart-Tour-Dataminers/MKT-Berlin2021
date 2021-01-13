@@ -1,0 +1,191 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": -3205259396417638272
+  },
+  "m_Name": "TireK_Wood8",
+  "mTireType": 3,
+  "mTireList": [
+    {
+      "mTireModel": {
+        "m_FileID": 0,
+        "m_PathID": 5746806818656577648
+      },
+      "mTireJointOffset": {
+        "x": -0.02,
+        "y": 0.005,
+        "z": 0.0
+      },
+      "mShaftModel": {
+        "m_FileID": 1,
+        "m_PathID": 4918039990703789073
+      },
+      "mShaftRotationLimit": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "mShaftScaleLimit": {
+        "x": 1.0,
+        "y": 1.0,
+        "z": 1.0
+      },
+      "mMirrorFront": 0
+    },
+    {
+      "mTireModel": {
+        "m_FileID": 0,
+        "m_PathID": 29735454803298859
+      },
+      "mTireJointOffset": {
+        "x": 0.02,
+        "y": 0.005,
+        "z": 0.0
+      },
+      "mShaftModel": {
+        "m_FileID": 2,
+        "m_PathID": 8694847285448990685
+      },
+      "mShaftRotationLimit": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "mShaftScaleLimit": {
+        "x": 1.0,
+        "y": 1.0,
+        "z": 1.0
+      },
+      "mMirrorFront": 0
+    },
+    {
+      "mTireModel": {
+        "m_FileID": 0,
+        "m_PathID": 5746806818656577648
+      },
+      "mTireJointOffset": {
+        "x": -0.01,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "mShaftModel": {
+        "m_FileID": 1,
+        "m_PathID": 4918039990703789073
+      },
+      "mShaftRotationLimit": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "mShaftScaleLimit": {
+        "x": 1.0,
+        "y": 1.0,
+        "z": 1.0
+      },
+      "mMirrorFront": 1
+    },
+    {
+      "mTireModel": {
+        "m_FileID": 0,
+        "m_PathID": 29735454803298859
+      },
+      "mTireJointOffset": {
+        "x": 0.01,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "mShaftModel": {
+        "m_FileID": 2,
+        "m_PathID": 8694847285448990685
+      },
+      "mShaftRotationLimit": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "mShaftScaleLimit": {
+        "x": 1.0,
+        "y": 1.0,
+        "z": 1.0
+      },
+      "mMirrorFront": 1
+    }
+  ],
+  "mIconInfo": [
+    {
+      "mPath": "Assets/Main/Content/Kart/Tire/TireK_Wood8/Icons/TireK_Wood8.png",
+      "mGuid": "d8715ee35fa7c8647b20122b20d8ca8d"
+    }
+  ],
+  "mIsFixedIcon": 0,
+  "mBaseParameter": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "mMaterial": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "mShaftMaterial": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "mEffectContainer": {
+    "m_FileID": 0,
+    "m_PathID": 2310347994263753771
+  },
+  "mEffectContainerForBody": [
+    {
+      "mKey": 1894510494,
+      "mContainer": {
+        "m_FileID": 0,
+        "m_PathID": 6218007836676096975
+      }
+    },
+    {
+      "mKey": 1594305071,
+      "mContainer": {
+        "m_FileID": 0,
+        "m_PathID": -357209858683026646
+      }
+    },
+    {
+      "mKey": 1177062736,
+      "mContainer": {
+        "m_FileID": 0,
+        "m_PathID": 2502031301376216157
+      }
+    },
+    {
+      "mKey": 4192937177,
+      "mContainer": {
+        "m_FileID": 0,
+        "m_PathID": 2476501058196383669
+      }
+    },
+    {
+      "mKey": 2480727258,
+      "mContainer": {
+        "m_FileID": 0,
+        "m_PathID": -3588471136807135172
+      }
+    },
+    {
+      "mKey": 2419345957,
+      "mContainer": {
+        "m_FileID": 0,
+        "m_PathID": 6791025608644756685
+      }
+    }
+  ],
+  "mDescription": "ウッドリング",
+  "mColorValiationRoot": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  }
+}

@@ -1,0 +1,50 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": 2434717279687273224
+  },
+  "m_Name": "Wing_Std_SignConstructionStripe",
+  "mWingModel": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "mIconInfo": [
+    {
+      "mPath": "Assets/Main/Content/Kart/Wing/Wing_Std/Icons/Wing_Std_SignConstructionStripe.png",
+      "mGuid": "985fe4d1acd9816468ff21077b4141d6"
+    },
+    {
+      "mPath": "Assets/Main/Content/Kart/Wing/Wing_Std/Icons/Wing_Std_SignConstructionStripe_Large.png",
+      "mGuid": "ec0c627020ae36b48838ac94671043f6"
+    },
+    {
+      "mPath": "Assets/Main/Content/Kart/Wing/Wing_Std/Icons/Wing_Std_SignConstructionStripe_Small.png",
+      "mGuid": "25e49a5d161d7fe4daabdef8710aff14"
+    }
+  ],
+  "mWingType": 0,
+  "mIsFixedIcon": 0,
+  "mBaseParameter": {
+    "m_FileID": 1,
+    "m_PathID": 2790807988414546290
+  },
+  "mMaterial": {
+    "m_FileID": 0,
+    "m_PathID": 1800999094900181452
+  },
+  "mEffectContainer": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "mIsDisableAngleAnimation": 0,
+  "mDescription": "",
+  "mColorValiationRoot": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  }
+}

@@ -1,0 +1,81 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": 1150354629195081500
+  },
+  "m_Name": "BlockBrown_prm",
+  "mMapObjName": "BlockBrown",
+  "mResource": [
+    {
+      "m_FileID": 3,
+      "m_PathID": -3707931031312602003
+    }
+  ],
+  "mKCol": [
+    {
+      "Name": "BlockBrown_cl",
+      "KCol": {
+        "m_FileID": 0,
+        "m_PathID": -230890393454678291
+      },
+      "KCol_0_5": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      },
+      "KCol_0_1": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      }
+    }
+  ],
+  "mKColScale": 0,
+  "mModelOrigin": 0,
+  "mOffset": {
+    "x": 0.0,
+    "y": 0.0,
+    "z": 0.0
+  },
+  "mCollision": [],
+  "mAnimatorController": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "mSubAnimatorController": [],
+  "mEffectContainer": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "mEnableClip": 0,
+  "mEnableReceiveShadow": 0,
+  "mShadowType": 2,
+  "mProjectionMaterial": {
+    "m_FileID": 0,
+    "m_PathID": -6392699021949012330
+  },
+  "mShadowSize": {
+    "x": 6.0,
+    "y": 0.0,
+    "z": 6.0
+  },
+  "mShadowDensity": 0.5,
+  "mGndColRayLen": 10.0,
+  "mReactionInterval": 0.0,
+  "mLodScreenRelativeTransitionHeights": [
+    0.03,
+    0.0
+  ],
+  "mIsUseLodSettingsForPowerSaving": 0,
+  "mLodScreenRelativeTransitionHegihtsForPowerSaving": [],
+  "mDistancedDiscardHeight": 0.0,
+  "mIsDisableReverseScroll": 1,
+  "mDurationOnlyList": [],
+  "mIsDisableEvent": 0,
+  "mScoreUpMetaId": 0,
+  "mAlternateColorMaterials": [],
+  "mVariationNameList": []
+}

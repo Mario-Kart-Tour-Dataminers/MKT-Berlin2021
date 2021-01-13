@@ -1,0 +1,135 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": -2094441087577622512
+  },
+  "m_Name": "MarioSwimwear",
+  "mModel": {
+    "m_FileID": 2,
+    "m_PathID": 5114372654336541446
+  },
+  "mFaceTextures": [
+    {
+      "m_FileID": 3,
+      "m_PathID": -486155980082281073
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 7741990847631264962
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -244049791180833734
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -5942293651316100428
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -4583198787185928765
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 3178681604303562164
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -1571894210945198364
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -3109091930044083851
+    }
+  ],
+  "mIsFaceTextureEmission": 0,
+  "mEmblem": {
+    "m_FileID": 0,
+    "m_PathID": -2420127473999322161
+  },
+  "mAnimatorOverrideController": {
+    "m_FileID": 1,
+    "m_PathID": 8222950395192691521
+  },
+  "mKartScaleSize": 1.0,
+  "mWingJointType": 0,
+  "mFaceChangeEvent": {
+    "m_FileID": 0,
+    "m_PathID": 5373077978598700815
+  },
+  "mIconInfo": [
+    {
+      "mPath": "Assets/Main/Content/Driver/MarioSwimwear/Icons/MarioSwimwear.png",
+      "mGuid": "6dcd28a2fb6f83c4e9fcced88a6f2d11"
+    },
+    {
+      "mPath": "Assets/Main/Content/Driver/MarioSwimwear/Icons/MarioSwimwearMap.png",
+      "mGuid": "1a8344b2541dbb14bb46a4808e959bdd"
+    },
+    {
+      "mPath": "Assets/Main/Content/Driver/MarioSwimwear/Icons/MarioSwimwearFaceEntry.png",
+      "mGuid": "aae4cc02a758f1d44b8234fbc6bcd9b8"
+    },
+    {
+      "mPath": "Assets/Main/Content/Driver/MarioSwimwear/Icons/MarioSwimwearWholeBody.png",
+      "mGuid": "802de376a2a35ad4a9648f3e5d389c03"
+    },
+    {
+      "mPath": "Assets/Main/Content/Driver/MarioSwimwear/Icons/MarioSwimwearUpperBody.png",
+      "mGuid": "aac16435c8828cc4b889da4e957abd91"
+    },
+    {
+      "mPath": "",
+      "mGuid": ""
+    },
+    {
+      "mPath": "Assets/Main/Content/Driver/MarioSwimwear/Icons/MarioSwimwear_Small.png",
+      "mGuid": "276f08ae4e6d552478fca54fd5851546"
+    },
+    {
+      "mPath": "Assets/Main/Content/Driver/MarioSwimwear/Icons/MarioSwimwearFaceEntry_Small.png",
+      "mGuid": "07369cb15de0edf4d8524d8d1e40f6b7"
+    },
+    {
+      "mPath": "Assets/Main/Content/Driver/MarioSwimwear/Icons/MarioSwimwearWholeBody_Small.png",
+      "mGuid": "29b892ee8362b904784cdb9fe642e82e"
+    },
+    {
+      "mPath": "Assets/Main/Content/Driver/MarioSwimwear/Icons/MarioSwimwearUpperBody_Small.png",
+      "mGuid": "9dcd1bd6c973f9945abc2902dbf483be"
+    }
+  ],
+  "mColorGroup": 0,
+  "mCharacterTextureList": [],
+  "mBaseParameter": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "mBodyMaterial": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "mEyeMaterial": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "mDynamicUnitMngInitData": {
+    "m_FileID": 0,
+    "m_PathID": -4654000096774940748
+  },
+  "mMetamorData": [],
+  "mDotDriverData": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "mDescription": "",
+  "mEffectContainer": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  }
+}

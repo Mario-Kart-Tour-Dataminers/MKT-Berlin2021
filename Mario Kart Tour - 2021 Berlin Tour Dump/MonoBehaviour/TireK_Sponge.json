@@ -1,0 +1,148 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": -3205259396417638272
+  },
+  "m_Name": "TireK_Sponge",
+  "mTireType": 0,
+  "mTireList": [
+    {
+      "mTireModel": {
+        "m_FileID": 0,
+        "m_PathID": -4362944014563277067
+      },
+      "mTireJointOffset": {
+        "x": -0.02,
+        "y": 0.005,
+        "z": 0.0
+      },
+      "mShaftModel": {
+        "m_FileID": 2,
+        "m_PathID": 1304701034575079371
+      },
+      "mShaftRotationLimit": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "mShaftScaleLimit": {
+        "x": 1.0,
+        "y": 1.0,
+        "z": 1.0
+      },
+      "mMirrorFront": 0
+    },
+    {
+      "mTireModel": {
+        "m_FileID": 0,
+        "m_PathID": 7679874415055053406
+      },
+      "mTireJointOffset": {
+        "x": 0.02,
+        "y": 0.005,
+        "z": 0.0
+      },
+      "mShaftModel": {
+        "m_FileID": 3,
+        "m_PathID": 8058008360298895072
+      },
+      "mShaftRotationLimit": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "mShaftScaleLimit": {
+        "x": 1.0,
+        "y": 1.0,
+        "z": 1.0
+      },
+      "mMirrorFront": 0
+    },
+    {
+      "mTireModel": {
+        "m_FileID": 0,
+        "m_PathID": -4362944014563277067
+      },
+      "mTireJointOffset": {
+        "x": -0.01,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "mShaftModel": {
+        "m_FileID": 2,
+        "m_PathID": 1304701034575079371
+      },
+      "mShaftRotationLimit": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "mShaftScaleLimit": {
+        "x": 1.0,
+        "y": 1.0,
+        "z": 1.0
+      },
+      "mMirrorFront": 1
+    },
+    {
+      "mTireModel": {
+        "m_FileID": 0,
+        "m_PathID": 7679874415055053406
+      },
+      "mTireJointOffset": {
+        "x": 0.01,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "mShaftModel": {
+        "m_FileID": 3,
+        "m_PathID": 8058008360298895072
+      },
+      "mShaftRotationLimit": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "mShaftScaleLimit": {
+        "x": 1.0,
+        "y": 1.0,
+        "z": 1.0
+      },
+      "mMirrorFront": 1
+    }
+  ],
+  "mIconInfo": [
+    {
+      "mPath": "Assets/Main/Content/Kart/Tire/TireK_Sponge/Icons/TireK_Sponge.png",
+      "mGuid": "90b095425f709f24ea827b9ae43cfaee"
+    }
+  ],
+  "mIsFixedIcon": 0,
+  "mBaseParameter": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "mMaterial": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "mShaftMaterial": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "mEffectContainer": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "mEffectContainerForBody": [],
+  "mDescription": "スポンジタイヤ",
+  "mColorValiationRoot": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  }
+}

@@ -1,0 +1,83 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": -8200333526547417912
+  },
+  "m_Name": "CameraBackMirror",
+  "cDistanceS": 5.0,
+  "cDistanceL": 6.0,
+  "cDistanceGiant": 8.0,
+  "cAtOffsetBackS": {
+    "x": 0.0,
+    "y": 1.2,
+    "z": 0.4
+  },
+  "cAtOffsetBackL": {
+    "x": 0.0,
+    "y": 1.9,
+    "z": 0.6
+  },
+  "cAtOffsetBackS_Landscape": {
+    "x": 0.0,
+    "y": 2.2,
+    "z": 0.4
+  },
+  "cAtOffsetBackL_Landscape": {
+    "x": 0.0,
+    "y": 2.9,
+    "z": 0.6
+  },
+  "cPosOffsetBackIncLerpRatio": 0.3,
+  "cPosOffsetBackIncLerpRatio_Giant": 0.1,
+  "cPosOffsetBackDecLerpRatio": 0.1,
+  "cOffsetYMinFromKartBottom": 0.0,
+  "cBackFovy": 55.0,
+  "cBackFovyMax": 80.0,
+  "cBackFovyMin": 55.0,
+  "cBackFovyVel": 40.0,
+  "cDegX": 17.5,
+  "cDegX_LandScape": 12.0,
+  "cDegXMax": 40.0,
+  "cDegY": 0.0,
+  "cDegYMax": 180.0,
+  "cDegYMin": -180.0,
+  "cVSAccRatioX": 1.2,
+  "cVSSpeedDecRatioX": 0.9,
+  "cVSSpeedMaxX": 90.0,
+  "cVSSpeedMinX": 30.0,
+  "cVSAccRatioY": 1.2,
+  "cVSSpeedDecRatioY": 0.9,
+  "cVSSpeedMaxY": 45.0,
+  "cVSSpeedMinY": 15.0,
+  "cNearClipPlane": 1.0,
+  "cCameraDistanceFollowCollision": 0.6,
+  "cCameraDegXFollowCollision": 1.0,
+  "cCameraDegXMaxVelCollision": 90.0,
+  "cCameraDegYFollowCollision": 0.3,
+  "cCameraDegYMaxVelCollision": 180.0,
+  "cCameraDegXForce": 0.5,
+  "cCameraDegYForce": 0.1,
+  "cCameraDegXForceSubRatio": 0.7,
+  "cCameraDegYForceSubRatio": 0.7,
+  "cCameraDegXForceMax": 10.0,
+  "cCameraDegYForceMax": 30.0,
+  "cCameraDegVelThreshold": 0.001,
+  "cCameraAttFollow": 0.1,
+  "cCameraDegXFollowMax": 3.0,
+  "cCameraDegYFollowMax": 5.0,
+  "cDestFollowMax": 0.5,
+  "cGoalMasterSpeed": 0.015,
+  "cDestFovyGoal": 55.0,
+  "cDestDegXGoal": 0.0,
+  "cDestDegYGoal": 0.0,
+  "RotationGyro": {
+    "PitchOffset": -20.0,
+    "GyroAttAveSec": 1.0,
+    "GyroAttLerpRate": 0.2
+  }
+}

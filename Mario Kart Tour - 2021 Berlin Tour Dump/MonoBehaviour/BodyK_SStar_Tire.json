@@ -1,0 +1,674 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": -5909979623682706310
+  },
+  "m_Name": "BodyK_SStar_Tire",
+  "mTireTypeSettings": [
+    {
+      "mTireType": 0,
+      "mUseGearBox": 0,
+      "mShaftList": [
+        {
+          "mShaftAngle": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 5.0
+          },
+          "mShaftScale": {
+            "x": 0.6,
+            "y": 1.0,
+            "z": 1.0
+          },
+          "mShaftPosition": {
+            "x": -0.3,
+            "y": -0.12,
+            "z": 0.95
+          },
+          "mTireOffset": {
+            "x": -0.119543359,
+            "y": -0.0104586892,
+            "z": 0.0
+          },
+          "mTireScale": {
+            "x": 1.0,
+            "y": 1.17,
+            "z": 1.17
+          },
+          "mTireAngle": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          },
+          "mIsAxis": 1,
+          "mMirrorLeft": 0,
+          "mTireJointOffset": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          }
+        },
+        {
+          "mShaftAngle": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": -5.0
+          },
+          "mShaftScale": {
+            "x": 0.6,
+            "y": 1.0,
+            "z": 1.0
+          },
+          "mShaftPosition": {
+            "x": 0.3,
+            "y": -0.12,
+            "z": 0.95
+          },
+          "mTireOffset": {
+            "x": 0.119543359,
+            "y": -0.0104586892,
+            "z": 0.0
+          },
+          "mTireScale": {
+            "x": 1.0,
+            "y": 1.17,
+            "z": 1.17
+          },
+          "mTireAngle": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          },
+          "mIsAxis": 1,
+          "mMirrorLeft": 1,
+          "mTireJointOffset": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          }
+        },
+        {
+          "mShaftAngle": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          },
+          "mShaftScale": {
+            "x": 0.5,
+            "y": 1.5,
+            "z": 1.5
+          },
+          "mShaftPosition": {
+            "x": -0.3,
+            "y": -0.115,
+            "z": -0.49
+          },
+          "mTireOffset": {
+            "x": -0.099999994,
+            "y": 0.0,
+            "z": 0.0
+          },
+          "mTireScale": {
+            "x": 1.25,
+            "y": 1.3,
+            "z": 1.3
+          },
+          "mTireAngle": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          },
+          "mIsAxis": 0,
+          "mMirrorLeft": 0,
+          "mTireJointOffset": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          }
+        },
+        {
+          "mShaftAngle": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          },
+          "mShaftScale": {
+            "x": 0.5,
+            "y": 1.5,
+            "z": 1.5
+          },
+          "mShaftPosition": {
+            "x": 0.3,
+            "y": -0.115,
+            "z": -0.49
+          },
+          "mTireOffset": {
+            "x": 0.099999994,
+            "y": 0.0,
+            "z": 0.0
+          },
+          "mTireScale": {
+            "x": 1.25,
+            "y": 1.3,
+            "z": 1.3
+          },
+          "mTireAngle": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          },
+          "mIsAxis": 0,
+          "mMirrorLeft": 1,
+          "mTireJointOffset": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          }
+        }
+      ],
+      "mHasSuspension": 1,
+      "mSuspensionDepth": 0.05,
+      "mSuspensionFloatDepth": 0.05
+    },
+    {
+      "mTireType": 1,
+      "mUseGearBox": 0,
+      "mShaftList": [
+        {
+          "mShaftAngle": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          },
+          "mShaftScale": {
+            "x": 1.2,
+            "y": 1.5,
+            "z": 1.5
+          },
+          "mShaftPosition": {
+            "x": -0.26,
+            "y": -0.105,
+            "z": 0.95
+          },
+          "mTireOffset": {
+            "x": -0.204000011,
+            "y": -0.104999989,
+            "z": 0.0
+          },
+          "mTireScale": {
+            "x": 1.0,
+            "y": 1.0,
+            "z": 1.0
+          },
+          "mTireAngle": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          },
+          "mIsAxis": 1,
+          "mMirrorLeft": 0,
+          "mTireJointOffset": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          }
+        },
+        {
+          "mShaftAngle": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          },
+          "mShaftScale": {
+            "x": 1.2,
+            "y": 1.5,
+            "z": 1.5
+          },
+          "mShaftPosition": {
+            "x": 0.26,
+            "y": -0.105,
+            "z": 0.95
+          },
+          "mTireOffset": {
+            "x": 0.204000011,
+            "y": -0.104999989,
+            "z": 0.0
+          },
+          "mTireScale": {
+            "x": 1.0,
+            "y": 1.0,
+            "z": 1.0
+          },
+          "mTireAngle": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          },
+          "mIsAxis": 1,
+          "mMirrorLeft": 1,
+          "mTireJointOffset": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          }
+        },
+        {
+          "mShaftAngle": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          },
+          "mShaftScale": {
+            "x": 1.3,
+            "y": 1.5,
+            "z": 1.5
+          },
+          "mShaftPosition": {
+            "x": -0.27,
+            "y": -0.1,
+            "z": -0.49
+          },
+          "mTireOffset": {
+            "x": -0.221,
+            "y": -0.104999989,
+            "z": 0.0
+          },
+          "mTireScale": {
+            "x": 1.05,
+            "y": 1.05,
+            "z": 1.05
+          },
+          "mTireAngle": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          },
+          "mIsAxis": 0,
+          "mMirrorLeft": 0,
+          "mTireJointOffset": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          }
+        },
+        {
+          "mShaftAngle": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          },
+          "mShaftScale": {
+            "x": 1.3,
+            "y": 1.5,
+            "z": 1.5
+          },
+          "mShaftPosition": {
+            "x": 0.27,
+            "y": -0.1,
+            "z": -0.49
+          },
+          "mTireOffset": {
+            "x": 0.221,
+            "y": -0.104999989,
+            "z": 0.0
+          },
+          "mTireScale": {
+            "x": 1.05,
+            "y": 1.05,
+            "z": 1.05
+          },
+          "mTireAngle": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          },
+          "mIsAxis": 0,
+          "mMirrorLeft": 1,
+          "mTireJointOffset": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          }
+        }
+      ],
+      "mHasSuspension": 1,
+      "mSuspensionDepth": 0.1,
+      "mSuspensionFloatDepth": 0.03
+    },
+    {
+      "mTireType": 3,
+      "mUseGearBox": 0,
+      "mShaftList": [
+        {
+          "mShaftAngle": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 10.0
+          },
+          "mShaftScale": {
+            "x": 0.75,
+            "y": 1.0,
+            "z": 1.0
+          },
+          "mShaftPosition": {
+            "x": -0.3,
+            "y": -0.11,
+            "z": 0.95
+          },
+          "mTireOffset": {
+            "x": -0.147721156,
+            "y": -0.0260472223,
+            "z": 0.0
+          },
+          "mTireScale": {
+            "x": 1.0,
+            "y": 0.85,
+            "z": 0.85
+          },
+          "mTireAngle": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": -1.0
+          },
+          "mIsAxis": 1,
+          "mMirrorLeft": 0,
+          "mTireJointOffset": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          }
+        },
+        {
+          "mShaftAngle": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": -10.0
+          },
+          "mShaftScale": {
+            "x": 0.75,
+            "y": 1.0,
+            "z": 1.0
+          },
+          "mShaftPosition": {
+            "x": 0.3,
+            "y": -0.11,
+            "z": 0.95
+          },
+          "mTireOffset": {
+            "x": 0.147721156,
+            "y": -0.0260472223,
+            "z": 0.0
+          },
+          "mTireScale": {
+            "x": 1.0,
+            "y": 0.85,
+            "z": 0.85
+          },
+          "mTireAngle": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 1.0
+          },
+          "mIsAxis": 1,
+          "mMirrorLeft": 1,
+          "mTireJointOffset": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          }
+        },
+        {
+          "mShaftAngle": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 5.0
+          },
+          "mShaftScale": {
+            "x": 0.95,
+            "y": 1.5,
+            "z": 1.5
+          },
+          "mShaftPosition": {
+            "x": -0.3,
+            "y": -0.105,
+            "z": -0.49
+          },
+          "mTireOffset": {
+            "x": -0.189276978,
+            "y": -0.01655959,
+            "z": 0.0
+          },
+          "mTireScale": {
+            "x": 1.0,
+            "y": 0.9,
+            "z": 0.9
+          },
+          "mTireAngle": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": -1.0
+          },
+          "mIsAxis": 0,
+          "mMirrorLeft": 0,
+          "mTireJointOffset": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          }
+        },
+        {
+          "mShaftAngle": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": -5.0
+          },
+          "mShaftScale": {
+            "x": 0.95,
+            "y": 1.5,
+            "z": 1.5
+          },
+          "mShaftPosition": {
+            "x": 0.3,
+            "y": -0.105,
+            "z": -0.49
+          },
+          "mTireOffset": {
+            "x": 0.189276978,
+            "y": -0.01655959,
+            "z": 0.0
+          },
+          "mTireScale": {
+            "x": 1.0,
+            "y": 0.9,
+            "z": 0.9
+          },
+          "mTireAngle": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 1.0
+          },
+          "mIsAxis": 0,
+          "mMirrorLeft": 1,
+          "mTireJointOffset": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          }
+        }
+      ],
+      "mHasSuspension": 1,
+      "mSuspensionDepth": 0.07,
+      "mSuspensionFloatDepth": 0.07
+    },
+    {
+      "mTireType": 2,
+      "mUseGearBox": 1,
+      "mShaftList": [
+        {
+          "mShaftAngle": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          },
+          "mShaftScale": {
+            "x": 1.4,
+            "y": 1.4,
+            "z": 1.45
+          },
+          "mShaftPosition": {
+            "x": -0.3,
+            "y": -0.12,
+            "z": 0.95
+          },
+          "mTireOffset": {
+            "x": -0.279999971,
+            "y": 0.0,
+            "z": 0.0
+          },
+          "mTireScale": {
+            "x": 1.2,
+            "y": 1.2,
+            "z": 1.2
+          },
+          "mTireAngle": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          },
+          "mIsAxis": 1,
+          "mMirrorLeft": 0,
+          "mTireJointOffset": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          }
+        },
+        {
+          "mShaftAngle": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          },
+          "mShaftScale": {
+            "x": 1.4,
+            "y": 1.4,
+            "z": 1.45
+          },
+          "mShaftPosition": {
+            "x": 0.3,
+            "y": -0.12,
+            "z": 0.95
+          },
+          "mTireOffset": {
+            "x": 0.279999971,
+            "y": 0.0,
+            "z": 0.0
+          },
+          "mTireScale": {
+            "x": 1.2,
+            "y": 1.2,
+            "z": 1.2
+          },
+          "mTireAngle": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          },
+          "mIsAxis": 1,
+          "mMirrorLeft": 1,
+          "mTireJointOffset": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          }
+        },
+        {
+          "mShaftAngle": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          },
+          "mShaftScale": {
+            "x": 1.4,
+            "y": 1.4,
+            "z": 1.4
+          },
+          "mShaftPosition": {
+            "x": -0.3,
+            "y": -0.1,
+            "z": -0.49
+          },
+          "mTireOffset": {
+            "x": -0.279999971,
+            "y": 0.0,
+            "z": 0.0
+          },
+          "mTireScale": {
+            "x": 1.2,
+            "y": 1.2,
+            "z": 1.2
+          },
+          "mTireAngle": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          },
+          "mIsAxis": 0,
+          "mMirrorLeft": 0,
+          "mTireJointOffset": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          }
+        },
+        {
+          "mShaftAngle": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          },
+          "mShaftScale": {
+            "x": 1.4,
+            "y": 1.4,
+            "z": 1.4
+          },
+          "mShaftPosition": {
+            "x": 0.3,
+            "y": -0.1,
+            "z": -0.49
+          },
+          "mTireOffset": {
+            "x": 0.279999971,
+            "y": 0.0,
+            "z": 0.0
+          },
+          "mTireScale": {
+            "x": 1.2,
+            "y": 1.2,
+            "z": 1.2
+          },
+          "mTireAngle": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          },
+          "mIsAxis": 0,
+          "mMirrorLeft": 1,
+          "mTireJointOffset": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          }
+        }
+      ],
+      "mHasSuspension": 1,
+      "mSuspensionDepth": 0.1,
+      "mSuspensionFloatDepth": 0.1
+    }
+  ]
+}

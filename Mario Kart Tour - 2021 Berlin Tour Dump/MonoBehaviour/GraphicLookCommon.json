@@ -1,0 +1,196 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": -3393743674299683
+  },
+  "m_Name": "GraphicLookCommon",
+  "mStarSphereMapTexture": {
+    "m_FileID": 0,
+    "m_PathID": 1491257490265567538
+  },
+  "mStarAlbedoBaseColor": {
+    "r": 0.498039216,
+    "g": 0.498039216,
+    "b": 0.498039216,
+    "a": 1.0
+  },
+  "mStarSphereMapScale": {
+    "x": 2.0,
+    "y": 2.0,
+    "z": 2.0,
+    "w": 2.0
+  },
+  "mStarColorCycleSeconds": 0.375,
+  "mStarColor": [
+    {
+      "r": 0.498039246,
+      "g": 0.0,
+      "b": 0.0,
+      "a": 0.0
+    },
+    {
+      "r": 0.498039246,
+      "g": 0.0,
+      "b": 0.0,
+      "a": 0.0
+    },
+    {
+      "r": 0.497,
+      "g": 0.0,
+      "b": 0.498039246,
+      "a": 0.0
+    },
+    {
+      "r": 0.498039216,
+      "g": 0.0,
+      "b": 0.497,
+      "a": 0.0
+    },
+    {
+      "r": 0.0,
+      "g": 0.0,
+      "b": 0.497,
+      "a": 0.0
+    },
+    {
+      "r": 0.0,
+      "g": 0.0,
+      "b": 0.497,
+      "a": 0.0
+    },
+    {
+      "r": 0.0,
+      "g": 0.497,
+      "b": 0.497,
+      "a": 0.0
+    },
+    {
+      "r": 0.0,
+      "g": 0.497,
+      "b": 0.497,
+      "a": 0.0
+    },
+    {
+      "r": 0.0,
+      "g": 0.497,
+      "b": 0.0,
+      "a": 0.0
+    },
+    {
+      "r": 0.0,
+      "g": 0.497,
+      "b": 0.0,
+      "a": 0.0
+    },
+    {
+      "r": 0.497,
+      "g": 0.497,
+      "b": 0.0,
+      "a": 0.0
+    },
+    {
+      "r": 0.497,
+      "g": 0.497,
+      "b": 0.0,
+      "a": 0.0
+    }
+  ],
+  "mGessoMinMSA": {
+    "x": 0.0,
+    "y": 1.0,
+    "z": 0.0,
+    "w": 0.0
+  },
+  "mKartFrozenMinMSA": {
+    "x": 0.5,
+    "y": 0.5,
+    "z": 0.0,
+    "w": 0.0
+  },
+  "mKartFrozenAddColor": {
+    "r": 0.435294122,
+    "g": 0.8117647,
+    "b": 1.0,
+    "a": 1.0
+  },
+  "mKartFrozenAddColorScale": 1.5,
+  "mWetColorScale": 0.75,
+  "mWetMinMSA": {
+    "x": 0.0,
+    "y": 0.8,
+    "z": 0.0,
+    "w": 0.0
+  },
+  "mWetDrySeconds": 4.0,
+  "mWetFullSeconds": 0.3,
+  "mSeparateJumpOffsetCurve": [
+    1.0
+  ],
+  "mMaxDriverNeckLookingBackAngle": 360.0,
+  "mMaxDriverNeckAngle": 45.0,
+  "mGhostAlphaFactor": 0.3,
+  "mGhostMainColor": {
+    "r": 0.5,
+    "g": 0.5,
+    "b": 0.5,
+    "a": 1.0
+  },
+  "mKartShadowScale": 1.0,
+  "mKartShadowBodyScale": 1.2,
+  "mKartShadowBodyBlurCount": 1,
+  "mKartShadowBodyAlphaFactor": 60,
+  "mKartShadowTireScale": 1.4,
+  "mKartShadowTireBlurCount": 1,
+  "mKartShadowTireAlphaFactor": 70,
+  "mKartSusList": [
+    {
+      "mTireType": 0,
+      "mIdlingSpeed": 6.0,
+      "mIdlingBottom": 0.02,
+      "mFloatingSpeed": 4.0,
+      "mLandingSpeed": 12.0,
+      "mHeightOffset": 0.022
+    },
+    {
+      "mTireType": 1,
+      "mIdlingSpeed": 6.0,
+      "mIdlingBottom": 0.02,
+      "mFloatingSpeed": 4.0,
+      "mLandingSpeed": 12.0,
+      "mHeightOffset": 0.03
+    },
+    {
+      "mTireType": 2,
+      "mIdlingSpeed": 6.0,
+      "mIdlingBottom": 0.02,
+      "mFloatingSpeed": 4.0,
+      "mLandingSpeed": 12.0,
+      "mHeightOffset": 0.025
+    },
+    {
+      "mTireType": 3,
+      "mIdlingSpeed": 6.0,
+      "mIdlingBottom": 0.02,
+      "mFloatingSpeed": 4.0,
+      "mLandingSpeed": 12.0,
+      "mHeightOffset": 0.028
+    }
+  ],
+  "mKartWingBlendMin": 0.5,
+  "mProjectionShadowCutoffDistance": 50.0,
+  "mProjectionShadowCutoffDistanceY": 5.0,
+  "mKartShadowHitSimpleCalcDistance": 100.0,
+  "mDashBoardCubemap": {
+    "m_FileID": 1,
+    "m_PathID": 640243685219423723
+  },
+  "mGlideBoardCubemap": {
+    "m_FileID": 2,
+    "m_PathID": -3998037931082943448
+  }
+}

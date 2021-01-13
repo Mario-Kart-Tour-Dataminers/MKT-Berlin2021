@@ -1,0 +1,107 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": -2094441087577622512
+  },
+  "m_Name": "Heyho_Black",
+  "mModel": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "mFaceTextures": [
+    {
+      "m_FileID": 1,
+      "m_PathID": 542334933262525450
+    }
+  ],
+  "mIsFaceTextureEmission": 0,
+  "mEmblem": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "mAnimatorOverrideController": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "mKartScaleSize": 0.0,
+  "mWingJointType": 0,
+  "mFaceChangeEvent": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "mIconInfo": [
+    {
+      "mPath": "Assets/Main/Content/Driver/Heyho/Icons/Heyho_Black.png",
+      "mGuid": "a82b712cebe770b46bf87eb47b79444d"
+    },
+    {
+      "mPath": "Assets/Main/Content/Driver/Heyho/Icons/Heyho_BlackMap.png",
+      "mGuid": "c37c6664ef7e34d47b742ec46d995d64"
+    },
+    {
+      "mPath": "Assets/Main/Content/Driver/Heyho/Icons/Heyho_BlackFaceEntry.png",
+      "mGuid": "6ae13e6141711c048ad39076a7d4f125"
+    },
+    {
+      "mPath": "Assets/Main/Content/Driver/Heyho/Icons/Heyho_BlackWholeBody.png",
+      "mGuid": "6f875d1c09f171e40a3979c512daa721"
+    },
+    {
+      "mPath": "Assets/Main/Content/Driver/Heyho/Icons/Heyho_BlackUpperBody.png",
+      "mGuid": "e4981ec4a4365ef43a788052806fd604"
+    },
+    {
+      "mPath": "",
+      "mGuid": ""
+    },
+    {
+      "mPath": "Assets/Main/Content/Driver/Heyho/Icons/Heyho_Black_Small.png",
+      "mGuid": "17a4c5f077fb0294b93311beead083ec"
+    },
+    {
+      "mPath": "Assets/Main/Content/Driver/Heyho/Icons/Heyho_BlackFaceEntry_Small.png",
+      "mGuid": "57e072141ec27a84b967b48b665c1bda"
+    },
+    {
+      "mPath": "Assets/Main/Content/Driver/Heyho/Icons/Heyho_BlackWholeBody_Small.png",
+      "mGuid": "bfcc03a0d97489d4581eace5a1376d79"
+    },
+    {
+      "mPath": "Assets/Main/Content/Driver/Heyho/Icons/Heyho_BlackUpperBody_Small.png",
+      "mGuid": "e233f780923b1e449b4fd12ab1bad3e6"
+    }
+  ],
+  "mColorGroup": 0,
+  "mCharacterTextureList": [],
+  "mBaseParameter": {
+    "m_FileID": 2,
+    "m_PathID": -2726365445358882949
+  },
+  "mBodyMaterial": {
+    "m_FileID": 0,
+    "m_PathID": -6360573457095355068
+  },
+  "mEyeMaterial": {
+    "m_FileID": 0,
+    "m_PathID": 3681007621756637116
+  },
+  "mDynamicUnitMngInitData": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "mMetamorData": [],
+  "mDotDriverData": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "mDescription": "",
+  "mEffectContainer": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  }
+}

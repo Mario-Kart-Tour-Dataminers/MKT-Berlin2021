@@ -1,0 +1,135 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": -2094441087577622512
+  },
+  "m_Name": "MarioCook",
+  "mModel": {
+    "m_FileID": 1,
+    "m_PathID": -591237219019080262
+  },
+  "mFaceTextures": [
+    {
+      "m_FileID": 2,
+      "m_PathID": -6786878288032948942
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -6468032259515622590
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -2065574741177690739
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -8318002210039396120
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -1162048175076893587
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -7778693060183843829
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 3023577150812618547
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 8226159181767738973
+    }
+  ],
+  "mIsFaceTextureEmission": 0,
+  "mEmblem": {
+    "m_FileID": 0,
+    "m_PathID": 687383082161649502
+  },
+  "mAnimatorOverrideController": {
+    "m_FileID": 3,
+    "m_PathID": -3397227025232816351
+  },
+  "mKartScaleSize": 1.0,
+  "mWingJointType": 0,
+  "mFaceChangeEvent": {
+    "m_FileID": 0,
+    "m_PathID": -222112098075627406
+  },
+  "mIconInfo": [
+    {
+      "mPath": "Assets/Main/Content/Driver/MarioCook/Icons/MarioCook.png",
+      "mGuid": "d9abf8a77a6dda845b0a071f7034bca5"
+    },
+    {
+      "mPath": "Assets/Main/Content/Driver/MarioCook/Icons/MarioCookMap.png",
+      "mGuid": "58bcfd85a93bc9c42b6399deae5fc287"
+    },
+    {
+      "mPath": "Assets/Main/Content/Driver/MarioCook/Icons/MarioCookFaceEntry.png",
+      "mGuid": "1cda44c1af9f17c4aaf183b522ed6315"
+    },
+    {
+      "mPath": "Assets/Main/Content/Driver/MarioCook/Icons/MarioCookWholeBody.png",
+      "mGuid": "641afe5c94c0edc4ea306724a3998978"
+    },
+    {
+      "mPath": "Assets/Main/Content/Driver/MarioCook/Icons/MarioCookUpperBody.png",
+      "mGuid": "b8dbc6de1b416514fb2be6a0dcf3ff72"
+    },
+    {
+      "mPath": "",
+      "mGuid": ""
+    },
+    {
+      "mPath": "Assets/Main/Content/Driver/MarioCook/Icons/MarioCook_Small.png",
+      "mGuid": "c42bfef455e678f4180ef8ee41b6ae38"
+    },
+    {
+      "mPath": "Assets/Main/Content/Driver/MarioCook/Icons/MarioCookFaceEntry_Small.png",
+      "mGuid": "806534d79342d9a479983ee519692d66"
+    },
+    {
+      "mPath": "Assets/Main/Content/Driver/MarioCook/Icons/MarioCookWholeBody_Small.png",
+      "mGuid": "0e69970e09801ce43ad24edfc3883fe6"
+    },
+    {
+      "mPath": "Assets/Main/Content/Driver/MarioCook/Icons/MarioCookUpperBody_Small.png",
+      "mGuid": "982eccc9ea9cd3e4a911c41fab2e371f"
+    }
+  ],
+  "mColorGroup": 0,
+  "mCharacterTextureList": [],
+  "mBaseParameter": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "mBodyMaterial": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "mEyeMaterial": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "mDynamicUnitMngInitData": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "mMetamorData": [],
+  "mDotDriverData": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "mDescription": "",
+  "mEffectContainer": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  }
+}

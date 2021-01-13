@@ -1,0 +1,15 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": 8336595064781322790
+  },
+  "m_Name": "TwitterSettingsDevelop",
+  "mConsumerKey": "OoZqLq9oEsNvpMjK7xp4oWWAP",
+  "mConsumerSecret": "kN7LzEqAjmyBrmvjyu8X3sK3xcVajw1HYzS2nTBXEmyj1UNiiM",
+  "mOAuthCallback": "boosterdev://"
+}

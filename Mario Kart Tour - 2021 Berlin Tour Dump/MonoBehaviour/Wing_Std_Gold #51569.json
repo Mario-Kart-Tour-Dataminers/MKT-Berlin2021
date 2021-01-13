@@ -1,0 +1,50 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": 2434717279687273224
+  },
+  "m_Name": "Wing_Std_Gold",
+  "mWingModel": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "mIconInfo": [
+    {
+      "mPath": "Assets/Main/Content/Kart/Wing/Wing_Std/Icons/Wing_Std_Gold.png",
+      "mGuid": "aeea1913b6961764ea3a5ce624b026ad"
+    },
+    {
+      "mPath": "Assets/Main/Content/Kart/Wing/Wing_Std/Icons/Wing_Std_Gold_Large.png",
+      "mGuid": "fbfd991f20d219d439e5cf13e58caeaa"
+    },
+    {
+      "mPath": "Assets/Main/Content/Kart/Wing/Wing_Std/Icons/Wing_Std_Gold_Small.png",
+      "mGuid": "59f456e7a5214a94eb8777854c77c87e"
+    }
+  ],
+  "mWingType": 0,
+  "mIsFixedIcon": 0,
+  "mBaseParameter": {
+    "m_FileID": 1,
+    "m_PathID": 2790807988414546290
+  },
+  "mMaterial": {
+    "m_FileID": 0,
+    "m_PathID": 8661249705320931824
+  },
+  "mEffectContainer": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "mIsDisableAngleAnimation": 0,
+  "mDescription": "スーパーカイト（ゴールド）",
+  "mColorValiationRoot": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  }
+}

@@ -1,0 +1,100 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": -8652336194674809844
+  },
+  "m_Name": "BodyK_OVacuum",
+  "mBodyModel": {
+    "m_FileID": 0,
+    "m_PathID": 2267426225261714569
+  },
+  "mDriverOffset": {
+    "x": 0.0,
+    "y": 0.0,
+    "z": 0.0
+  },
+  "mBodyCenterPosition": {
+    "x": 0.0,
+    "y": 0.0,
+    "z": 0.0
+  },
+  "mScrewPosition": {
+    "x": 0.0,
+    "y": 0.2,
+    "z": -0.4
+  },
+  "mShaftPositionList": [],
+  "mGearBoxData": {
+    "m_FileID": 3,
+    "m_PathID": 3532631435007547029
+  },
+  "mGearBoxScale": {
+    "x": 1.6,
+    "y": 1.2,
+    "z": 1.2
+  },
+  "mGearBoxPosition": {
+    "x": 0.0,
+    "y": -0.025,
+    "z": 0.83
+  },
+  "mGearBoxSlideOffset": {
+    "x": 0.0,
+    "y": 0.0,
+    "z": 0.08
+  },
+  "mBodyWingParams": {
+    "m_FileID": 0,
+    "m_PathID": -2707029538128469424
+  },
+  "mBodyTireParams": {
+    "m_FileID": 0,
+    "m_PathID": -9216271222005236927
+  },
+  "mIconInfo": [
+    {
+      "mPath": "Assets/Main/Content/Kart/Body/BodyK_OVacuum/Icons/BodyK_OVacuum.png",
+      "mGuid": "94c9370feac847348861192963ea15e0"
+    }
+  ],
+  "mJointMode": 1,
+  "mScrewScale": {
+    "x": 0.7,
+    "y": 0.7,
+    "z": 0.8
+  },
+  "mScrewAxisOffset": {
+    "x": 0.0,
+    "y": 0.0,
+    "z": 0.0
+  },
+  "mBackrestHeight": 0.0,
+  "mIsFixedIcon": 0,
+  "mBaseParameter": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "mMaterial": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "mGearBoxMaterial": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "mEffectContainer": {
+    "m_FileID": 0,
+    "m_PathID": -9025537851981628441
+  },
+  "mEffectContainerForTire": [],
+  "mDescription": "オバキューム",
+  "mColorValiationRoot": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  }
+}

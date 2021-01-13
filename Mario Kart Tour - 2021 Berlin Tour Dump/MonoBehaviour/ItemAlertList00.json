@@ -1,0 +1,108 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": -3977807471082417869
+  },
+  "m_Name": "ItemAlertList00",
+  "savePath": 1,
+  "isEnableCheckNoEmptyValue": 0,
+  "assetDataList": [
+    {
+      "obj": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      },
+      "path": "Assets/Main/Content/UI/Texture/Item/ItemEmpty.png",
+      "guid": "b83c9cc3759a26941a08441dd8e269cc",
+      "substitutedArrayIndex": 0
+    },
+    {
+      "obj": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      },
+      "path": "Assets/Main/Content/UI/Texture/Item/Item0003.png",
+      "guid": "80a66f7400d52d149b065a5c45931516",
+      "substitutedArrayIndex": 1
+    },
+    {
+      "obj": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      },
+      "path": "Assets/Main/Content/UI/Texture/Item/Item0007.png",
+      "guid": "d6405bf99d83dbe4e8c3a35d06ccfa65",
+      "substitutedArrayIndex": 2
+    },
+    {
+      "obj": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      },
+      "path": "Assets/Main/Content/UI/Texture/Item/Item0010.png",
+      "guid": "d27dcb794571e2d4599a7ae80c4bdbf0",
+      "substitutedArrayIndex": 3
+    },
+    {
+      "obj": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      },
+      "path": "Assets/Main/Content/UI/Texture/Item/Item0009.png",
+      "guid": "969d49a9f04a65741bcd022ab864d5fa",
+      "substitutedArrayIndex": 4
+    },
+    {
+      "obj": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      },
+      "path": "Assets/Main/Content/UI/Texture/Item/Item0026.png",
+      "guid": "17ce50e2152ed314fb0fdcda118f45a0",
+      "substitutedArrayIndex": 5
+    },
+    {
+      "obj": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      },
+      "path": "Assets/Main/Content/UI/Texture/Item/ItemEmpty.png",
+      "guid": "b83c9cc3759a26941a08441dd8e269cc",
+      "substitutedArrayIndex": 6
+    },
+    {
+      "obj": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      },
+      "path": "Assets/Main/Content/UI/Texture/Item/Item0055.png",
+      "guid": "81ac19deb2bc2b6468fd9697c5f65ee5",
+      "substitutedArrayIndex": 7
+    },
+    {
+      "obj": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      },
+      "path": "Assets/Main/Content/UI/Texture/Item/Item0017.png",
+      "guid": "0547e87bb2f777740a3a254179d9bc29",
+      "substitutedArrayIndex": 8
+    },
+    {
+      "obj": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      },
+      "path": "Assets/Main/Content/UI/Texture/Item/Item0027.png",
+      "guid": "b279aa1b5bddf7a42831698af72d8396",
+      "substitutedArrayIndex": 9
+    }
+  ],
+  "assetType": 0,
+  "keyType": 1
+}

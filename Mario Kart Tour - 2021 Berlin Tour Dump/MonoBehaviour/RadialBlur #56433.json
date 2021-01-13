@@ -1,0 +1,29 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": 5933890506672926589
+  },
+  "m_Name": "RadialBlur",
+  "active": 1,
+  "enabled": {
+    "overrideState": 1,
+    "value": 1
+  },
+  "blurCount": {
+    "overrideState": 1,
+    "value": 1
+  },
+  "blurPower": {
+    "overrideState": 1,
+    "value": 7.5
+  },
+  "blurPowerStepParCount": {
+    "overrideState": 1,
+    "value": 0.0
+  }
+}

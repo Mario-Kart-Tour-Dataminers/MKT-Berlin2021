@@ -1,0 +1,26 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": 980329048157257672
+  },
+  "m_Name": "Fbx_Gsfc_KoopaTroopaBeach2_MapInfo",
+  "rect": {
+    "x": -304.1792,
+    "y": -269.096924,
+    "width": 564.996,
+    "height": 564.996
+  },
+  "sprite": {
+    "m_FileID": 0,
+    "m_PathID": -6475195007013043027
+  },
+  "offset": {
+    "x": 0.0,
+    "y": 0.0
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": 1504187518563844771
+  },
+  "m_Name": "KartParamVehicleDash",
+  "cDashCounterCoin": 0.166666672,
+  "cDashCounterJumpAction": 0.4,
+  "cDashCounterKinoko": 2.0,
+  "cDashCounterKinokoShare": 0.75,
+  "cDashCounterPanel": 1.0,
+  "cDashCounterStarRing": 1.0,
+  "cDashCounterSlipStream": 2.25,
+  "cDashCounterJugem": 0.5,
+  "cDashCounterMiniTurboLv1Fever": 1.0,
+  "cDashCounterMiniTurboLv2Fever": 1.0,
+  "cDashCounterMiniTurboLv3Fever": 1.0,
+  "cDashCounterHalfPipe1": 1.75,
+  "cDashCounterHalfPipe2": 2.75,
+  "cDashCounterHalfPipeLongDash": 2.8,
+  "cDashCounterHalfPipeWithJumpAction": 1.5,
+  "cDashSpeedCoin": 1.06,
+  "cDashSpeedNormal": 1.1,
+  "cDashSpeedJumpAction": 1.3,
+  "cDashSpeedJumpAction_FeverTouch": 1.06,
+  "cDashSpeedKinoko": 1.2,
+  "cDashSpeedSlipStream": 1.2,
+  "cDashSpeedPanel": 1.3,
+  "cDashSpeedHalfPipe": 1.3
+}

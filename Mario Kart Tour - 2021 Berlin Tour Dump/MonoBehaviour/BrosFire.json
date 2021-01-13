@@ -1,0 +1,131 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": -2094441087577622512
+  },
+  "m_Name": "BrosFire",
+  "mModel": {
+    "m_FileID": 1,
+    "m_PathID": -8724758068999568054
+  },
+  "mFaceTextures": [
+    {
+      "m_FileID": 2,
+      "m_PathID": -5409315734124122100
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 7492030122311998886
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -347446481736991283
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 255477484252831417
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -5023735703376198187
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 8347325283979323671
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 4787024197921426875
+    }
+  ],
+  "mIsFaceTextureEmission": 0,
+  "mEmblem": {
+    "m_FileID": 0,
+    "m_PathID": -3994702976419736150
+  },
+  "mAnimatorOverrideController": {
+    "m_FileID": 3,
+    "m_PathID": -3517220758661327371
+  },
+  "mKartScaleSize": 1.0,
+  "mWingJointType": 0,
+  "mFaceChangeEvent": {
+    "m_FileID": 0,
+    "m_PathID": -1437937707384145977
+  },
+  "mIconInfo": [
+    {
+      "mPath": "Assets/Main/Content/Driver/BrosFire/Icons/BrosFire.png",
+      "mGuid": "85f24e2dbeb6d0b449cef2114a50b26a"
+    },
+    {
+      "mPath": "Assets/Main/Content/Driver/BrosFire/Icons/BrosFireMap.png",
+      "mGuid": "26bf0648179ba0845a9779284024b281"
+    },
+    {
+      "mPath": "Assets/Main/Content/Driver/BrosFire/Icons/BrosFireFaceEntry.png",
+      "mGuid": "f0d9a7d12860df74183c0c9f09bedfa2"
+    },
+    {
+      "mPath": "Assets/Main/Content/Driver/BrosFire/Icons/BrosFireWholeBody.png",
+      "mGuid": "ef9362979d7302a4a99868ea3dd7ff14"
+    },
+    {
+      "mPath": "Assets/Main/Content/Driver/BrosFire/Icons/BrosFireUpperBody.png",
+      "mGuid": "495741a08dbf0d847b52524ffa4201fe"
+    },
+    {
+      "mPath": "",
+      "mGuid": ""
+    },
+    {
+      "mPath": "Assets/Main/Content/Driver/BrosFire/Icons/BrosFire_Small.png",
+      "mGuid": "93444fdda8c36ec49a64e9b30af582dd"
+    },
+    {
+      "mPath": "Assets/Main/Content/Driver/BrosFire/Icons/BrosFireFaceEntry_Small.png",
+      "mGuid": "ba39e60066528514bbc98136e9ddc036"
+    },
+    {
+      "mPath": "Assets/Main/Content/Driver/BrosFire/Icons/BrosFireWholeBody_Small.png",
+      "mGuid": "e5f31a28f3a7d5b42b4b1a74e83ee218"
+    },
+    {
+      "mPath": "Assets/Main/Content/Driver/BrosFire/Icons/BrosFireUpperBody_Small.png",
+      "mGuid": "9f6ad11ebd228ff4cb137f6efbc9904c"
+    }
+  ],
+  "mColorGroup": 0,
+  "mCharacterTextureList": [],
+  "mBaseParameter": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "mBodyMaterial": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "mEyeMaterial": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "mDynamicUnitMngInitData": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "mMetamorData": [],
+  "mDotDriverData": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "mDescription": "",
+  "mEffectContainer": {
+    "m_FileID": 0,
+    "m_PathID": -5028626590733741934
+  }
+}

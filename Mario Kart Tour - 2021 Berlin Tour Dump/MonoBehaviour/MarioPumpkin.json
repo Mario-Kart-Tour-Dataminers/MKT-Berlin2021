@@ -1,0 +1,135 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": -2094441087577622512
+  },
+  "m_Name": "MarioPumpkin",
+  "mModel": {
+    "m_FileID": 3,
+    "m_PathID": -6856714870182245000
+  },
+  "mFaceTextures": [
+    {
+      "m_FileID": 1,
+      "m_PathID": 5578177610896195440
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -1903673528623556952
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -4186156124334745823
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -6654106347897265921
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -8018695071640684054
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 961810783288553334
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -4264440481124699188
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 5183058990771632301
+    }
+  ],
+  "mIsFaceTextureEmission": 0,
+  "mEmblem": {
+    "m_FileID": 0,
+    "m_PathID": -2516310438435984732
+  },
+  "mAnimatorOverrideController": {
+    "m_FileID": 2,
+    "m_PathID": -1037936185601012503
+  },
+  "mKartScaleSize": 1.0,
+  "mWingJointType": 0,
+  "mFaceChangeEvent": {
+    "m_FileID": 0,
+    "m_PathID": -4871957486939893991
+  },
+  "mIconInfo": [
+    {
+      "mPath": "Assets/Main/Content/Driver/MarioPumpkin/Icons/MarioPumpkin.png",
+      "mGuid": "0de894e00eafea54c912032a6bc3b78d"
+    },
+    {
+      "mPath": "Assets/Main/Content/Driver/MarioPumpkin/Icons/MarioPumpkinMap.png",
+      "mGuid": "622f19d5a1a7c0641a810e33a676f5d8"
+    },
+    {
+      "mPath": "Assets/Main/Content/Driver/MarioPumpkin/Icons/MarioPumpkinFaceEntry.png",
+      "mGuid": "d8ea7058f00f5684fa51754f2e18fcdf"
+    },
+    {
+      "mPath": "Assets/Main/Content/Driver/MarioPumpkin/Icons/MarioPumpkinWholeBody.png",
+      "mGuid": "b86614e962edef4478bcabe39abe6bb7"
+    },
+    {
+      "mPath": "Assets/Main/Content/Driver/MarioPumpkin/Icons/MarioPumpkinUpperBody.png",
+      "mGuid": "955ddbce602f8e941b23af60130b087a"
+    },
+    {
+      "mPath": "",
+      "mGuid": ""
+    },
+    {
+      "mPath": "Assets/Main/Content/Driver/MarioPumpkin/Icons/MarioPumpkin_Small.png",
+      "mGuid": "4f876504bef8d5146854a7b6ccca2764"
+    },
+    {
+      "mPath": "Assets/Main/Content/Driver/MarioPumpkin/Icons/MarioPumpkinFaceEntry_Small.png",
+      "mGuid": "b885b42288efd224d8db48bf0ea29a11"
+    },
+    {
+      "mPath": "Assets/Main/Content/Driver/MarioPumpkin/Icons/MarioPumpkinWholeBody_Small.png",
+      "mGuid": "2aaf92912058b9c43a84e4dc0d31a555"
+    },
+    {
+      "mPath": "Assets/Main/Content/Driver/MarioPumpkin/Icons/MarioPumpkinUpperBody_Small.png",
+      "mGuid": "f5a0441d863a382428e845dc386ef9ca"
+    }
+  ],
+  "mColorGroup": 0,
+  "mCharacterTextureList": [],
+  "mBaseParameter": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "mBodyMaterial": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "mEyeMaterial": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "mDynamicUnitMngInitData": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "mMetamorData": [],
+  "mDotDriverData": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "mDescription": "",
+  "mEffectContainer": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": -3205259396417638272
+  },
+  "m_Name": "TireK_Block_Black",
+  "mTireType": 0,
+  "mTireList": [],
+  "mIconInfo": [
+    {
+      "mPath": "",
+      "mGuid": ""
+    }
+  ],
+  "mIsFixedIcon": 0,
+  "mBaseParameter": {
+    "m_FileID": 1,
+    "m_PathID": 3924584540696270800
+  },
+  "mMaterial": {
+    "m_FileID": 2,
+    "m_PathID": -1822822764014227089
+  },
+  "mShaftMaterial": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "mEffectContainer": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "mEffectContainerForBody": [],
+  "mDescription": "ブロックタイヤ（黒）",
+  "mColorValiationRoot": {
+    "m_FileID": 1,
+    "m_PathID": 3924584540696270800
+  }
+}

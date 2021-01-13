@@ -1,0 +1,50 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": 2434717279687273224
+  },
+  "m_Name": "Wing_NewYear2021_Gold",
+  "mWingModel": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "mIconInfo": [
+    {
+      "mPath": "Assets/Main/Content/Kart/Wing/Wing_NewYear2021/Icons/Wing_NewYear2021_Gold.png",
+      "mGuid": "cd9703fd1cd2b214892abcde721c8b0d"
+    },
+    {
+      "mPath": "Assets/Main/Content/Kart/Wing/Wing_NewYear2021/Icons/Wing_NewYear2021_Gold_Large.png",
+      "mGuid": "35541197328d7274282749858118e50c"
+    },
+    {
+      "mPath": "Assets/Main/Content/Kart/Wing/Wing_NewYear2021/Icons/Wing_NewYear2021_Gold_Small.png",
+      "mGuid": "7f7f0b36e3a69d14d9e3eb5cc9347b09"
+    }
+  ],
+  "mWingType": 0,
+  "mIsFixedIcon": 0,
+  "mBaseParameter": {
+    "m_FileID": 0,
+    "m_PathID": -8548274803156506225
+  },
+  "mMaterial": {
+    "m_FileID": 0,
+    "m_PathID": 4214187696543361570
+  },
+  "mEffectContainer": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "mIsDisableAngleAnimation": 0,
+  "mDescription": "",
+  "mColorValiationRoot": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  }
+}

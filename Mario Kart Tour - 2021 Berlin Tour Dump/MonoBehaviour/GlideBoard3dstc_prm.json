@@ -1,0 +1,111 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": 1150354629195081500
+  },
+  "m_Name": "GlideBoard3dstc_prm",
+  "mMapObjName": "GlideBoard3dstc",
+  "mResource": [
+    {
+      "m_FileID": 1,
+      "m_PathID": 4395022875376745696
+    }
+  ],
+  "mKCol": [
+    {
+      "Name": "GlideBoard3dstc_Road_cl",
+      "KCol": {
+        "m_FileID": 0,
+        "m_PathID": -8331531243966292093
+      },
+      "KCol_0_5": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      },
+      "KCol_0_1": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      }
+    },
+    {
+      "Name": "GlideBoard3dstc_Glide_cl",
+      "KCol": {
+        "m_FileID": 0,
+        "m_PathID": -1090587416071898178
+      },
+      "KCol_0_5": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      },
+      "KCol_0_1": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      }
+    },
+    {
+      "Name": "GlideBoard3dstc_ITRoad_cl",
+      "KCol": {
+        "m_FileID": 0,
+        "m_PathID": -1290602876870559729
+      },
+      "KCol_0_5": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      },
+      "KCol_0_1": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      }
+    }
+  ],
+  "mKColScale": 0,
+  "mModelOrigin": 0,
+  "mOffset": {
+    "x": 0.0,
+    "y": 0.0,
+    "z": 0.0
+  },
+  "mCollision": [],
+  "mAnimatorController": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "mSubAnimatorController": [],
+  "mEffectContainer": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "mEnableClip": 0,
+  "mEnableReceiveShadow": 0,
+  "mShadowType": 0,
+  "mProjectionMaterial": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "mShadowSize": {
+    "x": 0.0,
+    "y": 0.0,
+    "z": 0.0
+  },
+  "mShadowDensity": 0.5,
+  "mGndColRayLen": 10.0,
+  "mReactionInterval": 0.0,
+  "mLodScreenRelativeTransitionHeights": [
+    0.05,
+    0.01
+  ],
+  "mIsUseLodSettingsForPowerSaving": 0,
+  "mLodScreenRelativeTransitionHegihtsForPowerSaving": [],
+  "mDistancedDiscardHeight": 0.0,
+  "mIsDisableReverseScroll": 1,
+  "mDurationOnlyList": [],
+  "mIsDisableEvent": 0,
+  "mScoreUpMetaId": 0,
+  "mAlternateColorMaterials": [],
+  "mVariationNameList": []
+}

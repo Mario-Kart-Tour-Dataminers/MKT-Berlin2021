@@ -1,0 +1,40 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": -6895405799716105771
+  },
+  "m_Name": "NotPartsCommonSettings",
+  "mIconInfo": [
+    {
+      "mPath": "Assets/Main/Content/UI/Texture/RareItemNormalBase01.png",
+      "mGuid": "2d48dbc9ed07f3d4eb25fca0cac99b66"
+    },
+    {
+      "mPath": "Assets/Main/Content/UI/Texture/RareItemRareBase01.png",
+      "mGuid": "f37230e781cee6b488e8a1bacb4badf9"
+    },
+    {
+      "mPath": "Assets/Main/Content/UI/Texture/RareItemUltraBase01.png",
+      "mGuid": "4aa5145b21a8f98458957fa1f1c638b3"
+    }
+  ],
+  "mBalloonIconInfo": [
+    {
+      "mPath": "Assets/Main/Content/UI/Texture/RareBalloonItemNormal00.png",
+      "mGuid": ""
+    },
+    {
+      "mPath": "Assets/Main/Content/UI/Texture/RareBalloonItemRare00.png",
+      "mGuid": ""
+    },
+    {
+      "mPath": "Assets/Main/Content/UI/Texture/RareBalloonItemUltra00.png",
+      "mGuid": ""
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": 980329048157257672
+  },
+  "m_Name": "Fbx_Gmob_HillClimb_MapInfo",
+  "rect": {
+    "x": -533.756958,
+    "y": -458.975281,
+    "width": 781.454346,
+    "height": 781.454346
+  },
+  "sprite": {
+    "m_FileID": 0,
+    "m_PathID": 6711524403986539943
+  },
+  "offset": {
+    "x": 0.0,
+    "y": 0.0
+  }
+}

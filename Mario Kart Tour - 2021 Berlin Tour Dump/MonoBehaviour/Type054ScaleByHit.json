@@ -1,0 +1,97 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": -7597948525821017007
+  },
+  "m_Name": "Type054ScaleByHit",
+  "mActivateion": {
+    "mIsAlwaysActive": 0,
+    "mIsActiveFront": 1,
+    "mIsActiveBack": 1,
+    "mIsActiveInCertainState": 1,
+    "mStatesToActivate": {
+      "mStates": [
+        4
+      ],
+      "mDelaySec": []
+    },
+    "mTriggersToForceActivate": {
+      "mStates": []
+    },
+    "mTriggersToForceDeactivate": {
+      "mStates": []
+    }
+  },
+  "mActivateionInFever": {
+    "mIsAlwaysActive": 0,
+    "mIsActiveFront": 0,
+    "mIsActiveBack": 0,
+    "mIsActiveInCertainState": 0,
+    "mStatesToActivate": {
+      "mStates": [],
+      "mDelaySec": []
+    },
+    "mTriggersToForceActivate": {
+      "mStates": []
+    },
+    "mTriggersToForceDeactivate": {
+      "mStates": []
+    }
+  },
+  "mScaleCurve": {
+    "mType": 1,
+    "mTypeParams": [],
+    "mCurve": [
+      {
+        "m_Curve": [
+          {
+            "time": 0.0,
+            "value": 1.0,
+            "inSlope": 1.88611817,
+            "outSlope": 1.88611817,
+            "weightedMode": 0,
+            "inWeight": 0.333333343,
+            "outWeight": 0.333333343
+          },
+          {
+            "time": 0.08955073,
+            "value": 1.15855467,
+            "inSlope": 0.00596046448,
+            "outSlope": 0.00596046448,
+            "weightedMode": 0,
+            "inWeight": 0.333333343,
+            "outWeight": 0.333333343
+          },
+          {
+            "time": 0.208828017,
+            "value": 0.9262356,
+            "inSlope": 0.2629185,
+            "outSlope": 0.2629185,
+            "weightedMode": 0,
+            "inWeight": 0.333333343,
+            "outWeight": 0.333333343
+          },
+          {
+            "time": 0.25392288,
+            "value": 0.9946186,
+            "inSlope": -0.0334171578,
+            "outSlope": -0.0334171578,
+            "weightedMode": 0,
+            "inWeight": 0.333333343,
+            "outWeight": 0.333333343
+          }
+        ],
+        "m_PreInfinity": 2,
+        "m_PostInfinity": 2,
+        "m_RotationOrder": 4
+      }
+    ]
+  },
+  "mMaxHitCount": 1,
+  "mHitCoolSec": 0.7
+}

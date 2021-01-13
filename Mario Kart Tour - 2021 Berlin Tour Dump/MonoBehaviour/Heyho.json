@@ -1,0 +1,107 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": -2094441087577622512
+  },
+  "m_Name": "Heyho",
+  "mModel": {
+    "m_FileID": 1,
+    "m_PathID": 5828676406544492777
+  },
+  "mFaceTextures": [
+    {
+      "m_FileID": 2,
+      "m_PathID": 542334933262525450
+    }
+  ],
+  "mIsFaceTextureEmission": 0,
+  "mEmblem": {
+    "m_FileID": 0,
+    "m_PathID": 4098269584301329884
+  },
+  "mAnimatorOverrideController": {
+    "m_FileID": 3,
+    "m_PathID": -2774649620233784554
+  },
+  "mKartScaleSize": 0.85,
+  "mWingJointType": 0,
+  "mFaceChangeEvent": {
+    "m_FileID": 0,
+    "m_PathID": 6324322378234679900
+  },
+  "mIconInfo": [
+    {
+      "mPath": "Assets/Main/Content/Driver/Heyho/Icons/Heyho.png",
+      "mGuid": "2c6c16eb4b8d9784c8535b01270a2227"
+    },
+    {
+      "mPath": "Assets/Main/Content/Driver/Heyho/Icons/HeyhoMap.png",
+      "mGuid": "e5d74e77e3f6d2743896c7aafdcfb2d6"
+    },
+    {
+      "mPath": "Assets/Main/Content/Driver/Heyho/Icons/HeyhoFaceEntry.png",
+      "mGuid": "2c087c7a9fb0ded4d85a219e4ab71ecd"
+    },
+    {
+      "mPath": "Assets/Main/Content/Driver/Heyho/Icons/HeyhoWholeBody.png",
+      "mGuid": "06e4d065c8902494b84b5d2fedd59f07"
+    },
+    {
+      "mPath": "Assets/Main/Content/Driver/Heyho/Icons/HeyhoUpperBody.png",
+      "mGuid": "0da674063c475634da52185b4b74800e"
+    },
+    {
+      "mPath": "",
+      "mGuid": ""
+    },
+    {
+      "mPath": "Assets/Main/Content/Driver/Heyho/Icons/Heyho_Small.png",
+      "mGuid": "c36feb2c200d8c648bc9906351559077"
+    },
+    {
+      "mPath": "Assets/Main/Content/Driver/Heyho/Icons/HeyhoFaceEntry_Small.png",
+      "mGuid": "89a5e133426f9fc47b157e43862371a3"
+    },
+    {
+      "mPath": "Assets/Main/Content/Driver/Heyho/Icons/HeyhoWholeBody_Small.png",
+      "mGuid": "bda47624d653ceb44a6fe942d679fb85"
+    },
+    {
+      "mPath": "Assets/Main/Content/Driver/Heyho/Icons/HeyhoUpperBody_Small.png",
+      "mGuid": "5020986df4c59ce4984d914dc20e7379"
+    }
+  ],
+  "mColorGroup": 0,
+  "mCharacterTextureList": [],
+  "mBaseParameter": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "mBodyMaterial": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "mEyeMaterial": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "mDynamicUnitMngInitData": {
+    "m_FileID": 0,
+    "m_PathID": 4725010150563970400
+  },
+  "mMetamorData": [],
+  "mDotDriverData": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "mDescription": "ヘイホー",
+  "mEffectContainer": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  }
+}

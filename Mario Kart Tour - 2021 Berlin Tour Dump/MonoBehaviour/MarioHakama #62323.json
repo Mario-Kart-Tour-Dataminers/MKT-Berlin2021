@@ -1,0 +1,135 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": -2094441087577622512
+  },
+  "m_Name": "MarioHakama",
+  "mModel": {
+    "m_FileID": 2,
+    "m_PathID": -5564144553363890214
+  },
+  "mFaceTextures": [
+    {
+      "m_FileID": 3,
+      "m_PathID": 4339914361774027054
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 6880601018678995651
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 5921344151734258522
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -3342490793455374120
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 7104019088419528122
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -3250540870667917228
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -6819824184949770642
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 3327960706364924251
+    }
+  ],
+  "mIsFaceTextureEmission": 0,
+  "mEmblem": {
+    "m_FileID": 0,
+    "m_PathID": 6527267703838352312
+  },
+  "mAnimatorOverrideController": {
+    "m_FileID": 1,
+    "m_PathID": 1989029323259804078
+  },
+  "mKartScaleSize": 1.0,
+  "mWingJointType": 0,
+  "mFaceChangeEvent": {
+    "m_FileID": 0,
+    "m_PathID": -629277121327898890
+  },
+  "mIconInfo": [
+    {
+      "mPath": "Assets/Main/Content/Driver/MarioHakama/Icons/MarioHakama.png",
+      "mGuid": "fedcb13ef4b4da5448b7d279e747e9c5"
+    },
+    {
+      "mPath": "Assets/Main/Content/Driver/MarioHakama/Icons/MarioHakamaMap.png",
+      "mGuid": "662c0f8d1303aae48ba2f1f17b5883ed"
+    },
+    {
+      "mPath": "Assets/Main/Content/Driver/MarioHakama/Icons/MarioHakamaFaceEntry.png",
+      "mGuid": "841c5f5880e13f14cb79356a07b662f1"
+    },
+    {
+      "mPath": "Assets/Main/Content/Driver/MarioHakama/Icons/MarioHakamaWholeBody.png",
+      "mGuid": "b89a321aa2a9f3c4481944c422cf9309"
+    },
+    {
+      "mPath": "Assets/Main/Content/Driver/MarioHakama/Icons/MarioHakamaUpperBody.png",
+      "mGuid": "1ec6d86f4ea621d4fb4f55ac681a5af1"
+    },
+    {
+      "mPath": "",
+      "mGuid": ""
+    },
+    {
+      "mPath": "Assets/Main/Content/Driver/MarioHakama/Icons/MarioHakama_Small.png",
+      "mGuid": "71b050cbb86735b498bc40b9abaf072a"
+    },
+    {
+      "mPath": "Assets/Main/Content/Driver/MarioHakama/Icons/MarioHakamaFaceEntry_Small.png",
+      "mGuid": "21961125cd44ee64dbf4821965d8ee32"
+    },
+    {
+      "mPath": "Assets/Main/Content/Driver/MarioHakama/Icons/MarioHakamaWholeBody_Small.png",
+      "mGuid": "5e0f313a53d88e9429f7106312b0df59"
+    },
+    {
+      "mPath": "Assets/Main/Content/Driver/MarioHakama/Icons/MarioHakamaUpperBody_Small.png",
+      "mGuid": "680a98be011f66645ac433066e8ed5cc"
+    }
+  ],
+  "mColorGroup": 0,
+  "mCharacterTextureList": [],
+  "mBaseParameter": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "mBodyMaterial": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "mEyeMaterial": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "mDynamicUnitMngInitData": {
+    "m_FileID": 0,
+    "m_PathID": -3836476230632771309
+  },
+  "mMetamorData": [],
+  "mDotDriverData": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "mDescription": "はかまマリオ",
+  "mEffectContainer": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  }
+}

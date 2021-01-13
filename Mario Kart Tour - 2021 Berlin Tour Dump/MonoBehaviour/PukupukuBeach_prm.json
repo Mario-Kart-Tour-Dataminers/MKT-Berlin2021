@@ -1,0 +1,252 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": 1150354629195081500
+  },
+  "m_Name": "PukupukuBeach_prm",
+  "mMapObjName": "PukupukuBeach",
+  "mResource": [
+    {
+      "m_FileID": 2,
+      "m_PathID": 8787618674470405485
+    }
+  ],
+  "mKCol": [],
+  "mKColScale": 0,
+  "mModelOrigin": 0,
+  "mOffset": {
+    "x": 0.0,
+    "y": 0.0,
+    "z": 0.0
+  },
+  "mCollision": [
+    {
+      "mName": "",
+      "mShapes": [
+        {
+          "mName": "",
+          "mShape": 0,
+          "mSize": {
+            "x": 3.0,
+            "y": 0.0,
+            "z": 0.0
+          },
+          "mPos": {
+            "x": 0.0,
+            "y": -3.0,
+            "z": 0.0
+          },
+          "mRotate": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          },
+          "mIsStrictContinuous": 0
+        }
+      ],
+      "mObjReactToKart": [
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        0,
+        1,
+        1,
+        1
+      ],
+      "mObjReactToItem": [
+        0,
+        1,
+        1,
+        0,
+        0,
+        0,
+        1,
+        1,
+        0,
+        0,
+        1,
+        0,
+        0,
+        1,
+        1,
+        1,
+        1,
+        0,
+        0,
+        1,
+        0,
+        1,
+        1,
+        0,
+        0,
+        1,
+        0,
+        0,
+        1,
+        1,
+        1,
+        1,
+        1,
+        0,
+        0,
+        1,
+        0,
+        1,
+        1,
+        1,
+        1,
+        0,
+        0,
+        0,
+        0,
+        1,
+        0,
+        0,
+        0,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1
+      ],
+      "mKartReactToObj": [
+        4,
+        1,
+        1,
+        1,
+        4,
+        1,
+        0,
+        4,
+        4,
+        4
+      ],
+      "mItemReactToObj": [
+        0,
+        1,
+        1,
+        2,
+        2,
+        2,
+        0,
+        0,
+        0,
+        0,
+        1,
+        0,
+        0,
+        1,
+        1,
+        1,
+        1,
+        0,
+        0,
+        0,
+        2,
+        1,
+        0,
+        0,
+        0,
+        1,
+        0,
+        0,
+        0,
+        0,
+        1,
+        1,
+        1,
+        2,
+        2,
+        1,
+        0,
+        0,
+        1,
+        1,
+        1,
+        0,
+        0,
+        0,
+        0,
+        1,
+        2,
+        2,
+        2,
+        1,
+        1,
+        1,
+        0,
+        0,
+        0
+      ],
+      "mObjReactToObj": [
+        0,
+        0
+      ],
+      "mItemReflectBoundCoef": {
+        "Enabled": 0,
+        "Value": 0.0
+      },
+      "mItemReflectFricCoef": {
+        "Enabled": 0,
+        "Value": 0.0
+      },
+      "mIsAIApproach": 0,
+      "mAIReact": 0,
+      "mScore": [
+        0,
+        10,
+        0
+      ],
+      "mTargetMask": {
+        "Bit": 255
+      },
+      "mBoxColRadius": 0.0
+    }
+  ],
+  "mAnimatorController": {
+    "m_FileID": 3,
+    "m_PathID": -7089020551688710536
+  },
+  "mSubAnimatorController": [],
+  "mEffectContainer": {
+    "m_FileID": 0,
+    "m_PathID": -3610556188314436308
+  },
+  "mEnableClip": 0,
+  "mEnableReceiveShadow": 0,
+  "mShadowType": 1,
+  "mProjectionMaterial": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "mShadowSize": {
+    "x": 7.0,
+    "y": 0.0,
+    "z": 7.0
+  },
+  "mShadowDensity": 0.5,
+  "mGndColRayLen": 25.0,
+  "mReactionInterval": 0.0,
+  "mLodScreenRelativeTransitionHeights": [
+    0.05,
+    0.011
+  ],
+  "mIsUseLodSettingsForPowerSaving": 0,
+  "mLodScreenRelativeTransitionHegihtsForPowerSaving": [],
+  "mDistancedDiscardHeight": 0.0,
+  "mIsDisableReverseScroll": 1,
+  "mDurationOnlyList": [],
+  "mIsDisableEvent": 0,
+  "mScoreUpMetaId": 0,
+  "mAlternateColorMaterials": [],
+  "mVariationNameList": []
+}

@@ -1,0 +1,135 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": -2094441087577622512
+  },
+  "m_Name": "Iggy",
+  "mModel": {
+    "m_FileID": 3,
+    "m_PathID": 4390847243561708720
+  },
+  "mFaceTextures": [
+    {
+      "m_FileID": 2,
+      "m_PathID": 6182867959144452023
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -7861396156137920102
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 5208169382047947717
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -6629590902100534873
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 1631054904660363909
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 3256946762977416192
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 6764216976431941511
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 5575020672406088040
+    }
+  ],
+  "mIsFaceTextureEmission": 0,
+  "mEmblem": {
+    "m_FileID": 0,
+    "m_PathID": -7413866821104678697
+  },
+  "mAnimatorOverrideController": {
+    "m_FileID": 1,
+    "m_PathID": -6320259435167102138
+  },
+  "mKartScaleSize": 1.0,
+  "mWingJointType": 0,
+  "mFaceChangeEvent": {
+    "m_FileID": 0,
+    "m_PathID": 1539227676005613576
+  },
+  "mIconInfo": [
+    {
+      "mPath": "Assets/Main/Content/Driver/Iggy/Icons/Iggy.png",
+      "mGuid": "671b58ed944586140b23c2065e645ff8"
+    },
+    {
+      "mPath": "Assets/Main/Content/Driver/Iggy/Icons/IggyMap.png",
+      "mGuid": "a601cb502881a0c48b3c200673d71cdf"
+    },
+    {
+      "mPath": "Assets/Main/Content/Driver/Iggy/Icons/IggyFaceEntry.png",
+      "mGuid": "98820d3c78f91614289f7416ae8b1067"
+    },
+    {
+      "mPath": "Assets/Main/Content/Driver/Iggy/Icons/IggyWholeBody.png",
+      "mGuid": "522443d8f65144346b7a4b1b8de5dcc7"
+    },
+    {
+      "mPath": "Assets/Main/Content/Driver/Iggy/Icons/IggyUpperBody.png",
+      "mGuid": "c385bdc3bfc238d4b84c4b93a41ba04b"
+    },
+    {
+      "mPath": "",
+      "mGuid": ""
+    },
+    {
+      "mPath": "Assets/Main/Content/Driver/Iggy/Icons/Iggy_Small.png",
+      "mGuid": "956fb3cdf6da15e49a14810fbc3d1ec7"
+    },
+    {
+      "mPath": "Assets/Main/Content/Driver/Iggy/Icons/IggyFaceEntry_Small.png",
+      "mGuid": "6e0984a0799d39b438c6f0e326572d0f"
+    },
+    {
+      "mPath": "Assets/Main/Content/Driver/Iggy/Icons/IggyWholeBody_Small.png",
+      "mGuid": "5ba43436f997cd24e9a4e8b68661ff3a"
+    },
+    {
+      "mPath": "Assets/Main/Content/Driver/Iggy/Icons/IggyUpperBody_Small.png",
+      "mGuid": "84200ee2480fa934396a6f9d236968f7"
+    }
+  ],
+  "mColorGroup": 0,
+  "mCharacterTextureList": [],
+  "mBaseParameter": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "mBodyMaterial": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "mEyeMaterial": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "mDynamicUnitMngInitData": {
+    "m_FileID": 0,
+    "m_PathID": -34155190715005829
+  },
+  "mMetamorData": [],
+  "mDotDriverData": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "mDescription": "イギー",
+  "mEffectContainer": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  }
+}

@@ -1,0 +1,244 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": 209972380458786307
+  },
+  "m_Name": "FxCt_ArE_G3ds_ToadCircuit",
+  "mEffectParameterList": [
+    {
+      "Name": "Eff0_00",
+      "Prefab": {
+        "m_FileID": 3,
+        "m_PathID": -7434354182510329915
+      },
+      "AnimatorController": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      },
+      "Max": 1,
+      "MaxInPowerSaving": -1,
+      "PlayAtTransform": "",
+      "FollowPlayAtTransform": 0,
+      "UseAlpha": 1,
+      "PositionOffset": {
+        "x": 15.0,
+        "y": 50.0,
+        "z": 120.0
+      },
+      "RotateOffset": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "ScaleOffset": {
+        "x": 1.0,
+        "y": 1.0,
+        "z": 1.0
+      },
+      "LookAtTransform": "",
+      "EmitState": "",
+      "EmitDelay": 0.0,
+      "IsStopOnStateLeave": 0,
+      "StopDelay": 0.0,
+      "IsFollowShaftScaleForTire": 0,
+      "IsCheckCondition": 0,
+      "IsCheckGroundAttribute": 0,
+      "GroundAttribute": 0,
+      "GroundMaterial": 0,
+      "IsCheckCourseId": 0,
+      "CourseIdHash": 0,
+      "IsCheckInWater": 0,
+      "InWater": 0,
+      "IsExpand": 0
+    },
+    {
+      "Name": "Eff1_00",
+      "Prefab": {
+        "m_FileID": 0,
+        "m_PathID": -3793797671378718116
+      },
+      "AnimatorController": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      },
+      "Max": 1,
+      "MaxInPowerSaving": -1,
+      "PlayAtTransform": "",
+      "FollowPlayAtTransform": 0,
+      "UseAlpha": 1,
+      "PositionOffset": {
+        "x": 167.1,
+        "y": 32.2,
+        "z": 326.1
+      },
+      "RotateOffset": {
+        "x": 0.0,
+        "y": 133.181,
+        "z": 0.0
+      },
+      "ScaleOffset": {
+        "x": 1.0,
+        "y": 1.0,
+        "z": 1.0
+      },
+      "LookAtTransform": "",
+      "EmitState": "",
+      "EmitDelay": 0.0,
+      "IsStopOnStateLeave": 0,
+      "StopDelay": 0.0,
+      "IsFollowShaftScaleForTire": 0,
+      "IsCheckCondition": 0,
+      "IsCheckGroundAttribute": 0,
+      "GroundAttribute": 0,
+      "GroundMaterial": 0,
+      "IsCheckCourseId": 0,
+      "CourseIdHash": 0,
+      "IsCheckInWater": 0,
+      "InWater": 0,
+      "IsExpand": 1
+    },
+    {
+      "Name": "Eff2_00",
+      "Prefab": {
+        "m_FileID": 0,
+        "m_PathID": 998081096992953018
+      },
+      "AnimatorController": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      },
+      "Max": 1,
+      "MaxInPowerSaving": -1,
+      "PlayAtTransform": "",
+      "FollowPlayAtTransform": 0,
+      "UseAlpha": 1,
+      "PositionOffset": {
+        "x": 76.5,
+        "y": 35.9,
+        "z": 399.3
+      },
+      "RotateOffset": {
+        "x": 0.0,
+        "y": 65.595,
+        "z": 0.0
+      },
+      "ScaleOffset": {
+        "x": 1.0,
+        "y": 1.0,
+        "z": 1.0
+      },
+      "LookAtTransform": "",
+      "EmitState": "",
+      "EmitDelay": 0.0,
+      "IsStopOnStateLeave": 0,
+      "StopDelay": 0.0,
+      "IsFollowShaftScaleForTire": 0,
+      "IsCheckCondition": 0,
+      "IsCheckGroundAttribute": 0,
+      "GroundAttribute": 0,
+      "GroundMaterial": 0,
+      "IsCheckCourseId": 0,
+      "CourseIdHash": 0,
+      "IsCheckInWater": 0,
+      "InWater": 0,
+      "IsExpand": 1
+    },
+    {
+      "Name": "Eff3_00",
+      "Prefab": {
+        "m_FileID": 0,
+        "m_PathID": 55703233766868941
+      },
+      "AnimatorController": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      },
+      "Max": 1,
+      "MaxInPowerSaving": -1,
+      "PlayAtTransform": "",
+      "FollowPlayAtTransform": 0,
+      "UseAlpha": 1,
+      "PositionOffset": {
+        "x": -28.2,
+        "y": 33.2,
+        "z": 321.2
+      },
+      "RotateOffset": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "ScaleOffset": {
+        "x": 1.0,
+        "y": 1.0,
+        "z": 1.0
+      },
+      "LookAtTransform": "",
+      "EmitState": "",
+      "EmitDelay": 0.0,
+      "IsStopOnStateLeave": 0,
+      "StopDelay": 0.0,
+      "IsFollowShaftScaleForTire": 0,
+      "IsCheckCondition": 0,
+      "IsCheckGroundAttribute": 0,
+      "GroundAttribute": 0,
+      "GroundMaterial": 0,
+      "IsCheckCourseId": 0,
+      "CourseIdHash": 0,
+      "IsCheckInWater": 0,
+      "InWater": 0,
+      "IsExpand": 1
+    },
+    {
+      "Name": "Eff4_00",
+      "Prefab": {
+        "m_FileID": 0,
+        "m_PathID": 9194573608021303056
+      },
+      "AnimatorController": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      },
+      "Max": 1,
+      "MaxInPowerSaving": -1,
+      "PlayAtTransform": "",
+      "FollowPlayAtTransform": 0,
+      "UseAlpha": 1,
+      "PositionOffset": {
+        "x": -42.7,
+        "y": 31.8,
+        "z": 224.7
+      },
+      "RotateOffset": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "ScaleOffset": {
+        "x": 1.0,
+        "y": 1.0,
+        "z": 1.0
+      },
+      "LookAtTransform": "",
+      "EmitState": "",
+      "EmitDelay": 0.0,
+      "IsStopOnStateLeave": 0,
+      "StopDelay": 0.0,
+      "IsFollowShaftScaleForTire": 0,
+      "IsCheckCondition": 0,
+      "IsCheckGroundAttribute": 0,
+      "GroundAttribute": 0,
+      "GroundMaterial": 0,
+      "IsCheckCourseId": 0,
+      "CourseIdHash": 0,
+      "IsCheckInWater": 0,
+      "InWater": 0,
+      "IsExpand": 1
+    }
+  ]
+}

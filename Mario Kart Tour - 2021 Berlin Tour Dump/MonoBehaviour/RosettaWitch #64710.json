@@ -1,0 +1,131 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": -2094441087577622512
+  },
+  "m_Name": "RosettaWitch",
+  "mModel": {
+    "m_FileID": 1,
+    "m_PathID": 7090418414111125434
+  },
+  "mFaceTextures": [
+    {
+      "m_FileID": 2,
+      "m_PathID": -3032779605133332163
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -5922865896117913760
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 5541812228580083685
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 8439436857348408528
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 5733746509920748087
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -2298148161667777661
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -3881464638358121804
+    }
+  ],
+  "mIsFaceTextureEmission": 0,
+  "mEmblem": {
+    "m_FileID": 0,
+    "m_PathID": 6294724548971891599
+  },
+  "mAnimatorOverrideController": {
+    "m_FileID": 3,
+    "m_PathID": -8098048498619137325
+  },
+  "mKartScaleSize": 1.1,
+  "mWingJointType": 0,
+  "mFaceChangeEvent": {
+    "m_FileID": 0,
+    "m_PathID": -619969274152661908
+  },
+  "mIconInfo": [
+    {
+      "mPath": "Assets/Main/Content/Driver/RosettaWitch/Icons/RosettaWitch.png",
+      "mGuid": "fdd09ce51977a234280828d06ff9983b"
+    },
+    {
+      "mPath": "Assets/Main/Content/Driver/RosettaWitch/Icons/RosettaWitchMap.png",
+      "mGuid": "853950ad9e8933f4a884e91254212316"
+    },
+    {
+      "mPath": "Assets/Main/Content/Driver/RosettaWitch/Icons/RosettaWitchFaceEntry.png",
+      "mGuid": "94fb8e937bebb02428a21b4927cd6b6e"
+    },
+    {
+      "mPath": "Assets/Main/Content/Driver/RosettaWitch/Icons/RosettaWitchWholeBody.png",
+      "mGuid": "0a1fc91eed79102488e4ac84cdabfc74"
+    },
+    {
+      "mPath": "Assets/Main/Content/Driver/RosettaWitch/Icons/RosettaWitchUpperBody.png",
+      "mGuid": "e169f2b27b7e16a4da82fd8b3c97f640"
+    },
+    {
+      "mPath": "",
+      "mGuid": ""
+    },
+    {
+      "mPath": "Assets/Main/Content/Driver/RosettaWitch/Icons/RosettaWitch_Small.png",
+      "mGuid": "2e497a4bc282f9d4d8875e86f30ae394"
+    },
+    {
+      "mPath": "Assets/Main/Content/Driver/RosettaWitch/Icons/RosettaWitchFaceEntry_Small.png",
+      "mGuid": "5ce602fdb009f1f44995b13a29296934"
+    },
+    {
+      "mPath": "Assets/Main/Content/Driver/RosettaWitch/Icons/RosettaWitchWholeBody_Small.png",
+      "mGuid": "be1afcd816e71834c84f77658f261f0d"
+    },
+    {
+      "mPath": "Assets/Main/Content/Driver/RosettaWitch/Icons/RosettaWitchUpperBody_Small.png",
+      "mGuid": "21037a71c4b12c349a0f25a629c1c0a0"
+    }
+  ],
+  "mColorGroup": 0,
+  "mCharacterTextureList": [],
+  "mBaseParameter": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "mBodyMaterial": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "mEyeMaterial": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "mDynamicUnitMngInitData": {
+    "m_FileID": 0,
+    "m_PathID": -2045195442190124451
+  },
+  "mMetamorData": [],
+  "mDotDriverData": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "mDescription": "",
+  "mEffectContainer": {
+    "m_FileID": 0,
+    "m_PathID": -1767450020253730207
+  }
+}

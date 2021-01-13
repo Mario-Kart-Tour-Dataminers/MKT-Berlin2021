@@ -1,0 +1,50 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": 2434717279687273224
+  },
+  "m_Name": "Wing_NewYear2020",
+  "mWingModel": {
+    "m_FileID": 0,
+    "m_PathID": -7405219606071503739
+  },
+  "mIconInfo": [
+    {
+      "mPath": "Assets/Main/Content/Kart/Wing/Wing_NewYear2020/Icons/Wing_NewYear2020.png",
+      "mGuid": "c9b96e0407296e04c9e9a9213593d462"
+    },
+    {
+      "mPath": "Assets/Main/Content/Kart/Wing/Wing_NewYear2020/Icons/Wing_NewYear2020_Large.png",
+      "mGuid": "be726730c9138334b995fae528ca213a"
+    },
+    {
+      "mPath": "Assets/Main/Content/Kart/Wing/Wing_NewYear2020/Icons/Wing_NewYear2020_Small.png",
+      "mGuid": "1eb5299283b4725439cbab9e7364727e"
+    }
+  ],
+  "mWingType": 1,
+  "mIsFixedIcon": 0,
+  "mBaseParameter": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "mMaterial": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "mEffectContainer": {
+    "m_FileID": 0,
+    "m_PathID": 262031814999044545
+  },
+  "mIsDisableAngleAnimation": 0,
+  "mDescription": "",
+  "mColorValiationRoot": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": 980329048157257672
+  },
+  "m_Name": "Fbx_G3ds_RosettaPlanet_MapInfo",
+  "rect": {
+    "x": -370.707245,
+    "y": -448.7097,
+    "width": 816.637634,
+    "height": 816.637634
+  },
+  "sprite": {
+    "m_FileID": 0,
+    "m_PathID": -2554694946939420123
+  },
+  "offset": {
+    "x": 0.0,
+    "y": 0.0
+  }
+}

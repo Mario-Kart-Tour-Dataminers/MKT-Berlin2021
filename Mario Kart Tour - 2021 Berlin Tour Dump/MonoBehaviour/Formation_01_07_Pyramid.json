@@ -1,0 +1,65 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": 5729155180541303578
+  },
+  "m_Name": "Formation_01_07_Pyramid",
+  "mDisplayName": "Pyramid",
+  "mKart": [
+    {
+      "Offset": {
+        "x": 0.0,
+        "y": 0.0
+      },
+      "RatioX": 0.0
+    },
+    {
+      "Offset": {
+        "x": -3.0,
+        "y": -5.5
+      },
+      "RatioX": 0.0
+    },
+    {
+      "Offset": {
+        "x": 3.0,
+        "y": -5.5
+      },
+      "RatioX": 0.0
+    },
+    {
+      "Offset": {
+        "x": -6.0,
+        "y": -11.0
+      },
+      "RatioX": 0.0
+    },
+    {
+      "Offset": {
+        "x": -2.0,
+        "y": -11.0
+      },
+      "RatioX": 0.0
+    },
+    {
+      "Offset": {
+        "x": 2.0,
+        "y": -11.0
+      },
+      "RatioX": 0.0
+    },
+    {
+      "Offset": {
+        "x": 6.0,
+        "y": -11.0
+      },
+      "RatioX": 0.0
+    }
+  ],
+  "mRouteRadiusMin": 7.0199995
+}

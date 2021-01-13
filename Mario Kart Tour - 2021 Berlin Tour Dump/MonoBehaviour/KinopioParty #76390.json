@@ -1,0 +1,135 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": -2094441087577622512
+  },
+  "m_Name": "KinopioParty",
+  "mModel": {
+    "m_FileID": 1,
+    "m_PathID": -5275481894630102207
+  },
+  "mFaceTextures": [
+    {
+      "m_FileID": 2,
+      "m_PathID": -6835556321356512026
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -9042867655563360532
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 1734173237505211459
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -8012749101750899388
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -1984143575655377354
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 176788217420710020
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 3465623231539787999
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -7514142028196649088
+    }
+  ],
+  "mIsFaceTextureEmission": 0,
+  "mEmblem": {
+    "m_FileID": 0,
+    "m_PathID": -3160362193350150182
+  },
+  "mAnimatorOverrideController": {
+    "m_FileID": 3,
+    "m_PathID": -3142808188741035749
+  },
+  "mKartScaleSize": 0.85,
+  "mWingJointType": 0,
+  "mFaceChangeEvent": {
+    "m_FileID": 0,
+    "m_PathID": -4123422101554269288
+  },
+  "mIconInfo": [
+    {
+      "mPath": "Assets/Main/Content/Driver/KinopioParty/Icons/KinopioParty.png",
+      "mGuid": "b1c42adf288b2f749996a68884b1911f"
+    },
+    {
+      "mPath": "Assets/Main/Content/Driver/KinopioParty/Icons/KinopioPartyMap.png",
+      "mGuid": "450f85ff4bf696c45857fb2ab48bfdb6"
+    },
+    {
+      "mPath": "Assets/Main/Content/Driver/KinopioParty/Icons/KinopioPartyFaceEntry.png",
+      "mGuid": "cf549a4a657328b49bcac09793db230c"
+    },
+    {
+      "mPath": "Assets/Main/Content/Driver/KinopioParty/Icons/KinopioPartyWholeBody.png",
+      "mGuid": "479a0aa1e41d31e4fa3dfa37c779b455"
+    },
+    {
+      "mPath": "Assets/Main/Content/Driver/KinopioParty/Icons/KinopioPartyUpperBody.png",
+      "mGuid": "399fac02190374549aad4a7fd3d63c76"
+    },
+    {
+      "mPath": "",
+      "mGuid": ""
+    },
+    {
+      "mPath": "Assets/Main/Content/Driver/KinopioParty/Icons/KinopioParty_Small.png",
+      "mGuid": "a7ab85ace68a6e5429e7a67631769e7a"
+    },
+    {
+      "mPath": "Assets/Main/Content/Driver/KinopioParty/Icons/KinopioPartyFaceEntry_Small.png",
+      "mGuid": "30c458e09a00d16429f73905be168373"
+    },
+    {
+      "mPath": "Assets/Main/Content/Driver/KinopioParty/Icons/KinopioPartyWholeBody_Small.png",
+      "mGuid": "bcb684fafdb591841b5d413dee5161c0"
+    },
+    {
+      "mPath": "Assets/Main/Content/Driver/KinopioParty/Icons/KinopioPartyUpperBody_Small.png",
+      "mGuid": "3904e7502beb311429c8e254380b9d2b"
+    }
+  ],
+  "mColorGroup": 0,
+  "mCharacterTextureList": [],
+  "mBaseParameter": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "mBodyMaterial": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "mEyeMaterial": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "mDynamicUnitMngInitData": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "mMetamorData": [],
+  "mDotDriverData": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "mDescription": "",
+  "mEffectContainer": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  }
+}

@@ -1,0 +1,50 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": 2434717279687273224
+  },
+  "m_Name": "Wing_PukuGlider",
+  "mWingModel": {
+    "m_FileID": 0,
+    "m_PathID": 3226806494308643310
+  },
+  "mIconInfo": [
+    {
+      "mPath": "Assets/Main/Content/Kart/Wing/Wing_PukuGlider/Icons/Wing_PukuGlider.png",
+      "mGuid": "f28d0b4a11b469347a40a2d517336afc"
+    },
+    {
+      "mPath": "Assets/Main/Content/Kart/Wing/Wing_PukuGlider/Icons/Wing_PukuGlider_Large.png",
+      "mGuid": "d62389d8f3f1bfa4aa2e1ee7da2a79a8"
+    },
+    {
+      "mPath": "Assets/Main/Content/Kart/Wing/Wing_PukuGlider/Icons/Wing_PukuGlider_Small.png",
+      "mGuid": "1ccba37191b65ec4b9280da416790884"
+    }
+  ],
+  "mWingType": 0,
+  "mIsFixedIcon": 0,
+  "mBaseParameter": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "mMaterial": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "mEffectContainer": {
+    "m_FileID": 0,
+    "m_PathID": -7720039858640560202
+  },
+  "mIsDisableAngleAnimation": 0,
+  "mDescription": "",
+  "mColorValiationRoot": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  }
+}

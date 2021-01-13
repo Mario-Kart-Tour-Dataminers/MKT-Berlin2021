@@ -1,0 +1,50 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": 2434717279687273224
+  },
+  "m_Name": "Wing_Std_Orange",
+  "mWingModel": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "mIconInfo": [
+    {
+      "mPath": "Assets/Main/Content/Kart/Wing/Wing_Std/Icons/Wing_Std_Orange.png",
+      "mGuid": "3296705dcaaf0e74ebe16fb78eb1e747"
+    },
+    {
+      "mPath": "Assets/Main/Content/Kart/Wing/Wing_Std/Icons/Wing_Std_Orange_Large.png",
+      "mGuid": "a64c8821d7c2cfc49ab3479cb9800d81"
+    },
+    {
+      "mPath": "Assets/Main/Content/Kart/Wing/Wing_Std/Icons/Wing_Std_Orange_Small.png",
+      "mGuid": "1a92f0e742f82fc45a0b774eaf9b92af"
+    }
+  ],
+  "mWingType": 0,
+  "mIsFixedIcon": 0,
+  "mBaseParameter": {
+    "m_FileID": 1,
+    "m_PathID": 2790807988414546290
+  },
+  "mMaterial": {
+    "m_FileID": 0,
+    "m_PathID": -2874119198853044806
+  },
+  "mEffectContainer": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "mIsDisableAngleAnimation": 0,
+  "mDescription": "スーパーカイト（オレンジ）",
+  "mColorValiationRoot": {
+    "m_FileID": 1,
+    "m_PathID": 2790807988414546290
+  }
+}

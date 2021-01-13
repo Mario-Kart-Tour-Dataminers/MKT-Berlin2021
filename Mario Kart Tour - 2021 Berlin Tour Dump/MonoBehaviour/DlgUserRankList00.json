@@ -1,0 +1,45 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": -3977807471082417869
+  },
+  "m_Name": "DlgUserRankList00",
+  "savePath": 1,
+  "isEnableCheckNoEmptyValue": 0,
+  "assetDataList": [
+    {
+      "obj": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      },
+      "path": "Assets/Main/Content/UI/Texture/CC/MainMenuCharaSelectCC100.png",
+      "guid": "779193cff890ba641a14e3fbff637114",
+      "substitutedArrayIndex": 0
+    },
+    {
+      "obj": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      },
+      "path": "Assets/Main/Content/UI/Texture/CC/MainMenuCharaSelectCC150.png",
+      "guid": "bfd10363ababf9d41b0c28cfa756ee0f",
+      "substitutedArrayIndex": 1
+    },
+    {
+      "obj": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      },
+      "path": "Assets/Main/Content/UI/Texture/Menu/MenuShop01.png",
+      "guid": "c0dbd76bcbc2d244e9e079eef83f8d01",
+      "substitutedArrayIndex": 2
+    }
+  ],
+  "assetType": 0,
+  "keyType": 27
+}

@@ -1,0 +1,123 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": -2094441087577622512
+  },
+  "m_Name": "Koopa",
+  "mModel": {
+    "m_FileID": 8,
+    "m_PathID": 5535852410287598003
+  },
+  "mFaceTextures": [
+    {
+      "m_FileID": 7,
+      "m_PathID": -7444666873080207283
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 6069152204581160332
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 8545481849720233461
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 8263363866792047539
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 7591104994500967589
+    }
+  ],
+  "mIsFaceTextureEmission": 0,
+  "mEmblem": {
+    "m_FileID": 0,
+    "m_PathID": 3590642095388192501
+  },
+  "mAnimatorOverrideController": {
+    "m_FileID": 6,
+    "m_PathID": -2094546254717559780
+  },
+  "mKartScaleSize": 1.1,
+  "mWingJointType": 0,
+  "mFaceChangeEvent": {
+    "m_FileID": 0,
+    "m_PathID": -3626267392113959331
+  },
+  "mIconInfo": [
+    {
+      "mPath": "Assets/Main/Content/Driver/Koopa/Icons/Koopa.png",
+      "mGuid": "951cf480ecfb47a4e90e41deccb768f3"
+    },
+    {
+      "mPath": "Assets/Main/Content/Driver/Koopa/Icons/KoopaMap.png",
+      "mGuid": "687d6755474dc42499649c6bc3c29b8b"
+    },
+    {
+      "mPath": "Assets/Main/Content/Driver/Koopa/Icons/KoopaFaceEntry.png",
+      "mGuid": "289975e9153f52046804b3724e7476db"
+    },
+    {
+      "mPath": "Assets/Main/Content/Driver/Koopa/Icons/KoopaWholeBody.png",
+      "mGuid": "992b8e386f14a914eb2ea9ab288890ef"
+    },
+    {
+      "mPath": "Assets/Main/Content/Driver/Koopa/Icons/KoopaUpperBody.png",
+      "mGuid": "103f3ea0022fb104581e223c668a751c"
+    },
+    {
+      "mPath": "",
+      "mGuid": ""
+    },
+    {
+      "mPath": "Assets/Main/Content/Driver/Koopa/Icons/Koopa_Small.png",
+      "mGuid": "a73e7b00a9e94334a962d469ef766b8b"
+    },
+    {
+      "mPath": "Assets/Main/Content/Driver/Koopa/Icons/KoopaFaceEntry_Small.png",
+      "mGuid": "ca608ff8d773fc448a9b964c1eaa2d3b"
+    },
+    {
+      "mPath": "Assets/Main/Content/Driver/Koopa/Icons/KoopaWholeBody_Small.png",
+      "mGuid": "63e7bba8c1d14fe48bd074d6f6789a20"
+    },
+    {
+      "mPath": "Assets/Main/Content/Driver/Koopa/Icons/KoopaUpperBody_Small.png",
+      "mGuid": "ecb85d35711bb624083d2273565d4c66"
+    }
+  ],
+  "mColorGroup": 0,
+  "mCharacterTextureList": [],
+  "mBaseParameter": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "mBodyMaterial": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "mEyeMaterial": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "mDynamicUnitMngInitData": {
+    "m_FileID": 0,
+    "m_PathID": -338651500537860608
+  },
+  "mMetamorData": [],
+  "mDotDriverData": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "mDescription": "クッパ",
+  "mEffectContainer": {
+    "m_FileID": 0,
+    "m_PathID": 4497319476702838498
+  }
+}

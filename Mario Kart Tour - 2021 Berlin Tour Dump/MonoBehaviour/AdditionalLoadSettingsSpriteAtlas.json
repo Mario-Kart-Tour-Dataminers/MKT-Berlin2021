@@ -1,0 +1,650 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": -4342195224073942658
+  },
+  "m_Name": "AdditionalLoadSettingsSpriteAtlas",
+  "list": [
+    {
+      "group": 2,
+      "id": "Assets/Main/Content/UI/SpriteAtlas/_AutoSetTag_Arrow02-47-2048.spriteatlas"
+    },
+    {
+      "group": 2,
+      "id": "Assets/Main/Content/UI/SpriteAtlas/_AutoSetTag_BalloonBtnDlgNewsList00-47-2048.spriteatlas"
+    },
+    {
+      "group": 2,
+      "id": "Assets/Main/Content/UI/SpriteAtlas/_AutoSetTag_BalloonPoint03-47-2048.spriteatlas"
+    },
+    {
+      "group": 2,
+      "id": "Assets/Main/Content/UI/SpriteAtlas/_AutoSetTag_BalloonRankingFriendGiftPoint00-47-2048.spriteatlas"
+    },
+    {
+      "group": 2,
+      "id": "Assets/Main/Content/UI/SpriteAtlas/_AutoSetTag_Base00-47-2048.spriteatlas"
+    },
+    {
+      "group": 2,
+      "id": "Assets/Main/Content/UI/SpriteAtlas/_AutoSetTag_BtnArrow00-47-2048.spriteatlas"
+    },
+    {
+      "group": 2,
+      "id": "Assets/Main/Content/UI/SpriteAtlas/_AutoSetTag_BtnCmn02-47-2048.spriteatlas"
+    },
+    {
+      "group": 2,
+      "id": "Assets/Main/Content/UI/SpriteAtlas/_AutoSetTag_BtnCmnShopTreasureBox00-47-2048.spriteatlas"
+    },
+    {
+      "group": 2,
+      "id": "Assets/Main/Content/UI/SpriteAtlas/_AutoSetTag_BtnCmnShopTreasureBox01-47-2048.spriteatlas"
+    },
+    {
+      "group": 2,
+      "id": "Assets/Main/Content/UI/SpriteAtlas/_AutoSetTag_BtnCmnShopTreasureBox02-47-2048.spriteatlas"
+    },
+    {
+      "group": 2,
+      "id": "Assets/Main/Content/UI/SpriteAtlas/_AutoSetTag_BtnDlgSetting00-47-2048.spriteatlas"
+    },
+    {
+      "group": 2,
+      "id": "Assets/Main/Content/UI/SpriteAtlas/_AutoSetTag_BtnFrame01-47-2048.spriteatlas"
+    },
+    {
+      "group": 2,
+      "id": "Assets/Main/Content/UI/SpriteAtlas/_AutoSetTag_BtnFriend00-47-2048.spriteatlas"
+    },
+    {
+      "group": 2,
+      "id": "Assets/Main/Content/UI/SpriteAtlas/_AutoSetTag_BtnFriend01-47-2048.spriteatlas"
+    },
+    {
+      "group": 2,
+      "id": "Assets/Main/Content/UI/SpriteAtlas/_AutoSetTag_BtnFriend02-47-2048.spriteatlas"
+    },
+    {
+      "group": 2,
+      "id": "Assets/Main/Content/UI/SpriteAtlas/_AutoSetTag_BtnFriendBase00-47-2048.spriteatlas"
+    },
+    {
+      "group": 2,
+      "id": "Assets/Main/Content/UI/SpriteAtlas/_AutoSetTag_BtnSubAddIcon00-47-2048.spriteatlas"
+    },
+    {
+      "group": 2,
+      "id": "Assets/Main/Content/UI/SpriteAtlas/_AutoSetTag_BtnSubInfoIcon00-47-2048.spriteatlas"
+    },
+    {
+      "group": 2,
+      "id": "Assets/Main/Content/UI/SpriteAtlas/_AutoSetTag_BtnSubPosi00-47-2048.spriteatlas"
+    },
+    {
+      "group": 2,
+      "id": "Assets/Main/Content/UI/SpriteAtlas/_AutoSetTag_BtnWappenBookCursor00-47-2048.spriteatlas"
+    },
+    {
+      "group": 2,
+      "id": "Assets/Main/Content/UI/SpriteAtlas/_AutoSetTag_BtnWappenBookEffect00-47-2048.spriteatlas"
+    },
+    {
+      "group": 2,
+      "id": "Assets/Main/Content/UI/SpriteAtlas/_AutoSetTag_BtnWappenBookFrame00-47-2048.spriteatlas"
+    },
+    {
+      "group": 2,
+      "id": "Assets/Main/Content/UI/SpriteAtlas/_AutoSetTag_BtnWappenGaugeLight00-47-2048.spriteatlas"
+    },
+    {
+      "group": 2,
+      "id": "Assets/Main/Content/UI/SpriteAtlas/_AutoSetTag_CircleBase03-47-2048.spriteatlas"
+    },
+    {
+      "group": 2,
+      "id": "Assets/Main/Content/UI/SpriteAtlas/_AutoSetTag_CircleBase04-47-2048.spriteatlas"
+    },
+    {
+      "group": 2,
+      "id": "Assets/Main/Content/UI/SpriteAtlas/_AutoSetTag_CircleLight00-47-2048.spriteatlas"
+    },
+    {
+      "group": 2,
+      "id": "Assets/Main/Content/UI/SpriteAtlas/_AutoSetTag_CupBase01-47-2048.spriteatlas"
+    },
+    {
+      "group": 2,
+      "id": "Assets/Main/Content/UI/SpriteAtlas/_AutoSetTag_CupBaseShadow00-47-2048.spriteatlas"
+    },
+    {
+      "group": 2,
+      "id": "Assets/Main/Content/UI/SpriteAtlas/_AutoSetTag_CupBaseUnopened00-47-2048.spriteatlas"
+    },
+    {
+      "group": 2,
+      "id": "Assets/Main/Content/UI/SpriteAtlas/_AutoSetTag_DailyChallengeFrame00-47-2048.spriteatlas"
+    },
+    {
+      "group": 2,
+      "id": "Assets/Main/Content/UI/SpriteAtlas/_AutoSetTag_DlgBadgeNewNumber00-47-2048.spriteatlas"
+    },
+    {
+      "group": 2,
+      "id": "Assets/Main/Content/UI/SpriteAtlas/_AutoSetTag_DlgCheckIcon02-47-2048.spriteatlas"
+    },
+    {
+      "group": 2,
+      "id": "Assets/Main/Content/UI/SpriteAtlas/_AutoSetTag_DlgCustomizeBgItemRare00-34-2048.spriteatlas"
+    },
+    {
+      "group": 2,
+      "id": "Assets/Main/Content/UI/SpriteAtlas/_AutoSetTag_DlgDriftIcon00-47-2048.spriteatlas"
+    },
+    {
+      "group": 2,
+      "id": "Assets/Main/Content/UI/SpriteAtlas/_AutoSetTag_DlgDriftIcon01-47-2048.spriteatlas"
+    },
+    {
+      "group": 2,
+      "id": "Assets/Main/Content/UI/SpriteAtlas/_AutoSetTag_DlgIconSlot01-47-2048.spriteatlas"
+    },
+    {
+      "group": 2,
+      "id": "Assets/Main/Content/UI/SpriteAtlas/_AutoSetTag_DlgIconSlot02-47-2048.spriteatlas"
+    },
+    {
+      "group": 2,
+      "id": "Assets/Main/Content/UI/SpriteAtlas/_AutoSetTag_DlgIconSlot03-47-2048.spriteatlas"
+    },
+    {
+      "group": 2,
+      "id": "Assets/Main/Content/UI/SpriteAtlas/_AutoSetTag_Flare00-47-2048.spriteatlas"
+    },
+    {
+      "group": 2,
+      "id": "Assets/Main/Content/UI/SpriteAtlas/_AutoSetTag_GetItemEffect02-47-2048.spriteatlas"
+    },
+    {
+      "group": 2,
+      "id": "Assets/Main/Content/UI/SpriteAtlas/_AutoSetTag_IconLock01-47-2048.spriteatlas"
+    },
+    {
+      "group": 2,
+      "id": "Assets/Main/Content/UI/SpriteAtlas/_AutoSetTag_IconNetPlayInvite00-47-2048.spriteatlas"
+    },
+    {
+      "group": 2,
+      "id": "Assets/Main/Content/UI/SpriteAtlas/_AutoSetTag_IconNetPlayTeamChange00-47-2048.spriteatlas"
+    },
+    {
+      "group": 2,
+      "id": "Assets/Main/Content/UI/SpriteAtlas/_AutoSetTag_IconNewsList00-47-2048.spriteatlas"
+    },
+    {
+      "group": 2,
+      "id": "Assets/Main/Content/UI/SpriteAtlas/_AutoSetTag_JugemRanking00-47-2048.spriteatlas"
+    },
+    {
+      "group": 2,
+      "id": "Assets/Main/Content/UI/SpriteAtlas/_AutoSetTag_LightBallTail01-47-2048.spriteatlas"
+    },
+    {
+      "group": 2,
+      "id": "Assets/Main/Content/UI/SpriteAtlas/_AutoSetTag_LightBeam02-47-2048.spriteatlas"
+    },
+    {
+      "group": 2,
+      "id": "Assets/Main/Content/UI/SpriteAtlas/_AutoSetTag_LightEffect01-47-2048.spriteatlas"
+    },
+    {
+      "group": 2,
+      "id": "Assets/Main/Content/UI/SpriteAtlas/_AutoSetTag_LoginBase00-47-2048.spriteatlas"
+    },
+    {
+      "group": 2,
+      "id": "Assets/Main/Content/UI/SpriteAtlas/_AutoSetTag_MainMenuBGUnder00-47-2048.spriteatlas"
+    },
+    {
+      "group": 2,
+      "id": "Assets/Main/Content/UI/SpriteAtlas/_AutoSetTag_MainMenuBtnStartArrow00-47-2048.spriteatlas"
+    },
+    {
+      "group": 2,
+      "id": "Assets/Main/Content/UI/SpriteAtlas/_AutoSetTag_MainMenuBtnStartFrame00-47-2048.spriteatlas"
+    },
+    {
+      "group": 2,
+      "id": "Assets/Main/Content/UI/SpriteAtlas/_AutoSetTag_MainMenuBtnStartFrame01-47-2048.spriteatlas"
+    },
+    {
+      "group": 2,
+      "id": "Assets/Main/Content/UI/SpriteAtlas/_AutoSetTag_MainMenuCharaSelectCCImage50-47-2048.spriteatlas"
+    },
+    {
+      "group": 2,
+      "id": "Assets/Main/Content/UI/SpriteAtlas/_AutoSetTag_MainMenuWindow00-47-2048.spriteatlas"
+    },
+    {
+      "group": 2,
+      "id": "Assets/Main/Content/UI/SpriteAtlas/_AutoSetTag_MenuBG01-34-2048.spriteatlas"
+    },
+    {
+      "group": 2,
+      "id": "Assets/Main/Content/UI/SpriteAtlas/_AutoSetTag_MenuFriendAdd00-47-2048.spriteatlas"
+    },
+    {
+      "group": 2,
+      "id": "Assets/Main/Content/UI/SpriteAtlas/_AutoSetTag_MenuFriendCancel00-47-2048.spriteatlas"
+    },
+    {
+      "group": 2,
+      "id": "Assets/Main/Content/UI/SpriteAtlas/_AutoSetTag_MenuTicketStar00-47-2048.spriteatlas"
+    },
+    {
+      "group": 2,
+      "id": "Assets/Main/Content/UI/SpriteAtlas/_AutoSetTag_MenuWappen01-47-2048.spriteatlas"
+    },
+    {
+      "group": 2,
+      "id": "Assets/Main/Content/UI/SpriteAtlas/_AutoSetTag_NetPlayBG00-34-2048.spriteatlas"
+    },
+    {
+      "group": 2,
+      "id": "Assets/Main/Content/UI/SpriteAtlas/_AutoSetTag_NetPlayKinopio01-47-2048.spriteatlas"
+    },
+    {
+      "group": 2,
+      "id": "Assets/Main/Content/UI/SpriteAtlas/_AutoSetTag_NetPlayLobbyFrame00-47-2048.spriteatlas"
+    },
+    {
+      "group": 2,
+      "id": "Assets/Main/Content/UI/SpriteAtlas/_AutoSetTag_NetPlaySatellite00-47-2048.spriteatlas"
+    },
+    {
+      "group": 2,
+      "id": "Assets/Main/Content/UI/SpriteAtlas/_AutoSetTag_RankingBase00-47-2048.spriteatlas"
+    },
+    {
+      "group": 2,
+      "id": "Assets/Main/Content/UI/SpriteAtlas/_AutoSetTag_RankingBase01-47-2048.spriteatlas"
+    },
+    {
+      "group": 2,
+      "id": "Assets/Main/Content/UI/SpriteAtlas/_AutoSetTag_RankingBase02-47-2048.spriteatlas"
+    },
+    {
+      "group": 2,
+      "id": "Assets/Main/Content/UI/SpriteAtlas/_AutoSetTag_RankingBase03-47-2048.spriteatlas"
+    },
+    {
+      "group": 2,
+      "id": "Assets/Main/Content/UI/SpriteAtlas/_AutoSetTag_RankingFriendGiftProgressBar00-47-2048.spriteatlas"
+    },
+    {
+      "group": 2,
+      "id": "Assets/Main/Content/UI/SpriteAtlas/_AutoSetTag_RankingOrderBase00-47-2048.spriteatlas"
+    },
+    {
+      "group": 2,
+      "id": "Assets/Main/Content/UI/SpriteAtlas/_AutoSetTag_RankingOrderBase01-47-2048.spriteatlas"
+    },
+    {
+      "group": 2,
+      "id": "Assets/Main/Content/UI/SpriteAtlas/_AutoSetTag_RankingOrderBase02-47-2048.spriteatlas"
+    },
+    {
+      "group": 2,
+      "id": "Assets/Main/Content/UI/SpriteAtlas/_AutoSetTag_RareBalloonMachineUltra00-47-2048.spriteatlas"
+    },
+    {
+      "group": 2,
+      "id": "Assets/Main/Content/UI/SpriteAtlas/_AutoSetTag_RareBaseFrame00-47-2048.spriteatlas"
+    },
+    {
+      "group": 2,
+      "id": "Assets/Main/Content/UI/SpriteAtlas/_AutoSetTag_RareBaseFrameDisableBase00-47-2048.spriteatlas"
+    },
+    {
+      "group": 2,
+      "id": "Assets/Main/Content/UI/SpriteAtlas/_AutoSetTag_RareBaseFrameDisableBase01-47-2048.spriteatlas"
+    },
+    {
+      "group": 2,
+      "id": "Assets/Main/Content/UI/SpriteAtlas/_AutoSetTag_RareBaseFrameDisableBase02-47-2048.spriteatlas"
+    },
+    {
+      "group": 2,
+      "id": "Assets/Main/Content/UI/SpriteAtlas/_AutoSetTag_RareBaseFrameDisableBase03-47-2048.spriteatlas"
+    },
+    {
+      "group": 2,
+      "id": "Assets/Main/Content/UI/SpriteAtlas/_AutoSetTag_RareBaseFrameDisableBase04-47-2048.spriteatlas"
+    },
+    {
+      "group": 2,
+      "id": "Assets/Main/Content/UI/SpriteAtlas/_AutoSetTag_RareDisableBase00-47-2048.spriteatlas"
+    },
+    {
+      "group": 2,
+      "id": "Assets/Main/Content/UI/SpriteAtlas/_AutoSetTag_RareUltraStar00-47-2048.spriteatlas"
+    },
+    {
+      "group": 2,
+      "id": "Assets/Main/Content/UI/SpriteAtlas/_AutoSetTag_SeasonReward00-47-2048.spriteatlas"
+    },
+    {
+      "group": 2,
+      "id": "Assets/Main/Content/UI/SpriteAtlas/_AutoSetTag_SeasonReward01-47-2048.spriteatlas"
+    },
+    {
+      "group": 2,
+      "id": "Assets/Main/Content/UI/SpriteAtlas/_AutoSetTag_SeasonRewardContentBase00-47-2048.spriteatlas"
+    },
+    {
+      "group": 2,
+      "id": "Assets/Main/Content/UI/SpriteAtlas/_AutoSetTag_SeasonRewardProgressBar03-47-2048.spriteatlas"
+    },
+    {
+      "group": 2,
+      "id": "Assets/Main/Content/UI/SpriteAtlas/_AutoSetTag_SeasonRewardProgressBar04-47-2048.spriteatlas"
+    },
+    {
+      "group": 2,
+      "id": "Assets/Main/Content/UI/SpriteAtlas/_AutoSetTag_SeasonRewardProgressBar05-47-2048.spriteatlas"
+    },
+    {
+      "group": 2,
+      "id": "Assets/Main/Content/UI/SpriteAtlas/_AutoSetTag_SeasonRewardProgressBar06-47-2048.spriteatlas"
+    },
+    {
+      "group": 2,
+      "id": "Assets/Main/Content/UI/SpriteAtlas/_AutoSetTag_ShopSpecialOfferKinopio00-47-2048.spriteatlas"
+    },
+    {
+      "group": 2,
+      "id": "Assets/Main/Content/UI/SpriteAtlas/_AutoSetTag_Smoke00-47-2048.spriteatlas"
+    },
+    {
+      "group": 2,
+      "id": "Assets/Main/Content/UI/SpriteAtlas/_AutoSetTag_Smoke01-47-2048.spriteatlas"
+    },
+    {
+      "group": 2,
+      "id": "Assets/Main/Content/UI/SpriteAtlas/_AutoSetTag_SpecialOfferFrame00-47-2048.spriteatlas"
+    },
+    {
+      "group": 2,
+      "id": "Assets/Main/Content/UI/SpriteAtlas/_AutoSetTag_StarEffect00-47-2048.spriteatlas"
+    },
+    {
+      "group": 2,
+      "id": "Assets/Main/Content/UI/SpriteAtlas/_AutoSetTag_StarIcon00-47-2048.spriteatlas"
+    },
+    {
+      "group": 2,
+      "id": "Assets/Main/Content/UI/SpriteAtlas/_AutoSetTag_TitleEulaImage00-47-2048.spriteatlas"
+    },
+    {
+      "group": 2,
+      "id": "Assets/Main/Content/UI/SpriteAtlas/_AutoSetTag_TitleLogo01-47-2048.spriteatlas"
+    },
+    {
+      "group": 2,
+      "id": "Assets/Main/Content/UI/SpriteAtlas/_AutoSetTag_TitlePen00-47-2048.spriteatlas"
+    },
+    {
+      "group": 2,
+      "id": "Assets/Main/Content/UI/SpriteAtlas/_AutoSetTag_TopBG00-47-2048.spriteatlas"
+    },
+    {
+      "group": 2,
+      "id": "Assets/Main/Content/UI/SpriteAtlas/_AutoSetTag_TutorialHold00-47-2048.spriteatlas"
+    },
+    {
+      "group": 2,
+      "id": "Assets/Main/Content/UI/SpriteAtlas/_AutoSetTag_WappenArrow00-47-2048.spriteatlas"
+    },
+    {
+      "group": 2,
+      "id": "Assets/Main/Content/UI/SpriteAtlas/_AutoSetTag_WappenBookBase00-34-2048.spriteatlas"
+    },
+    {
+      "group": 2,
+      "id": "Assets/Main/Content/UI/SpriteAtlas/_AutoSetTag_WappenBookDlgBG00-34-2048.spriteatlas"
+    },
+    {
+      "group": 2,
+      "id": "Assets/Main/Content/UI/SpriteAtlas/_AutoSetTag_WappenBookListIcon00-47-2048.spriteatlas"
+    },
+    {
+      "group": 2,
+      "id": "Assets/Main/Content/UI/SpriteAtlas/_AutoSetTagAnnouncementBanner_Goldpass-47-2048.spriteatlas"
+    },
+    {
+      "group": 2,
+      "id": "Assets/Main/Content/UI/SpriteAtlas/Currency00-47-2048.spriteatlas"
+    },
+    {
+      "group": 2,
+      "id": "Assets/Main/Content/UI/SpriteAtlas/GetItem00-34-2048.spriteatlas"
+    },
+    {
+      "group": 2,
+      "id": "Assets/Main/Content/UI/SpriteAtlas/GetItem00-47-2048.spriteatlas"
+    },
+    {
+      "group": 2,
+      "id": "Assets/Main/Content/UI/SpriteAtlas/JugemTips01-47-2048.spriteatlas"
+    },
+    {
+      "group": 2,
+      "id": "Assets/Main/Content/UI/SpriteAtlas/JugemTips02-47-2048.spriteatlas"
+    },
+    {
+      "group": 2,
+      "id": "Assets/Main/Content/UI/SpriteAtlas/MainMenuBG00-47-2048.spriteatlas"
+    },
+    {
+      "group": 2,
+      "id": "Assets/Main/Content/UI/SpriteAtlas/MainMenuBG01-47-2048.spriteatlas"
+    },
+    {
+      "group": 2,
+      "id": "Assets/Main/Content/UI/SpriteAtlas/Menu00_DlgEffectLight00-47-2048.spriteatlas"
+    },
+    {
+      "group": 2,
+      "id": "Assets/Main/Content/UI/SpriteAtlas/Menu00_DlgSoundSlideBtn00-47-2048.spriteatlas"
+    },
+    {
+      "group": 2,
+      "id": "Assets/Main/Content/UI/SpriteAtlas/Menu00_IconLock00-47-2048.spriteatlas"
+    },
+    {
+      "group": 2,
+      "id": "Assets/Main/Content/UI/SpriteAtlas/Menu00-47-2048.spriteatlas"
+    },
+    {
+      "group": 2,
+      "id": "Assets/Main/Content/UI/SpriteAtlas/MenuAndResult00_RareUltraBase01-47-2048.spriteatlas"
+    },
+    {
+      "group": 2,
+      "id": "Assets/Main/Content/UI/SpriteAtlas/MenuAndResult00-47-2048.spriteatlas"
+    },
+    {
+      "group": 2,
+      "id": "Assets/Main/Content/UI/SpriteAtlas/Number00-47-2048.spriteatlas"
+    },
+    {
+      "group": 2,
+      "id": "Assets/Main/Content/UI/SpriteAtlas/SubMenu00-47-2048.spriteatlas"
+    },
+    {
+      "group": 2,
+      "id": "Assets/Main/Content/UI/SpriteAtlas/Tmp_TreasureBox00-47-2048.spriteatlas"
+    },
+    {
+      "group": 2,
+      "id": "Assets/Main/Content/UI/SpriteAtlas/TreasureBox00-34-2048.spriteatlas"
+    },
+    {
+      "group": 2,
+      "id": "Assets/Main/Content/UI/SpriteAtlas/TreasureBox00-47-2048.spriteatlas"
+    },
+    {
+      "group": 3,
+      "id": "Assets/Main/Content/UI/SpriteAtlas/_AutoSetTag_BalloonBase00-47-2048.spriteatlas"
+    },
+    {
+      "group": 3,
+      "id": "Assets/Main/Content/UI/SpriteAtlas/_AutoSetTag_BtnRetryBase00-47-2048.spriteatlas"
+    },
+    {
+      "group": 3,
+      "id": "Assets/Main/Content/UI/SpriteAtlas/_AutoSetTag_SettingHoldFlexible00-47-2048.spriteatlas"
+    },
+    {
+      "group": 3,
+      "id": "Assets/Main/Content/UI/SpriteAtlas/EvenRuleCountStampEnemy00-47-2048.spriteatlas"
+    },
+    {
+      "group": 3,
+      "id": "Assets/Main/Content/UI/SpriteAtlas/EventRuleCountCoin00-47-2048.spriteatlas"
+    },
+    {
+      "group": 3,
+      "id": "Assets/Main/Content/UI/SpriteAtlas/ItemSlotLightList00-47-32.spriteatlas"
+    },
+    {
+      "group": 3,
+      "id": "Assets/Main/Content/UI/SpriteAtlas/NumberMonochro00-47-2048.spriteatlas"
+    },
+    {
+      "group": 3,
+      "id": "Assets/Main/Content/UI/SpriteAtlas/NumberRodinLap00-47-2048.spriteatlas"
+    },
+    {
+      "group": 3,
+      "id": "Assets/Main/Content/UI/SpriteAtlas/Race00_0-47-2048.spriteatlas"
+    },
+    {
+      "group": 3,
+      "id": "Assets/Main/Content/UI/SpriteAtlas/Setting00-47-2048.spriteatlas"
+    },
+    {
+      "group": 3,
+      "id": "Assets/Main/Content/UI/SpriteAtlas/TeamIcon00-47-2048.spriteatlas"
+    },
+    {
+      "group": 4,
+      "id": "Assets/Main/Content/UI/SpriteAtlas/_AutoSetTag_AddButton01-47-2048.spriteatlas"
+    },
+    {
+      "group": 4,
+      "id": "Assets/Main/Content/UI/SpriteAtlas/_AutoSetTag_BtnCCBase00-34-2048.spriteatlas"
+    },
+    {
+      "group": 4,
+      "id": "Assets/Main/Content/UI/SpriteAtlas/_AutoSetTag_BtnInfo00-47-2048.spriteatlas"
+    },
+    {
+      "group": 4,
+      "id": "Assets/Main/Content/UI/SpriteAtlas/_AutoSetTag_EventCoinIcon00-47-2048.spriteatlas"
+    },
+    {
+      "group": 4,
+      "id": "Assets/Main/Content/UI/SpriteAtlas/_AutoSetTag_MainMenuCharaSelectCC50-47-2048.spriteatlas"
+    },
+    {
+      "group": 4,
+      "id": "Assets/Main/Content/UI/SpriteAtlas/_AutoSetTag_MainMenuCharaSelectCCImage100-47-2048.spriteatlas"
+    },
+    {
+      "group": 4,
+      "id": "Assets/Main/Content/UI/SpriteAtlas/_AutoSetTag_MenuHUDBase00-47-2048.spriteatlas"
+    },
+    {
+      "group": 4,
+      "id": "Assets/Main/Content/UI/SpriteAtlas/_AutoSetTag_UserNetPlayRank00-47-2048.spriteatlas"
+    },
+    {
+      "group": 4,
+      "id": "Assets/Main/Content/UI/SpriteAtlas/ItemSlotLightList00-47-2048.spriteatlas"
+    },
+    {
+      "group": 4,
+      "id": "Assets/Main/Content/UI/SpriteAtlas/ItemSlotList00-47-2048.spriteatlas"
+    },
+    {
+      "group": 4,
+      "id": "Assets/Main/Content/UI/SpriteAtlas/JugemTips00-47-2048.spriteatlas"
+    },
+    {
+      "group": 4,
+      "id": "Assets/Main/Content/UI/SpriteAtlas/MenuHud00-47-2048.spriteatlas"
+    },
+    {
+      "group": 4,
+      "id": "Assets/Main/Content/UI/SpriteAtlas/NumberColor00-47-2048.spriteatlas"
+    },
+    {
+      "group": 4,
+      "id": "Assets/Main/Content/UI/SpriteAtlas/NumberRank00-47-2048.spriteatlas"
+    },
+    {
+      "group": 4,
+      "id": "Assets/Main/Content/UI/SpriteAtlas/NumberRodan00-47-2048.spriteatlas"
+    },
+    {
+      "group": 4,
+      "id": "Assets/Main/Content/UI/SpriteAtlas/NumberRodinCmn00-47-2048.spriteatlas"
+    },
+    {
+      "group": 4,
+      "id": "Assets/Main/Content/UI/SpriteAtlas/Race00-47-2048.spriteatlas"
+    },
+    {
+      "group": 4,
+      "id": "Assets/Main/Content/UI/SpriteAtlas/TipsBalloon00-47-2048.spriteatlas"
+    },
+    {
+      "group": 4,
+      "id": "Assets/Main/Content/UI/SpriteAtlas/TutorialRace00-47-2048.spriteatlas"
+    },
+    {
+      "group": 4,
+      "id": "Assets/Main/Content/UI/SpriteAtlas/UserRank1-10-47-2048.spriteatlas"
+    },
+    {
+      "group": 6,
+      "id": "Assets/Main/Content/UI/SpriteAtlas/_AutoSetTag_CircleBase02-47-2048.spriteatlas"
+    },
+    {
+      "group": 6,
+      "id": "Assets/Main/Content/UI/SpriteAtlas/_AutoSetTag_DlgHeadLine01-47-2048.spriteatlas"
+    },
+    {
+      "group": 6,
+      "id": "Assets/Main/Content/UI/SpriteAtlas/_AutoSetTag_MainMenuSeparator00-47-2048.spriteatlas"
+    },
+    {
+      "group": 6,
+      "id": "Assets/Main/Content/UI/SpriteAtlas/_AutoSetTag_NetPlayTeamWinner00-47-2048.spriteatlas"
+    },
+    {
+      "group": 6,
+      "id": "Assets/Main/Content/UI/SpriteAtlas/NumberMarioLevel00-47-2048.spriteatlas"
+    },
+    {
+      "group": 6,
+      "id": "Assets/Main/Content/UI/SpriteAtlas/Race00_0_1_2_12_13_14-47-2048.spriteatlas"
+    }
+  ]
+}

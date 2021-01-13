@@ -1,0 +1,100 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": -8652336194674809844
+  },
+  "m_Name": "BodyK_SPuku",
+  "mBodyModel": {
+    "m_FileID": 0,
+    "m_PathID": -3145698828485364737
+  },
+  "mDriverOffset": {
+    "x": 0.0,
+    "y": 0.0,
+    "z": 0.0
+  },
+  "mBodyCenterPosition": {
+    "x": 0.0,
+    "y": 0.0,
+    "z": 0.0
+  },
+  "mScrewPosition": {
+    "x": 0.0,
+    "y": 0.08,
+    "z": -0.7
+  },
+  "mShaftPositionList": [],
+  "mGearBoxData": {
+    "m_FileID": 1,
+    "m_PathID": 3532631435007547029
+  },
+  "mGearBoxScale": {
+    "x": 1.5,
+    "y": 1.0,
+    "z": 1.0
+  },
+  "mGearBoxPosition": {
+    "x": 0.0,
+    "y": -0.25,
+    "z": 0.6
+  },
+  "mGearBoxSlideOffset": {
+    "x": 0.0,
+    "y": 0.0,
+    "z": 0.0
+  },
+  "mBodyWingParams": {
+    "m_FileID": 0,
+    "m_PathID": 3446730519657266153
+  },
+  "mBodyTireParams": {
+    "m_FileID": 0,
+    "m_PathID": 5436313002199546651
+  },
+  "mIconInfo": [
+    {
+      "mPath": "Assets/Main/Content/Kart/Body/BodyK_SPuku/Icons/BodyK_SPuku.png",
+      "mGuid": "26c85183f61f56d4bbc71c261ecf9ead"
+    }
+  ],
+  "mJointMode": 1,
+  "mScrewScale": {
+    "x": 0.7,
+    "y": 0.7,
+    "z": 0.7
+  },
+  "mScrewAxisOffset": {
+    "x": 0.0,
+    "y": 0.0,
+    "z": 0.0
+  },
+  "mBackrestHeight": 0.0,
+  "mIsFixedIcon": 0,
+  "mBaseParameter": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "mMaterial": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "mGearBoxMaterial": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "mEffectContainer": {
+    "m_FileID": 0,
+    "m_PathID": -3964938460435601955
+  },
+  "mEffectContainerForTire": [],
+  "mDescription": "スーパープクプク",
+  "mColorValiationRoot": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 4937783517534552229
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": -5344162440858665991
+  },
+  "m_Name": "",
+  "ParticleNum": 2000,
+  "PolyDivideNum": 1,
+  "PolyCurveDistance": 0.0,
+  "UseCameraVector": 1
+}

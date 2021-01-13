@@ -1,0 +1,291 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": 1150354629195081500
+  },
+  "m_Name": "Choropoo_prm",
+  "mMapObjName": "Choropoo",
+  "mResource": [
+    {
+      "m_FileID": 4,
+      "m_PathID": -3885037038835609725
+    },
+    {
+      "m_FileID": 5,
+      "m_PathID": -7229778502947197812
+    },
+    {
+      "m_FileID": 6,
+      "m_PathID": -773900123099446048
+    }
+  ],
+  "mKCol": [
+    {
+      "Name": "Choropoo_HoleSoil_cl",
+      "KCol": {
+        "m_FileID": 0,
+        "m_PathID": 8241954651396204841
+      },
+      "KCol_0_5": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      },
+      "KCol_0_1": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      }
+    },
+    {
+      "Name": "Choropoo_HoleGrass_cl",
+      "KCol": {
+        "m_FileID": 0,
+        "m_PathID": 535089220165976652
+      },
+      "KCol_0_5": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      },
+      "KCol_0_1": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      }
+    }
+  ],
+  "mKColScale": 0,
+  "mModelOrigin": 1,
+  "mOffset": {
+    "x": 0.0,
+    "y": 0.0,
+    "z": 0.0
+  },
+  "mCollision": [
+    {
+      "mName": "Choropoo",
+      "mShapes": [
+        {
+          "mName": "",
+          "mShape": 0,
+          "mSize": {
+            "x": 2.1,
+            "y": 0.0,
+            "z": 0.0
+          },
+          "mPos": {
+            "x": 0.0,
+            "y": 0.6,
+            "z": 0.0
+          },
+          "mRotate": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          },
+          "mIsStrictContinuous": 0
+        }
+      ],
+      "mObjReactToKart": [
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        0,
+        1,
+        1,
+        1
+      ],
+      "mObjReactToItem": [
+        0,
+        1,
+        1,
+        0,
+        0,
+        0,
+        1,
+        1,
+        0,
+        0,
+        1,
+        0,
+        0,
+        1,
+        1,
+        1,
+        1,
+        0,
+        0,
+        1,
+        0,
+        1,
+        1,
+        0,
+        0,
+        1,
+        0,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        0,
+        0,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        0,
+        0,
+        0,
+        0,
+        1,
+        0,
+        0,
+        0,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1
+      ],
+      "mKartReactToObj": [
+        6,
+        1,
+        1,
+        1,
+        23,
+        1,
+        0,
+        23,
+        6,
+        6
+      ],
+      "mItemReactToObj": [
+        0,
+        1,
+        1,
+        2,
+        2,
+        2,
+        0,
+        0,
+        0,
+        0,
+        1,
+        0,
+        0,
+        1,
+        1,
+        1,
+        1,
+        0,
+        0,
+        0,
+        2,
+        1,
+        0,
+        0,
+        0,
+        1,
+        0,
+        0,
+        0,
+        0,
+        1,
+        1,
+        1,
+        2,
+        2,
+        1,
+        0,
+        0,
+        1,
+        1,
+        1,
+        0,
+        0,
+        0,
+        0,
+        1,
+        2,
+        2,
+        2,
+        1,
+        1,
+        1,
+        0,
+        0,
+        0
+      ],
+      "mObjReactToObj": [
+        0,
+        0
+      ],
+      "mItemReflectBoundCoef": {
+        "Enabled": 0,
+        "Value": 0.0
+      },
+      "mItemReflectFricCoef": {
+        "Enabled": 0,
+        "Value": 0.0
+      },
+      "mIsAIApproach": 0,
+      "mAIReact": 0,
+      "mScore": [
+        0,
+        10,
+        0
+      ],
+      "mTargetMask": {
+        "Bit": 255
+      },
+      "mBoxColRadius": 0.0
+    }
+  ],
+  "mAnimatorController": {
+    "m_FileID": 0,
+    "m_PathID": -488594741515787406
+  },
+  "mSubAnimatorController": [],
+  "mEffectContainer": {
+    "m_FileID": 0,
+    "m_PathID": -4750603941413236368
+  },
+  "mEnableClip": 0,
+  "mEnableReceiveShadow": 0,
+  "mShadowType": 0,
+  "mProjectionMaterial": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "mShadowSize": {
+    "x": 0.0,
+    "y": 0.0,
+    "z": 0.0
+  },
+  "mShadowDensity": 0.5,
+  "mGndColRayLen": 10.0,
+  "mReactionInterval": 0.0,
+  "mLodScreenRelativeTransitionHeights": [
+    0.01,
+    0.0
+  ],
+  "mIsUseLodSettingsForPowerSaving": 0,
+  "mLodScreenRelativeTransitionHegihtsForPowerSaving": [],
+  "mDistancedDiscardHeight": 0.0,
+  "mIsDisableReverseScroll": 1,
+  "mDurationOnlyList": [],
+  "mIsDisableEvent": 0,
+  "mScoreUpMetaId": 0,
+  "mAlternateColorMaterials": [],
+  "mVariationNameList": []
+}

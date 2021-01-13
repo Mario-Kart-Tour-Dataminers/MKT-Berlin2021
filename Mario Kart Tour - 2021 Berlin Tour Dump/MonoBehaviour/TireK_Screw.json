@@ -1,0 +1,205 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": -3205259396417638272
+  },
+  "m_Name": "TireK_Screw",
+  "mTireType": 3,
+  "mTireList": [
+    {
+      "mTireModel": {
+        "m_FileID": 0,
+        "m_PathID": -9146274637236752888
+      },
+      "mTireJointOffset": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "mShaftModel": {
+        "m_FileID": 51,
+        "m_PathID": 4918039990703789073
+      },
+      "mShaftRotationLimit": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "mShaftScaleLimit": {
+        "x": 1.0,
+        "y": 1.0,
+        "z": 1.0
+      },
+      "mMirrorFront": 0
+    },
+    {
+      "mTireModel": {
+        "m_FileID": 0,
+        "m_PathID": -6611380644286102969
+      },
+      "mTireJointOffset": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "mShaftModel": {
+        "m_FileID": 47,
+        "m_PathID": 8694847285448990685
+      },
+      "mShaftRotationLimit": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "mShaftScaleLimit": {
+        "x": 1.0,
+        "y": 1.0,
+        "z": 1.0
+      },
+      "mMirrorFront": 0
+    },
+    {
+      "mTireModel": {
+        "m_FileID": 0,
+        "m_PathID": -9146274637236752888
+      },
+      "mTireJointOffset": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "mShaftModel": {
+        "m_FileID": 51,
+        "m_PathID": 4918039990703789073
+      },
+      "mShaftRotationLimit": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "mShaftScaleLimit": {
+        "x": 1.0,
+        "y": 1.0,
+        "z": 1.0
+      },
+      "mMirrorFront": 1
+    },
+    {
+      "mTireModel": {
+        "m_FileID": 0,
+        "m_PathID": -6611380644286102969
+      },
+      "mTireJointOffset": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "mShaftModel": {
+        "m_FileID": 47,
+        "m_PathID": 8694847285448990685
+      },
+      "mShaftRotationLimit": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "mShaftScaleLimit": {
+        "x": 1.0,
+        "y": 1.0,
+        "z": 1.0
+      },
+      "mMirrorFront": 1
+    }
+  ],
+  "mIconInfo": [
+    {
+      "mPath": "",
+      "mGuid": ""
+    }
+  ],
+  "mIsFixedIcon": 0,
+  "mBaseParameter": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "mMaterial": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "mShaftMaterial": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "mEffectContainer": {
+    "m_FileID": 0,
+    "m_PathID": -4096533305725009611
+  },
+  "mEffectContainerForBody": [
+    {
+      "mKey": 1894510494,
+      "mContainer": {
+        "m_FileID": 0,
+        "m_PathID": 1279802748723939768
+      }
+    },
+    {
+      "mKey": 1594305071,
+      "mContainer": {
+        "m_FileID": 0,
+        "m_PathID": -9010145765898600876
+      }
+    },
+    {
+      "mKey": 1177062736,
+      "mContainer": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      }
+    },
+    {
+      "mKey": 1177062736,
+      "mContainer": {
+        "m_FileID": 0,
+        "m_PathID": -8349589137767013277
+      }
+    },
+    {
+      "mKey": 4192937177,
+      "mContainer": {
+        "m_FileID": 0,
+        "m_PathID": 5597973435954964046
+      }
+    },
+    {
+      "mKey": 2480727258,
+      "mContainer": {
+        "m_FileID": 0,
+        "m_PathID": -8969679216796185947
+      }
+    },
+    {
+      "mKey": 2419345957,
+      "mContainer": {
+        "m_FileID": 0,
+        "m_PathID": -4375551419824044731
+      }
+    },
+    {
+      "mKey": 963893699,
+      "mContainer": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      }
+    }
+  ],
+  "mDescription": "",
+  "mColorValiationRoot": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  }
+}

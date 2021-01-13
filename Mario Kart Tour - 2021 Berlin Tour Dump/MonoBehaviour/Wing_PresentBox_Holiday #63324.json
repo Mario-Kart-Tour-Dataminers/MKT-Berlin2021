@@ -1,0 +1,50 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": 2434717279687273224
+  },
+  "m_Name": "Wing_PresentBox_Holiday",
+  "mWingModel": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "mIconInfo": [
+    {
+      "mPath": "Assets/Main/Content/Kart/Wing/Wing_PresentBox/Icons/Wing_PresentBox_Holiday.png",
+      "mGuid": "368194034a8596540aacfc41d419c857"
+    },
+    {
+      "mPath": "Assets/Main/Content/Kart/Wing/Wing_PresentBox/Icons/Wing_PresentBox_Holiday_Large.png",
+      "mGuid": "9d1433d805cb54b4390c8f51b7bcc95b"
+    },
+    {
+      "mPath": "Assets/Main/Content/Kart/Wing/Wing_PresentBox/Icons/Wing_PresentBox_Holiday_Small.png",
+      "mGuid": "9bbd5d84696d9304ab1a5e6f8023a8a6"
+    }
+  ],
+  "mWingType": 0,
+  "mIsFixedIcon": 0,
+  "mBaseParameter": {
+    "m_FileID": 1,
+    "m_PathID": -3992081199398300791
+  },
+  "mMaterial": {
+    "m_FileID": 2,
+    "m_PathID": -7066385030050804600
+  },
+  "mEffectContainer": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "mIsDisableAngleAnimation": 0,
+  "mDescription": "",
+  "mColorValiationRoot": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  }
+}

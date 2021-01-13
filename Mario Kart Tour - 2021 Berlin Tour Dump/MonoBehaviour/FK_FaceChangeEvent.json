@@ -1,0 +1,13 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": -4222366918237533649
+  },
+  "m_Name": "FK_FaceChangeEvent",
+  "mFaceChangeEvent": []
+}

@@ -1,0 +1,252 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": 1150354629195081500
+  },
+  "m_Name": "FenceSilverNightArrow_prm",
+  "mMapObjName": "FenceSilverNightArrow",
+  "mResource": [
+    {
+      "m_FileID": 2,
+      "m_PathID": -7635496433401032081
+    }
+  ],
+  "mKCol": [],
+  "mKColScale": 0,
+  "mModelOrigin": 0,
+  "mOffset": {
+    "x": 0.0,
+    "y": 0.0,
+    "z": 0.0
+  },
+  "mCollision": [
+    {
+      "mName": "",
+      "mShapes": [
+        {
+          "mName": "",
+          "mShape": 3,
+          "mSize": {
+            "x": 9.0,
+            "y": 3.8,
+            "z": 1.0
+          },
+          "mPos": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          },
+          "mRotate": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          },
+          "mIsStrictContinuous": 0
+        }
+      ],
+      "mObjReactToKart": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "mObjReactToItem": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "mKartReactToObj": [
+        3,
+        3,
+        3,
+        3,
+        3,
+        3,
+        3,
+        3,
+        3,
+        3
+      ],
+      "mItemReactToObj": [
+        0,
+        2,
+        1,
+        2,
+        2,
+        2,
+        0,
+        0,
+        0,
+        0,
+        2,
+        0,
+        0,
+        2,
+        2,
+        2,
+        1,
+        0,
+        0,
+        2,
+        2,
+        1,
+        0,
+        0,
+        0,
+        1,
+        0,
+        0,
+        0,
+        0,
+        2,
+        2,
+        2,
+        2,
+        2,
+        1,
+        0,
+        0,
+        2,
+        1,
+        1,
+        0,
+        0,
+        0,
+        0,
+        1,
+        2,
+        2,
+        2,
+        2,
+        2,
+        2,
+        2,
+        2,
+        2
+      ],
+      "mObjReactToObj": [
+        0,
+        0
+      ],
+      "mItemReflectBoundCoef": {
+        "Enabled": 0,
+        "Value": 0.0
+      },
+      "mItemReflectFricCoef": {
+        "Enabled": 0,
+        "Value": 0.0
+      },
+      "mIsAIApproach": 0,
+      "mAIReact": 1,
+      "mScore": [
+        0,
+        10,
+        0
+      ],
+      "mTargetMask": {
+        "Bit": 255
+      },
+      "mBoxColRadius": 0.0
+    }
+  ],
+  "mAnimatorController": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "mSubAnimatorController": [],
+  "mEffectContainer": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "mEnableClip": 0,
+  "mEnableReceiveShadow": 0,
+  "mShadowType": 2,
+  "mProjectionMaterial": {
+    "m_FileID": 1,
+    "m_PathID": 9042924892036719036
+  },
+  "mShadowSize": {
+    "x": 18.0,
+    "y": 1.0,
+    "z": 2.0
+  },
+  "mShadowDensity": 0.3,
+  "mGndColRayLen": 10.0,
+  "mReactionInterval": 0.0,
+  "mLodScreenRelativeTransitionHeights": [
+    0.04,
+    0.011
+  ],
+  "mIsUseLodSettingsForPowerSaving": 0,
+  "mLodScreenRelativeTransitionHegihtsForPowerSaving": [],
+  "mDistancedDiscardHeight": 0.0,
+  "mIsDisableReverseScroll": 1,
+  "mDurationOnlyList": [],
+  "mIsDisableEvent": 0,
+  "mScoreUpMetaId": 0,
+  "mAlternateColorMaterials": [],
+  "mVariationNameList": []
+}

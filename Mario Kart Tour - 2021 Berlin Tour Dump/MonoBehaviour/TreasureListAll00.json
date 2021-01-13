@@ -1,0 +1,41 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": -3528712136297729501
+  },
+  "m_Name": "TreasureListAll00",
+  "savePath": 1,
+  "assetDataList": [
+    {
+      "Key": 1,
+      "Value": {
+        "obj": {
+          "m_FileID": 0,
+          "m_PathID": 6335206725660831812
+        },
+        "path": "",
+        "guid": "",
+        "substitutedKey": 0
+      }
+    },
+    {
+      "Key": 10,
+      "Value": {
+        "obj": {
+          "m_FileID": 0,
+          "m_PathID": 8668352638950929634
+        },
+        "path": "",
+        "guid": "",
+        "substitutedKey": 0
+      }
+    }
+  ],
+  "notContainKeyAction": 3,
+  "assetType": 2
+}

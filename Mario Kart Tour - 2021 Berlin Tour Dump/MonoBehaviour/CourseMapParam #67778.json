@@ -1,0 +1,160 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": -1253097590706675564
+  },
+  "m_Name": "CourseMapParam",
+  "mMapObjArray": [
+    {
+      "m_FileID": 25,
+      "m_PathID": 3715113198056435330
+    },
+    {
+      "m_FileID": 8,
+      "m_PathID": -1099803160674548907
+    },
+    {
+      "m_FileID": 6,
+      "m_PathID": 6541647011953363937
+    },
+    {
+      "m_FileID": 11,
+      "m_PathID": -7992127826733754745
+    },
+    {
+      "m_FileID": 12,
+      "m_PathID": 2780778863115553754
+    },
+    {
+      "m_FileID": 19,
+      "m_PathID": 1783806711236351291
+    },
+    {
+      "m_FileID": 16,
+      "m_PathID": -7683271295301486976
+    },
+    {
+      "m_FileID": 26,
+      "m_PathID": 5521035098202339316
+    },
+    {
+      "m_FileID": 21,
+      "m_PathID": -4955580721583675999
+    },
+    {
+      "m_FileID": 15,
+      "m_PathID": -7596273561129810215
+    },
+    {
+      "m_FileID": 27,
+      "m_PathID": 3089172396742571038
+    },
+    {
+      "m_FileID": 23,
+      "m_PathID": 7342577336851685164
+    },
+    {
+      "m_FileID": 17,
+      "m_PathID": 3179527181048846069
+    },
+    {
+      "m_FileID": 24,
+      "m_PathID": -2467717485903709680
+    },
+    {
+      "m_FileID": 13,
+      "m_PathID": 5196396445589048651
+    },
+    {
+      "m_FileID": 9,
+      "m_PathID": 3945621986495836585
+    },
+    {
+      "m_FileID": 22,
+      "m_PathID": 8528134015418398253
+    },
+    {
+      "m_FileID": 18,
+      "m_PathID": -1062230996956218320
+    },
+    {
+      "m_FileID": 7,
+      "m_PathID": -3689391981113644437
+    },
+    {
+      "m_FileID": 14,
+      "m_PathID": -1351954998463601693
+    }
+  ],
+  "mEffectAreaEnv": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "mEffectAreaCamera": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "mStartGridMaterial": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "mStartGridMaterials": [
+    {
+      "m_FileID": 20,
+      "m_PathID": 3677075346786556131
+    },
+    {
+      "m_FileID": 10,
+      "m_PathID": 5570022084560806725
+    }
+  ],
+  "mIsOverrideStartGridParam": 0,
+  "mStartGridParam": {
+    "Row": 2,
+    "Column": 4,
+    "Width": 4.0,
+    "Height": 4.0,
+    "Slide1": 1.0,
+    "Slide2": 2.0,
+    "SlideZ": 0.0
+  },
+  "mCombinedMapObject": [
+    {
+      "m_FileID": 0,
+      "m_PathID": -4414838070329352224
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 2784846875630478251
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 5046201818303925927
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -6928330898205379146
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 7187750876549057734
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -5578218787206999036
+    }
+  ],
+  "mCourseParam": {
+    "DriveSpeedRatioMin": 1.0,
+    "DriveSpeedRatioMax": 1.05,
+    "PosMoveTotalMin": 0.0,
+    "PosMoveTotalMax": 0.0,
+    "LapTimeAveMin": 0.0,
+    "LapTimeAveMax": 0.0
+  }
+}

@@ -1,0 +1,123 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": -2094441087577622512
+  },
+  "m_Name": "HoneKoopaGolden",
+  "mModel": {
+    "m_FileID": 1,
+    "m_PathID": 3867712638687682186
+  },
+  "mFaceTextures": [
+    {
+      "m_FileID": 2,
+      "m_PathID": 7170967688886543232
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -7761094046618854396
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 2030756456458946914
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 3649221168989856019
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 2135064493398230341
+    }
+  ],
+  "mIsFaceTextureEmission": 1,
+  "mEmblem": {
+    "m_FileID": 0,
+    "m_PathID": -7016335703805292522
+  },
+  "mAnimatorOverrideController": {
+    "m_FileID": 3,
+    "m_PathID": 7046633616568790207
+  },
+  "mKartScaleSize": 1.1,
+  "mWingJointType": 0,
+  "mFaceChangeEvent": {
+    "m_FileID": 0,
+    "m_PathID": 4595786732941193243
+  },
+  "mIconInfo": [
+    {
+      "mPath": "Assets/Main/Content/Driver/HoneKoopaGolden/Icons/HoneKoopaGolden.png",
+      "mGuid": "5a57e410b19c7aa4ebc19c2602f50a19"
+    },
+    {
+      "mPath": "Assets/Main/Content/Driver/HoneKoopaGolden/Icons/HoneKoopaGoldenMap.png",
+      "mGuid": "055034e98cabd6748b03f3e7aacbe476"
+    },
+    {
+      "mPath": "Assets/Main/Content/Driver/HoneKoopaGolden/Icons/HoneKoopaGoldenFaceEntry.png",
+      "mGuid": "174193285c97f1d44a8d075a2177e7c0"
+    },
+    {
+      "mPath": "Assets/Main/Content/Driver/HoneKoopaGolden/Icons/HoneKoopaGoldenWholeBody.png",
+      "mGuid": "3b1e8af4d5787f5449e2b8477ef00902"
+    },
+    {
+      "mPath": "Assets/Main/Content/Driver/HoneKoopaGolden/Icons/HoneKoopaGoldenUpperBody.png",
+      "mGuid": "1aed3bf65e78c1e46acedea98bedba8b"
+    },
+    {
+      "mPath": "",
+      "mGuid": ""
+    },
+    {
+      "mPath": "Assets/Main/Content/Driver/HoneKoopaGolden/Icons/HoneKoopaGolden_Small.png",
+      "mGuid": "25cfefba37cd2994c8681d8d3918596e"
+    },
+    {
+      "mPath": "Assets/Main/Content/Driver/HoneKoopaGolden/Icons/HoneKoopaGoldenFaceEntry_Small.png",
+      "mGuid": "4c42ed4993ea3e04784a26a8aaac797e"
+    },
+    {
+      "mPath": "Assets/Main/Content/Driver/HoneKoopaGolden/Icons/HoneKoopaGoldenWholeBody_Small.png",
+      "mGuid": "b43a370a73995f64bacca7da8f5b5ff6"
+    },
+    {
+      "mPath": "Assets/Main/Content/Driver/HoneKoopaGolden/Icons/HoneKoopaGoldenUpperBody_Small.png",
+      "mGuid": "846d676e37a0aa24ca1ad491dfb2f0bb"
+    }
+  ],
+  "mColorGroup": 0,
+  "mCharacterTextureList": [],
+  "mBaseParameter": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "mBodyMaterial": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "mEyeMaterial": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "mDynamicUnitMngInitData": {
+    "m_FileID": 0,
+    "m_PathID": 1789068082020958823
+  },
+  "mMetamorData": [],
+  "mDotDriverData": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "mDescription": "",
+  "mEffectContainer": {
+    "m_FileID": 0,
+    "m_PathID": -2301615206951853697
+  }
+}

@@ -1,0 +1,50 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": 2434717279687273224
+  },
+  "m_Name": "Wing_OoTako",
+  "mWingModel": {
+    "m_FileID": 0,
+    "m_PathID": -3559319329025899845
+  },
+  "mIconInfo": [
+    {
+      "mPath": "Assets/Main/Content/Kart/Wing/Wing_OoTako/Icons/Wing_OoTako.png",
+      "mGuid": "e30e9c182d875ad4997bba30679fedab"
+    },
+    {
+      "mPath": "Assets/Main/Content/Kart/Wing/Wing_OoTako/Icons/Wing_OoTako_Large.png",
+      "mGuid": "9f76d6fb001675c408a9c56b6f994961"
+    },
+    {
+      "mPath": "Assets/Main/Content/Kart/Wing/Wing_OoTako/Icons/Wing_OoTako_Small.png",
+      "mGuid": "532112e57286ecc4cbb5471b1b6f9776"
+    }
+  ],
+  "mWingType": 1,
+  "mIsFixedIcon": 0,
+  "mBaseParameter": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "mMaterial": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "mEffectContainer": {
+    "m_FileID": 0,
+    "m_PathID": -6256033324254873779
+  },
+  "mIsDisableAngleAnimation": 0,
+  "mDescription": "",
+  "mColorValiationRoot": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  }
+}

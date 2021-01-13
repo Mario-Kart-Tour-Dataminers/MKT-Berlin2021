@@ -1,0 +1,131 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": -2094441087577622512
+  },
+  "m_Name": "NokonokoRace_Gold",
+  "mModel": {
+    "m_FileID": 5,
+    "m_PathID": 1048626420467610273
+  },
+  "mFaceTextures": [
+    {
+      "m_FileID": 6,
+      "m_PathID": -5597021954483920841
+    },
+    {
+      "m_FileID": 7,
+      "m_PathID": 8923900057439512477
+    },
+    {
+      "m_FileID": 8,
+      "m_PathID": -3212942713497515778
+    },
+    {
+      "m_FileID": 9,
+      "m_PathID": -2782033375698241059
+    },
+    {
+      "m_FileID": 10,
+      "m_PathID": 5755725770399345674
+    },
+    {
+      "m_FileID": 11,
+      "m_PathID": 2829726817782223799
+    },
+    {
+      "m_FileID": 12,
+      "m_PathID": -791707604570693218
+    }
+  ],
+  "mIsFaceTextureEmission": 0,
+  "mEmblem": {
+    "m_FileID": 0,
+    "m_PathID": 3711724720689074608
+  },
+  "mAnimatorOverrideController": {
+    "m_FileID": 13,
+    "m_PathID": 4627765219611890143
+  },
+  "mKartScaleSize": 0.85,
+  "mWingJointType": 0,
+  "mFaceChangeEvent": {
+    "m_FileID": 14,
+    "m_PathID": 716191374732081954
+  },
+  "mIconInfo": [
+    {
+      "mPath": "Assets/Main/Content/Driver/NokonokoRace/Icons/NokonokoRace_Gold.png",
+      "mGuid": "4d4c26d95e1b6924f9060ef362b77c77"
+    },
+    {
+      "mPath": "Assets/Main/Content/Driver/NokonokoRace/Icons/NokonokoRace_GoldMap.png",
+      "mGuid": "54f68f83a22aa3241ad6ff5b1480fc84"
+    },
+    {
+      "mPath": "Assets/Main/Content/Driver/NokonokoRace/Icons/NokonokoRace_GoldFaceEntry.png",
+      "mGuid": "da651b3ba041666488dee26eaffb4a47"
+    },
+    {
+      "mPath": "Assets/Main/Content/Driver/NokonokoRace/Icons/NokonokoRace_GoldWholeBody.png",
+      "mGuid": "b5dc6d4fcc19bad4bbf998e259b7c6c9"
+    },
+    {
+      "mPath": "Assets/Main/Content/Driver/NokonokoRace/Icons/NokonokoRace_GoldUpperBody.png",
+      "mGuid": "4b319481c646e464db1dace1a326ba4d"
+    },
+    {
+      "mPath": "",
+      "mGuid": ""
+    },
+    {
+      "mPath": "Assets/Main/Content/Driver/NokonokoRace/Icons/NokonokoRace_Gold_Small.png",
+      "mGuid": "6aaf366ae696a2240ae93b1324ddb023"
+    },
+    {
+      "mPath": "Assets/Main/Content/Driver/NokonokoRace/Icons/NokonokoRace_GoldFaceEntry_Small.png",
+      "mGuid": "c111ca6b3bac0f44ab37aa9e9ca8624e"
+    },
+    {
+      "mPath": "Assets/Main/Content/Driver/NokonokoRace/Icons/NokonokoRace_GoldWholeBody_Small.png",
+      "mGuid": "533689b7b9e88a341b8d619d6decd64e"
+    },
+    {
+      "mPath": "Assets/Main/Content/Driver/NokonokoRace/Icons/NokonokoRace_GoldUpperBody_Small.png",
+      "mGuid": "dc595acbae4516242b94281afa562801"
+    }
+  ],
+  "mColorGroup": 0,
+  "mCharacterTextureList": [],
+  "mBaseParameter": {
+    "m_FileID": 15,
+    "m_PathID": -9039766253777504626
+  },
+  "mBodyMaterial": {
+    "m_FileID": 0,
+    "m_PathID": -8455900292857078493
+  },
+  "mEyeMaterial": {
+    "m_FileID": 0,
+    "m_PathID": -5606380011352690902
+  },
+  "mDynamicUnitMngInitData": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "mMetamorData": [],
+  "mDotDriverData": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "mDescription": "",
+  "mEffectContainer": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  }
+}

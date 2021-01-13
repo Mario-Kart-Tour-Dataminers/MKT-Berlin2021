@@ -1,0 +1,135 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": -2094441087577622512
+  },
+  "m_Name": "GoldMario",
+  "mModel": {
+    "m_FileID": 1,
+    "m_PathID": -3619696136675629960
+  },
+  "mFaceTextures": [
+    {
+      "m_FileID": 2,
+      "m_PathID": 3692819209678131418
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 6161915060379284653
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 8965494610262456259
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 748603555392587894
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -1149558610684260140
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -1509539529307226436
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -6530103842024647331
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 103786398321471675
+    }
+  ],
+  "mIsFaceTextureEmission": 0,
+  "mEmblem": {
+    "m_FileID": 0,
+    "m_PathID": 5938828960004262399
+  },
+  "mAnimatorOverrideController": {
+    "m_FileID": 3,
+    "m_PathID": -1803551314013278234
+  },
+  "mKartScaleSize": 1.0,
+  "mWingJointType": 0,
+  "mFaceChangeEvent": {
+    "m_FileID": 0,
+    "m_PathID": 6425337440258837331
+  },
+  "mIconInfo": [
+    {
+      "mPath": "Assets/Main/Content/Driver/GoldMario/Icons/GoldMario.png",
+      "mGuid": "9ebe098466b43d14296f7d27214d9ecd"
+    },
+    {
+      "mPath": "Assets/Main/Content/Driver/GoldMario/Icons/GoldMarioMap.png",
+      "mGuid": "7d2b14e3a900e38468c1679d3bdb67d3"
+    },
+    {
+      "mPath": "Assets/Main/Content/Driver/GoldMario/Icons/GoldMarioFaceEntry.png",
+      "mGuid": "a437ef73df02f354d9fc30256ccdf34b"
+    },
+    {
+      "mPath": "Assets/Main/Content/Driver/GoldMario/Icons/GoldMarioWholeBody.png",
+      "mGuid": "60d6c7ddfbab4eb4fb70f11b12384f05"
+    },
+    {
+      "mPath": "Assets/Main/Content/Driver/GoldMario/Icons/GoldMarioUpperBody.png",
+      "mGuid": "9575cfcf4d6b64d4b84017d88b4239ab"
+    },
+    {
+      "mPath": "",
+      "mGuid": ""
+    },
+    {
+      "mPath": "Assets/Main/Content/Driver/GoldMario/Icons/GoldMario_Small.png",
+      "mGuid": "f0532d0f5371a8b47858eb6687a612af"
+    },
+    {
+      "mPath": "Assets/Main/Content/Driver/GoldMario/Icons/GoldMarioFaceEntry_Small.png",
+      "mGuid": "ae3a6046ce919534493a1c538c48d321"
+    },
+    {
+      "mPath": "Assets/Main/Content/Driver/GoldMario/Icons/GoldMarioWholeBody_Small.png",
+      "mGuid": "9a91c85643b57ec47aa3ec20d613ef03"
+    },
+    {
+      "mPath": "Assets/Main/Content/Driver/GoldMario/Icons/GoldMarioUpperBody_Small.png",
+      "mGuid": "0f1d6c4c31d56bf4ba60f684fda4a684"
+    }
+  ],
+  "mColorGroup": 0,
+  "mCharacterTextureList": [],
+  "mBaseParameter": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "mBodyMaterial": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "mEyeMaterial": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "mDynamicUnitMngInitData": {
+    "m_FileID": 0,
+    "m_PathID": 6472843269843721253
+  },
+  "mMetamorData": [],
+  "mDotDriverData": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "mDescription": "ゴールドマリオ",
+  "mEffectContainer": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  }
+}

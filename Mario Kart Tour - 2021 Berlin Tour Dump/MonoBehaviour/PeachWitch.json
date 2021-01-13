@@ -1,0 +1,135 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": -2094441087577622512
+  },
+  "m_Name": "PeachWitch",
+  "mModel": {
+    "m_FileID": 1,
+    "m_PathID": 1177443340062832245
+  },
+  "mFaceTextures": [
+    {
+      "m_FileID": 2,
+      "m_PathID": -4720832223355862197
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 8057290012239202654
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 5079312820797559302
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -7743435787779574773
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 1490476277348857469
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 671926166340128546
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -2107709787165222401
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 4689620236785201287
+    }
+  ],
+  "mIsFaceTextureEmission": 0,
+  "mEmblem": {
+    "m_FileID": 0,
+    "m_PathID": -4911108455469222525
+  },
+  "mAnimatorOverrideController": {
+    "m_FileID": 3,
+    "m_PathID": 7602044797446022715
+  },
+  "mKartScaleSize": 1.0,
+  "mWingJointType": 0,
+  "mFaceChangeEvent": {
+    "m_FileID": 0,
+    "m_PathID": 7480067765709290259
+  },
+  "mIconInfo": [
+    {
+      "mPath": "Assets/Main/Content/Driver/PeachWitch/Icons/PeachWitch.png",
+      "mGuid": "d26d49c2f5b88d546a74e517f5baeee4"
+    },
+    {
+      "mPath": "Assets/Main/Content/Driver/PeachWitch/Icons/PeachWitchMap.png",
+      "mGuid": "de8f0f40bca4e884ebe6af2ed4f569d4"
+    },
+    {
+      "mPath": "Assets/Main/Content/Driver/PeachWitch/Icons/PeachWitchFaceEntry.png",
+      "mGuid": "f9dfadbd08a387b4685e7f522d3251fc"
+    },
+    {
+      "mPath": "Assets/Main/Content/Driver/PeachWitch/Icons/PeachWitchWholeBody.png",
+      "mGuid": "50fd4ae7ecb41334ebf7b504440c571f"
+    },
+    {
+      "mPath": "Assets/Main/Content/Driver/PeachWitch/Icons/PeachWitchUpperBody.png",
+      "mGuid": "fa318ec76e0d5794b9f22be9612237f2"
+    },
+    {
+      "mPath": "",
+      "mGuid": ""
+    },
+    {
+      "mPath": "Assets/Main/Content/Driver/PeachWitch/Icons/PeachWitch_Small.png",
+      "mGuid": "2d284355313346540bd1d7164705e524"
+    },
+    {
+      "mPath": "Assets/Main/Content/Driver/PeachWitch/Icons/PeachWitchFaceEntry_Small.png",
+      "mGuid": "709917a57f075004ab9e1f8bcd896001"
+    },
+    {
+      "mPath": "Assets/Main/Content/Driver/PeachWitch/Icons/PeachWitchWholeBody_Small.png",
+      "mGuid": "75cd364cb8c2e254796984a52669a517"
+    },
+    {
+      "mPath": "Assets/Main/Content/Driver/PeachWitch/Icons/PeachWitchUpperBody_Small.png",
+      "mGuid": "6b63826981fbbd24e96df8708e16828f"
+    }
+  ],
+  "mColorGroup": 0,
+  "mCharacterTextureList": [],
+  "mBaseParameter": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "mBodyMaterial": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "mEyeMaterial": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "mDynamicUnitMngInitData": {
+    "m_FileID": 0,
+    "m_PathID": -1959879785236762403
+  },
+  "mMetamorData": [],
+  "mDotDriverData": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "mDescription": "",
+  "mEffectContainer": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  }
+}

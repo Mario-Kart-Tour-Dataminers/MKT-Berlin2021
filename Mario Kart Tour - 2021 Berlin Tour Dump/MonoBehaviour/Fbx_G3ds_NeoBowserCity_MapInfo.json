@@ -1,0 +1,26 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": 980329048157257672
+  },
+  "m_Name": "Fbx_G3ds_NeoBowserCity_MapInfo",
+  "rect": {
+    "x": -342.402863,
+    "y": -338.4322,
+    "width": 637.4051,
+    "height": 637.4051
+  },
+  "sprite": {
+    "m_FileID": 0,
+    "m_PathID": -4787802643467468819
+  },
+  "offset": {
+    "x": -30.0,
+    "y": 0.0
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": 3718094394832668311
+  },
+  "m_Name": "Gmob_London2X_main_Waluigi00",
+  "mSprites": [
+    {
+      "m_FileID": 0,
+      "m_PathID": 8563625773603909184
+    }
+  ]
+}

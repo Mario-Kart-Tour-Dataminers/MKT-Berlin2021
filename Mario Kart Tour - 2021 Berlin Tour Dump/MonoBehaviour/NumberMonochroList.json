@@ -1,0 +1,125 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": -3255638462797510299
+  },
+  "m_Name": "NumberMonochroList",
+  "NumberSpacing": 0.0,
+  "CommaSpacing": -6.0,
+  "DotSpacing": -6.0,
+  "SpaceWidth": 12.0,
+  "MultiplySpacing": 0.0,
+  "PlusSpacing": 0.0,
+  "Scale": 0.78,
+  "SpriteList": [
+    {
+      "Sprite": {
+        "m_FileID": 1,
+        "m_PathID": -1027819941724114596
+      },
+      "SpriteNum": 0,
+      "HeightOffset": 0.0
+    },
+    {
+      "Sprite": {
+        "m_FileID": 1,
+        "m_PathID": 1944490557320465728
+      },
+      "SpriteNum": 1,
+      "HeightOffset": 0.0
+    },
+    {
+      "Sprite": {
+        "m_FileID": 1,
+        "m_PathID": 6968869111239499115
+      },
+      "SpriteNum": 2,
+      "HeightOffset": 0.0
+    },
+    {
+      "Sprite": {
+        "m_FileID": 1,
+        "m_PathID": -8909235593258815488
+      },
+      "SpriteNum": 3,
+      "HeightOffset": 0.0
+    },
+    {
+      "Sprite": {
+        "m_FileID": 1,
+        "m_PathID": 821148912729585819
+      },
+      "SpriteNum": 4,
+      "HeightOffset": 0.0
+    },
+    {
+      "Sprite": {
+        "m_FileID": 1,
+        "m_PathID": 4758354006685391399
+      },
+      "SpriteNum": 5,
+      "HeightOffset": 0.0
+    },
+    {
+      "Sprite": {
+        "m_FileID": 1,
+        "m_PathID": -1393448855452961906
+      },
+      "SpriteNum": 6,
+      "HeightOffset": 0.0
+    },
+    {
+      "Sprite": {
+        "m_FileID": 1,
+        "m_PathID": -6476123371806750717
+      },
+      "SpriteNum": 7,
+      "HeightOffset": 0.0
+    },
+    {
+      "Sprite": {
+        "m_FileID": 1,
+        "m_PathID": -5173394273366814590
+      },
+      "SpriteNum": 8,
+      "HeightOffset": 0.0
+    },
+    {
+      "Sprite": {
+        "m_FileID": 1,
+        "m_PathID": -2632882099716786050
+      },
+      "SpriteNum": 9,
+      "HeightOffset": 0.0
+    },
+    {
+      "Sprite": {
+        "m_FileID": 1,
+        "m_PathID": -848240872337911126
+      },
+      "SpriteNum": 10,
+      "HeightOffset": -7.0
+    },
+    {
+      "Sprite": {
+        "m_FileID": 1,
+        "m_PathID": -4406960647725814593
+      },
+      "SpriteNum": 11,
+      "HeightOffset": 0.0
+    },
+    {
+      "Sprite": {
+        "m_FileID": 1,
+        "m_PathID": 1805088566794956279
+      },
+      "SpriteNum": 14,
+      "HeightOffset": 15.0
+    }
+  ]
+}

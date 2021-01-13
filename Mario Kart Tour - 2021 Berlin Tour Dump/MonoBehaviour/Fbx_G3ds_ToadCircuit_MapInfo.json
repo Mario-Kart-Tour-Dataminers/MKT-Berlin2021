@@ -1,0 +1,26 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": 980329048157257672
+  },
+  "m_Name": "Fbx_G3ds_ToadCircuit_MapInfo",
+  "rect": {
+    "x": -232.393326,
+    "y": -221.98317,
+    "width": 579.04895,
+    "height": 579.04895
+  },
+  "sprite": {
+    "m_FileID": 0,
+    "m_PathID": 606346180256192256
+  },
+  "offset": {
+    "x": 5.0,
+    "y": 0.0
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": 3718094394832668311
+  },
+  "m_Name": "RareUSpt",
+  "mSprites": [
+    {
+      "m_FileID": 0,
+      "m_PathID": -7816799409007329204
+    }
+  ]
+}

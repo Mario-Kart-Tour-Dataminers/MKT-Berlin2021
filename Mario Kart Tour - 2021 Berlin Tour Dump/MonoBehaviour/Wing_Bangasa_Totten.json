@@ -1,0 +1,50 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": 2434717279687273224
+  },
+  "m_Name": "Wing_Bangasa_Totten",
+  "mWingModel": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "mIconInfo": [
+    {
+      "mPath": "Assets/Main/Content/Kart/Wing/Wing_Bangasa/Icons/Wing_Bangasa_Totten.png",
+      "mGuid": "802ee3b998753b949bc74b6ec91343d2"
+    },
+    {
+      "mPath": "Assets/Main/Content/Kart/Wing/Wing_Bangasa/Icons/Wing_Bangasa_Totten_Large.png",
+      "mGuid": "971d6af5a6350c24192d8f1fdedb9946"
+    },
+    {
+      "mPath": "Assets/Main/Content/Kart/Wing/Wing_Bangasa/Icons/Wing_Bangasa_Totten_Small.png",
+      "mGuid": "9c2f509808883884a83f19964a88e56f"
+    }
+  ],
+  "mWingType": 0,
+  "mIsFixedIcon": 0,
+  "mBaseParameter": {
+    "m_FileID": 1,
+    "m_PathID": 5574116931583460884
+  },
+  "mMaterial": {
+    "m_FileID": 0,
+    "m_PathID": 1560348923335535122
+  },
+  "mEffectContainer": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "mIsDisableAngleAnimation": 0,
+  "mDescription": "",
+  "mColorValiationRoot": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  }
+}

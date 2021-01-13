@@ -1,0 +1,26 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": 4454195247659244470
+  },
+  "m_Name": "GrayScale",
+  "settings": [
+    {
+      "m_FileID": 0,
+      "m_PathID": 4370897064721549360
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 5902829542307240522
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -4857714681281901747
+    }
+  ]
+}

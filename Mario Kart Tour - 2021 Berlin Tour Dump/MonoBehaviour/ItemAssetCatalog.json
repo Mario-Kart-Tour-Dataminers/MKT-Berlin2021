@@ -1,0 +1,346 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": 2597185985477464128
+  },
+  "m_Name": "ItemAssetCatalog",
+  "mAssetInfos": [
+    {
+      "mIsValidItem": 0,
+      "mIsCommon": 1,
+      "mOtherParamsNecessrary": [],
+      "mAssetFileNameLower": ""
+    },
+    {
+      "mIsValidItem": 1,
+      "mIsCommon": 1,
+      "mOtherParamsNecessrary": [],
+      "mAssetFileNameLower": "itemparamkourag"
+    },
+    {
+      "mIsValidItem": 1,
+      "mIsCommon": 1,
+      "mOtherParamsNecessrary": [],
+      "mAssetFileNameLower": "itemparamkourar"
+    },
+    {
+      "mIsValidItem": 1,
+      "mIsCommon": 1,
+      "mOtherParamsNecessrary": [],
+      "mAssetFileNameLower": "itemparambanana"
+    },
+    {
+      "mIsValidItem": 1,
+      "mIsCommon": 1,
+      "mOtherParamsNecessrary": [],
+      "mAssetFileNameLower": "itemparamkinoko"
+    },
+    {
+      "mIsValidItem": 1,
+      "mIsCommon": 1,
+      "mOtherParamsNecessrary": [],
+      "mAssetFileNameLower": "itemparamstar"
+    },
+    {
+      "mIsValidItem": 1,
+      "mIsCommon": 1,
+      "mOtherParamsNecessrary": [],
+      "mAssetFileNameLower": "itemparamkourab"
+    },
+    {
+      "mIsValidItem": 1,
+      "mIsCommon": 1,
+      "mOtherParamsNecessrary": [],
+      "mAssetFileNameLower": "itemparamthunder"
+    },
+    {
+      "mIsValidItem": 1,
+      "mIsCommon": 1,
+      "mOtherParamsNecessrary": [],
+      "mAssetFileNameLower": "itemparamcoin"
+    },
+    {
+      "mIsValidItem": 0,
+      "mIsCommon": 0,
+      "mOtherParamsNecessrary": [],
+      "mAssetFileNameLower": ""
+    },
+    {
+      "mIsValidItem": 1,
+      "mIsCommon": 1,
+      "mOtherParamsNecessrary": [],
+      "mAssetFileNameLower": "itemparambomhei"
+    },
+    {
+      "mIsValidItem": 1,
+      "mIsCommon": 1,
+      "mOtherParamsNecessrary": [],
+      "mAssetFileNameLower": "itemparamgesso"
+    },
+    {
+      "mIsValidItem": 1,
+      "mIsCommon": 1,
+      "mOtherParamsNecessrary": [],
+      "mAssetFileNameLower": "itemparamkiller"
+    },
+    {
+      "mIsValidItem": 1,
+      "mIsCommon": 0,
+      "mOtherParamsNecessrary": [],
+      "mAssetFileNameLower": "itemparamtype013"
+    },
+    {
+      "mIsValidItem": 1,
+      "mIsCommon": 0,
+      "mOtherParamsNecessrary": [],
+      "mAssetFileNameLower": "itemparamtype014"
+    },
+    {
+      "mIsValidItem": 1,
+      "mIsCommon": 0,
+      "mOtherParamsNecessrary": [],
+      "mAssetFileNameLower": "itemparamtype015"
+    },
+    {
+      "mIsValidItem": 1,
+      "mIsCommon": 1,
+      "mOtherParamsNecessrary": [],
+      "mAssetFileNameLower": "itemparamkillersmall"
+    },
+    {
+      "mIsValidItem": 1,
+      "mIsCommon": 0,
+      "mOtherParamsNecessrary": [],
+      "mAssetFileNameLower": "itemparamtype017"
+    },
+    {
+      "mIsValidItem": 1,
+      "mIsCommon": 0,
+      "mOtherParamsNecessrary": [],
+      "mAssetFileNameLower": "itemparamtype018"
+    },
+    {
+      "mIsValidItem": 1,
+      "mIsCommon": 0,
+      "mOtherParamsNecessrary": [],
+      "mAssetFileNameLower": "itemparamtype019"
+    },
+    {
+      "mIsValidItem": 1,
+      "mIsCommon": 0,
+      "mOtherParamsNecessrary": [],
+      "mAssetFileNameLower": "itemparamtype020"
+    },
+    {
+      "mIsValidItem": 1,
+      "mIsCommon": 0,
+      "mOtherParamsNecessrary": [
+        13
+      ],
+      "mAssetFileNameLower": "itemparamtype021"
+    },
+    {
+      "mIsValidItem": 0,
+      "mIsCommon": 0,
+      "mOtherParamsNecessrary": [],
+      "mAssetFileNameLower": ""
+    },
+    {
+      "mIsValidItem": 1,
+      "mIsCommon": 0,
+      "mOtherParamsNecessrary": [],
+      "mAssetFileNameLower": "itemparamtype023"
+    },
+    {
+      "mIsValidItem": 0,
+      "mIsCommon": 0,
+      "mOtherParamsNecessrary": [],
+      "mAssetFileNameLower": ""
+    },
+    {
+      "mIsValidItem": 0,
+      "mIsCommon": 0,
+      "mOtherParamsNecessrary": [],
+      "mAssetFileNameLower": ""
+    },
+    {
+      "mIsValidItem": 0,
+      "mIsCommon": 0,
+      "mOtherParamsNecessrary": [],
+      "mAssetFileNameLower": ""
+    },
+    {
+      "mIsValidItem": 1,
+      "mIsCommon": 0,
+      "mOtherParamsNecessrary": [],
+      "mAssetFileNameLower": "itemparamtype027"
+    },
+    {
+      "mIsValidItem": 1,
+      "mIsCommon": 0,
+      "mOtherParamsNecessrary": [],
+      "mAssetFileNameLower": "itemparamtype028"
+    },
+    {
+      "mIsValidItem": 1,
+      "mIsCommon": 1,
+      "mOtherParamsNecessrary": [],
+      "mAssetFileNameLower": "itemparamsuperhorn"
+    },
+    {
+      "mIsValidItem": 0,
+      "mIsCommon": 0,
+      "mOtherParamsNecessrary": [],
+      "mAssetFileNameLower": ""
+    },
+    {
+      "mIsValidItem": 0,
+      "mIsCommon": 0,
+      "mOtherParamsNecessrary": [],
+      "mAssetFileNameLower": ""
+    },
+    {
+      "mIsValidItem": 0,
+      "mIsCommon": 0,
+      "mOtherParamsNecessrary": [],
+      "mAssetFileNameLower": ""
+    },
+    {
+      "mIsValidItem": 0,
+      "mIsCommon": 0,
+      "mOtherParamsNecessrary": [],
+      "mAssetFileNameLower": ""
+    },
+    {
+      "mIsValidItem": 0,
+      "mIsCommon": 0,
+      "mOtherParamsNecessrary": [],
+      "mAssetFileNameLower": ""
+    },
+    {
+      "mIsValidItem": 0,
+      "mIsCommon": 0,
+      "mOtherParamsNecessrary": [],
+      "mAssetFileNameLower": ""
+    },
+    {
+      "mIsValidItem": 0,
+      "mIsCommon": 0,
+      "mOtherParamsNecessrary": [],
+      "mAssetFileNameLower": ""
+    },
+    {
+      "mIsValidItem": 0,
+      "mIsCommon": 0,
+      "mOtherParamsNecessrary": [],
+      "mAssetFileNameLower": ""
+    },
+    {
+      "mIsValidItem": 0,
+      "mIsCommon": 0,
+      "mOtherParamsNecessrary": [],
+      "mAssetFileNameLower": ""
+    },
+    {
+      "mIsValidItem": 0,
+      "mIsCommon": 0,
+      "mOtherParamsNecessrary": [],
+      "mAssetFileNameLower": ""
+    },
+    {
+      "mIsValidItem": 0,
+      "mIsCommon": 0,
+      "mOtherParamsNecessrary": [],
+      "mAssetFileNameLower": ""
+    },
+    {
+      "mIsValidItem": 1,
+      "mIsCommon": 0,
+      "mOtherParamsNecessrary": [],
+      "mAssetFileNameLower": "itemparamtype041"
+    },
+    {
+      "mIsValidItem": 0,
+      "mIsCommon": 0,
+      "mOtherParamsNecessrary": [],
+      "mAssetFileNameLower": ""
+    },
+    {
+      "mIsValidItem": 0,
+      "mIsCommon": 0,
+      "mOtherParamsNecessrary": [],
+      "mAssetFileNameLower": ""
+    },
+    {
+      "mIsValidItem": 1,
+      "mIsCommon": 0,
+      "mOtherParamsNecessrary": [],
+      "mAssetFileNameLower": "itemparamtype044"
+    },
+    {
+      "mIsValidItem": 1,
+      "mIsCommon": 0,
+      "mOtherParamsNecessrary": [],
+      "mAssetFileNameLower": "itemparamtype045"
+    },
+    {
+      "mIsValidItem": 0,
+      "mIsCommon": 0,
+      "mOtherParamsNecessrary": [],
+      "mAssetFileNameLower": ""
+    },
+    {
+      "mIsValidItem": 0,
+      "mIsCommon": 0,
+      "mOtherParamsNecessrary": [],
+      "mAssetFileNameLower": ""
+    },
+    {
+      "mIsValidItem": 1,
+      "mIsCommon": 1,
+      "mOtherParamsNecessrary": [],
+      "mAssetFileNameLower": "itemparamkinokobig"
+    },
+    {
+      "mIsValidItem": 0,
+      "mIsCommon": 0,
+      "mOtherParamsNecessrary": [],
+      "mAssetFileNameLower": ""
+    },
+    {
+      "mIsValidItem": 1,
+      "mIsCommon": 0,
+      "mOtherParamsNecessrary": [],
+      "mAssetFileNameLower": "itemparamtype050"
+    },
+    {
+      "mIsValidItem": 1,
+      "mIsCommon": 0,
+      "mOtherParamsNecessrary": [],
+      "mAssetFileNameLower": "itemparamtype051"
+    },
+    {
+      "mIsValidItem": 0,
+      "mIsCommon": 0,
+      "mOtherParamsNecessrary": [],
+      "mAssetFileNameLower": ""
+    },
+    {
+      "mIsValidItem": 0,
+      "mIsCommon": 0,
+      "mOtherParamsNecessrary": [],
+      "mAssetFileNameLower": ""
+    },
+    {
+      "mIsValidItem": 1,
+      "mIsCommon": 0,
+      "mOtherParamsNecessrary": [],
+      "mAssetFileNameLower": "itemparamtype054"
+    }
+  ]
+}

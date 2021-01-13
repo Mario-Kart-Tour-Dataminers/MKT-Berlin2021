@@ -1,0 +1,372 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": 2590768194287000671
+  },
+  "m_Name": "BombKing_DynamicUnitInit",
+  "m_arInitProp": [
+    {
+      "strParentName": "",
+      "rigProp": {
+        "pos": {
+          "x": -0.35,
+          "y": -0.06,
+          "z": 0.16
+        },
+        "rot": {
+          "x": 0.0,
+          "y": -90.0,
+          "z": 0.0
+        },
+        "posHandleDef": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.5
+        },
+        "fRigRangeLimit": 0.5,
+        "fGravRate": 0.0,
+        "fAttract": 200.0,
+        "fFriction": 0.1,
+        "fUnderLimit": -1.0
+      },
+      "objProp": {
+        "fZReflectRate": 0.0,
+        "arFlapCycle": [
+          0.3,
+          0.2,
+          0.15
+        ]
+      },
+      "arNodeProp": [
+        {
+          "name": "MustacheL01",
+          "arRot": [
+            {
+              "x": 0.0,
+              "y": -97.0,
+              "z": 6.0
+            },
+            {
+              "x": 2.0,
+              "y": -97.0,
+              "z": -36.0
+            },
+            {
+              "x": 0.0,
+              "y": -97.0,
+              "z": 6.0
+            },
+            {
+              "x": 1.0,
+              "y": -88.0,
+              "z": 6.0
+            },
+            {
+              "x": 2.0,
+              "y": -97.0,
+              "z": 6.0
+            },
+            {
+              "x": 2.0,
+              "y": -97.0,
+              "z": 6.0
+            },
+            {
+              "x": 0.0,
+              "y": -97.0,
+              "z": 6.0
+            },
+            {
+              "x": 2.0,
+              "y": -97.0,
+              "z": 14.0
+            },
+            {
+              "x": 0.0,
+              "y": -97.0,
+              "z": 6.0
+            }
+          ],
+          "arRotEditHint": [
+            {
+              "nRowCopy": 0,
+              "bColumnCopy": 0
+            },
+            {
+              "nRowCopy": 0,
+              "bColumnCopy": 0
+            },
+            {
+              "nRowCopy": 0,
+              "bColumnCopy": 0
+            }
+          ],
+          "vecFlap": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          },
+          "fFlapTiming": 0.0
+        },
+        {
+          "name": "MustacheL02",
+          "arRot": [
+            {
+              "x": 0.0,
+              "y": -21.0,
+              "z": -17.0
+            },
+            {
+              "x": -6.0,
+              "y": -21.0,
+              "z": -47.0
+            },
+            {
+              "x": 0.0,
+              "y": -21.0,
+              "z": -17.0
+            },
+            {
+              "x": 6.0,
+              "y": 16.0,
+              "z": -17.0
+            },
+            {
+              "x": -6.0,
+              "y": -21.0,
+              "z": -17.0
+            },
+            {
+              "x": -6.0,
+              "y": -21.0,
+              "z": -17.0
+            },
+            {
+              "x": 0.0,
+              "y": -21.0,
+              "z": -17.0
+            },
+            {
+              "x": -6.0,
+              "y": -21.0,
+              "z": 37.0
+            },
+            {
+              "x": 0.0,
+              "y": -21.0,
+              "z": -17.0
+            }
+          ],
+          "arRotEditHint": [
+            {
+              "nRowCopy": 0,
+              "bColumnCopy": 0
+            },
+            {
+              "nRowCopy": 0,
+              "bColumnCopy": 0
+            },
+            {
+              "nRowCopy": 0,
+              "bColumnCopy": 0
+            }
+          ],
+          "vecFlap": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          },
+          "fFlapTiming": 0.0
+        }
+      ]
+    },
+    {
+      "strParentName": "",
+      "rigProp": {
+        "pos": {
+          "x": -0.35,
+          "y": -0.06,
+          "z": -0.16
+        },
+        "rot": {
+          "x": 0.0,
+          "y": -90.0,
+          "z": 0.0
+        },
+        "posHandleDef": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.5
+        },
+        "fRigRangeLimit": 0.5,
+        "fGravRate": 0.0,
+        "fAttract": 200.0,
+        "fFriction": 0.1,
+        "fUnderLimit": -1.0
+      },
+      "objProp": {
+        "fZReflectRate": 0.0,
+        "arFlapCycle": [
+          0.3,
+          0.2,
+          0.15
+        ]
+      },
+      "arNodeProp": [
+        {
+          "name": "MustacheR01",
+          "arRot": [
+            {
+              "x": 0.0,
+              "y": 97.0,
+              "z": -174.0
+            },
+            {
+              "x": -2.0,
+              "y": 97.0,
+              "z": -204.0
+            },
+            {
+              "x": 0.0,
+              "y": 97.0,
+              "z": -174.0
+            },
+            {
+              "x": 0.0,
+              "y": 83.0,
+              "z": -174.0
+            },
+            {
+              "x": -2.0,
+              "y": 97.0,
+              "z": -174.0
+            },
+            {
+              "x": -2.0,
+              "y": 97.0,
+              "z": -174.0
+            },
+            {
+              "x": 0.0,
+              "y": 97.0,
+              "z": -174.0
+            },
+            {
+              "x": -3.0,
+              "y": 95.0,
+              "z": -165.0
+            },
+            {
+              "x": 0.0,
+              "y": 97.0,
+              "z": -174.0
+            }
+          ],
+          "arRotEditHint": [
+            {
+              "nRowCopy": 0,
+              "bColumnCopy": 0
+            },
+            {
+              "nRowCopy": 0,
+              "bColumnCopy": 0
+            },
+            {
+              "nRowCopy": 0,
+              "bColumnCopy": 0
+            }
+          ],
+          "vecFlap": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          },
+          "fFlapTiming": 0.0
+        },
+        {
+          "name": "MustacheR02",
+          "arRot": [
+            {
+              "x": 0.0,
+              "y": -37.0,
+              "z": -14.0
+            },
+            {
+              "x": -14.0,
+              "y": -37.0,
+              "z": -44.0
+            },
+            {
+              "x": 0.0,
+              "y": -37.0,
+              "z": -14.0
+            },
+            {
+              "x": -5.0,
+              "y": -8.0,
+              "z": -19.0
+            },
+            {
+              "x": -14.0,
+              "y": -37.0,
+              "z": -14.0
+            },
+            {
+              "x": -14.0,
+              "y": -37.0,
+              "z": -14.0
+            },
+            {
+              "x": 0.0,
+              "y": -37.0,
+              "z": -14.0
+            },
+            {
+              "x": -14.0,
+              "y": -37.0,
+              "z": 34.0
+            },
+            {
+              "x": 0.0,
+              "y": -37.0,
+              "z": -14.0
+            }
+          ],
+          "arRotEditHint": [
+            {
+              "nRowCopy": 0,
+              "bColumnCopy": 0
+            },
+            {
+              "nRowCopy": 0,
+              "bColumnCopy": 0
+            },
+            {
+              "nRowCopy": 0,
+              "bColumnCopy": 0
+            }
+          ],
+          "vecFlap": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          },
+          "fFlapTiming": 0.0
+        }
+      ]
+    }
+  ],
+  "m_arInvalidMotion": [
+    0,
+    6,
+    8,
+    9,
+    10,
+    7
+  ]
+}

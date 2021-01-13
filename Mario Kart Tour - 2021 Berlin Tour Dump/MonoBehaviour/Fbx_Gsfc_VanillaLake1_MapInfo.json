@@ -1,0 +1,26 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": 980329048157257672
+  },
+  "m_Name": "Fbx_Gsfc_VanillaLake1_MapInfo",
+  "rect": {
+    "x": -194.082932,
+    "y": -191.429718,
+    "width": 390.823975,
+    "height": 390.823975
+  },
+  "sprite": {
+    "m_FileID": 0,
+    "m_PathID": -2361877401653854395
+  },
+  "offset": {
+    "x": 10.0,
+    "y": 0.0
+  }
+}

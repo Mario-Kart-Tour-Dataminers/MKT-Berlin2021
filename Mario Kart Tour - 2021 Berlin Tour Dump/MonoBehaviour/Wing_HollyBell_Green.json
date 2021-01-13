@@ -1,0 +1,50 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": 2434717279687273224
+  },
+  "m_Name": "Wing_HollyBell_Green",
+  "mWingModel": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "mIconInfo": [
+    {
+      "mPath": "Assets/Main/Content/Kart/Wing/Wing_HollyBell/Icons/Wing_HollyBell_Green.png",
+      "mGuid": "dc87256a1d90348479c4f6dc2314ad93"
+    },
+    {
+      "mPath": "Assets/Main/Content/Kart/Wing/Wing_HollyBell/Icons/Wing_HollyBell_Green_Large.png",
+      "mGuid": "557b4d68667cab64e96ff5922cd78ae5"
+    },
+    {
+      "mPath": "Assets/Main/Content/Kart/Wing/Wing_HollyBell/Icons/Wing_HollyBell_Green_Small.png",
+      "mGuid": "1291347266426eb4aab1ef78831d3c80"
+    }
+  ],
+  "mWingType": 0,
+  "mIsFixedIcon": 0,
+  "mBaseParameter": {
+    "m_FileID": 0,
+    "m_PathID": 7243498002750476020
+  },
+  "mMaterial": {
+    "m_FileID": 0,
+    "m_PathID": -3860683863475087770
+  },
+  "mEffectContainer": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "mIsDisableAngleAnimation": 0,
+  "mDescription": "",
+  "mColorValiationRoot": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  }
+}

@@ -1,0 +1,54 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": 8670473757938694334
+  },
+  "m_Name": "Fx_ItemBomheiBomb01_Mesh",
+  "mMeshes": [
+    {
+      "m_FileID": 0,
+      "m_PathID": -8297808218702969030
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -3278793082827105133
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 8992092085019583484
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -5752753499893037170
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -554288477786113486
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 32831062621732772
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 3608571105786797836
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -2787593503331796162
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 2007358149775655096
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 2555166439440045153
+    }
+  ]
+}

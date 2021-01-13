@@ -1,0 +1,18 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": 8670473757938694334
+  },
+  "m_Name": "Fx_StartMissLine01_Mesh",
+  "mMeshes": [
+    {
+      "m_FileID": 0,
+      "m_PathID": 5524312571975057483
+    }
+  ]
+}

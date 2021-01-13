@@ -1,0 +1,50 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": 2434717279687273224
+  },
+  "m_Name": "Wing_Paper_SignOrigamiBlue",
+  "mWingModel": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "mIconInfo": [
+    {
+      "mPath": "Assets/Main/Content/Kart/Wing/Wing_Paper/Icons/Wing_Paper_SignOrigamiBlue.png",
+      "mGuid": "f60f744f31aecd645908ceecea89f2a9"
+    },
+    {
+      "mPath": "Assets/Main/Content/Kart/Wing/Wing_Paper/Icons/Wing_Paper_SignOrigamiBlue_Large.png",
+      "mGuid": "ae254db5dacb7e442bf072d2980c9467"
+    },
+    {
+      "mPath": "Assets/Main/Content/Kart/Wing/Wing_Paper/Icons/Wing_Paper_SignOrigamiBlue_Small.png",
+      "mGuid": "10e54f149c9193640bda33fdde52bec0"
+    }
+  ],
+  "mWingType": 0,
+  "mIsFixedIcon": 0,
+  "mBaseParameter": {
+    "m_FileID": 4,
+    "m_PathID": 6518380072120996344
+  },
+  "mMaterial": {
+    "m_FileID": 0,
+    "m_PathID": 6306703568926943693
+  },
+  "mEffectContainer": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "mIsDisableAngleAnimation": 0,
+  "mDescription": "",
+  "mColorValiationRoot": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  }
+}

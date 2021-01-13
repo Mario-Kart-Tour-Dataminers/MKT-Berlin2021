@@ -1,0 +1,72 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": 5729155180541303578
+  },
+  "m_Name": "Formation_03_08_V",
+  "mDisplayName": "V",
+  "mKart": [
+    {
+      "Offset": {
+        "x": 0.0,
+        "y": 0.0
+      },
+      "RatioX": 0.0
+    },
+    {
+      "Offset": {
+        "x": -4.5,
+        "y": -3.5
+      },
+      "RatioX": 0.0
+    },
+    {
+      "Offset": {
+        "x": 4.5,
+        "y": -3.5
+      },
+      "RatioX": 0.0
+    },
+    {
+      "Offset": {
+        "x": -3.8,
+        "y": -8.5
+      },
+      "RatioX": 0.0
+    },
+    {
+      "Offset": {
+        "x": 3.8,
+        "y": -8.5
+      },
+      "RatioX": 0.0
+    },
+    {
+      "Offset": {
+        "x": -2.2,
+        "y": -13.5
+      },
+      "RatioX": 0.0
+    },
+    {
+      "Offset": {
+        "x": 2.2,
+        "y": -13.5
+      },
+      "RatioX": 0.0
+    },
+    {
+      "Offset": {
+        "x": 0.0,
+        "y": -18.5
+      },
+      "RatioX": 0.0
+    }
+  ],
+  "mRouteRadiusMin": 0.0
+}

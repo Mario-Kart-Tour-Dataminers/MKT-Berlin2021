@@ -1,0 +1,475 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": 35221005878392242
+  },
+  "m_Name": "DotDKJrDotParam",
+  "mDotAnimationData": [
+    {
+      "MotionState": 0,
+      "AnimationElements": [
+        {
+          "AnimationElementType": 0,
+          "Pose": {
+            "PoseIndex": 26,
+            "Duration": 3.0
+          },
+          "TurningTileSequence": {
+            "HalfTurnNumber": 0,
+            "ContinuesFromPreviousSequence": 0,
+            "Duration": 0.0
+          }
+        },
+        {
+          "AnimationElementType": 0,
+          "Pose": {
+            "PoseIndex": 24,
+            "Duration": 30.0
+          },
+          "TurningTileSequence": {
+            "HalfTurnNumber": 0,
+            "ContinuesFromPreviousSequence": 0,
+            "Duration": 0.0
+          }
+        },
+        {
+          "AnimationElementType": 0,
+          "Pose": {
+            "PoseIndex": 26,
+            "Duration": 9.0
+          },
+          "TurningTileSequence": {
+            "HalfTurnNumber": 0,
+            "ContinuesFromPreviousSequence": 0,
+            "Duration": 0.0
+          }
+        }
+      ],
+      "AnimationBaseAngle": 180.0,
+      "AnimationBaseAngleThreshold": 90.0
+    },
+    {
+      "MotionState": 1,
+      "AnimationElements": [
+        {
+          "AnimationElementType": 0,
+          "Pose": {
+            "PoseIndex": 26,
+            "Duration": 3.0
+          },
+          "TurningTileSequence": {
+            "HalfTurnNumber": 0,
+            "ContinuesFromPreviousSequence": 0,
+            "Duration": 0.0
+          }
+        },
+        {
+          "AnimationElementType": 0,
+          "Pose": {
+            "PoseIndex": 24,
+            "Duration": 18.0
+          },
+          "TurningTileSequence": {
+            "HalfTurnNumber": 0,
+            "ContinuesFromPreviousSequence": 0,
+            "Duration": 0.0
+          }
+        },
+        {
+          "AnimationElementType": 0,
+          "Pose": {
+            "PoseIndex": 26,
+            "Duration": 9.0
+          },
+          "TurningTileSequence": {
+            "HalfTurnNumber": 0,
+            "ContinuesFromPreviousSequence": 0,
+            "Duration": 0.0
+          }
+        }
+      ],
+      "AnimationBaseAngle": 180.0,
+      "AnimationBaseAngleThreshold": 90.0
+    },
+    {
+      "MotionState": 2,
+      "AnimationElements": [
+        {
+          "AnimationElementType": 0,
+          "Pose": {
+            "PoseIndex": 27,
+            "Duration": 3.0
+          },
+          "TurningTileSequence": {
+            "HalfTurnNumber": 0,
+            "ContinuesFromPreviousSequence": 0,
+            "Duration": 0.0
+          }
+        },
+        {
+          "AnimationElementType": 0,
+          "Pose": {
+            "PoseIndex": 25,
+            "Duration": 18.0
+          },
+          "TurningTileSequence": {
+            "HalfTurnNumber": 0,
+            "ContinuesFromPreviousSequence": 0,
+            "Duration": 0.0
+          }
+        },
+        {
+          "AnimationElementType": 0,
+          "Pose": {
+            "PoseIndex": 27,
+            "Duration": 9.0
+          },
+          "TurningTileSequence": {
+            "HalfTurnNumber": 0,
+            "ContinuesFromPreviousSequence": 0,
+            "Duration": 0.0
+          }
+        }
+      ],
+      "AnimationBaseAngle": 180.0,
+      "AnimationBaseAngleThreshold": 90.0
+    },
+    {
+      "MotionState": 3,
+      "AnimationElements": [
+        {
+          "AnimationElementType": 0,
+          "Pose": {
+            "PoseIndex": 22,
+            "Duration": 5.0
+          },
+          "TurningTileSequence": {
+            "HalfTurnNumber": 0,
+            "ContinuesFromPreviousSequence": 0,
+            "Duration": 0.0
+          }
+        },
+        {
+          "AnimationElementType": 0,
+          "Pose": {
+            "PoseIndex": 23,
+            "Duration": 5.0
+          },
+          "TurningTileSequence": {
+            "HalfTurnNumber": 0,
+            "ContinuesFromPreviousSequence": 0,
+            "Duration": 0.0
+          }
+        }
+      ],
+      "AnimationBaseAngle": 180.0,
+      "AnimationBaseAngleThreshold": 90.0
+    },
+    {
+      "MotionState": 4,
+      "AnimationElements": [
+        {
+          "AnimationElementType": 0,
+          "Pose": {
+            "PoseIndex": 22,
+            "Duration": 6.0
+          },
+          "TurningTileSequence": {
+            "HalfTurnNumber": 0,
+            "ContinuesFromPreviousSequence": 0,
+            "Duration": 0.0
+          }
+        },
+        {
+          "AnimationElementType": 0,
+          "Pose": {
+            "PoseIndex": 23,
+            "Duration": 6.0
+          },
+          "TurningTileSequence": {
+            "HalfTurnNumber": 0,
+            "ContinuesFromPreviousSequence": 0,
+            "Duration": 0.0
+          }
+        }
+      ],
+      "AnimationBaseAngle": 180.0,
+      "AnimationBaseAngleThreshold": 90.0
+    },
+    {
+      "MotionState": 5,
+      "AnimationElements": [
+        {
+          "AnimationElementType": 0,
+          "Pose": {
+            "PoseIndex": 23,
+            "Duration": 6.0
+          },
+          "TurningTileSequence": {
+            "HalfTurnNumber": 0,
+            "ContinuesFromPreviousSequence": 0,
+            "Duration": 0.0
+          }
+        },
+        {
+          "AnimationElementType": 0,
+          "Pose": {
+            "PoseIndex": 22,
+            "Duration": 6.0
+          },
+          "TurningTileSequence": {
+            "HalfTurnNumber": 0,
+            "ContinuesFromPreviousSequence": 0,
+            "Duration": 0.0
+          }
+        }
+      ],
+      "AnimationBaseAngle": 180.0,
+      "AnimationBaseAngleThreshold": 90.0
+    },
+    {
+      "MotionState": 6,
+      "AnimationElements": [
+        {
+          "AnimationElementType": 0,
+          "Pose": {
+            "PoseIndex": -1,
+            "Duration": 21.0
+          },
+          "TurningTileSequence": {
+            "HalfTurnNumber": 0,
+            "ContinuesFromPreviousSequence": 0,
+            "Duration": 0.0
+          }
+        },
+        {
+          "AnimationElementType": 0,
+          "Pose": {
+            "PoseIndex": 28,
+            "Duration": 21.0
+          },
+          "TurningTileSequence": {
+            "HalfTurnNumber": 0,
+            "ContinuesFromPreviousSequence": 0,
+            "Duration": 0.0
+          }
+        }
+      ],
+      "AnimationBaseAngle": 0.0,
+      "AnimationBaseAngleThreshold": 24.0
+    },
+    {
+      "MotionState": 7,
+      "AnimationElements": [
+        {
+          "AnimationElementType": 1,
+          "Pose": {
+            "PoseIndex": 0,
+            "Duration": 0.0
+          },
+          "TurningTileSequence": {
+            "HalfTurnNumber": 1,
+            "ContinuesFromPreviousSequence": 0,
+            "Duration": 22.0
+          }
+        },
+        {
+          "AnimationElementType": 1,
+          "Pose": {
+            "PoseIndex": 0,
+            "Duration": 0.0
+          },
+          "TurningTileSequence": {
+            "HalfTurnNumber": 1,
+            "ContinuesFromPreviousSequence": 1,
+            "Duration": 33.0
+          }
+        }
+      ],
+      "AnimationBaseAngle": -1.0,
+      "AnimationBaseAngleThreshold": -1.0
+    },
+    {
+      "MotionState": 8,
+      "AnimationElements": [
+        {
+          "AnimationElementType": 1,
+          "Pose": {
+            "PoseIndex": 0,
+            "Duration": 0.0
+          },
+          "TurningTileSequence": {
+            "HalfTurnNumber": 1,
+            "ContinuesFromPreviousSequence": 0,
+            "Duration": 11.0
+          }
+        },
+        {
+          "AnimationElementType": 0,
+          "Pose": {
+            "PoseIndex": 30,
+            "Duration": 6.0
+          },
+          "TurningTileSequence": {
+            "HalfTurnNumber": 0,
+            "ContinuesFromPreviousSequence": 0,
+            "Duration": 0.0
+          }
+        },
+        {
+          "AnimationElementType": 0,
+          "Pose": {
+            "PoseIndex": 28,
+            "Duration": 8.0
+          },
+          "TurningTileSequence": {
+            "HalfTurnNumber": 0,
+            "ContinuesFromPreviousSequence": 0,
+            "Duration": 0.0
+          }
+        },
+        {
+          "AnimationElementType": 0,
+          "Pose": {
+            "PoseIndex": 30,
+            "Duration": 8.0
+          },
+          "TurningTileSequence": {
+            "HalfTurnNumber": 0,
+            "ContinuesFromPreviousSequence": 0,
+            "Duration": 0.0
+          }
+        },
+        {
+          "AnimationElementType": 0,
+          "Pose": {
+            "PoseIndex": 28,
+            "Duration": 8.0
+          },
+          "TurningTileSequence": {
+            "HalfTurnNumber": 0,
+            "ContinuesFromPreviousSequence": 0,
+            "Duration": 0.0
+          }
+        },
+        {
+          "AnimationElementType": 0,
+          "Pose": {
+            "PoseIndex": 30,
+            "Duration": 7.0
+          },
+          "TurningTileSequence": {
+            "HalfTurnNumber": 0,
+            "ContinuesFromPreviousSequence": 0,
+            "Duration": 0.0
+          }
+        },
+        {
+          "AnimationElementType": 0,
+          "Pose": {
+            "PoseIndex": 28,
+            "Duration": 7.0
+          },
+          "TurningTileSequence": {
+            "HalfTurnNumber": 0,
+            "ContinuesFromPreviousSequence": 0,
+            "Duration": 0.0
+          }
+        },
+        {
+          "AnimationElementType": 0,
+          "Pose": {
+            "PoseIndex": 30,
+            "Duration": 5.0
+          },
+          "TurningTileSequence": {
+            "HalfTurnNumber": 0,
+            "ContinuesFromPreviousSequence": 0,
+            "Duration": 0.0
+          }
+        }
+      ],
+      "AnimationBaseAngle": -1.0,
+      "AnimationBaseAngleThreshold": -1.0
+    },
+    {
+      "MotionState": 9,
+      "AnimationElements": [
+        {
+          "AnimationElementType": 1,
+          "Pose": {
+            "PoseIndex": 0,
+            "Duration": 0.0
+          },
+          "TurningTileSequence": {
+            "HalfTurnNumber": 3,
+            "ContinuesFromPreviousSequence": 0,
+            "Duration": 37.0
+          }
+        },
+        {
+          "AnimationElementType": 0,
+          "Pose": {
+            "PoseIndex": 0,
+            "Duration": 23.0
+          },
+          "TurningTileSequence": {
+            "HalfTurnNumber": 4,
+            "ContinuesFromPreviousSequence": 0,
+            "Duration": 60.0
+          }
+        }
+      ],
+      "AnimationBaseAngle": -1.0,
+      "AnimationBaseAngleThreshold": -1.0
+    },
+    {
+      "MotionState": 10,
+      "AnimationElements": [
+        {
+          "AnimationElementType": 1,
+          "Pose": {
+            "PoseIndex": 0,
+            "Duration": 0.0
+          },
+          "TurningTileSequence": {
+            "HalfTurnNumber": 1,
+            "ContinuesFromPreviousSequence": 0,
+            "Duration": 9.0
+          }
+        },
+        {
+          "AnimationElementType": 0,
+          "Pose": {
+            "PoseIndex": 30,
+            "Duration": 21.0
+          },
+          "TurningTileSequence": {
+            "HalfTurnNumber": 0,
+            "ContinuesFromPreviousSequence": 0,
+            "Duration": 0.0
+          }
+        },
+        {
+          "AnimationElementType": 1,
+          "Pose": {
+            "PoseIndex": 30,
+            "Duration": 16.0
+          },
+          "TurningTileSequence": {
+            "HalfTurnNumber": 1,
+            "ContinuesFromPreviousSequence": 1,
+            "Duration": 10.0
+          }
+        }
+      ],
+      "AnimationBaseAngle": -1.0,
+      "AnimationBaseAngleThreshold": -1.0
+    }
+  ]
+}

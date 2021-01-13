@@ -1,0 +1,26 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": 980329048157257672
+  },
+  "m_Name": "Fbx_Gds_DKPass_MapInfo",
+  "rect": {
+    "x": -500.450165,
+    "y": -409.577423,
+    "width": 853.817139,
+    "height": 853.817139
+  },
+  "sprite": {
+    "m_FileID": 0,
+    "m_PathID": -4421885009523831263
+  },
+  "offset": {
+    "x": -30.0,
+    "y": 0.0
+  }
+}

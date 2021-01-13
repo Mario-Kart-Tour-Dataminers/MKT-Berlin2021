@@ -1,0 +1,33 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": -7663768427261529479
+  },
+  "m_Name": "ChromaticAberration",
+  "active": 1,
+  "enabled": {
+    "overrideState": 1,
+    "value": 1
+  },
+  "spectralLut": {
+    "overrideState": 0,
+    "value": {
+      "m_FileID": 0,
+      "m_PathID": 0
+    },
+    "defaultState": 1
+  },
+  "intensity": {
+    "overrideState": 1,
+    "value": 1.0
+  },
+  "fastMode": {
+    "overrideState": 0,
+    "value": 1
+  }
+}

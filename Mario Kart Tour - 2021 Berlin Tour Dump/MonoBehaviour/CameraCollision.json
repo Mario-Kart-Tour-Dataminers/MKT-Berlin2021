@@ -1,0 +1,32 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": -3484937501739567315
+  },
+  "m_Name": "CameraCollision",
+  "IsEnableCalcAngle": 1,
+  "DegXCamDistMargin": 0.5,
+  "CalcAngleCheckNum": 3,
+  "DegCamDistMargin": 1.0,
+  "DegXSpeedMax": 5.0,
+  "DegXMax": 45.0,
+  "DegXPlay": 3.0,
+  "DegXFollow": 0.3,
+  "DegYSpeedMax": 5.0,
+  "DegYMax": 170.0,
+  "DegYPlay": 3.0,
+  "DegYFollow": 0.3,
+  "CollisionLength": 18.0,
+  "CamRadius": 1.3,
+  "CamRadiusPrimColS": 1.5,
+  "CamRadiusPrimColL": 2.5,
+  "ColRejectFollow": 1.0,
+  "cCameraMargninToWall": 0.0,
+  "cCameraMargninToFloor": 0.0,
+  "cCameraRayMaxLengthOffset": 30.0
+}

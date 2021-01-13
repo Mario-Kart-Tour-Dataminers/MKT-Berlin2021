@@ -1,0 +1,135 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": -2094441087577622512
+  },
+  "m_Name": "BbMario",
+  "mModel": {
+    "m_FileID": 1,
+    "m_PathID": -8877483322931211071
+  },
+  "mFaceTextures": [
+    {
+      "m_FileID": 2,
+      "m_PathID": -7697200454034565316
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 8150665109569174623
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -1105792427574218657
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -6739399655511557983
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -8032841536085898108
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 8142478360249616529
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -554247967822895634
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 9189154944668335891
+    }
+  ],
+  "mIsFaceTextureEmission": 0,
+  "mEmblem": {
+    "m_FileID": 0,
+    "m_PathID": -3932817913182057575
+  },
+  "mAnimatorOverrideController": {
+    "m_FileID": 3,
+    "m_PathID": 7774771254495247319
+  },
+  "mKartScaleSize": 0.85,
+  "mWingJointType": 0,
+  "mFaceChangeEvent": {
+    "m_FileID": 0,
+    "m_PathID": 1744663758772341069
+  },
+  "mIconInfo": [
+    {
+      "mPath": "Assets/Main/Content/Driver/BbMario/Icons/BbMario.png",
+      "mGuid": "e372362a17ebfb046b9850eb927d799d"
+    },
+    {
+      "mPath": "Assets/Main/Content/Driver/BbMario/Icons/BbMarioMap.png",
+      "mGuid": "3aa3b81bbb7cec9468682f75cb1d79a8"
+    },
+    {
+      "mPath": "Assets/Main/Content/Driver/BbMario/Icons/BbMarioFaceEntry.png",
+      "mGuid": "ffc9d62b1d9f6f84f81d4a6b6ee8fd3e"
+    },
+    {
+      "mPath": "Assets/Main/Content/Driver/BbMario/Icons/BbMarioWholeBody.png",
+      "mGuid": "66c190ef496a9b149816a32994697bf5"
+    },
+    {
+      "mPath": "Assets/Main/Content/Driver/BbMario/Icons/BbMarioUpperBody.png",
+      "mGuid": "50e3c26f37a45074c8d762549a2e219c"
+    },
+    {
+      "mPath": "",
+      "mGuid": ""
+    },
+    {
+      "mPath": "Assets/Main/Content/Driver/BbMario/Icons/BbMario_Small.png",
+      "mGuid": "45b3b1fd1cdabce4bb740918056e35e8"
+    },
+    {
+      "mPath": "Assets/Main/Content/Driver/BbMario/Icons/BbMarioFaceEntry_Small.png",
+      "mGuid": "5cfa9f4492d334b4092889f635976683"
+    },
+    {
+      "mPath": "Assets/Main/Content/Driver/BbMario/Icons/BbMarioWholeBody_Small.png",
+      "mGuid": "c9e85974de6b9db4ca32b4b7ce016dda"
+    },
+    {
+      "mPath": "Assets/Main/Content/Driver/BbMario/Icons/BbMarioUpperBody_Small.png",
+      "mGuid": "00d0147a1577aef4db2914445b07234a"
+    }
+  ],
+  "mColorGroup": 0,
+  "mCharacterTextureList": [],
+  "mBaseParameter": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "mBodyMaterial": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "mEyeMaterial": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "mDynamicUnitMngInitData": {
+    "m_FileID": 0,
+    "m_PathID": -6634303673936444178
+  },
+  "mMetamorData": [],
+  "mDotDriverData": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "mDescription": "ベビィマリオ",
+  "mEffectContainer": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  }
+}

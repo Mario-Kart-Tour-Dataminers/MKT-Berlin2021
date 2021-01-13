@@ -1,0 +1,391 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": -7378415499601706176
+  },
+  "m_Name": "ItemParamGeneral",
+  "mSlot": {
+    "mStopSec": 2.0,
+    "mNetStopSec": 2.1,
+    "mRotCountToDecide": 38,
+    "mRotVel": {
+      "m_Curve": [
+        {
+          "time": -0.006080253,
+          "value": 0.209635332,
+          "inSlope": 0.2927055,
+          "outSlope": 0.2927055,
+          "weightedMode": 0,
+          "inWeight": 0.333333343,
+          "outWeight": 0.333333343
+        },
+        {
+          "time": 0.148286045,
+          "value": 0.31943208,
+          "inSlope": -8.01292554E-05,
+          "outSlope": -8.01292554E-05,
+          "weightedMode": 0,
+          "inWeight": 0.333333343,
+          "outWeight": 0.333333343
+        },
+        {
+          "time": 1.60096288,
+          "value": 0.319065869,
+          "inSlope": 1.633491E-05,
+          "outSlope": 1.633491E-05,
+          "weightedMode": 0,
+          "inWeight": 0.333333343,
+          "outWeight": 0.333333343
+        },
+        {
+          "time": 2.13001919,
+          "value": 0.08177477,
+          "inSlope": -0.002188891,
+          "outSlope": -0.002188891,
+          "weightedMode": 0,
+          "inWeight": 0.333333343,
+          "outWeight": 0.333333343
+        },
+        {
+          "time": 5.00378,
+          "value": 0.08183637,
+          "inSlope": 0.0,
+          "outSlope": 0.0,
+          "weightedMode": 0,
+          "inWeight": 0.333333343,
+          "outWeight": 0.333333343
+        }
+      ],
+      "m_PreInfinity": 2,
+      "m_PostInfinity": 2,
+      "m_RotationOrder": 4
+    },
+    "mSlotDecideIntervalRotRatio": 0.8,
+    "mEnableUseSecAfterDecide": 0.1,
+    "mButtonTimeRatio": 0.333
+  },
+  "mItemBox": {
+    "mGenerateTime": 0.833333,
+    "mGetCoolTime": 0.0
+  },
+  "mItemBoxFixed": {
+    "mGenerateTime": 1.5,
+    "mGetCoolTime": 0.2
+  },
+  "mAlert": {
+    "mAlertDistanceOfKouraR": {
+      "mAlert1Distance": 150.0,
+      "mAlert2Distance": 90.0,
+      "mAlertDisappearNear": 10.0
+    },
+    "mAlertDistanceOfKouraB": {
+      "mAlert1Distance": 180.0,
+      "mAlert2Distance": 120.0,
+      "mAlertDisappearNear": 10.0
+    },
+    "mAlertDistanceOfKartState": [
+      {
+        "mAlert1Distance": 50.0,
+        "mAlert2Distance": 30.0,
+        "mAlertDisappearNear": 10.0
+      },
+      {
+        "mAlert1Distance": 50.0,
+        "mAlert2Distance": 30.0,
+        "mAlertDisappearNear": 10.0
+      },
+      {
+        "mAlert1Distance": 50.0,
+        "mAlert2Distance": 30.0,
+        "mAlertDisappearNear": 10.0
+      },
+      {
+        "mAlert1Distance": 50.0,
+        "mAlert2Distance": 30.0,
+        "mAlertDisappearNear": 10.0
+      },
+      {
+        "mAlert1Distance": 50.0,
+        "mAlert2Distance": 30.0,
+        "mAlertDisappearNear": 10.0
+      },
+      {
+        "mAlert1Distance": 50.0,
+        "mAlert2Distance": 30.0,
+        "mAlertDisappearNear": 10.0
+      }
+    ],
+    "mAlertDistanceOfBossKart": {
+      "mAlert1Distance": 15.0,
+      "mAlert2Distance": 10.0,
+      "mAlertDisappearNear": 3.0
+    },
+    "mAlertDistanceOfNormalKart": {
+      "mAlert1Distance": 30.0,
+      "mAlert2Distance": 0.0,
+      "mAlertDisappearNear": 3.0
+    },
+    "mDistanceThresholdRatioOnKartAlreadyTarget": 1.1,
+    "mAlertDistanceRatioPerCC": {
+      "mType": 1,
+      "mTypeParams": [],
+      "mAnimationCurve": {
+        "m_Curve": [
+          {
+            "time": 0.0,
+            "value": 1.0,
+            "inSlope": 0.0,
+            "outSlope": 0.0,
+            "weightedMode": 0,
+            "inWeight": 0.333333343,
+            "outWeight": 0.333333343
+          },
+          {
+            "time": 200.0,
+            "value": 1.0,
+            "inSlope": 0.0,
+            "outSlope": 0.0,
+            "weightedMode": 0,
+            "inWeight": 0.333333343,
+            "outWeight": 0.333333343
+          }
+        ],
+        "m_PreInfinity": 2,
+        "m_PostInfinity": 2,
+        "m_RotationOrder": 4
+      }
+    },
+    "mKartAlertStartSpeedRatio": 1.0,
+    "mKartAlertEndSpeedRatio": 0.9,
+    "mAlertWingOffsetMin": 8.0,
+    "mAlertWingOffsetMax": 60.0,
+    "mAlertDistOffsetMin": 8.0,
+    "mAlertDistOffsetMax": 80.0,
+    "mOffsetLerpRatio": 0.01
+  },
+  "mEquipHang": {
+    "mScaleInEquipHang": 1.25,
+    "mPosLerpRatio": 0.1,
+    "mAngleLerpRatio": 0.08,
+    "mNoBreakSecAfterBreak": 1.0,
+    "mOffsetHangWingZL": 1.0,
+    "mOffsetHangWingZLLerpRatio": 0.1
+  },
+  "mEquipMulti": {
+    "mScaleEquipMultiAppear": 0.01,
+    "mRadiusMultiMax": 5.0,
+    "mRadiusMultiMin": 1.61999989,
+    "mDirEquipMultiLerpRatio": 0.3,
+    "mSelfRotVelDegMulti": -7.04,
+    "mColCoolSecondAfterHit": 0.5
+  },
+  "mFever": {
+    "mFeverSec": 9.0,
+    "mFeverCountMaxInOneRace": 3,
+    "mMaxFeverProbPercent": 50,
+    "mItemUseEnabledSecAfterFeverAction": 0.15
+  },
+  "mThrow": {
+    "mWaitSecondForOwner": 0.25,
+    "mWaitSecondForOwnerWall": 0.25,
+    "mWaitSecondFarFromEquip": 0.166666672
+  },
+  "mMove": {
+    "mAirCoef": 0.998,
+    "mGndNrmLerpRatio": 0.4,
+    "mReflectMaxNum": 13,
+    "mWallReflectMinSpeed": 0.22,
+    "mReflectRateJumpUpVecter": 0.6,
+    "mUseGravityDirAsJumpUpVecterThreshold": 0.8,
+    "mTrampolineRefVNrmMin": 0.3,
+    "mTrampolineRefVNrmMax": 1.1,
+    "mTrampolineRefVParMin": 0.2,
+    "mTrampolineRefVParMax": 0.7,
+    "mTrampolineBoundIntervalSec": 0.1,
+    "mGndColFloorRejectDistanceForKouraR": 0.2,
+    "mNoAccidentToSameTeamSecAfterMoveStart": 0.0
+  },
+  "mDrop": {
+    "mYRatioDrop": 2.0,
+    "mInitSpeedDrop": 0.35,
+    "mGravityDrop": 0.0300000012
+  },
+  "mStand": {
+    "mITRoadStandVanishSec": 3.0,
+    "mGravity": 0.17
+  },
+  "mAutoItem": {
+    "mLinearDistanceMax": 180.0,
+    "mLinearDistanceMin": 5.0,
+    "mChaseFrontCos": 1.0
+  },
+  "mNet": {
+    "mEquipTargetOffset": 3.0,
+    "mEquipTargetSecMax": 3.0,
+    "mFakeItemBreakSec": 2.0,
+    "mSecToBreakAfterFake": 3.0,
+    "mRecvHitKartAllowSec": 0.5
+  },
+  "mFastCannonUp": {
+    "mIsUseKartMiddleDirOnFastCannon": 0,
+    "mStartDecelerationSecByOverspeed": 1.0,
+    "mDecelerationCoefByOverspeed": 0.95,
+    "mThrowSpeedCoefOnFastCannon": 1.0,
+    "mStraightSpeedCoefOnFastCannon": 1.0,
+    "mThrowDegOnFastCannon": 0.0,
+    "mStraightDegOnFastCannon": 0.0,
+    "mThrowYSpeedLimitOnFastCannon": 4.0,
+    "mIsDecelerationIfKartSpeedDownOnFastCannon": 1,
+    "mMinGravityOnFastCannon": 0.03,
+    "mIsAddDiffKartSpeedOnFastCannon": 1,
+    "mStartSecAddDiffKartSpeedOnFastCannon": 0.0,
+    "mEndSecAddDiffKartSpeedOnFastCannon": 0.0,
+    "mIsSyncKartSpeedXZOnFastCannon": 1,
+    "mKartSpeedXZCriteriaRatioOnFastCannon": 0.9,
+    "mKartSpeedXZCriteriaRatioPathItemOnFastCannon": 1.0,
+    "mSyncKartSpeedXZRatioOnFastCannon": 0.15,
+    "mSyncBrakingKartSpeedXZRatioOnFastCannon": 1.0,
+    "mStartSecSyncKartSpeedXZOnFastCannon": 0.1,
+    "mIsSyncKartSpeedYOnFastCannon": 1,
+    "mSyncKartSpeedYRatioOnFastCannon": 0.15,
+    "mStartSecSyncKartSpeedYOnFastCannon": 0.0,
+    "mIsAddDownForceOnFastCannon": 1,
+    "mAddDownForceOnFastCannon": 0.1,
+    "mAddDownForceConditionPosYOnFastCannon": 3.0,
+    "mAddDownForceConditionVelYOnFastCannon": -5.0,
+    "mStartSecIgnoreGravityOnFastCannon": 10.0,
+    "mMinSpeedOnFastCannon": 0.5,
+    "mSpeedMultiplyGeneratedFromCannonOnFastCannon": 1.0,
+    "mMinGravityGeneratedFromCannonOnFastCannon": 0.045,
+    "mThrowDegGeneratedFromCannonOnFastCannon": 0.0
+  },
+  "mFastCannonDown": {
+    "mIsUseKartMiddleDirOnFastCannon": 0,
+    "mStartDecelerationSecByOverspeed": 1.0,
+    "mDecelerationCoefByOverspeed": 0.8,
+    "mThrowSpeedCoefOnFastCannon": 1.0,
+    "mStraightSpeedCoefOnFastCannon": 1.0,
+    "mThrowDegOnFastCannon": 0.0,
+    "mStraightDegOnFastCannon": 1.0,
+    "mThrowYSpeedLimitOnFastCannon": 4.0,
+    "mIsDecelerationIfKartSpeedDownOnFastCannon": 1,
+    "mMinGravityOnFastCannon": 0.055,
+    "mIsAddDiffKartSpeedOnFastCannon": 1,
+    "mStartSecAddDiffKartSpeedOnFastCannon": 0.0,
+    "mEndSecAddDiffKartSpeedOnFastCannon": 0.2,
+    "mIsSyncKartSpeedXZOnFastCannon": 1,
+    "mKartSpeedXZCriteriaRatioOnFastCannon": 1.0,
+    "mKartSpeedXZCriteriaRatioPathItemOnFastCannon": 1.0,
+    "mSyncKartSpeedXZRatioOnFastCannon": 0.15,
+    "mSyncBrakingKartSpeedXZRatioOnFastCannon": 1.0,
+    "mStartSecSyncKartSpeedXZOnFastCannon": 0.2,
+    "mIsSyncKartSpeedYOnFastCannon": 1,
+    "mSyncKartSpeedYRatioOnFastCannon": 0.1,
+    "mStartSecSyncKartSpeedYOnFastCannon": 1.0,
+    "mIsAddDownForceOnFastCannon": 0,
+    "mAddDownForceOnFastCannon": 0.015,
+    "mAddDownForceConditionPosYOnFastCannon": -100.0,
+    "mAddDownForceConditionVelYOnFastCannon": -5.0,
+    "mStartSecIgnoreGravityOnFastCannon": 10.0,
+    "mMinSpeedOnFastCannon": 0.5,
+    "mSpeedMultiplyGeneratedFromCannonOnFastCannon": 1.0,
+    "mMinGravityGeneratedFromCannonOnFastCannon": 0.045,
+    "mThrowDegGeneratedFromCannonOnFastCannon": 0.0
+  },
+  "mOthers": {
+    "mWallColRadiusMin": 0.5,
+    "mScaledGndColRadiusMax": 6.0,
+    "mGndColAreaMergin": 50.0,
+    "mIgnoreColSecAfterObjDrop": 0.1,
+    "mProjectedShadowLocalScale": 0.9,
+    "mReflectMinDepth": 0.0001,
+    "mCoolTimeAfterItemUse": 0.2,
+    "mItemUseDisableSecAfterKiller": 0.4,
+    "mAutoUseSec": 0.2,
+    "mAutoUseSecAfterSlotDecide": 0.3,
+    "mCoolTimeAfterShareItem": 0.4,
+    "mAutoItemIntervalSec": 0.25,
+    "mSameKartGuardIntervalSec": 2.0,
+    "mKillerHeadPosOffsetY": 4.0,
+    "mSpecialItemProbUp": {
+      "mType": 1,
+      "mTypeParams": [],
+      "mAnimationCurve": {
+        "m_Curve": [
+          {
+            "time": 0.0,
+            "value": 0.0,
+            "inSlope": 2.09172487,
+            "outSlope": 2.09172487,
+            "weightedMode": 0,
+            "inWeight": 0.333333343,
+            "outWeight": 0.333333343
+          },
+          {
+            "time": 50.0,
+            "value": 100.0,
+            "inSlope": 2.11565185,
+            "outSlope": 2.11565185,
+            "weightedMode": 0,
+            "inWeight": 0.333333343,
+            "outWeight": 0.333333343
+          }
+        ],
+        "m_PreInfinity": 2,
+        "m_PostInfinity": 2,
+        "m_RotationOrder": 4
+      }
+    },
+    "mReflectCoolSec": 0.5,
+    "mPrimColScaleForNetRecvKart": 0.2,
+    "mPullVelRatio": 0.1,
+    "mKartHitIgnoreSecAfterStartEquip": 1.0
+  },
+  "mCollisionGndCol": {
+    "mRayYStartPosFromTargetPos": 20.0,
+    "mRayYLen": 100.0,
+    "mFallPosThresholdY": {
+      "mType": 1,
+      "mTypeParams": [],
+      "mAnimationCurve": {
+        "m_Curve": [
+          {
+            "time": 0.0,
+            "value": 0.0,
+            "inSlope": 0.01812354,
+            "outSlope": 0.01812354,
+            "weightedMode": 0,
+            "inWeight": 0.333333343,
+            "outWeight": 0.333333343
+          },
+          {
+            "time": 20.17017,
+            "value": 3.96158981,
+            "inSlope": 0.3881637,
+            "outSlope": -0.00410326244,
+            "weightedMode": 0,
+            "inWeight": 0.333333343,
+            "outWeight": 0.333333343
+          },
+          {
+            "time": 40.0,
+            "value": 3.948824,
+            "inSlope": -0.0111778667,
+            "outSlope": -0.0111778667,
+            "weightedMode": 0,
+            "inWeight": 0.333333343,
+            "outWeight": 0.333333343
+          }
+        ],
+        "m_PreInfinity": 2,
+        "m_PostInfinity": 2,
+        "m_RotationOrder": 4
+      }
+    }
+  }
+}

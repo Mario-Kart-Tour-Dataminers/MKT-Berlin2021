@@ -1,0 +1,65 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": -3528712136297729501
+  },
+  "m_Name": "MainMenuCharaSelectCCImageList00",
+  "savePath": 1,
+  "assetDataList": [
+    {
+      "Key": 50,
+      "Value": {
+        "obj": {
+          "m_FileID": 0,
+          "m_PathID": 0
+        },
+        "path": "Assets/Main/Content/UI/Texture/CC/MainMenuCharaSelectCCImage50.png",
+        "guid": "7cb3a96ba62437e4d8d80c9053b10324",
+        "substitutedKey": 0
+      }
+    },
+    {
+      "Key": 100,
+      "Value": {
+        "obj": {
+          "m_FileID": 0,
+          "m_PathID": 0
+        },
+        "path": "Assets/Main/Content/UI/Texture/CC/MainMenuCharaSelectCCImage100.png",
+        "guid": "ecf6f7ce0d1535141a96576168104250",
+        "substitutedKey": 0
+      }
+    },
+    {
+      "Key": 150,
+      "Value": {
+        "obj": {
+          "m_FileID": 0,
+          "m_PathID": 0
+        },
+        "path": "Assets/Main/Content/UI/Texture/CC/MainMenuCharaSelectCCImage150.png",
+        "guid": "e409a255264d2c4428552e37af186a68",
+        "substitutedKey": 0
+      }
+    },
+    {
+      "Key": 200,
+      "Value": {
+        "obj": {
+          "m_FileID": 0,
+          "m_PathID": 0
+        },
+        "path": "Assets/Main/Content/UI/Texture/CC/MainMenuCharaSelectCCImage200.png",
+        "guid": "1a565cc2c2ee96d40999ba6b4af9bb9f",
+        "substitutedKey": 0
+      }
+    }
+  ],
+  "notContainKeyAction": 3,
+  "assetType": 0
+}

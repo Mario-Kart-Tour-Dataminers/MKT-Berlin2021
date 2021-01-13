@@ -1,0 +1,50 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": 2434717279687273224
+  },
+  "m_Name": "Wing_Manta",
+  "mWingModel": {
+    "m_FileID": 0,
+    "m_PathID": 8982219362089226827
+  },
+  "mIconInfo": [
+    {
+      "mPath": "Assets/Main/Content/Kart/Wing/Wing_Manta/Icons/Wing_Manta.png",
+      "mGuid": "6827a46e9ecdb8541984c33c896d5f26"
+    },
+    {
+      "mPath": "Assets/Main/Content/Kart/Wing/Wing_Manta/Icons/Wing_Manta_Large.png",
+      "mGuid": "82be8897275c71d40b627b2cbc0636b1"
+    },
+    {
+      "mPath": "Assets/Main/Content/Kart/Wing/Wing_Manta/Icons/Wing_Manta_Small.png",
+      "mGuid": "fdd73f3494c472241b403c44c7298f39"
+    }
+  ],
+  "mWingType": 1,
+  "mIsFixedIcon": 0,
+  "mBaseParameter": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "mMaterial": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "mEffectContainer": {
+    "m_FileID": 0,
+    "m_PathID": -2465974589704476224
+  },
+  "mIsDisableAngleAnimation": 0,
+  "mDescription": "",
+  "mColorValiationRoot": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  }
+}

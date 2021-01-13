@@ -1,0 +1,380 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": -2141038644697243411
+  },
+  "m_Name": "MatchingParam",
+  "ClustorsForMatching": [
+    {
+      "MMRMin": 400,
+      "NumMin": 1,
+      "NumMax": 3,
+      "NumMaxAdd": 2,
+      "NumMaxAddMMR": 800,
+      "RangeUpward": 200,
+      "RangeDownward": 300,
+      "Peak": 0,
+      "Offset": 50.0,
+      "Scale": 150.0,
+      "DriverCourseAdvantageMax": 2,
+      "DriverCourseAdvantageMin": 0
+    },
+    {
+      "MMRMin": 100,
+      "NumMin": 2,
+      "NumMax": 5,
+      "NumMaxAdd": 0,
+      "NumMaxAddMMR": 0,
+      "RangeUpward": 100,
+      "RangeDownward": 400,
+      "Peak": -100,
+      "Offset": 100.0,
+      "Scale": 150.0,
+      "DriverCourseAdvantageMax": 2,
+      "DriverCourseAdvantageMin": 0
+    },
+    {
+      "MMRMin": 0,
+      "NumMin": 99,
+      "NumMax": 99,
+      "NumMaxAdd": 0,
+      "NumMaxAddMMR": 0,
+      "RangeUpward": 0,
+      "RangeDownward": 800,
+      "Peak": -300,
+      "Offset": 100.0,
+      "Scale": 300.0,
+      "DriverCourseAdvantageMax": 2,
+      "DriverCourseAdvantageMin": 0
+    }
+  ],
+  "ClustorsForAILevel": [
+    {
+      "MMRMin": 800,
+      "NumMin": 1,
+      "NumMax": 3,
+      "NumMaxAdd": 0,
+      "NumMaxAddMMR": 0,
+      "RangeUpward": 20,
+      "RangeDownward": 30,
+      "Peak": 10,
+      "LvMin": 50,
+      "LvMax": 99
+    },
+    {
+      "MMRMin": 400,
+      "NumMin": 0,
+      "NumMax": 3,
+      "NumMaxAdd": 1,
+      "NumMaxAddMMR": 600,
+      "RangeUpward": 20,
+      "RangeDownward": 30,
+      "Peak": 10,
+      "LvMin": 10,
+      "LvMax": 80
+    },
+    {
+      "MMRMin": 100,
+      "NumMin": 2,
+      "NumMax": 5,
+      "NumMaxAdd": 0,
+      "NumMaxAddMMR": 0,
+      "RangeUpward": 10,
+      "RangeDownward": 30,
+      "Peak": 0,
+      "LvMin": 3,
+      "LvMax": 50
+    }
+  ],
+  "mEngine": [
+    {
+      "InitPrizeScore": 2000,
+      "TourPointCap": 2999,
+      "RankTable": [
+        50,
+        40,
+        30,
+        20,
+        10,
+        0,
+        -15,
+        -30
+      ],
+      "PointAddForAutoMode": 0,
+      "MMRParams": [
+        {
+          "PointThreshold": 0,
+          "MMR": 50
+        }
+      ],
+      "MMRMax": 0,
+      "MMRMin": 0,
+      "MMRInit": 50,
+      "MMRDiff": 0
+    },
+    {
+      "InitPrizeScore": 2200,
+      "TourPointCap": 5999,
+      "RankTable": [
+        100,
+        50,
+        20,
+        0,
+        -20,
+        -50,
+        -80,
+        -100
+      ],
+      "PointAddForAutoMode": 0,
+      "MMRParams": [
+        {
+          "PointThreshold": 100,
+          "MMR": 200
+        },
+        {
+          "PointThreshold": 500,
+          "MMR": 300
+        },
+        {
+          "PointThreshold": 1000,
+          "MMR": 350
+        },
+        {
+          "PointThreshold": 0,
+          "MMR": 400
+        }
+      ],
+      "MMRMax": 300,
+      "MMRMin": -100,
+      "MMRInit": 300,
+      "MMRDiff": -100
+    },
+    {
+      "InitPrizeScore": 2400,
+      "TourPointCap": 10499,
+      "RankTable": [
+        150,
+        75,
+        30,
+        0,
+        -30,
+        -60,
+        -100,
+        -150
+      ],
+      "PointAddForAutoMode": 0,
+      "MMRParams": [
+        {
+          "PointThreshold": 500,
+          "MMR": 300
+        },
+        {
+          "PointThreshold": 1000,
+          "MMR": 350
+        },
+        {
+          "PointThreshold": 2000,
+          "MMR": 400
+        },
+        {
+          "PointThreshold": 3000,
+          "MMR": 450
+        },
+        {
+          "PointThreshold": 4000,
+          "MMR": 500
+        },
+        {
+          "PointThreshold": 5000,
+          "MMR": 550
+        },
+        {
+          "PointThreshold": 6000,
+          "MMR": 600
+        },
+        {
+          "PointThreshold": 7000,
+          "MMR": 650
+        },
+        {
+          "PointThreshold": 8000,
+          "MMR": 700
+        },
+        {
+          "PointThreshold": 9000,
+          "MMR": 750
+        },
+        {
+          "PointThreshold": 10000,
+          "MMR": 800
+        },
+        {
+          "PointThreshold": 11000,
+          "MMR": 850
+        },
+        {
+          "PointThreshold": 0,
+          "MMR": 900
+        }
+      ],
+      "MMRMax": 500,
+      "MMRMin": -200,
+      "MMRInit": 300,
+      "MMRDiff": 0
+    },
+    {
+      "InitPrizeScore": 2400,
+      "TourPointCap": 10499,
+      "RankTable": [
+        200,
+        100,
+        50,
+        0,
+        -50,
+        -75,
+        -150,
+        -200
+      ],
+      "PointAddForAutoMode": 0,
+      "MMRParams": [
+        {
+          "PointThreshold": 500,
+          "MMR": 300
+        },
+        {
+          "PointThreshold": 1000,
+          "MMR": 350
+        },
+        {
+          "PointThreshold": 2000,
+          "MMR": 400
+        },
+        {
+          "PointThreshold": 3000,
+          "MMR": 450
+        },
+        {
+          "PointThreshold": 4000,
+          "MMR": 500
+        },
+        {
+          "PointThreshold": 5000,
+          "MMR": 550
+        },
+        {
+          "PointThreshold": 6000,
+          "MMR": 600
+        },
+        {
+          "PointThreshold": 7000,
+          "MMR": 650
+        },
+        {
+          "PointThreshold": 8000,
+          "MMR": 700
+        },
+        {
+          "PointThreshold": 9000,
+          "MMR": 750
+        },
+        {
+          "PointThreshold": 10000,
+          "MMR": 800
+        },
+        {
+          "PointThreshold": 11000,
+          "MMR": 850
+        },
+        {
+          "PointThreshold": 0,
+          "MMR": 900
+        }
+      ],
+      "MMRMax": 500,
+      "MMRMin": -200,
+      "MMRInit": 350,
+      "MMRDiff": 0
+    }
+  ],
+  "mMMRMax": 1200,
+  "mRivalPlayerNum": 0,
+  "mReplacePartsParam": {
+    "MaxAdvantageDriverNumMax": 1,
+    "MaxAdvantageMachineNumMax": 8,
+    "MaxAdvantageWingNumMax": 8,
+    "SameDriverNumMax": 1,
+    "SameMachineNumMax": 2,
+    "SameWingNumMax": 2,
+    "NoCourseAdvantageProb": 10,
+    "LatestProb": 20
+  },
+  "mReplacePartsParam_AutoMode": {
+    "LatestProb": 20
+  },
+  "mReplacePartsParam_Festival": {
+    "MaxAdvantageDriverNumMax": 1,
+    "SameDriverNumMax": 1,
+    "NoCourseAdvantageProb": 10,
+    "LatestProb": 20,
+    "CaptainProb": {
+      "FromTeamA": 25,
+      "FromTeamB": 25,
+      "FromTeamA_and_B": 10
+    },
+    "GroupingProb": {
+      "Grouping_1_vs_7": 0,
+      "Grouping_2_vs_6": 5,
+      "Grouping_3_vs_5": 16,
+      "Grouping_4_vs_4": 65,
+      "Grouping_5_vs_3": 12,
+      "Grouping_6_vs_2": 2,
+      "Grouping_7_vs_1": 0
+    }
+  },
+  "mPrizePointRate": [
+    1.0,
+    0.85,
+    0.75,
+    0.65,
+    0.55,
+    0.45,
+    0.35,
+    0.2
+  ],
+  "mOverwriteMatchDataDays": 3,
+  "mTimeToNoMatchSamePlayer": 60,
+  "mRatingParam": {
+    "BonusRateUpMax": 2.0,
+    "BonusRateUpMin": 0.3,
+    "BonusRateDownMax": 1.5,
+    "BonusRateDownMin": 0.3,
+    "BonusMaxThreshold": 500,
+    "BonusMinThreshold": 300,
+    "InitRate": 1000,
+    "InitRD": 350.0,
+    "InitVolatility": 0.6,
+    "Tau": 1.2,
+    "ResultRD": 150.0,
+    "ResultVolatility": 0.6,
+    "Keep1stRateMax1st": 0.8,
+    "Keep1stRateMin1st": 0.0,
+    "Keep1stRateMax2nd": 0.8,
+    "Keep1stRateMin2nd": 0.0,
+    "Outcomes": [
+      0.8,
+      0.45,
+      0.3,
+      0.25,
+      0.2,
+      0.18,
+      0.16,
+      0.14
+    ]
+  },
+  "mCandidateNum": 10
+}

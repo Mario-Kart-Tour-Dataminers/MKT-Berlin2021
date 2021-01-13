@@ -1,0 +1,135 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": -2094441087577622512
+  },
+  "m_Name": "BbPeach",
+  "mModel": {
+    "m_FileID": 1,
+    "m_PathID": 3861550599963329645
+  },
+  "mFaceTextures": [
+    {
+      "m_FileID": 2,
+      "m_PathID": -2642271603218571003
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 3700015563664846609
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -5262898941939486772
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 6634361900052980166
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 1312070538785483669
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -3249094285144756098
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 287672467728102062
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -8007836009311103746
+    }
+  ],
+  "mIsFaceTextureEmission": 0,
+  "mEmblem": {
+    "m_FileID": 0,
+    "m_PathID": 5130324776683214304
+  },
+  "mAnimatorOverrideController": {
+    "m_FileID": 0,
+    "m_PathID": -3275980142941892742
+  },
+  "mKartScaleSize": 0.85,
+  "mWingJointType": 0,
+  "mFaceChangeEvent": {
+    "m_FileID": 0,
+    "m_PathID": 1387369164757580283
+  },
+  "mIconInfo": [
+    {
+      "mPath": "Assets/Main/Content/Driver/BbPeach/Icons/BbPeach.png",
+      "mGuid": "da54d5db9b127b948a0e4effade71138"
+    },
+    {
+      "mPath": "Assets/Main/Content/Driver/BbPeach/Icons/BbPeachMap.png",
+      "mGuid": "8cdc0459ff2bcd54e9a325877e483f2d"
+    },
+    {
+      "mPath": "Assets/Main/Content/Driver/BbPeach/Icons/BbPeachFaceEntry.png",
+      "mGuid": "b71a343a941d1194c864dcdb6595a7fa"
+    },
+    {
+      "mPath": "Assets/Main/Content/Driver/BbPeach/Icons/BbPeachWholeBody.png",
+      "mGuid": "85b7c6b37fa93b840bb9397dfc99c827"
+    },
+    {
+      "mPath": "Assets/Main/Content/Driver/BbPeach/Icons/BbPeachUpperBody.png",
+      "mGuid": "014c80c05bbe47c48a4ea90445a640ce"
+    },
+    {
+      "mPath": "",
+      "mGuid": ""
+    },
+    {
+      "mPath": "Assets/Main/Content/Driver/BbPeach/Icons/BbPeach_Small.png",
+      "mGuid": "9147bd9f620cb8f448eb2338e8752cf5"
+    },
+    {
+      "mPath": "Assets/Main/Content/Driver/BbPeach/Icons/BbPeachFaceEntry_Small.png",
+      "mGuid": "47fce9bea6c889949ba98c9b724bc0a2"
+    },
+    {
+      "mPath": "Assets/Main/Content/Driver/BbPeach/Icons/BbPeachWholeBody_Small.png",
+      "mGuid": "f47cdc1cf37f64c4e98d32b539548104"
+    },
+    {
+      "mPath": "Assets/Main/Content/Driver/BbPeach/Icons/BbPeachUpperBody_Small.png",
+      "mGuid": "82b110012de767e4485d23e1aa55b377"
+    }
+  ],
+  "mColorGroup": 0,
+  "mCharacterTextureList": [],
+  "mBaseParameter": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "mBodyMaterial": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "mEyeMaterial": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "mDynamicUnitMngInitData": {
+    "m_FileID": 0,
+    "m_PathID": 6826881602214878133
+  },
+  "mMetamorData": [],
+  "mDotDriverData": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "mDescription": "ベビィピーチ",
+  "mEffectContainer": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  }
+}

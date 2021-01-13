@@ -1,0 +1,135 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": -2094441087577622512
+  },
+  "m_Name": "PeachExplorer",
+  "mModel": {
+    "m_FileID": 1,
+    "m_PathID": 5209543812107526011
+  },
+  "mFaceTextures": [
+    {
+      "m_FileID": 2,
+      "m_PathID": -6083389809154059562
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -1333743301463166629
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 2574414489092975259
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 5579974309934172167
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 5649439593640498845
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -6684101544757501732
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -7989564767814325175
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 5897944317213009481
+    }
+  ],
+  "mIsFaceTextureEmission": 0,
+  "mEmblem": {
+    "m_FileID": 0,
+    "m_PathID": 4338968449353990879
+  },
+  "mAnimatorOverrideController": {
+    "m_FileID": 3,
+    "m_PathID": 6453494274082038369
+  },
+  "mKartScaleSize": 1.0,
+  "mWingJointType": 0,
+  "mFaceChangeEvent": {
+    "m_FileID": 0,
+    "m_PathID": 2271210983333443092
+  },
+  "mIconInfo": [
+    {
+      "mPath": "Assets/Main/Content/Driver/PeachExplorer/Icons/PeachExplorer.png",
+      "mGuid": "a063e4312717ee441a761d99549b4ded"
+    },
+    {
+      "mPath": "Assets/Main/Content/Driver/PeachExplorer/Icons/PeachExplorerMap.png",
+      "mGuid": "85202b1aaa8b87543b6369d9dfa0afe3"
+    },
+    {
+      "mPath": "Assets/Main/Content/Driver/PeachExplorer/Icons/PeachExplorerFaceEntry.png",
+      "mGuid": "83e57184e7dd2404aa77f279ffecda5e"
+    },
+    {
+      "mPath": "Assets/Main/Content/Driver/PeachExplorer/Icons/PeachExplorerWholeBody.png",
+      "mGuid": "735b87e345f3e604ba366faf915869c4"
+    },
+    {
+      "mPath": "Assets/Main/Content/Driver/PeachExplorer/Icons/PeachExplorerUpperBody.png",
+      "mGuid": "cf29c76959102ac4b9250f4141a0155a"
+    },
+    {
+      "mPath": "",
+      "mGuid": ""
+    },
+    {
+      "mPath": "Assets/Main/Content/Driver/PeachExplorer/Icons/PeachExplorer_Small.png",
+      "mGuid": "52c5465cd80d6394a958feab34796b99"
+    },
+    {
+      "mPath": "Assets/Main/Content/Driver/PeachExplorer/Icons/PeachExplorerFaceEntry_Small.png",
+      "mGuid": "edbd30c3cf267ce4c8ae70252ec36aa0"
+    },
+    {
+      "mPath": "Assets/Main/Content/Driver/PeachExplorer/Icons/PeachExplorerWholeBody_Small.png",
+      "mGuid": "3cae85fba4792b943a4dc48a30615c4d"
+    },
+    {
+      "mPath": "Assets/Main/Content/Driver/PeachExplorer/Icons/PeachExplorerUpperBody_Small.png",
+      "mGuid": "b4079382604ce4140a217e882d538304"
+    }
+  ],
+  "mColorGroup": 0,
+  "mCharacterTextureList": [],
+  "mBaseParameter": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "mBodyMaterial": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "mEyeMaterial": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "mDynamicUnitMngInitData": {
+    "m_FileID": 0,
+    "m_PathID": -2999873707490034093
+  },
+  "mMetamorData": [],
+  "mDotDriverData": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "mDescription": "ぼうけんピーチ",
+  "mEffectContainer": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  }
+}

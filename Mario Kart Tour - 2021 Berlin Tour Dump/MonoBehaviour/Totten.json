@@ -1,0 +1,115 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": -2094441087577622512
+  },
+  "m_Name": "Totten",
+  "mModel": {
+    "m_FileID": 1,
+    "m_PathID": -3485685832658545451
+  },
+  "mFaceTextures": [
+    {
+      "m_FileID": 2,
+      "m_PathID": -3504135036486530077
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 5840038755387054569
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -1946209307804701740
+    }
+  ],
+  "mIsFaceTextureEmission": 0,
+  "mEmblem": {
+    "m_FileID": 0,
+    "m_PathID": -810585611429983844
+  },
+  "mAnimatorOverrideController": {
+    "m_FileID": 3,
+    "m_PathID": 3306105005089610077
+  },
+  "mKartScaleSize": 1.0,
+  "mWingJointType": 0,
+  "mFaceChangeEvent": {
+    "m_FileID": 0,
+    "m_PathID": -5850547156028252384
+  },
+  "mIconInfo": [
+    {
+      "mPath": "Assets/Main/Content/Driver/Totten/Icons/Totten.png",
+      "mGuid": "e061e3ada16fdc74fb5867f4d249fa13"
+    },
+    {
+      "mPath": "Assets/Main/Content/Driver/Totten/Icons/TottenMap.png",
+      "mGuid": "01537877877a5794a899ab0f42574b26"
+    },
+    {
+      "mPath": "Assets/Main/Content/Driver/Totten/Icons/TottenFaceEntry.png",
+      "mGuid": "98abae463fa3b1643b920563ff4c43aa"
+    },
+    {
+      "mPath": "Assets/Main/Content/Driver/Totten/Icons/TottenWholeBody.png",
+      "mGuid": "c0d254a2aed863c43b5607874be3d567"
+    },
+    {
+      "mPath": "Assets/Main/Content/Driver/Totten/Icons/TottenUpperBody.png",
+      "mGuid": "3f32cd5baf9df4e47bd82a18e95fdf6b"
+    },
+    {
+      "mPath": "",
+      "mGuid": ""
+    },
+    {
+      "mPath": "Assets/Main/Content/Driver/Totten/Icons/Totten_Small.png",
+      "mGuid": "fa170749aa3f98c40bcd995ac5cb145f"
+    },
+    {
+      "mPath": "Assets/Main/Content/Driver/Totten/Icons/TottenFaceEntry_Small.png",
+      "mGuid": "8f068eeb9f4d67446902d19979686ad6"
+    },
+    {
+      "mPath": "Assets/Main/Content/Driver/Totten/Icons/TottenWholeBody_Small.png",
+      "mGuid": "9bea1c3186876bf4badfcb94a6ce686c"
+    },
+    {
+      "mPath": "Assets/Main/Content/Driver/Totten/Icons/TottenUpperBody_Small.png",
+      "mGuid": "1692e3e2f8bed4b41a092bf84297de3c"
+    }
+  ],
+  "mColorGroup": 0,
+  "mCharacterTextureList": [],
+  "mBaseParameter": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "mBodyMaterial": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "mEyeMaterial": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "mDynamicUnitMngInitData": {
+    "m_FileID": 0,
+    "m_PathID": 4214456407165219390
+  },
+  "mMetamorData": [],
+  "mDotDriverData": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "mDescription": "トッテン",
+  "mEffectContainer": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  }
+}

@@ -1,0 +1,50 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": 2434717279687273224
+  },
+  "m_Name": "Wing_OmenPuku_ColorA",
+  "mWingModel": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "mIconInfo": [
+    {
+      "mPath": "Assets/Main/Content/Kart/Wing/Wing_OmenPuku/Icons/Wing_OmenPuku_ColorA.png",
+      "mGuid": "536dbf73d06cca949a3473081b25c681"
+    },
+    {
+      "mPath": "Assets/Main/Content/Kart/Wing/Wing_OmenPuku/Icons/Wing_OmenPuku_ColorA_Large.png",
+      "mGuid": "03318156a26c7cd4b8dbf79966bd1d00"
+    },
+    {
+      "mPath": "Assets/Main/Content/Kart/Wing/Wing_OmenPuku/Icons/Wing_OmenPuku_ColorA_Small.png",
+      "mGuid": "2cf1d6f95b4ef7a409c2657731854bf5"
+    }
+  ],
+  "mWingType": 0,
+  "mIsFixedIcon": 0,
+  "mBaseParameter": {
+    "m_FileID": 0,
+    "m_PathID": 7145180836981424140
+  },
+  "mMaterial": {
+    "m_FileID": 0,
+    "m_PathID": -8458428057216150006
+  },
+  "mEffectContainer": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "mIsDisableAngleAnimation": 0,
+  "mDescription": "",
+  "mColorValiationRoot": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  }
+}

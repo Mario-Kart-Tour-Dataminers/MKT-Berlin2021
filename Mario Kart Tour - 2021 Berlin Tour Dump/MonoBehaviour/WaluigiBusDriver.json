@@ -1,0 +1,135 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": -2094441087577622512
+  },
+  "m_Name": "WaluigiBusDriver",
+  "mModel": {
+    "m_FileID": 3,
+    "m_PathID": 7723639044091765322
+  },
+  "mFaceTextures": [
+    {
+      "m_FileID": 1,
+      "m_PathID": -3453674737862811141
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 8506564479803614384
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 1443657072734801598
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -5605310807452916468
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 8904672630803900969
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -2028760492268573094
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -4189191376456319715
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 8159686573188119341
+    }
+  ],
+  "mIsFaceTextureEmission": 0,
+  "mEmblem": {
+    "m_FileID": 0,
+    "m_PathID": -5422098388731439094
+  },
+  "mAnimatorOverrideController": {
+    "m_FileID": 2,
+    "m_PathID": -507733471482364804
+  },
+  "mKartScaleSize": 1.1,
+  "mWingJointType": 0,
+  "mFaceChangeEvent": {
+    "m_FileID": 0,
+    "m_PathID": 695305300984927232
+  },
+  "mIconInfo": [
+    {
+      "mPath": "Assets/Main/Content/Driver/WaluigiBusDriver/Icons/WaluigiBusDriver.png",
+      "mGuid": "7ea21042c99dea14ba0f3caa40960f40"
+    },
+    {
+      "mPath": "Assets/Main/Content/Driver/WaluigiBusDriver/Icons/WaluigiBusDriverMap.png",
+      "mGuid": "77d9f50f90d3e3646bcd4a3b8e31c3fb"
+    },
+    {
+      "mPath": "Assets/Main/Content/Driver/WaluigiBusDriver/Icons/WaluigiBusDriverFaceEntry.png",
+      "mGuid": "1bb7b821f716ce94b8f6edc6b07589ac"
+    },
+    {
+      "mPath": "Assets/Main/Content/Driver/WaluigiBusDriver/Icons/WaluigiBusDriverWholeBody.png",
+      "mGuid": "2cf3405ac0c2a86489274d78a626230d"
+    },
+    {
+      "mPath": "Assets/Main/Content/Driver/WaluigiBusDriver/Icons/WaluigiBusDriverUpperBody.png",
+      "mGuid": "a8a1370b75fc9864c8a8e0e443e45d92"
+    },
+    {
+      "mPath": "",
+      "mGuid": ""
+    },
+    {
+      "mPath": "Assets/Main/Content/Driver/WaluigiBusDriver/Icons/WaluigiBusDriver_Small.png",
+      "mGuid": "c849ae12324904e4b8009fbb7f91123a"
+    },
+    {
+      "mPath": "Assets/Main/Content/Driver/WaluigiBusDriver/Icons/WaluigiBusDriverFaceEntry_Small.png",
+      "mGuid": "b58a78967b7d7f94c915eb7c0e784b2b"
+    },
+    {
+      "mPath": "Assets/Main/Content/Driver/WaluigiBusDriver/Icons/WaluigiBusDriverWholeBody_Small.png",
+      "mGuid": "73a80ef5c93aeaa47a1d487ab38b1a93"
+    },
+    {
+      "mPath": "Assets/Main/Content/Driver/WaluigiBusDriver/Icons/WaluigiBusDriverUpperBody_Small.png",
+      "mGuid": "ea4aad6554521ec43b176e8bfa8c831e"
+    }
+  ],
+  "mColorGroup": 0,
+  "mCharacterTextureList": [],
+  "mBaseParameter": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "mBodyMaterial": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "mEyeMaterial": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "mDynamicUnitMngInitData": {
+    "m_FileID": 0,
+    "m_PathID": 7008568334115918271
+  },
+  "mMetamorData": [],
+  "mDotDriverData": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "mDescription": "",
+  "mEffectContainer": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  }
+}

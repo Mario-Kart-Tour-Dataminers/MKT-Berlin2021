@@ -1,0 +1,131 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": -2094441087577622512
+  },
+  "m_Name": "JugemParty",
+  "mModel": {
+    "m_FileID": 1,
+    "m_PathID": 8061141474164721021
+  },
+  "mFaceTextures": [
+    {
+      "m_FileID": 2,
+      "m_PathID": 6399879016554969024
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -5697459311714153117
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 7452852645527750959
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 7530448249613139414
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 4775706485438216234
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 3430753574413200833
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 5414190257562040820
+    }
+  ],
+  "mIsFaceTextureEmission": 0,
+  "mEmblem": {
+    "m_FileID": 0,
+    "m_PathID": 7950269153981748926
+  },
+  "mAnimatorOverrideController": {
+    "m_FileID": 0,
+    "m_PathID": 5330860459463892006
+  },
+  "mKartScaleSize": 0.85,
+  "mWingJointType": 0,
+  "mFaceChangeEvent": {
+    "m_FileID": 0,
+    "m_PathID": -1839129466877947383
+  },
+  "mIconInfo": [
+    {
+      "mPath": "Assets/Main/Content/Driver/JugemParty/Icons/JugemParty.png",
+      "mGuid": "4dd7e3413efa90c4c8fd2e99ae63d7f2"
+    },
+    {
+      "mPath": "Assets/Main/Content/Driver/JugemParty/Icons/JugemPartyMap.png",
+      "mGuid": "06afd83c86178ef4aa87b67c0839d85e"
+    },
+    {
+      "mPath": "Assets/Main/Content/Driver/JugemParty/Icons/JugemPartyFaceEntry.png",
+      "mGuid": "06b47acdcdd98a943a72f992b8a2761f"
+    },
+    {
+      "mPath": "Assets/Main/Content/Driver/JugemParty/Icons/JugemPartyWholeBody.png",
+      "mGuid": "956e989b51aab204386bcad83b074476"
+    },
+    {
+      "mPath": "Assets/Main/Content/Driver/JugemParty/Icons/JugemPartyUpperBody.png",
+      "mGuid": "e0650c1686fd39b458a6793cd6089373"
+    },
+    {
+      "mPath": "",
+      "mGuid": ""
+    },
+    {
+      "mPath": "Assets/Main/Content/Driver/JugemParty/Icons/JugemParty_Small.png",
+      "mGuid": "8ca4d37e2f48c8944bd6ac622f1b4bdb"
+    },
+    {
+      "mPath": "Assets/Main/Content/Driver/JugemParty/Icons/JugemPartyFaceEntry_Small.png",
+      "mGuid": "5ac60ec7abff66a49bddf99a39d112c1"
+    },
+    {
+      "mPath": "Assets/Main/Content/Driver/JugemParty/Icons/JugemPartyWholeBody_Small.png",
+      "mGuid": "7a63154bbf256f04ea9a85a60a8cc37d"
+    },
+    {
+      "mPath": "Assets/Main/Content/Driver/JugemParty/Icons/JugemPartyUpperBody_Small.png",
+      "mGuid": "7a97e869e64afc447b67ce833e3c63af"
+    }
+  ],
+  "mColorGroup": 0,
+  "mCharacterTextureList": [],
+  "mBaseParameter": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "mBodyMaterial": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "mEyeMaterial": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "mDynamicUnitMngInitData": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "mMetamorData": [],
+  "mDotDriverData": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "mDescription": "",
+  "mEffectContainer": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  }
+}

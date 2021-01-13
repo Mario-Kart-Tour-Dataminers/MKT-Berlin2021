@@ -1,0 +1,58 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": -8094386303974766579
+  },
+  "m_Name": "CourseSceneParam",
+  "mProjectorShadowGlobalCutOffDistanceY": 0.0,
+  "mFogChangeData": {
+    "mElements": [
+      {
+        "mEffBit": 0,
+        "mFogPattern": 0,
+        "mColor": {
+          "r": 0.8119954,
+          "g": 0.897012,
+          "b": 0.9411765,
+          "a": 0.234
+        },
+        "mDistanceBegin": 0.001,
+        "mDistanceEnd": 3500.0,
+        "mRaceStartTimeSecond": 56.0,
+        "mDurationSecond": 30.0,
+        "mAreaStartSecond": 0.0,
+        "mAreaEndSecond": 0.0,
+        "mReferenceWater": 0
+      }
+    ]
+  },
+  "mFlareChangeData": {
+    "mDefaultOn": 0,
+    "mElements": [
+      {
+        "mEffBit": 1,
+        "mDisableFlare": 0
+      }
+    ]
+  },
+  "mPowerSavingAdjustColor": {
+    "x": 0.0,
+    "y": 0.0,
+    "z": 0.0,
+    "w": 0.0
+  },
+  "mIsDisableProjectionShadowStencil": 0,
+  "mProjectionShadowRenderQueue": -1,
+  "mIsMapObjShadowRenderAfterTransparent": 0,
+  "mLightParametersChangeData": {
+    "mElements": []
+  },
+  "mLightProbeChangeData": {
+    "mElements": []
+  }
+}

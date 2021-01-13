@@ -1,0 +1,152 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": 209972380458786307
+  },
+  "m_Name": "FxCt_Obj_WaterColumnManhole",
+  "mEffectParameterList": [
+    {
+      "Name": "HotSpringSign",
+      "Prefab": {
+        "m_FileID": 0,
+        "m_PathID": 4198573065570954626
+      },
+      "AnimatorController": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      },
+      "Max": 14,
+      "MaxInPowerSaving": -1,
+      "PlayAtTransform": "",
+      "FollowPlayAtTransform": 1,
+      "UseAlpha": 1,
+      "PositionOffset": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "RotateOffset": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "ScaleOffset": {
+        "x": 1.0,
+        "y": 1.0,
+        "z": 1.0
+      },
+      "LookAtTransform": "",
+      "EmitState": "",
+      "EmitDelay": 0.0,
+      "IsStopOnStateLeave": 0,
+      "StopDelay": 0.0,
+      "IsFollowShaftScaleForTire": 0,
+      "IsCheckCondition": 0,
+      "IsCheckGroundAttribute": 0,
+      "GroundAttribute": 0,
+      "GroundMaterial": 0,
+      "IsCheckCourseId": 0,
+      "CourseIdHash": 0,
+      "IsCheckInWater": 0,
+      "InWater": 0,
+      "IsExpand": 1
+    },
+    {
+      "Name": "HotSpringOrnament",
+      "Prefab": {
+        "m_FileID": 0,
+        "m_PathID": 8419351664083971560
+      },
+      "AnimatorController": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      },
+      "Max": 14,
+      "MaxInPowerSaving": -1,
+      "PlayAtTransform": "",
+      "FollowPlayAtTransform": 1,
+      "UseAlpha": 1,
+      "PositionOffset": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "RotateOffset": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "ScaleOffset": {
+        "x": 1.0,
+        "y": 1.0,
+        "z": 1.0
+      },
+      "LookAtTransform": "",
+      "EmitState": "",
+      "EmitDelay": 0.0,
+      "IsStopOnStateLeave": 0,
+      "StopDelay": 0.0,
+      "IsFollowShaftScaleForTire": 0,
+      "IsCheckCondition": 0,
+      "IsCheckGroundAttribute": 0,
+      "GroundAttribute": 0,
+      "GroundMaterial": 0,
+      "IsCheckCourseId": 0,
+      "CourseIdHash": 0,
+      "IsCheckInWater": 0,
+      "InWater": 0,
+      "IsExpand": 1
+    },
+    {
+      "Name": "HotSpring",
+      "Prefab": {
+        "m_FileID": 0,
+        "m_PathID": 7991431876011580404
+      },
+      "AnimatorController": {
+        "m_FileID": 0,
+        "m_PathID": 1358166637320196605
+      },
+      "Max": 14,
+      "MaxInPowerSaving": -1,
+      "PlayAtTransform": "",
+      "FollowPlayAtTransform": 1,
+      "UseAlpha": 1,
+      "PositionOffset": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "RotateOffset": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "ScaleOffset": {
+        "x": 1.0,
+        "y": 1.0,
+        "z": 1.0
+      },
+      "LookAtTransform": "",
+      "EmitState": "",
+      "EmitDelay": 0.0,
+      "IsStopOnStateLeave": 0,
+      "StopDelay": 0.0,
+      "IsFollowShaftScaleForTire": 0,
+      "IsCheckCondition": 0,
+      "IsCheckGroundAttribute": 0,
+      "GroundAttribute": 0,
+      "GroundMaterial": 0,
+      "IsCheckCourseId": 0,
+      "CourseIdHash": 0,
+      "IsCheckInWater": 0,
+      "InWater": 0,
+      "IsExpand": 1
+    }
+  ]
+}

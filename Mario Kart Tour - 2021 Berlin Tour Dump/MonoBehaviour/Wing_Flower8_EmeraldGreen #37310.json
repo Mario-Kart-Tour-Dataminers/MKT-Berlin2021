@@ -1,0 +1,50 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": 2434717279687273224
+  },
+  "m_Name": "Wing_Flower8_EmeraldGreen",
+  "mWingModel": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "mIconInfo": [
+    {
+      "mPath": "Assets/Main/Content/Kart/Wing/Wing_Flower8/Icons/Wing_Flower8_EmeraldGreen.png",
+      "mGuid": "71e6017e6fcf3e149800c2c65c654c19"
+    },
+    {
+      "mPath": "Assets/Main/Content/Kart/Wing/Wing_Flower8/Icons/Wing_Flower8_EmeraldGreen_Large.png",
+      "mGuid": "96ff81b2f71a4c249be435a79befdb59"
+    },
+    {
+      "mPath": "Assets/Main/Content/Kart/Wing/Wing_Flower8/Icons/Wing_Flower8_EmeraldGreen_Small.png",
+      "mGuid": "35a3af02738c78d49981113a9e77c3fc"
+    }
+  ],
+  "mWingType": 0,
+  "mIsFixedIcon": 0,
+  "mBaseParameter": {
+    "m_FileID": 4,
+    "m_PathID": 5935096358540543435
+  },
+  "mMaterial": {
+    "m_FileID": 0,
+    "m_PathID": -7960046419455211001
+  },
+  "mEffectContainer": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "mIsDisableAngleAnimation": 0,
+  "mDescription": "",
+  "mColorValiationRoot": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  }
+}

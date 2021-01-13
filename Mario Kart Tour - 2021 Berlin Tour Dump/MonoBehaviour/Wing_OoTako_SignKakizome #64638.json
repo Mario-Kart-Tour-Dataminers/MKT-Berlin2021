@@ -1,0 +1,50 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": 2434717279687273224
+  },
+  "m_Name": "Wing_OoTako_SignKakizome",
+  "mWingModel": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "mIconInfo": [
+    {
+      "mPath": "Assets/Main/Content/Kart/Wing/Wing_OoTako/Icons/Wing_OoTako_SignKakizome.png",
+      "mGuid": "1241c89ca61f2f141ac39a3597c96940"
+    },
+    {
+      "mPath": "Assets/Main/Content/Kart/Wing/Wing_OoTako/Icons/Wing_OoTako_SignKakizome_Large.png",
+      "mGuid": "df4bf7376d650dc49943cb9f9c5582bd"
+    },
+    {
+      "mPath": "Assets/Main/Content/Kart/Wing/Wing_OoTako/Icons/Wing_OoTako_SignKakizome_Small.png",
+      "mGuid": "05714ac5c6039ee4cb9f5ffce21a4346"
+    }
+  ],
+  "mWingType": 0,
+  "mIsFixedIcon": 0,
+  "mBaseParameter": {
+    "m_FileID": 1,
+    "m_PathID": -7452357288680968741
+  },
+  "mMaterial": {
+    "m_FileID": 0,
+    "m_PathID": -4975271523185660745
+  },
+  "mEffectContainer": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "mIsDisableAngleAnimation": 0,
+  "mDescription": "",
+  "mColorValiationRoot": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  }
+}

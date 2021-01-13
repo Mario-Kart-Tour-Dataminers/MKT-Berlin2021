@@ -1,0 +1,135 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": -2094441087577622512
+  },
+  "m_Name": "Morton",
+  "mModel": {
+    "m_FileID": 1,
+    "m_PathID": 5765781129679222238
+  },
+  "mFaceTextures": [
+    {
+      "m_FileID": 2,
+      "m_PathID": -9113532919944138634
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 2984963886577023897
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 2067399828399941420
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 7321807418404355005
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -6088808684863956451
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 6450167803060276634
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -59436668170786628
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -4268220195729404396
+    }
+  ],
+  "mIsFaceTextureEmission": 0,
+  "mEmblem": {
+    "m_FileID": 0,
+    "m_PathID": -2587872213038723835
+  },
+  "mAnimatorOverrideController": {
+    "m_FileID": 3,
+    "m_PathID": -193730992456118424
+  },
+  "mKartScaleSize": 1.1,
+  "mWingJointType": 0,
+  "mFaceChangeEvent": {
+    "m_FileID": 0,
+    "m_PathID": 6417903354883309263
+  },
+  "mIconInfo": [
+    {
+      "mPath": "Assets/Main/Content/Driver/Morton/Icons/Morton.png",
+      "mGuid": "2cb330da3a74de04995601a7a290473c"
+    },
+    {
+      "mPath": "Assets/Main/Content/Driver/Morton/Icons/MortonMap.png",
+      "mGuid": "e82499cac83206e4e91aba8e97fc05c8"
+    },
+    {
+      "mPath": "Assets/Main/Content/Driver/Morton/Icons/MortonFaceEntry.png",
+      "mGuid": "8353a65ee27359d49b0cc3e246d10ba5"
+    },
+    {
+      "mPath": "Assets/Main/Content/Driver/Morton/Icons/MortonWholeBody.png",
+      "mGuid": "4e9b9ac1df2f5ed4c87c9349414af221"
+    },
+    {
+      "mPath": "Assets/Main/Content/Driver/Morton/Icons/MortonUpperBody.png",
+      "mGuid": "c02f16909670e0544a339c158de10bea"
+    },
+    {
+      "mPath": "",
+      "mGuid": ""
+    },
+    {
+      "mPath": "Assets/Main/Content/Driver/Morton/Icons/Morton_Small.png",
+      "mGuid": "7580388ad6f02bf47a42c7ae56389c94"
+    },
+    {
+      "mPath": "Assets/Main/Content/Driver/Morton/Icons/MortonFaceEntry_Small.png",
+      "mGuid": "ef80260412501bc40a5203db8ee6a4ea"
+    },
+    {
+      "mPath": "Assets/Main/Content/Driver/Morton/Icons/MortonWholeBody_Small.png",
+      "mGuid": "85d79aa39d58109499d90faa733f3250"
+    },
+    {
+      "mPath": "Assets/Main/Content/Driver/Morton/Icons/MortonUpperBody_Small.png",
+      "mGuid": "4572187f2be8ee44fba6a1ab5dee4877"
+    }
+  ],
+  "mColorGroup": 0,
+  "mCharacterTextureList": [],
+  "mBaseParameter": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "mBodyMaterial": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "mEyeMaterial": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "mDynamicUnitMngInitData": {
+    "m_FileID": 0,
+    "m_PathID": 804605347500403400
+  },
+  "mMetamorData": [],
+  "mDotDriverData": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "mDescription": "モートン",
+  "mEffectContainer": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  }
+}

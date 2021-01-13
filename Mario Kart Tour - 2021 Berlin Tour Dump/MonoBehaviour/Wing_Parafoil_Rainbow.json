@@ -1,0 +1,50 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": 2434717279687273224
+  },
+  "m_Name": "Wing_Parafoil_Rainbow",
+  "mWingModel": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "mIconInfo": [
+    {
+      "mPath": "Assets/Main/Content/Kart/Wing/Wing_Parafoil/Icons/Wing_Parafoil_Rainbow.png",
+      "mGuid": "77ca5e453079fcc46ac81a8f0bab6905"
+    },
+    {
+      "mPath": "Assets/Main/Content/Kart/Wing/Wing_Parafoil/Icons/Wing_Parafoil_Rainbow_Large.png",
+      "mGuid": "ab829a923f480b94fb0f341e3b88939a"
+    },
+    {
+      "mPath": "Assets/Main/Content/Kart/Wing/Wing_Parafoil/Icons/Wing_Parafoil_Rainbow_Small.png",
+      "mGuid": "81bdc62e1accc604cb2e85158ab9a90a"
+    }
+  ],
+  "mWingType": 0,
+  "mIsFixedIcon": 0,
+  "mBaseParameter": {
+    "m_FileID": 2,
+    "m_PathID": 3836946152633149861
+  },
+  "mMaterial": {
+    "m_FileID": 1,
+    "m_PathID": -2020614592697774840
+  },
+  "mEffectContainer": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "mIsDisableAngleAnimation": 0,
+  "mDescription": "パラフォイル（虹）",
+  "mColorValiationRoot": {
+    "m_FileID": 2,
+    "m_PathID": 3836946152633149861
+  }
+}

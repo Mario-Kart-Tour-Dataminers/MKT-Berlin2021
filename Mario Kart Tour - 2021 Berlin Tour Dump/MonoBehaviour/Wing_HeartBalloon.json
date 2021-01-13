@@ -1,0 +1,50 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": 2434717279687273224
+  },
+  "m_Name": "Wing_HeartBalloon",
+  "mWingModel": {
+    "m_FileID": 0,
+    "m_PathID": 7982324326575618373
+  },
+  "mIconInfo": [
+    {
+      "mPath": "Assets/Main/Content/Kart/Wing/Wing_HeartBalloon/Icons/Wing_HeartBalloon.png",
+      "mGuid": "a2025568adb20b8468d5d677b92efa9a"
+    },
+    {
+      "mPath": "Assets/Main/Content/Kart/Wing/Wing_HeartBalloon/Icons/Wing_HeartBalloon_Large.png",
+      "mGuid": "8f5f0f32caf70834eb5d7007a67f11c3"
+    },
+    {
+      "mPath": "Assets/Main/Content/Kart/Wing/Wing_HeartBalloon/Icons/Wing_HeartBalloon_Small.png",
+      "mGuid": "bd41803c3806c3e47abd58f9dbb1a4c4"
+    }
+  ],
+  "mWingType": 1,
+  "mIsFixedIcon": 0,
+  "mBaseParameter": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "mMaterial": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "mEffectContainer": {
+    "m_FileID": 0,
+    "m_PathID": -7451756562590805411
+  },
+  "mIsDisableAngleAnimation": 0,
+  "mDescription": "",
+  "mColorValiationRoot": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  }
+}

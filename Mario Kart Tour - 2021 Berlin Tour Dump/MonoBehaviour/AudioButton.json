@@ -1,0 +1,207 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": -6285073102922787385
+  },
+  "m_Name": "AudioButton",
+  "list": [
+    {
+      "Path": "UIManager/MainCanvas/Container/OverWipe/ResultRankRaceBase01/Reward/Emp/Base/Content03/Move03/BtnCmnPos/BtnCmn00",
+      "PushSe": 20,
+      "ReleaseSe": 6,
+      "DecideSe": 6,
+      "ToggleOn": 20,
+      "ToggleOff": 20
+    },
+    {
+      "Path": "UIManager/MainCanvas/Container/Menu/MainMenu00/CoreArea/Contents/Window/WindowContent/EmpCourse/MainContent00/BtnMainMenuCoursePos01/BtnMainMenuCourse01_1/Emp/Emp01/EmpOpen",
+      "PushSe": 20,
+      "ReleaseSe": 20,
+      "DecideSe": 20,
+      "ToggleOn": 20,
+      "ToggleOff": 20
+    },
+    {
+      "Path": "UIManager/MainCanvas/Container/OverWipe/MainMenuCharaSelect00/Emp/EmpCharaSelect00/Content/HorizontalScrollView01/Mask/Viewport/Content/BtnCustomize01_0",
+      "PushSe": 20,
+      "ReleaseSe": 20,
+      "DecideSe": 20,
+      "ToggleOn": 20,
+      "ToggleOff": 20
+    },
+    {
+      "Path": "UIManager/MainCanvas/Container/OverWipe/MainMenuCharaSelect00/Emp/EmpCharaSelect00/Content/HorizontalScrollView02/Mask/Viewport/Content/BtnCustomize01_0",
+      "PushSe": 20,
+      "ReleaseSe": 20,
+      "DecideSe": 20,
+      "ToggleOn": 20,
+      "ToggleOff": 20
+    },
+    {
+      "Path": "UIManager/MainCanvas/Container/OverWipe/MainMenuCharaSelect00/Emp/EmpDetails02/Content/EmpBtnStart/BtnStart",
+      "PushSe": 20,
+      "ReleaseSe": 20,
+      "DecideSe": 20,
+      "ToggleOn": 20,
+      "ToggleOff": 20
+    },
+    {
+      "Path": "UIManager/MainCanvas/Container/Dialog/DlgSettingConfirm00/Emp/Base/Content/BtnDynamicNamePos00/BtnDynamicName00/InputField",
+      "PushSe": 20,
+      "ReleaseSe": 20,
+      "DecideSe": 20,
+      "ToggleOn": 20,
+      "ToggleOff": 20
+    },
+    {
+      "Path": "UIManager/MainCanvas/Container/Dialog/DlgSettingConfirm00/Emp/Base/Content/BtnCmnPos00/BtnCmn00",
+      "PushSe": 20,
+      "ReleaseSe": 20,
+      "DecideSe": 20,
+      "ToggleOn": 20,
+      "ToggleOff": 20
+    },
+    {
+      "Path": "UIManager/MainCanvas/Container/Dialog/Dlg00/Emp/Base/Content/BG/0_BtnCmn00",
+      "PushSe": 20,
+      "ReleaseSe": 20,
+      "DecideSe": 20,
+      "ToggleOn": 20,
+      "ToggleOff": 20
+    },
+    {
+      "Path": "UIManager/MainCanvas/Container/Menu/MainMenu00/CoreArea01/BtnMenu00",
+      "PushSe": 20,
+      "ReleaseSe": 20,
+      "DecideSe": 20,
+      "ToggleOn": 20,
+      "ToggleOff": 20
+    },
+    {
+      "Path": "UIManager/MainCanvas/Container/Default/MainMenuSubMenu00/EmpMenu/Center/ListMenu/BtnSubMenuWappen00_8",
+      "PushSe": 20,
+      "ReleaseSe": 20,
+      "DecideSe": 20,
+      "ToggleOn": 20,
+      "ToggleOff": 20
+    },
+    {
+      "Path": "UIManager/MainCanvas/Container/OverWipe/WappenTop00/Emp00/VerticalScrollView/Viewport/Content/BtnWappen00_17",
+      "PushSe": 20,
+      "ReleaseSe": 20,
+      "DecideSe": 20,
+      "ToggleOn": 20,
+      "ToggleOff": 20
+    },
+    {
+      "Path": "UIManager/MainCanvas/Container/Dialog/DlgWappen00/Emp/Base/Content/BG/BtnCmn00Pos/BtnCmnPosi00",
+      "PushSe": 20,
+      "ReleaseSe": 20,
+      "DecideSe": 24,
+      "ToggleOn": 20,
+      "ToggleOff": 20
+    },
+    {
+      "Path": "UIManager/MainCanvas/Container/OverWipe/NetPlayLobby00/Emp00/Emp01/Base/Content/BG/EmpBtn/BtnCmnPos00Pos/BtnCmnPosi00",
+      "PushSe": 20,
+      "ReleaseSe": 20,
+      "DecideSe": 7,
+      "ToggleOn": 20,
+      "ToggleOff": 20
+    },
+    {
+      "Path": "UIManager/MainCanvas/Container/OverWipe/NetPlayLobby00/Emp00/Emp01/BtnDlgClosePos00/BtnDlgClose00",
+      "PushSe": 20,
+      "ReleaseSe": 20,
+      "DecideSe": 20,
+      "ToggleOn": 20,
+      "ToggleOff": 20
+    },
+    {
+      "Path": "UIManager/MainCanvas/Container/OverWipe/NetPlayTop00/Emp00/Emp01/VerticalScrollView/Viewport/Content/Emp/BtnRandomBattle",
+      "PushSe": 20,
+      "ReleaseSe": 20,
+      "DecideSe": 20,
+      "ToggleOn": 20,
+      "ToggleOff": 20
+    },
+    {
+      "Path": "UIManager/MainCanvas/Container/Default/RaceHudBody00/Emp00/Emp/EmpAutoMode/EmpInfoRB/BtnPause/ToggleBtn00",
+      "PushSe": 20,
+      "ReleaseSe": 20,
+      "DecideSe": 20,
+      "ToggleOn": 115,
+      "ToggleOff": 115
+    },
+    {
+      "Path": "UIManager/MainCanvas/Container/Default/RaceHudBody00/Emp00/Emp/EmpAutoMode/EmpInfoRB/BtnPlatoon",
+      "PushSe": 20,
+      "ReleaseSe": 20,
+      "DecideSe": 20,
+      "ToggleOn": 20,
+      "ToggleOff": 20
+    },
+    {
+      "Path": "UIManager/MainCanvas/Container/Default/RaceHudBody00/Emp00/Emp/EmpAutoMode/EmpInfoLB/BtnGyro/ToggleBtn00",
+      "PushSe": 20,
+      "ReleaseSe": 20,
+      "DecideSe": 20,
+      "ToggleOn": 5,
+      "ToggleOff": 2
+    },
+    {
+      "Path": "UIManager/MainCanvas/Container/Default/RaceHudBody00/Emp00/Emp/EmpAutoMode/BtnShutter",
+      "PushSe": 20,
+      "ReleaseSe": 20,
+      "DecideSe": 20,
+      "ToggleOn": 20,
+      "ToggleOff": 20
+    },
+    {
+      "Path": "UIManager/MainCanvas/Container/OverWipe/MainMenuCharaSelect00/Emp/EmpDetails02/Content/EmpBtnStartAuto/EmpBtnAuto/BtnStart",
+      "PushSe": 20,
+      "ReleaseSe": 20,
+      "DecideSe": 118,
+      "ToggleOn": 20,
+      "ToggleOff": 20
+    },
+    {
+      "Path": "UIManager/MainCanvas/Container/Dialog/DlgNetPlayRule00/Emp/Base/Base00/VerticalScrollView/Viewport/Content/EmpTeam/EmpTeamSetting/BtnCheckBox03/ToggleBtn00",
+      "PushSe": 20,
+      "ReleaseSe": 20,
+      "DecideSe": 20,
+      "ToggleOn": 5,
+      "ToggleOff": 2
+    },
+    {
+      "Path": "UIManager/MainCanvas/Container/ErrorDialog/DlgError00/Emp/Base/Emp01/Content/BG/BtnCmn00Pos/BtnCmn00",
+      "PushSe": 20,
+      "ReleaseSe": 20,
+      "DecideSe": 20,
+      "ToggleOn": 20,
+      "ToggleOff": 20
+    },
+    {
+      "Path": "UIManager/MainCanvas/Container/OverWipe/NetPlayTop00/Emp00/Emp01/VerticalScrollView/Viewport/Content/Emp/BtnLobby",
+      "PushSe": 20,
+      "ReleaseSe": 20,
+      "DecideSe": 20,
+      "ToggleOn": 20,
+      "ToggleOff": 20
+    },
+    {
+      "Path": "UIManager/MainCanvas/Container/Dialog/DlgNetPlayRule00/Emp/Base/Base00/VerticalScrollView/Viewport/Content/EmpTeam/EmpTeamNumber/BtnSubCheckCmnPos02/BtnSubCheckCmn01/ToggleBtn00",
+      "PushSe": 20,
+      "ReleaseSe": 20,
+      "DecideSe": 20,
+      "ToggleOn": 20,
+      "ToggleOff": 20
+    }
+  ],
+  "filterPath": "UIManager/MainCanvas/Container/Dialog/DlgNetPlayRule00/Emp/Base/Base00/VerticalScrollView/Viewport/Content/EmpTeam/EmpTeamSetting/BtnCheckBox03/ToggleBtn00"
+}

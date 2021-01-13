@@ -1,0 +1,26 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": 980329048157257672
+  },
+  "m_Name": "Fbx_Grsfc_RainbowRoad1_MapInfo",
+  "rect": {
+    "x": -317.33963,
+    "y": -323.9943,
+    "width": 648.0907,
+    "height": 648.0907
+  },
+  "sprite": {
+    "m_FileID": 0,
+    "m_PathID": 3355134355479640874
+  },
+  "offset": {
+    "x": 0.0,
+    "y": 0.0
+  }
+}

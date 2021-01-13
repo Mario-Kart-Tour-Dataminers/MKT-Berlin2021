@@ -1,0 +1,50 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": 2434717279687273224
+  },
+  "m_Name": "Wing_ParaShort_SignSMK",
+  "mWingModel": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "mIconInfo": [
+    {
+      "mPath": "Assets/Main/Content/Kart/Wing/Wing_ParaShort/Icons/Wing_ParaShort_SignSMK.png",
+      "mGuid": "c4d208fcd7a162248b1d92cc88f71058"
+    },
+    {
+      "mPath": "Assets/Main/Content/Kart/Wing/Wing_ParaShort/Icons/Wing_ParaShort_SignSMK_Large.png",
+      "mGuid": "001751d075e0e96428cb38c018477990"
+    },
+    {
+      "mPath": "Assets/Main/Content/Kart/Wing/Wing_ParaShort/Icons/Wing_ParaShort_SignSMK_Small.png",
+      "mGuid": "a9a0e54580124584f93318d8b35f5f9a"
+    }
+  ],
+  "mWingType": 0,
+  "mIsFixedIcon": 0,
+  "mBaseParameter": {
+    "m_FileID": 0,
+    "m_PathID": 8995404329756259900
+  },
+  "mMaterial": {
+    "m_FileID": 0,
+    "m_PathID": -4999044691937660926
+  },
+  "mEffectContainer": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "mIsDisableAngleAnimation": 0,
+  "mDescription": "",
+  "mColorValiationRoot": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  }
+}

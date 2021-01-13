@@ -1,0 +1,288 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": -4418261267758462990
+  },
+  "m_Name": "Parade",
+  "mSettings": [
+    {
+      "mFormations": [
+        {
+          "m_FileID": 15,
+          "m_PathID": 482542347624068624
+        }
+      ]
+    },
+    {
+      "mFormations": [
+        {
+          "m_FileID": 15,
+          "m_PathID": 482542347624068624
+        },
+        {
+          "m_FileID": 8,
+          "m_PathID": 3336321257543303666
+        },
+        {
+          "m_FileID": 10,
+          "m_PathID": 8322217188140435490
+        }
+      ]
+    },
+    {
+      "mFormations": [
+        {
+          "m_FileID": 15,
+          "m_PathID": 482542347624068624
+        },
+        {
+          "m_FileID": 19,
+          "m_PathID": 2416065733215575713
+        },
+        {
+          "m_FileID": 10,
+          "m_PathID": 8322217188140435490
+        },
+        {
+          "m_FileID": 7,
+          "m_PathID": 3985018597922584847
+        },
+        {
+          "m_FileID": 20,
+          "m_PathID": 4535656080290807812
+        }
+      ]
+    },
+    {
+      "mFormations": [
+        {
+          "m_FileID": 15,
+          "m_PathID": 482542347624068624
+        },
+        {
+          "m_FileID": 12,
+          "m_PathID": 2589129948369419104
+        },
+        {
+          "m_FileID": 10,
+          "m_PathID": 8322217188140435490
+        },
+        {
+          "m_FileID": 2,
+          "m_PathID": -5336142436941736743
+        },
+        {
+          "m_FileID": 20,
+          "m_PathID": 4535656080290807812
+        },
+        {
+          "m_FileID": 6,
+          "m_PathID": 4394863733442993265
+        },
+        {
+          "m_FileID": 26,
+          "m_PathID": -4314503998809356438
+        }
+      ]
+    },
+    {
+      "mFormations": [
+        {
+          "m_FileID": 15,
+          "m_PathID": 482542347624068624
+        },
+        {
+          "m_FileID": 14,
+          "m_PathID": 7243304905879646354
+        },
+        {
+          "m_FileID": 10,
+          "m_PathID": 8322217188140435490
+        },
+        {
+          "m_FileID": 23,
+          "m_PathID": -8232247444097072383
+        },
+        {
+          "m_FileID": 20,
+          "m_PathID": 4535656080290807812
+        },
+        {
+          "m_FileID": 4,
+          "m_PathID": -5820573919669487065
+        },
+        {
+          "m_FileID": 1,
+          "m_PathID": -6340701051311771473
+        }
+      ]
+    },
+    {
+      "mFormations": [
+        {
+          "m_FileID": 15,
+          "m_PathID": 482542347624068624
+        },
+        {
+          "m_FileID": 16,
+          "m_PathID": -8039167247066206009
+        },
+        {
+          "m_FileID": 10,
+          "m_PathID": 8322217188140435490
+        },
+        {
+          "m_FileID": 11,
+          "m_PathID": 4722174007881150619
+        },
+        {
+          "m_FileID": 20,
+          "m_PathID": 4535656080290807812
+        },
+        {
+          "m_FileID": 22,
+          "m_PathID": -8745907502377237541
+        },
+        {
+          "m_FileID": 24,
+          "m_PathID": 1791090704867175829
+        }
+      ]
+    },
+    {
+      "mFormations": [
+        {
+          "m_FileID": 15,
+          "m_PathID": 482542347624068624
+        },
+        {
+          "m_FileID": 3,
+          "m_PathID": 556611274062292538
+        },
+        {
+          "m_FileID": 10,
+          "m_PathID": 8322217188140435490
+        },
+        {
+          "m_FileID": 25,
+          "m_PathID": -5583953724646107141
+        },
+        {
+          "m_FileID": 20,
+          "m_PathID": 4535656080290807812
+        },
+        {
+          "m_FileID": 9,
+          "m_PathID": 8244528023257510350
+        },
+        {
+          "m_FileID": 5,
+          "m_PathID": -517797935335437735
+        }
+      ]
+    },
+    {
+      "mFormations": [
+        {
+          "m_FileID": 15,
+          "m_PathID": 482542347624068624
+        },
+        {
+          "m_FileID": 13,
+          "m_PathID": 8412426115939653989
+        },
+        {
+          "m_FileID": 10,
+          "m_PathID": 8322217188140435490
+        },
+        {
+          "m_FileID": 21,
+          "m_PathID": 8574590984802975975
+        },
+        {
+          "m_FileID": 20,
+          "m_PathID": 4535656080290807812
+        },
+        {
+          "m_FileID": 17,
+          "m_PathID": -168824939600589215
+        },
+        {
+          "m_FileID": 18,
+          "m_PathID": 1944142409116697634
+        }
+      ]
+    }
+  ],
+  "mSpeedParam": {
+    "cSpeedRatioMin": 0.2,
+    "cSpeedRatioMax": 3.0,
+    "cMargin": 50.0,
+    "cFreeDistanceFront": 60.0,
+    "cFreeDistanceRear": 40.0,
+    "cFreeMargin": 30.0
+  },
+  "mCameraParam": {
+    "LerpTimeOnChangeTarget": 0.25,
+    "Distance": {
+      "L": 8.0,
+      "M": 7.5,
+      "S": 7.0,
+      "Giant": 8.0,
+      "Glide": 8.0
+    },
+    "PrimCol": {
+      "IsEnablePrimCol": 1,
+      "RadiusS": 1.5,
+      "RadiusL": 2.5
+    },
+    "RotationGyro": {
+      "PitchOffset": 0.0,
+      "GyroAttAveSec": 1.0,
+      "GyroAttLerpRate": 0.2,
+      "GyroPitchMax": 50.0,
+      "GyroPitchMin": -90.0
+    },
+    "StartCamera": {
+      "DegX": -5.0,
+      "DegY": -15.0,
+      "DegZ": 0.0,
+      "Distance": 5.0,
+      "AtOffset": {
+        "x": 0.0,
+        "y": 2.0,
+        "z": 1.0
+      },
+      "Fovy": 100.0
+    }
+  },
+  "mMotionParam": {
+    "mCommon": {
+      "WaitTime": 2.0
+    },
+    "mWinningRun": {
+      "Time": 5.0,
+      "DelayMax": 60
+    },
+    "mGutsPose": {
+      "DelayMax": 15
+    },
+    "mSpin": {
+      "DelayMax": 15,
+      "AccelThreshold": 0.8
+    }
+  },
+  "mInputParam": {
+    "TouchTimeShort": 0.8,
+    "DoubleTapInterval": 1.0,
+    "KartTouchRange": 1.5,
+    "TouchNotMoveLen": 0.1,
+    "DoubleTapDistance": 100.0
+  },
+  "MaxRouteRatio": 0.2
+}

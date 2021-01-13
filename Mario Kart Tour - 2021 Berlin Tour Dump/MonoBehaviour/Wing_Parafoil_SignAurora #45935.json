@@ -1,0 +1,50 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": 2434717279687273224
+  },
+  "m_Name": "Wing_Parafoil_SignAurora",
+  "mWingModel": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "mIconInfo": [
+    {
+      "mPath": "Assets/Main/Content/Kart/Wing/Wing_Parafoil/Icons/Wing_Parafoil_SignAurora.png",
+      "mGuid": "578642c533d4b1b479c9f170ff8f581c"
+    },
+    {
+      "mPath": "Assets/Main/Content/Kart/Wing/Wing_Parafoil/Icons/Wing_Parafoil_SignAurora_Large.png",
+      "mGuid": "fcf96d4bf8ce6cf47804092c82836e67"
+    },
+    {
+      "mPath": "Assets/Main/Content/Kart/Wing/Wing_Parafoil/Icons/Wing_Parafoil_SignAurora_Small.png",
+      "mGuid": "769037e1b9854934a9d524028b04e6e2"
+    }
+  ],
+  "mWingType": 0,
+  "mIsFixedIcon": 0,
+  "mBaseParameter": {
+    "m_FileID": 3,
+    "m_PathID": 3836946152633149861
+  },
+  "mMaterial": {
+    "m_FileID": 0,
+    "m_PathID": 6824345735266471716
+  },
+  "mEffectContainer": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "mIsDisableAngleAnimation": 0,
+  "mDescription": "",
+  "mColorValiationRoot": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  }
+}

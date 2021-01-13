@@ -1,0 +1,26 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": 980329048157257672
+  },
+  "m_Name": "Fbx_Gn64_ChocoMountain_MapInfo",
+  "rect": {
+    "x": -218.91832,
+    "y": -240.608047,
+    "width": 445.348755,
+    "height": 445.348755
+  },
+  "sprite": {
+    "m_FileID": 0,
+    "m_PathID": 5706342534699842335
+  },
+  "offset": {
+    "x": 0.0,
+    "y": 0.0
+  }
+}

@@ -1,0 +1,232 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": -1253097590706675564
+  },
+  "m_Name": "CourseMapParam",
+  "mMapObjArray": [
+    {
+      "m_FileID": 41,
+      "m_PathID": 5765955735711986726
+    },
+    {
+      "m_FileID": 13,
+      "m_PathID": -1099803160674548907
+    },
+    {
+      "m_FileID": 11,
+      "m_PathID": 5277221653906901017
+    },
+    {
+      "m_FileID": 30,
+      "m_PathID": -8261408463766879608
+    },
+    {
+      "m_FileID": 19,
+      "m_PathID": -8358892173973938730
+    },
+    {
+      "m_FileID": 9,
+      "m_PathID": 757040245166943341
+    },
+    {
+      "m_FileID": 22,
+      "m_PathID": -7992127826733754745
+    },
+    {
+      "m_FileID": 5,
+      "m_PathID": 7902925131818173625
+    },
+    {
+      "m_FileID": 35,
+      "m_PathID": 1743987333103629139
+    },
+    {
+      "m_FileID": 25,
+      "m_PathID": 2780778863115553754
+    },
+    {
+      "m_FileID": 44,
+      "m_PathID": -1155653427451956888
+    },
+    {
+      "m_FileID": 17,
+      "m_PathID": 3920391295213928303
+    },
+    {
+      "m_FileID": 37,
+      "m_PathID": 1783806711236351291
+    },
+    {
+      "m_FileID": 29,
+      "m_PathID": -7683271295301486976
+    },
+    {
+      "m_FileID": 16,
+      "m_PathID": 5290030480101958523
+    },
+    {
+      "m_FileID": 39,
+      "m_PathID": 2047467482819929645
+    },
+    {
+      "m_FileID": 45,
+      "m_PathID": 6354370913827613679
+    },
+    {
+      "m_FileID": 31,
+      "m_PathID": -4753685605117850438
+    },
+    {
+      "m_FileID": 12,
+      "m_PathID": -6718672270808688444
+    },
+    {
+      "m_FileID": 36,
+      "m_PathID": 1406936795889780210
+    },
+    {
+      "m_FileID": 46,
+      "m_PathID": 3089172396742571038
+    },
+    {
+      "m_FileID": 24,
+      "m_PathID": -1938338601730158704
+    },
+    {
+      "m_FileID": 18,
+      "m_PathID": -6199418276695418799
+    },
+    {
+      "m_FileID": 33,
+      "m_PathID": 3179527181048846069
+    },
+    {
+      "m_FileID": 15,
+      "m_PathID": 6130749337373100634
+    },
+    {
+      "m_FileID": 6,
+      "m_PathID": 1567038846916501368
+    },
+    {
+      "m_FileID": 34,
+      "m_PathID": -1459047120153460221
+    },
+    {
+      "m_FileID": 27,
+      "m_PathID": 5563155060598646939
+    },
+    {
+      "m_FileID": 21,
+      "m_PathID": 3281602694197615730
+    },
+    {
+      "m_FileID": 14,
+      "m_PathID": 1638056880031520555
+    },
+    {
+      "m_FileID": 7,
+      "m_PathID": 3466686384604122513
+    },
+    {
+      "m_FileID": 26,
+      "m_PathID": -5363283418415604746
+    },
+    {
+      "m_FileID": 32,
+      "m_PathID": 5661814164476727614
+    },
+    {
+      "m_FileID": 38,
+      "m_PathID": 5881784520332391441
+    },
+    {
+      "m_FileID": 10,
+      "m_PathID": -3689391981113644437
+    },
+    {
+      "m_FileID": 23,
+      "m_PathID": 7275905680227687556
+    },
+    {
+      "m_FileID": 28,
+      "m_PathID": -1351954998463601693
+    }
+  ],
+  "mEffectAreaEnv": {
+    "m_FileID": 8,
+    "m_PathID": -3135260983505662543
+  },
+  "mEffectAreaCamera": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "mStartGridMaterial": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "mStartGridMaterials": [
+    {
+      "m_FileID": 42,
+      "m_PathID": 3677075346786556131
+    },
+    {
+      "m_FileID": 20,
+      "m_PathID": -5805867865089522327
+    }
+  ],
+  "mIsOverrideStartGridParam": 0,
+  "mStartGridParam": {
+    "Row": 2,
+    "Column": 4,
+    "Width": 4.0,
+    "Height": 4.0,
+    "Slide1": 1.0,
+    "Slide2": 2.0,
+    "SlideZ": 0.0
+  },
+  "mCombinedMapObject": [
+    {
+      "m_FileID": 0,
+      "m_PathID": -445090554161524837
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 6453214847806025870
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -7892379969551981380
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 156792879475226797
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 4788337680036750665
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 971451735872760371
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -7525761191405552190
+    }
+  ],
+  "mCourseParam": {
+    "DriveSpeedRatioMin": 1.0,
+    "DriveSpeedRatioMax": 1.05,
+    "PosMoveTotalMin": 0.0,
+    "PosMoveTotalMax": 0.0,
+    "LapTimeAveMin": 0.0,
+    "LapTimeAveMax": 0.0
+  }
+}

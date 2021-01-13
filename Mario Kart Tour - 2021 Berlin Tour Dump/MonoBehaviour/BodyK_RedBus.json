@@ -1,0 +1,100 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": -8652336194674809844
+  },
+  "m_Name": "BodyK_RedBus",
+  "mBodyModel": {
+    "m_FileID": 0,
+    "m_PathID": 2767447813939499896
+  },
+  "mDriverOffset": {
+    "x": 0.0,
+    "y": 0.0,
+    "z": 0.0
+  },
+  "mBodyCenterPosition": {
+    "x": 0.0,
+    "y": 0.0,
+    "z": 0.0
+  },
+  "mScrewPosition": {
+    "x": 0.0,
+    "y": -0.04,
+    "z": -0.82
+  },
+  "mShaftPositionList": [],
+  "mGearBoxData": {
+    "m_FileID": 3,
+    "m_PathID": 3532631435007547029
+  },
+  "mGearBoxScale": {
+    "x": 1.5,
+    "y": 1.8,
+    "z": 1.8
+  },
+  "mGearBoxPosition": {
+    "x": 0.0,
+    "y": -0.14,
+    "z": 1.35
+  },
+  "mGearBoxSlideOffset": {
+    "x": 0.0,
+    "y": 0.0,
+    "z": -0.22
+  },
+  "mBodyWingParams": {
+    "m_FileID": 0,
+    "m_PathID": -7303153307488227227
+  },
+  "mBodyTireParams": {
+    "m_FileID": 0,
+    "m_PathID": 1905875136670606202
+  },
+  "mIconInfo": [
+    {
+      "mPath": "",
+      "mGuid": "887bdd6cff494f74c8d132ed28a0c810"
+    }
+  ],
+  "mJointMode": 1,
+  "mScrewScale": {
+    "x": 1.0,
+    "y": 1.0,
+    "z": 1.0
+  },
+  "mScrewAxisOffset": {
+    "x": 0.0,
+    "y": 0.0,
+    "z": 0.0
+  },
+  "mBackrestHeight": 0.0,
+  "mIsFixedIcon": 0,
+  "mBaseParameter": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "mMaterial": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "mGearBoxMaterial": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "mEffectContainer": {
+    "m_FileID": 0,
+    "m_PathID": -2012694489156123870
+  },
+  "mEffectContainerForTire": [],
+  "mDescription": "ロンドンバス",
+  "mColorValiationRoot": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  }
+}

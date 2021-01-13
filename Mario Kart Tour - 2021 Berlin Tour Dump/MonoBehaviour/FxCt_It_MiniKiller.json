@@ -1,0 +1,244 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": 209972380458786307
+  },
+  "m_Name": "FxCt_It_MiniKiller",
+  "mEffectParameterList": [
+    {
+      "Name": "MiniKillerVernier",
+      "Prefab": {
+        "m_FileID": 0,
+        "m_PathID": 3699335869266898706
+      },
+      "AnimatorController": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      },
+      "Max": 4,
+      "MaxInPowerSaving": -1,
+      "PlayAtTransform": "",
+      "FollowPlayAtTransform": 1,
+      "UseAlpha": 1,
+      "PositionOffset": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": -1.0
+      },
+      "RotateOffset": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "ScaleOffset": {
+        "x": 1.0,
+        "y": 1.0,
+        "z": 1.0
+      },
+      "LookAtTransform": "",
+      "EmitState": "Move",
+      "EmitDelay": 0.0,
+      "IsStopOnStateLeave": 1,
+      "StopDelay": 0.0,
+      "IsFollowShaftScaleForTire": 0,
+      "IsCheckCondition": 0,
+      "IsCheckGroundAttribute": 0,
+      "GroundAttribute": 0,
+      "GroundMaterial": 0,
+      "IsCheckCourseId": 0,
+      "CourseIdHash": 0,
+      "IsCheckInWater": 0,
+      "InWater": 0,
+      "IsExpand": 1
+    },
+    {
+      "Name": "MiniKillerVernierFollow",
+      "Prefab": {
+        "m_FileID": 0,
+        "m_PathID": 3699335869266898706
+      },
+      "AnimatorController": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      },
+      "Max": 4,
+      "MaxInPowerSaving": -1,
+      "PlayAtTransform": "",
+      "FollowPlayAtTransform": 1,
+      "UseAlpha": 1,
+      "PositionOffset": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": -0.65
+      },
+      "RotateOffset": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "ScaleOffset": {
+        "x": 0.7,
+        "y": 0.7,
+        "z": 0.7
+      },
+      "LookAtTransform": "",
+      "EmitState": "Follower",
+      "EmitDelay": 0.0,
+      "IsStopOnStateLeave": 1,
+      "StopDelay": 0.0,
+      "IsFollowShaftScaleForTire": 0,
+      "IsCheckCondition": 0,
+      "IsCheckGroundAttribute": 0,
+      "GroundAttribute": 0,
+      "GroundMaterial": 0,
+      "IsCheckCourseId": 0,
+      "CourseIdHash": 0,
+      "IsCheckInWater": 0,
+      "InWater": 0,
+      "IsExpand": 1
+    },
+    {
+      "Name": "MiniKillerFiring",
+      "Prefab": {
+        "m_FileID": 0,
+        "m_PathID": 538091272528888540
+      },
+      "AnimatorController": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      },
+      "Max": 4,
+      "MaxInPowerSaving": -1,
+      "PlayAtTransform": "",
+      "FollowPlayAtTransform": 1,
+      "UseAlpha": 1,
+      "PositionOffset": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": -1.0
+      },
+      "RotateOffset": {
+        "x": 90.0,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "ScaleOffset": {
+        "x": 1.0,
+        "y": 1.0,
+        "z": 1.0
+      },
+      "LookAtTransform": "",
+      "EmitState": "Move",
+      "EmitDelay": 0.0,
+      "IsStopOnStateLeave": 0,
+      "StopDelay": 0.0,
+      "IsFollowShaftScaleForTire": 0,
+      "IsCheckCondition": 0,
+      "IsCheckGroundAttribute": 0,
+      "GroundAttribute": 0,
+      "GroundMaterial": 0,
+      "IsCheckCourseId": 0,
+      "CourseIdHash": 0,
+      "IsCheckInWater": 0,
+      "InWater": 0,
+      "IsExpand": 1
+    },
+    {
+      "Name": "MiniKillerSmoke",
+      "Prefab": {
+        "m_FileID": 0,
+        "m_PathID": 7412898866153207631
+      },
+      "AnimatorController": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      },
+      "Max": 6,
+      "MaxInPowerSaving": -1,
+      "PlayAtTransform": "",
+      "FollowPlayAtTransform": 1,
+      "UseAlpha": 1,
+      "PositionOffset": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": -1.0
+      },
+      "RotateOffset": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "ScaleOffset": {
+        "x": 1.0,
+        "y": 1.0,
+        "z": 1.0
+      },
+      "LookAtTransform": "",
+      "EmitState": "Move",
+      "EmitDelay": 0.0,
+      "IsStopOnStateLeave": 1,
+      "StopDelay": 0.0,
+      "IsFollowShaftScaleForTire": 0,
+      "IsCheckCondition": 0,
+      "IsCheckGroundAttribute": 0,
+      "GroundAttribute": 0,
+      "GroundMaterial": 0,
+      "IsCheckCourseId": 0,
+      "CourseIdHash": 0,
+      "IsCheckInWater": 0,
+      "InWater": 0,
+      "IsExpand": 1
+    },
+    {
+      "Name": "Bomb",
+      "Prefab": {
+        "m_FileID": 9,
+        "m_PathID": -6513482079672778907
+      },
+      "AnimatorController": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      },
+      "Max": 6,
+      "MaxInPowerSaving": -1,
+      "PlayAtTransform": "",
+      "FollowPlayAtTransform": 0,
+      "UseAlpha": 1,
+      "PositionOffset": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "RotateOffset": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "ScaleOffset": {
+        "x": 1.0,
+        "y": 1.0,
+        "z": 1.0
+      },
+      "LookAtTransform": "",
+      "EmitState": "",
+      "EmitDelay": 0.0,
+      "IsStopOnStateLeave": 0,
+      "StopDelay": 0.0,
+      "IsFollowShaftScaleForTire": 0,
+      "IsCheckCondition": 0,
+      "IsCheckGroundAttribute": 0,
+      "GroundAttribute": 0,
+      "GroundMaterial": 0,
+      "IsCheckCourseId": 0,
+      "CourseIdHash": 0,
+      "IsCheckInWater": 0,
+      "InWater": 0,
+      "IsExpand": 1
+    }
+  ]
+}

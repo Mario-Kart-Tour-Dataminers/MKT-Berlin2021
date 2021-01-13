@@ -1,0 +1,135 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": -2094441087577622512
+  },
+  "m_Name": "Daisy",
+  "mModel": {
+    "m_FileID": 1,
+    "m_PathID": -8860478137161693869
+  },
+  "mFaceTextures": [
+    {
+      "m_FileID": 2,
+      "m_PathID": 7021409596231297164
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 7914822432593959040
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -6366258885415027139
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 6080128885349835402
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -4262304257089307008
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 6918742102624228734
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -4087319087334797472
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -2285549879232745586
+    }
+  ],
+  "mIsFaceTextureEmission": 0,
+  "mEmblem": {
+    "m_FileID": 0,
+    "m_PathID": -6380026218712306659
+  },
+  "mAnimatorOverrideController": {
+    "m_FileID": 3,
+    "m_PathID": -2627436445647301851
+  },
+  "mKartScaleSize": 1.0,
+  "mWingJointType": 0,
+  "mFaceChangeEvent": {
+    "m_FileID": 0,
+    "m_PathID": 7598797403183786319
+  },
+  "mIconInfo": [
+    {
+      "mPath": "Assets/Main/Content/Driver/Daisy/Icons/Daisy.png",
+      "mGuid": "03169b738f7557c4ea12c441593381ad"
+    },
+    {
+      "mPath": "Assets/Main/Content/Driver/Daisy/Icons/DaisyMap.png",
+      "mGuid": "1f52bb42b920170459ded08459b7f217"
+    },
+    {
+      "mPath": "Assets/Main/Content/Driver/Daisy/Icons/DaisyFaceEntry.png",
+      "mGuid": "e1603a80734274443a6a920f50e033c3"
+    },
+    {
+      "mPath": "Assets/Main/Content/Driver/Daisy/Icons/DaisyWholeBody.png",
+      "mGuid": "461437adc271197458eb9fa35a1e1fb4"
+    },
+    {
+      "mPath": "Assets/Main/Content/Driver/Daisy/Icons/DaisyUpperBody.png",
+      "mGuid": "6cbdc5af942bab6409476ecefb88c1f3"
+    },
+    {
+      "mPath": "",
+      "mGuid": ""
+    },
+    {
+      "mPath": "Assets/Main/Content/Driver/Daisy/Icons/Daisy_Small.png",
+      "mGuid": "d3e6202a5ba568e4daf208b6bfabb23d"
+    },
+    {
+      "mPath": "Assets/Main/Content/Driver/Daisy/Icons/DaisyFaceEntry_Small.png",
+      "mGuid": "84c6bc175ced00347976d510624ddf37"
+    },
+    {
+      "mPath": "Assets/Main/Content/Driver/Daisy/Icons/DaisyWholeBody_Small.png",
+      "mGuid": "70b5a925c4b5eda4293969aeb3c929c6"
+    },
+    {
+      "mPath": "Assets/Main/Content/Driver/Daisy/Icons/DaisyUpperBody_Small.png",
+      "mGuid": "c33899e3489f0d04a844a9e8dd53a69f"
+    }
+  ],
+  "mColorGroup": 0,
+  "mCharacterTextureList": [],
+  "mBaseParameter": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "mBodyMaterial": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "mEyeMaterial": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "mDynamicUnitMngInitData": {
+    "m_FileID": 0,
+    "m_PathID": 2415275493539963297
+  },
+  "mMetamorData": [],
+  "mDotDriverData": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "mDescription": "デイジー",
+  "mEffectContainer": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  }
+}

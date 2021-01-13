@@ -1,0 +1,131 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": 2590768194287000671
+  },
+  "m_Name": "Morton_DynamicUnitInit",
+  "m_arInitProp": [
+    {
+      "strParentName": "",
+      "rigProp": {
+        "pos": {
+          "x": -0.48,
+          "y": 0.12,
+          "z": 0.0
+        },
+        "rot": {
+          "x": 0.0,
+          "y": -90.0,
+          "z": 0.0
+        },
+        "posHandleDef": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.5
+        },
+        "fRigRangeLimit": 0.5,
+        "fGravRate": 0.0,
+        "fAttract": 200.0,
+        "fFriction": 0.1,
+        "fUnderLimit": -1.0
+      },
+      "objProp": {
+        "fZReflectRate": 0.0,
+        "arFlapCycle": [
+          0.3,
+          0.2,
+          0.15
+        ]
+      },
+      "arNodeProp": [
+        {
+          "name": "Hair1",
+          "arRot": [
+            {
+              "x": 8.0,
+              "y": 29.0,
+              "z": -47.0
+            },
+            {
+              "x": 13.0,
+              "y": -29.0,
+              "z": -49.0
+            },
+            {
+              "x": 17.0,
+              "y": -60.0,
+              "z": -49.0
+            },
+            {
+              "x": 26.0,
+              "y": 54.0,
+              "z": 14.0
+            },
+            {
+              "x": 31.0,
+              "y": -1.0,
+              "z": 17.0
+            },
+            {
+              "x": 36.0,
+              "y": -44.0,
+              "z": 15.0
+            },
+            {
+              "x": 22.0,
+              "y": 76.0,
+              "z": 51.0
+            },
+            {
+              "x": 20.0,
+              "y": 24.0,
+              "z": 72.0
+            },
+            {
+              "x": 30.0,
+              "y": -23.0,
+              "z": 56.0
+            }
+          ],
+          "arRotEditHint": [
+            {
+              "nRowCopy": 0,
+              "bColumnCopy": 0
+            },
+            {
+              "nRowCopy": 0,
+              "bColumnCopy": 0
+            },
+            {
+              "nRowCopy": 0,
+              "bColumnCopy": 0
+            }
+          ],
+          "vecFlap": {
+            "x": 5.0,
+            "y": 5.0,
+            "z": 5.0
+          },
+          "fFlapTiming": 0.0
+        }
+      ]
+    }
+  ],
+  "m_arInvalidMotion": [
+    0,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11,
+    12,
+    14
+  ]
+}

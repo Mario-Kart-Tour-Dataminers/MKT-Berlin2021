@@ -1,0 +1,50 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": 2434717279687273224
+  },
+  "m_Name": "Wing_DotMario_Red",
+  "mWingModel": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "mIconInfo": [
+    {
+      "mPath": "Assets/Main/Content/Kart/Wing/Wing_DotMario/Icons/Wing_DotMario_Red.png",
+      "mGuid": "0e7f6302a6289b84a9bf211b12088dc7"
+    },
+    {
+      "mPath": "Assets/Main/Content/Kart/Wing/Wing_DotMario/Icons/Wing_DotMario_Red_Large.png",
+      "mGuid": "9d4bbd3f6540ef34aa11647346413515"
+    },
+    {
+      "mPath": "Assets/Main/Content/Kart/Wing/Wing_DotMario/Icons/Wing_DotMario_Red_Small.png",
+      "mGuid": "a1a221c6d60d3cf4a89a997e151b8416"
+    }
+  ],
+  "mWingType": 0,
+  "mIsFixedIcon": 0,
+  "mBaseParameter": {
+    "m_FileID": 1,
+    "m_PathID": 9082674508110348475
+  },
+  "mMaterial": {
+    "m_FileID": 0,
+    "m_PathID": 8654138981579538020
+  },
+  "mEffectContainer": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "mIsDisableAngleAnimation": 0,
+  "mDescription": "",
+  "mColorValiationRoot": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  }
+}

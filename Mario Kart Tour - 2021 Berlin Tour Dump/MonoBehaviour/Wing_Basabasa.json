@@ -1,0 +1,50 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": 2434717279687273224
+  },
+  "m_Name": "Wing_Basabasa",
+  "mWingModel": {
+    "m_FileID": 0,
+    "m_PathID": -6605319892390508160
+  },
+  "mIconInfo": [
+    {
+      "mPath": "Assets/Main/Content/Kart/Wing/Wing_Basabasa/Icons/Wing_Basabasa.png",
+      "mGuid": "f0d46ca2da8c4cf4ba00ee598da90ba5"
+    },
+    {
+      "mPath": "Assets/Main/Content/Kart/Wing/Wing_Basabasa/Icons/Wing_Basabasa_Large.png",
+      "mGuid": "115cf58d65ed48a4e949574c52596a8b"
+    },
+    {
+      "mPath": "Assets/Main/Content/Kart/Wing/Wing_Basabasa/Icons/Wing_Basabasa_Small.png",
+      "mGuid": "e198fc8a3130174469adf551cf5f19a5"
+    }
+  ],
+  "mWingType": 1,
+  "mIsFixedIcon": 0,
+  "mBaseParameter": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "mMaterial": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "mEffectContainer": {
+    "m_FileID": 0,
+    "m_PathID": 362784790938073948
+  },
+  "mIsDisableAngleAnimation": 0,
+  "mDescription": "バサバサカイト",
+  "mColorValiationRoot": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  }
+}

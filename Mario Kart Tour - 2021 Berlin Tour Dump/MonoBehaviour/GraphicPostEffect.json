@@ -1,0 +1,84 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": 8022725802726239605
+  },
+  "m_Name": "GraphicPostEffect",
+  "mPostEffectResource": {
+    "m_FileID": 0,
+    "m_PathID": -14191494099089390
+  },
+  "mDepthOfField": {
+    "m_FileID": 0,
+    "m_PathID": 5910329643033259750
+  },
+  "mDepthOfField2": {
+    "m_FileID": 0,
+    "m_PathID": 8400387899435243481
+  },
+  "mSepia": {
+    "m_FileID": 0,
+    "m_PathID": 2304260147413485728
+  },
+  "mGrayScale": {
+    "m_FileID": 0,
+    "m_PathID": -6507508482810306158
+  },
+  "mReal": {
+    "m_FileID": 0,
+    "m_PathID": -4733096046741826434
+  },
+  "mFisheye": {
+    "m_FileID": 0,
+    "m_PathID": -1747007258441780276
+  },
+  "mFilterType000": {
+    "m_FileID": 0,
+    "m_PathID": -3420757139037850409
+  },
+  "mFilterType001": {
+    "m_FileID": 0,
+    "m_PathID": 783887458538524755
+  },
+  "mFilterType002": {
+    "m_FileID": 0,
+    "m_PathID": 8785948253863422365
+  },
+  "mOilPaint": {
+    "m_FileID": 0,
+    "m_PathID": -7551631939786983308
+  },
+  "mRadialBlur": {
+    "m_FileID": 0,
+    "m_PathID": 4167751381059821389
+  },
+  "mHyperColor": {
+    "m_FileID": 0,
+    "m_PathID": 5940486183204463717
+  },
+  "mOutline": {
+    "m_FileID": 0,
+    "m_PathID": 3420217390416912198
+  },
+  "mToon": {
+    "m_FileID": 0,
+    "m_PathID": -3280163206219954677
+  },
+  "mSilhouette": {
+    "m_FileID": 0,
+    "m_PathID": -28456096630939899
+  },
+  "mComic": {
+    "m_FileID": 0,
+    "m_PathID": 4868542761619232746
+  },
+  "mFancy": {
+    "m_FileID": 0,
+    "m_PathID": 4318957345864997122
+  }
+}

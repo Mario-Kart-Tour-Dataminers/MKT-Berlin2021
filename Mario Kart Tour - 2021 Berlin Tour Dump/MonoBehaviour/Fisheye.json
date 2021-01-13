@@ -1,0 +1,26 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": 4454195247659244470
+  },
+  "m_Name": "Fisheye",
+  "settings": [
+    {
+      "m_FileID": 0,
+      "m_PathID": 1233066669426519432
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 470374147365260306
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 2652009687301212626
+    }
+  ]
+}

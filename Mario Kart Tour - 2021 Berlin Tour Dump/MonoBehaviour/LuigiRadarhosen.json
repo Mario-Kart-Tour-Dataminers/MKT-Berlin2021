@@ -1,0 +1,135 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": -2094441087577622512
+  },
+  "m_Name": "LuigiRadarhosen",
+  "mModel": {
+    "m_FileID": 3,
+    "m_PathID": 5085707945128608131
+  },
+  "mFaceTextures": [
+    {
+      "m_FileID": 2,
+      "m_PathID": -1831815857332703105
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -4662096220319432145
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 1577208337552225795
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -8391360203732109020
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -6897375138762650488
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 1506454010129545998
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -3572710540659751213
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 2555435235790970872
+    }
+  ],
+  "mIsFaceTextureEmission": 0,
+  "mEmblem": {
+    "m_FileID": 0,
+    "m_PathID": -2765130891082035107
+  },
+  "mAnimatorOverrideController": {
+    "m_FileID": 1,
+    "m_PathID": 361899333090212149
+  },
+  "mKartScaleSize": 1.0,
+  "mWingJointType": 0,
+  "mFaceChangeEvent": {
+    "m_FileID": 0,
+    "m_PathID": 3456314089614989972
+  },
+  "mIconInfo": [
+    {
+      "mPath": "Assets/Main/Content/Driver/LuigiRadarhosen/Icons/LuigiRadarhosen.png",
+      "mGuid": "12efd91a842fdfa4b9c3e06803362257"
+    },
+    {
+      "mPath": "Assets/Main/Content/Driver/LuigiRadarhosen/Icons/LuigiRadarhosenMap.png",
+      "mGuid": "0391dab6735e8054a81facd9be1154e5"
+    },
+    {
+      "mPath": "Assets/Main/Content/Driver/LuigiRadarhosen/Icons/LuigiRadarhosenFaceEntry.png",
+      "mGuid": "e598d7edbb75860479c9a63c115cd0a1"
+    },
+    {
+      "mPath": "Assets/Main/Content/Driver/LuigiRadarhosen/Icons/LuigiRadarhosenWholeBody.png",
+      "mGuid": "3eb75d5f2d07ee4428de7c6f73705c9c"
+    },
+    {
+      "mPath": "Assets/Main/Content/Driver/LuigiRadarhosen/Icons/LuigiRadarhosenUpperBody.png",
+      "mGuid": "f41bc8b93afce5c43899c77b6b969f85"
+    },
+    {
+      "mPath": "",
+      "mGuid": ""
+    },
+    {
+      "mPath": "Assets/Main/Content/Driver/LuigiRadarhosen/Icons/LuigiRadarhosen_Small.png",
+      "mGuid": "aa6cdae2dc367e845831ab1945a2291e"
+    },
+    {
+      "mPath": "Assets/Main/Content/Driver/LuigiRadarhosen/Icons/LuigiRadarhosenFaceEntry_Small.png",
+      "mGuid": "a74726c115054ed4d8d69f80fcb5f6d4"
+    },
+    {
+      "mPath": "Assets/Main/Content/Driver/LuigiRadarhosen/Icons/LuigiRadarhosenWholeBody_Small.png",
+      "mGuid": "d0168b408270ad94db22a4ee4dc4fd75"
+    },
+    {
+      "mPath": "Assets/Main/Content/Driver/LuigiRadarhosen/Icons/LuigiRadarhosenUpperBody_Small.png",
+      "mGuid": "5a6281fd21bc65644945c8aa6e966271"
+    }
+  ],
+  "mColorGroup": 0,
+  "mCharacterTextureList": [],
+  "mBaseParameter": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "mBodyMaterial": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "mEyeMaterial": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "mDynamicUnitMngInitData": {
+    "m_FileID": 0,
+    "m_PathID": 7040742862370102502
+  },
+  "mMetamorData": [],
+  "mDotDriverData": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "mDescription": "",
+  "mEffectContainer": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  }
+}

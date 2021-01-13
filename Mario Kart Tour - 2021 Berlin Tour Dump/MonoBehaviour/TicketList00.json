@@ -1,0 +1,243 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": -3977807471082417869
+  },
+  "m_Name": "TicketList00",
+  "savePath": 1,
+  "isEnableCheckNoEmptyValue": 0,
+  "assetDataList": [
+    {
+      "obj": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      },
+      "path": "Assets/Main/Content/UI/Texture/Ticket/TicketItemSlot.png",
+      "guid": "edad25747323dd84b95251f4968ed8bd",
+      "substitutedArrayIndex": 0
+    },
+    {
+      "obj": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      },
+      "path": "Assets/Main/Content/UI/Texture/Ticket/TicketScoreUp_Driver.png",
+      "guid": "d00cdfce8e97e164fb6cf6f13189ed3e",
+      "substitutedArrayIndex": 1
+    },
+    {
+      "obj": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      },
+      "path": "Assets/Main/Content/UI/Texture/Ticket/TicketScoreUp_Machine.png",
+      "guid": "d569257781c59e04798cefb008ceae53",
+      "substitutedArrayIndex": 2
+    },
+    {
+      "obj": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      },
+      "path": "Assets/Main/Content/UI/Texture/Ticket/TicketScoreUp_Glide.png",
+      "guid": "b244862ffc4d9bc43b91a71d5e0603c2",
+      "substitutedArrayIndex": 3
+    },
+    {
+      "obj": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      },
+      "path": "Assets/Main/Content/UI/Texture/Ticket/TicketSkillUp_Driver_Normal.png",
+      "guid": "b12a0bac056bf8141b846c6801c8ae77",
+      "substitutedArrayIndex": 4
+    },
+    {
+      "obj": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      },
+      "path": "Assets/Main/Content/UI/Texture/Ticket/TicketSkillUp_Machine_Normal.png",
+      "guid": "a088da58eb31cb34395a15cf42f85173",
+      "substitutedArrayIndex": 5
+    },
+    {
+      "obj": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      },
+      "path": "Assets/Main/Content/UI/Texture/Ticket/TicketSkillUp_Glide_Normal.png",
+      "guid": "d949c7a7bdeffa84ba0ac277d4fad859",
+      "substitutedArrayIndex": 6
+    },
+    {
+      "obj": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      },
+      "path": "Assets/Main/Content/UI/Texture/Ticket/TicketSkillUp_Driver_Rare.png",
+      "guid": "f7fae9ba02828064096565b16fcba848",
+      "substitutedArrayIndex": 7
+    },
+    {
+      "obj": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      },
+      "path": "Assets/Main/Content/UI/Texture/Ticket/TicketSkillUp_Machine_Rare.png",
+      "guid": "fc142604e2595134eadf6dee6c74809a",
+      "substitutedArrayIndex": 8
+    },
+    {
+      "obj": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      },
+      "path": "Assets/Main/Content/UI/Texture/Ticket/TicketSkillUp_Glide_Rare.png",
+      "guid": "174fbcb0d40cdf549a4087a3a7cbb0e4",
+      "substitutedArrayIndex": 9
+    },
+    {
+      "obj": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      },
+      "path": "Assets/Main/Content/UI/Texture/Ticket/TicketSkillUp_Driver_Ultra.png",
+      "guid": "bb46040a69ea0d5459d2ef93945c18ad",
+      "substitutedArrayIndex": 10
+    },
+    {
+      "obj": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      },
+      "path": "Assets/Main/Content/UI/Texture/Ticket/TicketSkillUp_Machine_Ultra.png",
+      "guid": "107798f8e8f46c947b0057e37c8cb89c",
+      "substitutedArrayIndex": 11
+    },
+    {
+      "obj": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      },
+      "path": "Assets/Main/Content/UI/Texture/Ticket/TicketSkillUp_Glide_Ultra.png",
+      "guid": "09849e5c8fdba294eb05b53080fef0fc",
+      "substitutedArrayIndex": 12
+    },
+    {
+      "obj": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      },
+      "path": "Assets/Main/Content/UI/Texture/Ticket/TicketCoinRace.png",
+      "guid": "008b0102ec0332342ab48f453e2780bd",
+      "substitutedArrayIndex": 13
+    },
+    {
+      "obj": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      },
+      "path": "Assets/Main/Content/UI/Texture/Ticket/TicketStar.png",
+      "guid": "67de550a329134846bb3e6177712694d",
+      "substitutedArrayIndex": 14
+    },
+    {
+      "obj": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      },
+      "path": "Assets/Main/Content/UI/Texture/Ticket/TicketCupTimeSaving.png",
+      "guid": "9a14e9f2fa8d9cf4e8ad1abaa9d6b260",
+      "substitutedArrayIndex": 15
+    },
+    {
+      "obj": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      },
+      "path": "Assets/Main/Content/UI/Texture/Ticket/TicketScoreUpUnlock_Driver_Normal.png",
+      "guid": "556ad80157af41e49a42bcfbd1401e0e",
+      "substitutedArrayIndex": 16
+    },
+    {
+      "obj": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      },
+      "path": "Assets/Main/Content/UI/Texture/Ticket/TicketScoreUpUnlock_Machine_Normal.png",
+      "guid": "5d6842ff5caea9a49b56752671e4638b",
+      "substitutedArrayIndex": 17
+    },
+    {
+      "obj": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      },
+      "path": "Assets/Main/Content/UI/Texture/Ticket/TicketScoreUpUnlock_Glide_Normal.png",
+      "guid": "17728562f97458247bf1089f23d278bc",
+      "substitutedArrayIndex": 18
+    },
+    {
+      "obj": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      },
+      "path": "Assets/Main/Content/UI/Texture/Ticket/TicketScoreUpUnlock_Driver_Rare.png",
+      "guid": "107a7bd49c15606409184a72a7e3e674",
+      "substitutedArrayIndex": 19
+    },
+    {
+      "obj": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      },
+      "path": "Assets/Main/Content/UI/Texture/Ticket/TicketScoreUpUnlock_Machine_Rare.png",
+      "guid": "9d54223347132a8488827cc8e2735d52",
+      "substitutedArrayIndex": 20
+    },
+    {
+      "obj": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      },
+      "path": "Assets/Main/Content/UI/Texture/Ticket/TicketScoreUpUnlock_Glide_Rare.png",
+      "guid": "e1bffc47d2f71d540bcfa4c6ded05409",
+      "substitutedArrayIndex": 21
+    },
+    {
+      "obj": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      },
+      "path": "Assets/Main/Content/UI/Texture/Ticket/TicketScoreUpUnlock_Driver_Ultra.png",
+      "guid": "5b548a5402d435a47bcc6b9b34ef4c3b",
+      "substitutedArrayIndex": 22
+    },
+    {
+      "obj": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      },
+      "path": "Assets/Main/Content/UI/Texture/Ticket/TicketScoreUpUnlock_Machine_Ultra.png",
+      "guid": "096bf8f1699d86f4a83da9aa55cc7b55",
+      "substitutedArrayIndex": 23
+    },
+    {
+      "obj": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      },
+      "path": "Assets/Main/Content/UI/Texture/Ticket/TicketScoreUpUnlock_Glide_Ultra.png",
+      "guid": "40aee804cc7396b449d2505ad2228ada",
+      "substitutedArrayIndex": 24
+    }
+  ],
+  "assetType": 0,
+  "keyType": 0
+}

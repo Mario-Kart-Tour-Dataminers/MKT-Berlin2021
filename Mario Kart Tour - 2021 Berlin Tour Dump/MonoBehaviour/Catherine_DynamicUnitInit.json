@@ -1,0 +1,233 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": 2590768194287000671
+  },
+  "m_Name": "Catherine_DynamicUnitInit",
+  "m_arInitProp": [
+    {
+      "strParentName": "",
+      "rigProp": {
+        "pos": {
+          "x": -0.399999976,
+          "y": -0.02,
+          "z": 0.02
+        },
+        "rot": {
+          "x": 0.0,
+          "y": -25.0,
+          "z": 0.0
+        },
+        "posHandleDef": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.5
+        },
+        "fRigRangeLimit": 0.5,
+        "fGravRate": 0.0,
+        "fAttract": 200.0,
+        "fFriction": 0.1,
+        "fUnderLimit": 0.0
+      },
+      "objProp": {
+        "fZReflectRate": 0.0,
+        "arFlapCycle": [
+          0.3,
+          0.2,
+          0.15
+        ]
+      },
+      "arNodeProp": [
+        {
+          "name": "RibbonL",
+          "arRot": [
+            {
+              "x": -59.0,
+              "y": 2.0,
+              "z": -1.0
+            },
+            {
+              "x": 0.0,
+              "y": -38.0,
+              "z": -1.0
+            },
+            {
+              "x": 53.0,
+              "y": 2.0,
+              "z": -1.0
+            },
+            {
+              "x": -59.0,
+              "y": 0.0,
+              "z": 1.0
+            },
+            {
+              "x": 0.0,
+              "y": 0.0,
+              "z": 1.0
+            },
+            {
+              "x": 53.0,
+              "y": 8.0,
+              "z": 1.0
+            },
+            {
+              "x": -59.0,
+              "y": 2.0,
+              "z": 0.0
+            },
+            {
+              "x": 0.0,
+              "y": 16.0,
+              "z": 0.0
+            },
+            {
+              "x": 53.0,
+              "y": 2.0,
+              "z": 0.0
+            }
+          ],
+          "arRotEditHint": [
+            {
+              "nRowCopy": 0,
+              "bColumnCopy": 1
+            },
+            {
+              "nRowCopy": 0,
+              "bColumnCopy": 0
+            },
+            {
+              "nRowCopy": 1,
+              "bColumnCopy": 0
+            }
+          ],
+          "vecFlap": {
+            "x": 8.0,
+            "y": 2.0,
+            "z": 2.0
+          },
+          "fFlapTiming": 0.0
+        }
+      ]
+    },
+    {
+      "strParentName": "",
+      "rigProp": {
+        "pos": {
+          "x": -0.399999976,
+          "y": -0.02,
+          "z": -0.02
+        },
+        "rot": {
+          "x": 0.0,
+          "y": -155.0,
+          "z": 0.0
+        },
+        "posHandleDef": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.5
+        },
+        "fRigRangeLimit": 0.5,
+        "fGravRate": 0.0,
+        "fAttract": 200.0,
+        "fFriction": 0.1,
+        "fUnderLimit": 0.0
+      },
+      "objProp": {
+        "fZReflectRate": 0.0,
+        "arFlapCycle": [
+          0.3,
+          0.2,
+          0.15
+        ]
+      },
+      "arNodeProp": [
+        {
+          "name": "RibbonR",
+          "arRot": [
+            {
+              "x": -65.0,
+              "y": -2.0,
+              "z": 0.0
+            },
+            {
+              "x": 0.0,
+              "y": 31.0,
+              "z": 0.0
+            },
+            {
+              "x": 46.0,
+              "y": -2.0,
+              "z": 0.0
+            },
+            {
+              "x": -65.0,
+              "y": 0.0,
+              "z": 0.0
+            },
+            {
+              "x": 0.0,
+              "y": 0.0,
+              "z": 0.0
+            },
+            {
+              "x": 46.0,
+              "y": -2.0,
+              "z": 0.0
+            },
+            {
+              "x": -65.0,
+              "y": -2.0,
+              "z": 0.0
+            },
+            {
+              "x": 0.0,
+              "y": -24.0,
+              "z": 0.0
+            },
+            {
+              "x": 46.0,
+              "y": -2.0,
+              "z": 0.0
+            }
+          ],
+          "arRotEditHint": [
+            {
+              "nRowCopy": 0,
+              "bColumnCopy": 1
+            },
+            {
+              "nRowCopy": 0,
+              "bColumnCopy": 0
+            },
+            {
+              "nRowCopy": 1,
+              "bColumnCopy": 0
+            }
+          ],
+          "vecFlap": {
+            "x": 8.0,
+            "y": 2.0,
+            "z": 2.0
+          },
+          "fFlapTiming": 0.5
+        }
+      ]
+    }
+  ],
+  "m_arInvalidMotion": [
+    7,
+    8,
+    9,
+    10,
+    11,
+    12,
+    14
+  ]
+}

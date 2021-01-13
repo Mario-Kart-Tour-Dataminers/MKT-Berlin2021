@@ -1,0 +1,107 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": -2094441087577622512
+  },
+  "m_Name": "HeyhoCook",
+  "mModel": {
+    "m_FileID": 1,
+    "m_PathID": 8457320199082088975
+  },
+  "mFaceTextures": [
+    {
+      "m_FileID": 2,
+      "m_PathID": 3786646346804974922
+    }
+  ],
+  "mIsFaceTextureEmission": 0,
+  "mEmblem": {
+    "m_FileID": 0,
+    "m_PathID": 4828575325864161347
+  },
+  "mAnimatorOverrideController": {
+    "m_FileID": 3,
+    "m_PathID": -8692601388174177229
+  },
+  "mKartScaleSize": 0.85,
+  "mWingJointType": 0,
+  "mFaceChangeEvent": {
+    "m_FileID": 0,
+    "m_PathID": -439653955160659867
+  },
+  "mIconInfo": [
+    {
+      "mPath": "Assets/Main/Content/Driver/HeyhoCook/Icons/HeyhoCook.png",
+      "mGuid": "e24a030d22a13e54d899d6ba6ede2a1f"
+    },
+    {
+      "mPath": "Assets/Main/Content/Driver/HeyhoCook/Icons/HeyhoCookMap.png",
+      "mGuid": "57a68a6e37b3b4c469f73d56dd0b577a"
+    },
+    {
+      "mPath": "Assets/Main/Content/Driver/HeyhoCook/Icons/HeyhoCookFaceEntry.png",
+      "mGuid": "605adaa9cb0074f439ca3b3310a257a5"
+    },
+    {
+      "mPath": "Assets/Main/Content/Driver/HeyhoCook/Icons/HeyhoCookWholeBody.png",
+      "mGuid": "1c794ae3a51d0334db685e206ba06afd"
+    },
+    {
+      "mPath": "Assets/Main/Content/Driver/HeyhoCook/Icons/HeyhoCookUpperBody.png",
+      "mGuid": "f1cf2beae28de1741b9aa5e4e96f0ae7"
+    },
+    {
+      "mPath": "",
+      "mGuid": ""
+    },
+    {
+      "mPath": "Assets/Main/Content/Driver/HeyhoCook/Icons/HeyhoCook_Small.png",
+      "mGuid": "33ebd3df26501be49b1b57dcb779f7b3"
+    },
+    {
+      "mPath": "Assets/Main/Content/Driver/HeyhoCook/Icons/HeyhoCookFaceEntry_Small.png",
+      "mGuid": "105a7f5f9dbcc1f44aa9ba4334aa16aa"
+    },
+    {
+      "mPath": "Assets/Main/Content/Driver/HeyhoCook/Icons/HeyhoCookWholeBody_Small.png",
+      "mGuid": "9b0303679e73a1446b3db9f32edd4fc7"
+    },
+    {
+      "mPath": "Assets/Main/Content/Driver/HeyhoCook/Icons/HeyhoCookUpperBody_Small.png",
+      "mGuid": "c93cd3809a792754d84b99636752ea3e"
+    }
+  ],
+  "mColorGroup": 0,
+  "mCharacterTextureList": [],
+  "mBaseParameter": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "mBodyMaterial": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "mEyeMaterial": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "mDynamicUnitMngInitData": {
+    "m_FileID": 0,
+    "m_PathID": -4862509021131279933
+  },
+  "mMetamorData": [],
+  "mDotDriverData": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "mDescription": "",
+  "mEffectContainer": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  }
+}

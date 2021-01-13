@@ -1,0 +1,135 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": -2094441087577622512
+  },
+  "m_Name": "YoshiReindeer",
+  "mModel": {
+    "m_FileID": 1,
+    "m_PathID": 2502883585725824104
+  },
+  "mFaceTextures": [
+    {
+      "m_FileID": 2,
+      "m_PathID": -8873815994689331532
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -6694557268603860888
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -6173906299733984059
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 6082218281188075944
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -4873845645907357926
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 5017638138437855659
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 152397850839889116
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -4442450640599084472
+    }
+  ],
+  "mIsFaceTextureEmission": 0,
+  "mEmblem": {
+    "m_FileID": 0,
+    "m_PathID": -3282036844285197967
+  },
+  "mAnimatorOverrideController": {
+    "m_FileID": 3,
+    "m_PathID": 4271197373926285607
+  },
+  "mKartScaleSize": 1.0,
+  "mWingJointType": 0,
+  "mFaceChangeEvent": {
+    "m_FileID": 0,
+    "m_PathID": 3812477771719988285
+  },
+  "mIconInfo": [
+    {
+      "mPath": "Assets/Main/Content/Driver/YoshiReindeer/Icons/YoshiReindeer.png",
+      "mGuid": "dc72a3968ba78bb49a0bc48284f9bf30"
+    },
+    {
+      "mPath": "Assets/Main/Content/Driver/YoshiReindeer/Icons/YoshiReindeerMap.png",
+      "mGuid": "d3c038654b7079f4e8ba7a4813f1c5c7"
+    },
+    {
+      "mPath": "Assets/Main/Content/Driver/YoshiReindeer/Icons/YoshiReindeerFaceEntry.png",
+      "mGuid": "b8b3b2ed40fd98a4a8297f86b993fc80"
+    },
+    {
+      "mPath": "Assets/Main/Content/Driver/YoshiReindeer/Icons/YoshiReindeerWholeBody.png",
+      "mGuid": "a42cac73a82fca544beebe8be4f76d55"
+    },
+    {
+      "mPath": "Assets/Main/Content/Driver/YoshiReindeer/Icons/YoshiReindeerUpperBody.png",
+      "mGuid": "1baf21fb0fdc4e84b902958de1f7ec9f"
+    },
+    {
+      "mPath": "",
+      "mGuid": ""
+    },
+    {
+      "mPath": "Assets/Main/Content/Driver/YoshiReindeer/Icons/YoshiReindeer_Small.png",
+      "mGuid": "0d64fe8b1f5ab0b43b2e5cc932d69242"
+    },
+    {
+      "mPath": "Assets/Main/Content/Driver/YoshiReindeer/Icons/YoshiReindeerFaceEntry_Small.png",
+      "mGuid": "d0936cc1e9d1c5f47a0ed49dc077acd3"
+    },
+    {
+      "mPath": "Assets/Main/Content/Driver/YoshiReindeer/Icons/YoshiReindeerWholeBody_Small.png",
+      "mGuid": "d6cebee1e2137ae4eaa928f385be4de2"
+    },
+    {
+      "mPath": "Assets/Main/Content/Driver/YoshiReindeer/Icons/YoshiReindeerUpperBody_Small.png",
+      "mGuid": "79b9a7c7994872245ac2af8641ff5750"
+    }
+  ],
+  "mColorGroup": 0,
+  "mCharacterTextureList": [],
+  "mBaseParameter": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "mBodyMaterial": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "mEyeMaterial": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "mDynamicUnitMngInitData": {
+    "m_FileID": 0,
+    "m_PathID": 4580295821886082856
+  },
+  "mMetamorData": [],
+  "mDotDriverData": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "mDescription": "",
+  "mEffectContainer": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  }
+}

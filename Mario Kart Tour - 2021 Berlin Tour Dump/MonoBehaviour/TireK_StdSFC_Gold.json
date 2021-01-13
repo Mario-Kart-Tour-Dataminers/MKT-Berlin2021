@@ -1,0 +1,43 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": -3205259396417638272
+  },
+  "m_Name": "TireK_StdSFC_Gold",
+  "mTireType": 0,
+  "mTireList": [],
+  "mIconInfo": [
+    {
+      "mPath": "",
+      "mGuid": ""
+    }
+  ],
+  "mIsFixedIcon": 0,
+  "mBaseParameter": {
+    "m_FileID": 5,
+    "m_PathID": 7189746775567562978
+  },
+  "mMaterial": {
+    "m_FileID": 0,
+    "m_PathID": -6115740095168460468
+  },
+  "mShaftMaterial": {
+    "m_FileID": 6,
+    "m_PathID": 9141376419095537349
+  },
+  "mEffectContainer": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "mEffectContainerForBody": [],
+  "mDescription": "SFCゴールドタイヤ",
+  "mColorValiationRoot": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  }
+}

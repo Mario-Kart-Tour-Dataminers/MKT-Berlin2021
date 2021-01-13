@@ -1,0 +1,34 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": 4454195247659244470
+  },
+  "m_Name": "Toon",
+  "settings": [
+    {
+      "m_FileID": 0,
+      "m_PathID": 3186721356947715563
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 6671852420344207281
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -6965109745495702779
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -6701050286563501221
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -5353865844762885173
+    }
+  ]
+}

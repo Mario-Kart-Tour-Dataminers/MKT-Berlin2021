@@ -1,0 +1,135 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": -2094441087577622512
+  },
+  "m_Name": "RosettaAurora",
+  "mModel": {
+    "m_FileID": 1,
+    "m_PathID": 9003752716947062167
+  },
+  "mFaceTextures": [
+    {
+      "m_FileID": 0,
+      "m_PathID": 8865765979603686645
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -6151853229518991331
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 4262588929603344018
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -6384020347314544977
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 3310729984105116082
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 3622980759199316314
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -4890339107948610311
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 7589432160617151462
+    }
+  ],
+  "mIsFaceTextureEmission": 0,
+  "mEmblem": {
+    "m_FileID": 0,
+    "m_PathID": -1845284400711069223
+  },
+  "mAnimatorOverrideController": {
+    "m_FileID": 2,
+    "m_PathID": -4731249080302445681
+  },
+  "mKartScaleSize": 1.1,
+  "mWingJointType": 0,
+  "mFaceChangeEvent": {
+    "m_FileID": 0,
+    "m_PathID": -4380506214879585069
+  },
+  "mIconInfo": [
+    {
+      "mPath": "Assets/Main/Content/Driver/RosettaAurora/Icons/RosettaAurora.png",
+      "mGuid": "c373bfa98f9615c48b5747dc30c68975"
+    },
+    {
+      "mPath": "Assets/Main/Content/Driver/RosettaAurora/Icons/RosettaAuroraMap.png",
+      "mGuid": "9015c99ad3cd41d44a48aeae3cbd9579"
+    },
+    {
+      "mPath": "Assets/Main/Content/Driver/RosettaAurora/Icons/RosettaAuroraFaceEntry.png",
+      "mGuid": "87cf4d5b04dfecc41bc0b70cd604dfde"
+    },
+    {
+      "mPath": "Assets/Main/Content/Driver/RosettaAurora/Icons/RosettaAuroraWholeBody.png",
+      "mGuid": "c239fb53b2932424287d2c2b6d3877c5"
+    },
+    {
+      "mPath": "Assets/Main/Content/Driver/RosettaAurora/Icons/RosettaAuroraUpperBody.png",
+      "mGuid": "9cce544e484653b478ed1820e89d6d2b"
+    },
+    {
+      "mPath": "",
+      "mGuid": ""
+    },
+    {
+      "mPath": "Assets/Main/Content/Driver/RosettaAurora/Icons/RosettaAurora_Small.png",
+      "mGuid": "7b52ab150125be84eaa5a073b4a1fabb"
+    },
+    {
+      "mPath": "Assets/Main/Content/Driver/RosettaAurora/Icons/RosettaAuroraFaceEntry_Small.png",
+      "mGuid": "ca50a6e6ecb3b15478210f941080c02f"
+    },
+    {
+      "mPath": "Assets/Main/Content/Driver/RosettaAurora/Icons/RosettaAuroraWholeBody_Small.png",
+      "mGuid": "65626e55c4e18cc4d9bc7d5f839214b1"
+    },
+    {
+      "mPath": "Assets/Main/Content/Driver/RosettaAurora/Icons/RosettaAuroraUpperBody_Small.png",
+      "mGuid": "e1327ed72c864774fa62f83f447c055f"
+    }
+  ],
+  "mColorGroup": 0,
+  "mCharacterTextureList": [],
+  "mBaseParameter": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "mBodyMaterial": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "mEyeMaterial": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "mDynamicUnitMngInitData": {
+    "m_FileID": 0,
+    "m_PathID": -8085735813880498965
+  },
+  "mMetamorData": [],
+  "mDotDriverData": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "mDescription": "",
+  "mEffectContainer": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  }
+}

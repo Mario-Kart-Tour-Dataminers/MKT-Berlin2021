@@ -1,0 +1,18 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": 3718094394832668311
+  },
+  "m_Name": "Machine_70048_10052_20008",
+  "mSprites": [
+    {
+      "m_FileID": 0,
+      "m_PathID": -4643117666074112166
+    }
+  ]
+}

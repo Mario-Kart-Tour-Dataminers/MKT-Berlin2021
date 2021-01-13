@@ -1,0 +1,50 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": 2434717279687273224
+  },
+  "m_Name": "Wing_BananaLeaf",
+  "mWingModel": {
+    "m_FileID": 0,
+    "m_PathID": 3009265621490906489
+  },
+  "mIconInfo": [
+    {
+      "mPath": "Assets/Main/Content/Kart/Wing/Wing_BananaLeaf/Icons/Wing_BananaLeaf.png",
+      "mGuid": "97d2cd03d8ceb5746824a8b049d653c6"
+    },
+    {
+      "mPath": "Assets/Main/Content/Kart/Wing/Wing_BananaLeaf/Icons/Wing_BananaLeaf_Large.png",
+      "mGuid": "b3fc543ef2aa7b946be730ea969fd48c"
+    },
+    {
+      "mPath": "Assets/Main/Content/Kart/Wing/Wing_BananaLeaf/Icons/Wing_BananaLeaf_Small.png",
+      "mGuid": "c1ff8811b5e0a84489fc95b98f2e7338"
+    }
+  ],
+  "mWingType": 0,
+  "mIsFixedIcon": 0,
+  "mBaseParameter": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "mMaterial": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "mEffectContainer": {
+    "m_FileID": 0,
+    "m_PathID": -7876219042501388717
+  },
+  "mIsDisableAngleAnimation": 0,
+  "mDescription": "",
+  "mColorValiationRoot": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  }
+}

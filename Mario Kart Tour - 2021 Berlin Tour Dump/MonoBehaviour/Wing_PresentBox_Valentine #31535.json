@@ -1,0 +1,50 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": 2434717279687273224
+  },
+  "m_Name": "Wing_PresentBox_Valentine",
+  "mWingModel": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "mIconInfo": [
+    {
+      "mPath": "Assets/Main/Content/Kart/Wing/Wing_PresentBox/Icons/Wing_PresentBox_Valentine.png",
+      "mGuid": "bcb7bd56b0f494046b4a6b0579b6801c"
+    },
+    {
+      "mPath": "Assets/Main/Content/Kart/Wing/Wing_PresentBox/Icons/Wing_PresentBox_Valentine_Large.png",
+      "mGuid": "facdd2db5344721498c78e8839a136d3"
+    },
+    {
+      "mPath": "Assets/Main/Content/Kart/Wing/Wing_PresentBox/Icons/Wing_PresentBox_Valentine_Small.png",
+      "mGuid": "afb37f5ea5b423c4fba03fcd0cea20f5"
+    }
+  ],
+  "mWingType": 0,
+  "mIsFixedIcon": 0,
+  "mBaseParameter": {
+    "m_FileID": 3,
+    "m_PathID": -3992081199398300791
+  },
+  "mMaterial": {
+    "m_FileID": 0,
+    "m_PathID": -7979470340009291587
+  },
+  "mEffectContainer": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "mIsDisableAngleAnimation": 0,
+  "mDescription": "",
+  "mColorValiationRoot": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  }
+}

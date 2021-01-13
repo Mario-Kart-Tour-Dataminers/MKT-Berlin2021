@@ -1,0 +1,4658 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": 5087587463111955758
+  },
+  "m_Name": "RaceScoreParam",
+  "ScoreRate": 1.0,
+  "mPoint": [
+    5,
+    20,
+    0,
+    50,
+    0,
+    50,
+    10,
+    0,
+    0,
+    0,
+    0,
+    50,
+    1,
+    5,
+    5,
+    0,
+    5,
+    15,
+    30,
+    10,
+    30,
+    10,
+    15,
+    20,
+    25,
+    30,
+    50,
+    20,
+    40,
+    100,
+    0
+  ],
+  "InterimRankBonus": [
+    100,
+    80,
+    60,
+    50,
+    40,
+    30,
+    20,
+    10
+  ],
+  "mEngineLevelParams": [
+    {
+      "AddScoreIntervalWhileGlide": 2.5,
+      "AddScoreIntervalWhileWater": 7.5,
+      "AddScoreIntervalWhileItemType018": 2.5,
+      "AddScoreIntervalWhileDriftKeep": 2.5,
+      "InterimRankBonusRate": 0.5,
+      "ComboNumMax": 5
+    },
+    {
+      "AddScoreIntervalWhileGlide": 2.0,
+      "AddScoreIntervalWhileWater": 6.0,
+      "AddScoreIntervalWhileItemType018": 2.0,
+      "AddScoreIntervalWhileDriftKeep": 2.0,
+      "InterimRankBonusRate": 1.0,
+      "ComboNumMax": 10
+    },
+    {
+      "AddScoreIntervalWhileGlide": 1.5,
+      "AddScoreIntervalWhileWater": 4.5,
+      "AddScoreIntervalWhileItemType018": 1.5,
+      "AddScoreIntervalWhileDriftKeep": 1.5,
+      "InterimRankBonusRate": 2.0,
+      "ComboNumMax": 15
+    },
+    {
+      "AddScoreIntervalWhileGlide": 1.2,
+      "AddScoreIntervalWhileWater": 3.6,
+      "AddScoreIntervalWhileItemType018": 1.2,
+      "AddScoreIntervalWhileDriftKeep": 1.2,
+      "InterimRankBonusRate": 2.0,
+      "ComboNumMax": 15
+    }
+  ],
+  "Combo": {
+    "Score": [
+      5,
+      10,
+      20,
+      30
+    ],
+    "Time": [
+      1.4,
+      1.8,
+      2.1,
+      2.4
+    ],
+    "ComboScoreAdd": 1,
+    "ComboScoreRate": 0.1
+  },
+  "Item": {
+    "ItemTypeScore": [
+      {
+        "mScoreUp": [
+          {
+            "IsEnabled": 0,
+            "Deafult": 0
+          },
+          {
+            "IsEnabled": 1,
+            "Deafult": 10
+          },
+          {
+            "IsEnabled": 0,
+            "Deafult": 10
+          }
+        ],
+        "mCoinUp": [
+          {
+            "IsEnabled": 0,
+            "Deafult": 0
+          },
+          {
+            "IsEnabled": 1,
+            "Deafult": 0
+          },
+          {
+            "IsEnabled": 0,
+            "Deafult": 0
+          }
+        ]
+      },
+      {
+        "mScoreUp": [
+          {
+            "IsEnabled": 0,
+            "Deafult": 0
+          },
+          {
+            "IsEnabled": 1,
+            "Deafult": 25
+          },
+          {
+            "IsEnabled": 0,
+            "Deafult": 50
+          }
+        ],
+        "mCoinUp": [
+          {
+            "IsEnabled": 0,
+            "Deafult": 0
+          },
+          {
+            "IsEnabled": 1,
+            "Deafult": 0
+          },
+          {
+            "IsEnabled": 0,
+            "Deafult": 0
+          }
+        ]
+      },
+      {
+        "mScoreUp": [
+          {
+            "IsEnabled": 0,
+            "Deafult": 0
+          },
+          {
+            "IsEnabled": 1,
+            "Deafult": 25
+          },
+          {
+            "IsEnabled": 0,
+            "Deafult": 50
+          }
+        ],
+        "mCoinUp": [
+          {
+            "IsEnabled": 0,
+            "Deafult": 0
+          },
+          {
+            "IsEnabled": 1,
+            "Deafult": 0
+          },
+          {
+            "IsEnabled": 0,
+            "Deafult": 0
+          }
+        ]
+      },
+      {
+        "mScoreUp": [
+          {
+            "IsEnabled": 0,
+            "Deafult": 0
+          },
+          {
+            "IsEnabled": 1,
+            "Deafult": 25
+          },
+          {
+            "IsEnabled": 0,
+            "Deafult": 50
+          }
+        ],
+        "mCoinUp": [
+          {
+            "IsEnabled": 0,
+            "Deafult": 0
+          },
+          {
+            "IsEnabled": 1,
+            "Deafult": 0
+          },
+          {
+            "IsEnabled": 0,
+            "Deafult": 0
+          }
+        ]
+      },
+      {
+        "mScoreUp": [
+          {
+            "IsEnabled": 1,
+            "Deafult": 10
+          },
+          {
+            "IsEnabled": 1,
+            "Deafult": 10
+          },
+          {
+            "IsEnabled": 0,
+            "Deafult": 100
+          }
+        ],
+        "mCoinUp": [
+          {
+            "IsEnabled": 1,
+            "Deafult": 0
+          },
+          {
+            "IsEnabled": 0,
+            "Deafult": 0
+          },
+          {
+            "IsEnabled": 0,
+            "Deafult": 0
+          }
+        ]
+      },
+      {
+        "mScoreUp": [
+          {
+            "IsEnabled": 0,
+            "Deafult": 0
+          },
+          {
+            "IsEnabled": 0,
+            "Deafult": 0
+          },
+          {
+            "IsEnabled": 0,
+            "Deafult": 100
+          },
+          {
+            "IsEnabled": 1,
+            "Deafult": 25
+          }
+        ],
+        "mCoinUp": [
+          {
+            "IsEnabled": 0,
+            "Deafult": 0
+          },
+          {
+            "IsEnabled": 1,
+            "Deafult": 0
+          },
+          {
+            "IsEnabled": 0,
+            "Deafult": 0
+          }
+        ]
+      },
+      {
+        "mScoreUp": [
+          {
+            "IsEnabled": 0,
+            "Deafult": 0
+          },
+          {
+            "IsEnabled": 1,
+            "Deafult": 25
+          },
+          {
+            "IsEnabled": 0,
+            "Deafult": 50
+          }
+        ],
+        "mCoinUp": [
+          {
+            "IsEnabled": 0,
+            "Deafult": 0
+          },
+          {
+            "IsEnabled": 1,
+            "Deafult": 0
+          },
+          {
+            "IsEnabled": 0,
+            "Deafult": 0
+          }
+        ]
+      },
+      {
+        "mScoreUp": [
+          {
+            "IsEnabled": 0,
+            "Deafult": 0
+          },
+          {
+            "IsEnabled": 1,
+            "Deafult": 5
+          },
+          {
+            "IsEnabled": 0,
+            "Deafult": 10
+          }
+        ],
+        "mCoinUp": [
+          {
+            "IsEnabled": 0,
+            "Deafult": 0
+          },
+          {
+            "IsEnabled": 1,
+            "Deafult": 0
+          },
+          {
+            "IsEnabled": 0,
+            "Deafult": 0
+          }
+        ]
+      },
+      {
+        "mScoreUp": [
+          {
+            "IsEnabled": 1,
+            "Deafult": 0
+          },
+          {
+            "IsEnabled": 0,
+            "Deafult": 0
+          },
+          {
+            "IsEnabled": 0,
+            "Deafult": 0
+          }
+        ],
+        "mCoinUp": [
+          {
+            "IsEnabled": 0,
+            "Deafult": 0
+          },
+          {
+            "IsEnabled": 1,
+            "Deafult": 0
+          },
+          {
+            "IsEnabled": 0,
+            "Deafult": 0
+          }
+        ]
+      },
+      {
+        "mScoreUp": [
+          {
+            "IsEnabled": 1,
+            "Deafult": 10
+          },
+          {
+            "IsEnabled": 0,
+            "Deafult": 100
+          },
+          {
+            "IsEnabled": 0,
+            "Deafult": 100
+          }
+        ],
+        "mCoinUp": [
+          {
+            "IsEnabled": 1,
+            "Deafult": 0
+          },
+          {
+            "IsEnabled": 0,
+            "Deafult": 0
+          },
+          {
+            "IsEnabled": 0,
+            "Deafult": 0
+          }
+        ]
+      },
+      {
+        "mScoreUp": [
+          {
+            "IsEnabled": 0,
+            "Deafult": 0
+          },
+          {
+            "IsEnabled": 1,
+            "Deafult": 25
+          },
+          {
+            "IsEnabled": 0,
+            "Deafult": 50
+          }
+        ],
+        "mCoinUp": [
+          {
+            "IsEnabled": 0,
+            "Deafult": 0
+          },
+          {
+            "IsEnabled": 1,
+            "Deafult": 0
+          },
+          {
+            "IsEnabled": 0,
+            "Deafult": 0
+          }
+        ]
+      },
+      {
+        "mScoreUp": [
+          {
+            "IsEnabled": 0,
+            "Deafult": 0
+          },
+          {
+            "IsEnabled": 1,
+            "Deafult": 10
+          },
+          {
+            "IsEnabled": 0,
+            "Deafult": 10
+          }
+        ],
+        "mCoinUp": [
+          {
+            "IsEnabled": 0,
+            "Deafult": 0
+          },
+          {
+            "IsEnabled": 1,
+            "Deafult": 0
+          },
+          {
+            "IsEnabled": 0,
+            "Deafult": 0
+          }
+        ]
+      },
+      {
+        "mScoreUp": [
+          {
+            "IsEnabled": 0,
+            "Deafult": 0
+          },
+          {
+            "IsEnabled": 0,
+            "Deafult": 0
+          },
+          {
+            "IsEnabled": 0,
+            "Deafult": 0
+          },
+          {
+            "IsEnabled": 1,
+            "Deafult": 25
+          }
+        ],
+        "mCoinUp": [
+          {
+            "IsEnabled": 0,
+            "Deafult": 0
+          },
+          {
+            "IsEnabled": 1,
+            "Deafult": 0
+          },
+          {
+            "IsEnabled": 0,
+            "Deafult": 0
+          }
+        ]
+      },
+      {
+        "mScoreUp": [
+          {
+            "IsEnabled": 0,
+            "Deafult": 0
+          },
+          {
+            "IsEnabled": 1,
+            "Deafult": 25
+          },
+          {
+            "IsEnabled": 0,
+            "Deafult": 50
+          }
+        ],
+        "mCoinUp": [
+          {
+            "IsEnabled": 0,
+            "Deafult": 0
+          },
+          {
+            "IsEnabled": 1,
+            "Deafult": 0
+          },
+          {
+            "IsEnabled": 0,
+            "Deafult": 0
+          }
+        ]
+      },
+      {
+        "mScoreUp": [
+          {
+            "IsEnabled": 0,
+            "Deafult": 0
+          },
+          {
+            "IsEnabled": 1,
+            "Deafult": 25
+          },
+          {
+            "IsEnabled": 0,
+            "Deafult": 50
+          }
+        ],
+        "mCoinUp": [
+          {
+            "IsEnabled": 0,
+            "Deafult": 0
+          },
+          {
+            "IsEnabled": 1,
+            "Deafult": 0
+          },
+          {
+            "IsEnabled": 0,
+            "Deafult": 0
+          }
+        ]
+      },
+      {
+        "mScoreUp": [
+          {
+            "IsEnabled": 0,
+            "Deafult": 0
+          },
+          {
+            "IsEnabled": 1,
+            "Deafult": 25
+          },
+          {
+            "IsEnabled": 0,
+            "Deafult": 50
+          }
+        ],
+        "mCoinUp": [
+          {
+            "IsEnabled": 0,
+            "Deafult": 0
+          },
+          {
+            "IsEnabled": 1,
+            "Deafult": 0
+          },
+          {
+            "IsEnabled": 0,
+            "Deafult": 0
+          }
+        ]
+      },
+      {
+        "mScoreUp": [
+          {
+            "IsEnabled": 0,
+            "Deafult": 0
+          },
+          {
+            "IsEnabled": 1,
+            "Deafult": 25
+          },
+          {
+            "IsEnabled": 0,
+            "Deafult": 50
+          }
+        ],
+        "mCoinUp": [
+          {
+            "IsEnabled": 0,
+            "Deafult": 0
+          },
+          {
+            "IsEnabled": 1,
+            "Deafult": 0
+          },
+          {
+            "IsEnabled": 0,
+            "Deafult": 0
+          }
+        ]
+      },
+      {
+        "mScoreUp": [
+          {
+            "IsEnabled": 1,
+            "Deafult": 0
+          },
+          {
+            "IsEnabled": 1,
+            "Deafult": 10
+          },
+          {
+            "IsEnabled": 0,
+            "Deafult": 25
+          }
+        ],
+        "mCoinUp": [
+          {
+            "IsEnabled": 0,
+            "Deafult": 0
+          },
+          {
+            "IsEnabled": 1,
+            "Deafult": 0
+          },
+          {
+            "IsEnabled": 0,
+            "Deafult": 0
+          }
+        ]
+      },
+      {
+        "mScoreUp": [
+          {
+            "IsEnabled": 1,
+            "Deafult": 10
+          },
+          {
+            "IsEnabled": 0,
+            "Deafult": 0
+          },
+          {
+            "IsEnabled": 0,
+            "Deafult": 0
+          },
+          {
+            "IsEnabled": 1,
+            "Deafult": 25
+          }
+        ],
+        "mCoinUp": [
+          {
+            "IsEnabled": 1,
+            "Deafult": 0
+          },
+          {
+            "IsEnabled": 1,
+            "Deafult": 0
+          },
+          {
+            "IsEnabled": 0,
+            "Deafult": 0
+          }
+        ]
+      },
+      {
+        "mScoreUp": [
+          {
+            "IsEnabled": 0,
+            "Deafult": 0
+          },
+          {
+            "IsEnabled": 1,
+            "Deafult": 25
+          },
+          {
+            "IsEnabled": 0,
+            "Deafult": 50
+          }
+        ],
+        "mCoinUp": [
+          {
+            "IsEnabled": 0,
+            "Deafult": 0
+          },
+          {
+            "IsEnabled": 1,
+            "Deafult": 0
+          },
+          {
+            "IsEnabled": 0,
+            "Deafult": 0
+          }
+        ]
+      },
+      {
+        "mScoreUp": [
+          {
+            "IsEnabled": 0,
+            "Deafult": 0
+          },
+          {
+            "IsEnabled": 1,
+            "Deafult": 25
+          },
+          {
+            "IsEnabled": 0,
+            "Deafult": 100
+          }
+        ],
+        "mCoinUp": [
+          {
+            "IsEnabled": 0,
+            "Deafult": 0
+          },
+          {
+            "IsEnabled": 1,
+            "Deafult": 0
+          },
+          {
+            "IsEnabled": 0,
+            "Deafult": 0
+          }
+        ]
+      },
+      {
+        "mScoreUp": [
+          {
+            "IsEnabled": 0,
+            "Deafult": 0
+          },
+          {
+            "IsEnabled": 1,
+            "Deafult": 25
+          },
+          {
+            "IsEnabled": 0,
+            "Deafult": 50
+          }
+        ],
+        "mCoinUp": [
+          {
+            "IsEnabled": 0,
+            "Deafult": 0
+          },
+          {
+            "IsEnabled": 1,
+            "Deafult": 0
+          },
+          {
+            "IsEnabled": 0,
+            "Deafult": 0
+          }
+        ]
+      },
+      {
+        "mScoreUp": [
+          {
+            "IsEnabled": 0,
+            "Deafult": 0
+          },
+          {
+            "IsEnabled": 1,
+            "Deafult": 50
+          },
+          {
+            "IsEnabled": 0,
+            "Deafult": 50
+          }
+        ],
+        "mCoinUp": [
+          {
+            "IsEnabled": 0,
+            "Deafult": 0
+          },
+          {
+            "IsEnabled": 1,
+            "Deafult": 0
+          },
+          {
+            "IsEnabled": 0,
+            "Deafult": 0
+          }
+        ]
+      },
+      {
+        "mScoreUp": [
+          {
+            "IsEnabled": 0,
+            "Deafult": 0
+          },
+          {
+            "IsEnabled": 1,
+            "Deafult": 25
+          },
+          {
+            "IsEnabled": 0,
+            "Deafult": 0
+          }
+        ],
+        "mCoinUp": [
+          {
+            "IsEnabled": 0,
+            "Deafult": 0
+          },
+          {
+            "IsEnabled": 0,
+            "Deafult": 0
+          },
+          {
+            "IsEnabled": 0,
+            "Deafult": 0
+          }
+        ]
+      },
+      {
+        "mScoreUp": [
+          {
+            "IsEnabled": 0,
+            "Deafult": 0
+          },
+          {
+            "IsEnabled": 0,
+            "Deafult": 0
+          },
+          {
+            "IsEnabled": 0,
+            "Deafult": 0
+          }
+        ],
+        "mCoinUp": [
+          {
+            "IsEnabled": 0,
+            "Deafult": 0
+          },
+          {
+            "IsEnabled": 0,
+            "Deafult": 0
+          },
+          {
+            "IsEnabled": 0,
+            "Deafult": 0
+          }
+        ]
+      },
+      {
+        "mScoreUp": [
+          {
+            "IsEnabled": 0,
+            "Deafult": 0
+          },
+          {
+            "IsEnabled": 0,
+            "Deafult": 0
+          },
+          {
+            "IsEnabled": 0,
+            "Deafult": 0
+          }
+        ],
+        "mCoinUp": [
+          {
+            "IsEnabled": 0,
+            "Deafult": 0
+          },
+          {
+            "IsEnabled": 0,
+            "Deafult": 0
+          },
+          {
+            "IsEnabled": 0,
+            "Deafult": 0
+          }
+        ]
+      },
+      {
+        "mScoreUp": [
+          {
+            "IsEnabled": 0,
+            "Deafult": 0
+          },
+          {
+            "IsEnabled": 0,
+            "Deafult": 0
+          },
+          {
+            "IsEnabled": 0,
+            "Deafult": 0
+          }
+        ],
+        "mCoinUp": [
+          {
+            "IsEnabled": 0,
+            "Deafult": 0
+          },
+          {
+            "IsEnabled": 0,
+            "Deafult": 0
+          },
+          {
+            "IsEnabled": 0,
+            "Deafult": 0
+          }
+        ]
+      },
+      {
+        "mScoreUp": [
+          {
+            "IsEnabled": 0,
+            "Deafult": 0
+          },
+          {
+            "IsEnabled": 1,
+            "Deafult": 25
+          },
+          {
+            "IsEnabled": 0,
+            "Deafult": 50
+          }
+        ],
+        "mCoinUp": [
+          {
+            "IsEnabled": 0,
+            "Deafult": 0
+          },
+          {
+            "IsEnabled": 1,
+            "Deafult": 0
+          },
+          {
+            "IsEnabled": 0,
+            "Deafult": 0
+          }
+        ]
+      },
+      {
+        "mScoreUp": [
+          {
+            "IsEnabled": 0,
+            "Deafult": 0
+          },
+          {
+            "IsEnabled": 1,
+            "Deafult": 25
+          },
+          {
+            "IsEnabled": 0,
+            "Deafult": 0
+          }
+        ],
+        "mCoinUp": [
+          {
+            "IsEnabled": 0,
+            "Deafult": 0
+          },
+          {
+            "IsEnabled": 0,
+            "Deafult": 0
+          },
+          {
+            "IsEnabled": 0,
+            "Deafult": 0
+          }
+        ]
+      },
+      {
+        "mScoreUp": [
+          {
+            "IsEnabled": 0,
+            "Deafult": 0
+          },
+          {
+            "IsEnabled": 1,
+            "Deafult": 25
+          },
+          {
+            "IsEnabled": 1,
+            "Deafult": 100
+          }
+        ],
+        "mCoinUp": [
+          {
+            "IsEnabled": 0,
+            "Deafult": 0
+          },
+          {
+            "IsEnabled": 1,
+            "Deafult": 0
+          },
+          {
+            "IsEnabled": 1,
+            "Deafult": 0
+          }
+        ]
+      },
+      {
+        "mScoreUp": [
+          {
+            "IsEnabled": 0,
+            "Deafult": 0
+          },
+          {
+            "IsEnabled": 0,
+            "Deafult": 50
+          },
+          {
+            "IsEnabled": 0,
+            "Deafult": 0
+          }
+        ],
+        "mCoinUp": [
+          {
+            "IsEnabled": 0,
+            "Deafult": 0
+          },
+          {
+            "IsEnabled": 0,
+            "Deafult": 0
+          },
+          {
+            "IsEnabled": 0,
+            "Deafult": 0
+          }
+        ]
+      },
+      {
+        "mScoreUp": [
+          {
+            "IsEnabled": 0,
+            "Deafult": 0
+          },
+          {
+            "IsEnabled": 1,
+            "Deafult": 25
+          },
+          {
+            "IsEnabled": 0,
+            "Deafult": 0
+          }
+        ],
+        "mCoinUp": [
+          {
+            "IsEnabled": 0,
+            "Deafult": 0
+          },
+          {
+            "IsEnabled": 0,
+            "Deafult": 0
+          },
+          {
+            "IsEnabled": 0,
+            "Deafult": 0
+          }
+        ]
+      },
+      {
+        "mScoreUp": [
+          {
+            "IsEnabled": 0,
+            "Deafult": 0
+          },
+          {
+            "IsEnabled": 0,
+            "Deafult": 0
+          },
+          {
+            "IsEnabled": 0,
+            "Deafult": 0
+          }
+        ],
+        "mCoinUp": [
+          {
+            "IsEnabled": 0,
+            "Deafult": 0
+          },
+          {
+            "IsEnabled": 0,
+            "Deafult": 0
+          },
+          {
+            "IsEnabled": 0,
+            "Deafult": 0
+          }
+        ]
+      },
+      {
+        "mScoreUp": [
+          {
+            "IsEnabled": 0,
+            "Deafult": 0
+          },
+          {
+            "IsEnabled": 0,
+            "Deafult": 0
+          },
+          {
+            "IsEnabled": 0,
+            "Deafult": 0
+          }
+        ],
+        "mCoinUp": [
+          {
+            "IsEnabled": 0,
+            "Deafult": 0
+          },
+          {
+            "IsEnabled": 0,
+            "Deafult": 0
+          },
+          {
+            "IsEnabled": 0,
+            "Deafult": 0
+          }
+        ]
+      },
+      {
+        "mScoreUp": [
+          {
+            "IsEnabled": 0,
+            "Deafult": 0
+          },
+          {
+            "IsEnabled": 1,
+            "Deafult": 25
+          },
+          {
+            "IsEnabled": 0,
+            "Deafult": 0
+          }
+        ],
+        "mCoinUp": [
+          {
+            "IsEnabled": 0,
+            "Deafult": 0
+          },
+          {
+            "IsEnabled": 0,
+            "Deafult": 0
+          },
+          {
+            "IsEnabled": 0,
+            "Deafult": 0
+          }
+        ]
+      },
+      {
+        "mScoreUp": [
+          {
+            "IsEnabled": 0,
+            "Deafult": 0
+          },
+          {
+            "IsEnabled": 1,
+            "Deafult": 25
+          },
+          {
+            "IsEnabled": 0,
+            "Deafult": 0
+          }
+        ],
+        "mCoinUp": [
+          {
+            "IsEnabled": 0,
+            "Deafult": 0
+          },
+          {
+            "IsEnabled": 0,
+            "Deafult": 0
+          },
+          {
+            "IsEnabled": 0,
+            "Deafult": 0
+          }
+        ]
+      },
+      {
+        "mScoreUp": [
+          {
+            "IsEnabled": 0,
+            "Deafult": 0
+          },
+          {
+            "IsEnabled": 1,
+            "Deafult": 25
+          },
+          {
+            "IsEnabled": 0,
+            "Deafult": 0
+          }
+        ],
+        "mCoinUp": [
+          {
+            "IsEnabled": 0,
+            "Deafult": 0
+          },
+          {
+            "IsEnabled": 0,
+            "Deafult": 0
+          },
+          {
+            "IsEnabled": 0,
+            "Deafult": 0
+          }
+        ]
+      },
+      {
+        "mScoreUp": [
+          {
+            "IsEnabled": 0,
+            "Deafult": 0
+          },
+          {
+            "IsEnabled": 0,
+            "Deafult": 0
+          },
+          {
+            "IsEnabled": 0,
+            "Deafult": 0
+          }
+        ],
+        "mCoinUp": [
+          {
+            "IsEnabled": 0,
+            "Deafult": 0
+          },
+          {
+            "IsEnabled": 0,
+            "Deafult": 0
+          },
+          {
+            "IsEnabled": 0,
+            "Deafult": 0
+          }
+        ]
+      },
+      {
+        "mScoreUp": [
+          {
+            "IsEnabled": 0,
+            "Deafult": 0
+          },
+          {
+            "IsEnabled": 0,
+            "Deafult": 0
+          },
+          {
+            "IsEnabled": 0,
+            "Deafult": 0
+          }
+        ],
+        "mCoinUp": [
+          {
+            "IsEnabled": 0,
+            "Deafult": 0
+          },
+          {
+            "IsEnabled": 0,
+            "Deafult": 0
+          },
+          {
+            "IsEnabled": 0,
+            "Deafult": 0
+          }
+        ]
+      },
+      {
+        "mScoreUp": [
+          {
+            "IsEnabled": 0,
+            "Deafult": 0
+          },
+          {
+            "IsEnabled": 0,
+            "Deafult": 0
+          },
+          {
+            "IsEnabled": 0,
+            "Deafult": 0
+          }
+        ],
+        "mCoinUp": [
+          {
+            "IsEnabled": 0,
+            "Deafult": 0
+          },
+          {
+            "IsEnabled": 0,
+            "Deafult": 0
+          },
+          {
+            "IsEnabled": 0,
+            "Deafult": 0
+          }
+        ]
+      },
+      {
+        "mScoreUp": [
+          {
+            "IsEnabled": 0,
+            "Deafult": 0
+          },
+          {
+            "IsEnabled": 0,
+            "Deafult": 0
+          },
+          {
+            "IsEnabled": 0,
+            "Deafult": 0
+          }
+        ],
+        "mCoinUp": [
+          {
+            "IsEnabled": 0,
+            "Deafult": 0
+          },
+          {
+            "IsEnabled": 0,
+            "Deafult": 0
+          },
+          {
+            "IsEnabled": 0,
+            "Deafult": 0
+          }
+        ]
+      },
+      {
+        "mScoreUp": [
+          {
+            "IsEnabled": 1,
+            "Deafult": 25
+          },
+          {
+            "IsEnabled": 1,
+            "Deafult": 25
+          },
+          {
+            "IsEnabled": 0,
+            "Deafult": 0
+          }
+        ],
+        "mCoinUp": [
+          {
+            "IsEnabled": 1,
+            "Deafult": 0
+          },
+          {
+            "IsEnabled": 0,
+            "Deafult": 0
+          },
+          {
+            "IsEnabled": 0,
+            "Deafult": 0
+          }
+        ]
+      },
+      {
+        "mScoreUp": [
+          {
+            "IsEnabled": 0,
+            "Deafult": 0
+          },
+          {
+            "IsEnabled": 0,
+            "Deafult": 0
+          },
+          {
+            "IsEnabled": 0,
+            "Deafult": 0
+          }
+        ],
+        "mCoinUp": [
+          {
+            "IsEnabled": 0,
+            "Deafult": 0
+          },
+          {
+            "IsEnabled": 0,
+            "Deafult": 0
+          },
+          {
+            "IsEnabled": 0,
+            "Deafult": 0
+          }
+        ]
+      },
+      {
+        "mScoreUp": [
+          {
+            "IsEnabled": 0,
+            "Deafult": 0
+          },
+          {
+            "IsEnabled": 1,
+            "Deafult": 50
+          },
+          {
+            "IsEnabled": 0,
+            "Deafult": 50
+          }
+        ],
+        "mCoinUp": [
+          {
+            "IsEnabled": 0,
+            "Deafult": 0
+          },
+          {
+            "IsEnabled": 1,
+            "Deafult": 0
+          },
+          {
+            "IsEnabled": 0,
+            "Deafult": 0
+          }
+        ]
+      },
+      {
+        "mScoreUp": [
+          {
+            "IsEnabled": 0,
+            "Deafult": 0
+          },
+          {
+            "IsEnabled": 1,
+            "Deafult": 25
+          },
+          {
+            "IsEnabled": 0,
+            "Deafult": 50
+          }
+        ],
+        "mCoinUp": [
+          {
+            "IsEnabled": 0,
+            "Deafult": 0
+          },
+          {
+            "IsEnabled": 1,
+            "Deafult": 0
+          },
+          {
+            "IsEnabled": 0,
+            "Deafult": 0
+          }
+        ]
+      },
+      {
+        "mScoreUp": [
+          {
+            "IsEnabled": 0,
+            "Deafult": 0
+          },
+          {
+            "IsEnabled": 1,
+            "Deafult": 25
+          },
+          {
+            "IsEnabled": 0,
+            "Deafult": 50
+          }
+        ],
+        "mCoinUp": [
+          {
+            "IsEnabled": 0,
+            "Deafult": 0
+          },
+          {
+            "IsEnabled": 1,
+            "Deafult": 0
+          },
+          {
+            "IsEnabled": 0,
+            "Deafult": 0
+          }
+        ]
+      },
+      {
+        "mScoreUp": [
+          {
+            "IsEnabled": 0,
+            "Deafult": 0
+          },
+          {
+            "IsEnabled": 0,
+            "Deafult": 0
+          },
+          {
+            "IsEnabled": 0,
+            "Deafult": 0
+          }
+        ],
+        "mCoinUp": [
+          {
+            "IsEnabled": 0,
+            "Deafult": 0
+          },
+          {
+            "IsEnabled": 0,
+            "Deafult": 0
+          },
+          {
+            "IsEnabled": 0,
+            "Deafult": 0
+          }
+        ]
+      },
+      {
+        "mScoreUp": [
+          {
+            "IsEnabled": 0,
+            "Deafult": 0
+          },
+          {
+            "IsEnabled": 0,
+            "Deafult": 0
+          },
+          {
+            "IsEnabled": 0,
+            "Deafult": 0
+          }
+        ],
+        "mCoinUp": [
+          {
+            "IsEnabled": 0,
+            "Deafult": 0
+          },
+          {
+            "IsEnabled": 0,
+            "Deafult": 0
+          },
+          {
+            "IsEnabled": 0,
+            "Deafult": 0
+          }
+        ]
+      },
+      {
+        "mScoreUp": [
+          {
+            "IsEnabled": 0,
+            "Deafult": 0
+          },
+          {
+            "IsEnabled": 0,
+            "Deafult": 0
+          },
+          {
+            "IsEnabled": 0,
+            "Deafult": 100
+          },
+          {
+            "IsEnabled": 1,
+            "Deafult": 25
+          }
+        ],
+        "mCoinUp": [
+          {
+            "IsEnabled": 0,
+            "Deafult": 0
+          },
+          {
+            "IsEnabled": 1,
+            "Deafult": 0
+          },
+          {
+            "IsEnabled": 0,
+            "Deafult": 0
+          }
+        ]
+      },
+      {
+        "mScoreUp": [
+          {
+            "IsEnabled": 0,
+            "Deafult": 0
+          },
+          {
+            "IsEnabled": 1,
+            "Deafult": 100
+          },
+          {
+            "IsEnabled": 0,
+            "Deafult": 100
+          }
+        ],
+        "mCoinUp": [
+          {
+            "IsEnabled": 0,
+            "Deafult": 0
+          },
+          {
+            "IsEnabled": 1,
+            "Deafult": 0
+          },
+          {
+            "IsEnabled": 0,
+            "Deafult": 0
+          }
+        ]
+      },
+      {
+        "mScoreUp": [
+          {
+            "IsEnabled": 0,
+            "Deafult": 0
+          },
+          {
+            "IsEnabled": 1,
+            "Deafult": 10
+          },
+          {
+            "IsEnabled": 0,
+            "Deafult": 10
+          }
+        ],
+        "mCoinUp": [
+          {
+            "IsEnabled": 0,
+            "Deafult": 0
+          },
+          {
+            "IsEnabled": 1,
+            "Deafult": 0
+          },
+          {
+            "IsEnabled": 0,
+            "Deafult": 0
+          }
+        ]
+      },
+      {
+        "mScoreUp": [
+          {
+            "IsEnabled": 1,
+            "Deafult": 0
+          },
+          {
+            "IsEnabled": 0,
+            "Deafult": 10
+          },
+          {
+            "IsEnabled": 0,
+            "Deafult": 10
+          }
+        ],
+        "mCoinUp": [
+          {
+            "IsEnabled": 1,
+            "Deafult": 0
+          },
+          {
+            "IsEnabled": 0,
+            "Deafult": 0
+          },
+          {
+            "IsEnabled": 0,
+            "Deafult": 0
+          }
+        ]
+      },
+      {
+        "mScoreUp": [
+          {
+            "IsEnabled": 0,
+            "Deafult": 0
+          },
+          {
+            "IsEnabled": 0,
+            "Deafult": 0
+          },
+          {
+            "IsEnabled": 0,
+            "Deafult": 0
+          }
+        ],
+        "mCoinUp": [
+          {
+            "IsEnabled": 0,
+            "Deafult": 0
+          },
+          {
+            "IsEnabled": 0,
+            "Deafult": 0
+          },
+          {
+            "IsEnabled": 0,
+            "Deafult": 0
+          }
+        ]
+      },
+      {
+        "mScoreUp": [
+          {
+            "IsEnabled": 0,
+            "Deafult": 0
+          },
+          {
+            "IsEnabled": 0,
+            "Deafult": 0
+          },
+          {
+            "IsEnabled": 0,
+            "Deafult": 0
+          }
+        ],
+        "mCoinUp": [
+          {
+            "IsEnabled": 0,
+            "Deafult": 0
+          },
+          {
+            "IsEnabled": 0,
+            "Deafult": 0
+          },
+          {
+            "IsEnabled": 0,
+            "Deafult": 0
+          }
+        ]
+      },
+      {
+        "mScoreUp": [
+          {
+            "IsEnabled": 0,
+            "Deafult": 0
+          },
+          {
+            "IsEnabled": 1,
+            "Deafult": 25
+          },
+          {
+            "IsEnabled": 0,
+            "Deafult": 10
+          }
+        ],
+        "mCoinUp": [
+          {
+            "IsEnabled": 0,
+            "Deafult": 0
+          },
+          {
+            "IsEnabled": 1,
+            "Deafult": 0
+          },
+          {
+            "IsEnabled": 0,
+            "Deafult": 0
+          }
+        ]
+      }
+    ],
+    "ItemSlotResultScore": [
+      {
+        "mScoreUp": [
+          {
+            "IsEnabled": 0,
+            "Deafult": 0
+          },
+          {
+            "IsEnabled": 0,
+            "Deafult": 0
+          },
+          {
+            "IsEnabled": 0,
+            "Deafult": 0
+          }
+        ],
+        "mCoinUp": [
+          {
+            "IsEnabled": 0,
+            "Deafult": 0
+          },
+          {
+            "IsEnabled": 0,
+            "Deafult": 0
+          },
+          {
+            "IsEnabled": 0,
+            "Deafult": 0
+          }
+        ]
+      },
+      {
+        "mScoreUp": [
+          {
+            "IsEnabled": 0,
+            "Deafult": 0
+          },
+          {
+            "IsEnabled": 1,
+            "Deafult": 0
+          },
+          {
+            "IsEnabled": 0,
+            "Deafult": 0
+          }
+        ],
+        "mCoinUp": [
+          {
+            "IsEnabled": 0,
+            "Deafult": 0
+          },
+          {
+            "IsEnabled": 1,
+            "Deafult": 0
+          },
+          {
+            "IsEnabled": 0,
+            "Deafult": 0
+          }
+        ]
+      },
+      {
+        "mScoreUp": [
+          {
+            "IsEnabled": 0,
+            "Deafult": 0
+          },
+          {
+            "IsEnabled": 1,
+            "Deafult": 0
+          },
+          {
+            "IsEnabled": 0,
+            "Deafult": 0
+          }
+        ],
+        "mCoinUp": [
+          {
+            "IsEnabled": 0,
+            "Deafult": 0
+          },
+          {
+            "IsEnabled": 1,
+            "Deafult": 0
+          },
+          {
+            "IsEnabled": 0,
+            "Deafult": 0
+          }
+        ]
+      },
+      {
+        "mScoreUp": [
+          {
+            "IsEnabled": 0,
+            "Deafult": 0
+          },
+          {
+            "IsEnabled": 1,
+            "Deafult": 0
+          },
+          {
+            "IsEnabled": 0,
+            "Deafult": 0
+          }
+        ],
+        "mCoinUp": [
+          {
+            "IsEnabled": 0,
+            "Deafult": 0
+          },
+          {
+            "IsEnabled": 1,
+            "Deafult": 0
+          },
+          {
+            "IsEnabled": 0,
+            "Deafult": 0
+          }
+        ]
+      },
+      {
+        "mScoreUp": [
+          {
+            "IsEnabled": 1,
+            "Deafult": 0
+          },
+          {
+            "IsEnabled": 0,
+            "Deafult": 0
+          },
+          {
+            "IsEnabled": 0,
+            "Deafult": 0
+          }
+        ],
+        "mCoinUp": [
+          {
+            "IsEnabled": 1,
+            "Deafult": 10
+          },
+          {
+            "IsEnabled": 0,
+            "Deafult": 0
+          },
+          {
+            "IsEnabled": 0,
+            "Deafult": 0
+          }
+        ]
+      },
+      {
+        "mScoreUp": [
+          {
+            "IsEnabled": 0,
+            "Deafult": 0
+          },
+          {
+            "IsEnabled": 1,
+            "Deafult": 0
+          },
+          {
+            "IsEnabled": 0,
+            "Deafult": 0
+          }
+        ],
+        "mCoinUp": [
+          {
+            "IsEnabled": 0,
+            "Deafult": 0
+          },
+          {
+            "IsEnabled": 1,
+            "Deafult": 0
+          },
+          {
+            "IsEnabled": 0,
+            "Deafult": 0
+          }
+        ]
+      },
+      {
+        "mScoreUp": [
+          {
+            "IsEnabled": 0,
+            "Deafult": 0
+          },
+          {
+            "IsEnabled": 1,
+            "Deafult": 0
+          },
+          {
+            "IsEnabled": 0,
+            "Deafult": 0
+          }
+        ],
+        "mCoinUp": [
+          {
+            "IsEnabled": 0,
+            "Deafult": 0
+          },
+          {
+            "IsEnabled": 1,
+            "Deafult": 0
+          },
+          {
+            "IsEnabled": 0,
+            "Deafult": 0
+          }
+        ]
+      },
+      {
+        "mScoreUp": [
+          {
+            "IsEnabled": 0,
+            "Deafult": 0
+          },
+          {
+            "IsEnabled": 1,
+            "Deafult": 0
+          },
+          {
+            "IsEnabled": 0,
+            "Deafult": 0
+          }
+        ],
+        "mCoinUp": [
+          {
+            "IsEnabled": 0,
+            "Deafult": 0
+          },
+          {
+            "IsEnabled": 1,
+            "Deafult": 0
+          },
+          {
+            "IsEnabled": 0,
+            "Deafult": 0
+          }
+        ]
+      },
+      {
+        "mScoreUp": [
+          {
+            "IsEnabled": 1,
+            "Deafult": 10
+          },
+          {
+            "IsEnabled": 0,
+            "Deafult": 0
+          },
+          {
+            "IsEnabled": 0,
+            "Deafult": 0
+          }
+        ],
+        "mCoinUp": [
+          {
+            "IsEnabled": 1,
+            "Deafult": 0
+          },
+          {
+            "IsEnabled": 0,
+            "Deafult": 0
+          },
+          {
+            "IsEnabled": 0,
+            "Deafult": 0
+          }
+        ]
+      },
+      {
+        "mScoreUp": [
+          {
+            "IsEnabled": 1,
+            "Deafult": 0
+          },
+          {
+            "IsEnabled": 0,
+            "Deafult": 0
+          },
+          {
+            "IsEnabled": 0,
+            "Deafult": 0
+          }
+        ],
+        "mCoinUp": [
+          {
+            "IsEnabled": 1,
+            "Deafult": 0
+          },
+          {
+            "IsEnabled": 0,
+            "Deafult": 0
+          },
+          {
+            "IsEnabled": 0,
+            "Deafult": 0
+          }
+        ]
+      },
+      {
+        "mScoreUp": [
+          {
+            "IsEnabled": 0,
+            "Deafult": 0
+          },
+          {
+            "IsEnabled": 1,
+            "Deafult": 0
+          },
+          {
+            "IsEnabled": 0,
+            "Deafult": 0
+          },
+          {
+            "IsEnabled": 1,
+            "Deafult": 0
+          }
+        ],
+        "mCoinUp": [
+          {
+            "IsEnabled": 0,
+            "Deafult": 0
+          },
+          {
+            "IsEnabled": 1,
+            "Deafult": 0
+          },
+          {
+            "IsEnabled": 0,
+            "Deafult": 0
+          }
+        ]
+      },
+      {
+        "mScoreUp": [
+          {
+            "IsEnabled": 0,
+            "Deafult": 0
+          },
+          {
+            "IsEnabled": 1,
+            "Deafult": 0
+          },
+          {
+            "IsEnabled": 0,
+            "Deafult": 0
+          }
+        ],
+        "mCoinUp": [
+          {
+            "IsEnabled": 0,
+            "Deafult": 0
+          },
+          {
+            "IsEnabled": 1,
+            "Deafult": 0
+          },
+          {
+            "IsEnabled": 0,
+            "Deafult": 0
+          }
+        ]
+      },
+      {
+        "mScoreUp": [
+          {
+            "IsEnabled": 0,
+            "Deafult": 0
+          },
+          {
+            "IsEnabled": 1,
+            "Deafult": 0
+          },
+          {
+            "IsEnabled": 0,
+            "Deafult": 0
+          }
+        ],
+        "mCoinUp": [
+          {
+            "IsEnabled": 0,
+            "Deafult": 0
+          },
+          {
+            "IsEnabled": 1,
+            "Deafult": 0
+          },
+          {
+            "IsEnabled": 0,
+            "Deafult": 0
+          }
+        ]
+      },
+      {
+        "mScoreUp": [
+          {
+            "IsEnabled": 0,
+            "Deafult": 0
+          },
+          {
+            "IsEnabled": 1,
+            "Deafult": 0
+          },
+          {
+            "IsEnabled": 0,
+            "Deafult": 0
+          }
+        ],
+        "mCoinUp": [
+          {
+            "IsEnabled": 0,
+            "Deafult": 0
+          },
+          {
+            "IsEnabled": 1,
+            "Deafult": 0
+          },
+          {
+            "IsEnabled": 0,
+            "Deafult": 0
+          }
+        ]
+      },
+      {
+        "mScoreUp": [
+          {
+            "IsEnabled": 0,
+            "Deafult": 0
+          },
+          {
+            "IsEnabled": 0,
+            "Deafult": 0
+          },
+          {
+            "IsEnabled": 0,
+            "Deafult": 0
+          }
+        ],
+        "mCoinUp": [
+          {
+            "IsEnabled": 1,
+            "Deafult": 0
+          },
+          {
+            "IsEnabled": 0,
+            "Deafult": 0
+          },
+          {
+            "IsEnabled": 0,
+            "Deafult": 0
+          }
+        ]
+      },
+      {
+        "mScoreUp": [
+          {
+            "IsEnabled": 0,
+            "Deafult": 0
+          },
+          {
+            "IsEnabled": 1,
+            "Deafult": 0
+          },
+          {
+            "IsEnabled": 0,
+            "Deafult": 0
+          }
+        ],
+        "mCoinUp": [
+          {
+            "IsEnabled": 0,
+            "Deafult": 0
+          },
+          {
+            "IsEnabled": 1,
+            "Deafult": 0
+          },
+          {
+            "IsEnabled": 0,
+            "Deafult": 0
+          }
+        ]
+      },
+      {
+        "mScoreUp": [
+          {
+            "IsEnabled": 0,
+            "Deafult": 0
+          },
+          {
+            "IsEnabled": 0,
+            "Deafult": 0
+          },
+          {
+            "IsEnabled": 0,
+            "Deafult": 0
+          }
+        ],
+        "mCoinUp": [
+          {
+            "IsEnabled": 1,
+            "Deafult": 0
+          },
+          {
+            "IsEnabled": 0,
+            "Deafult": 0
+          },
+          {
+            "IsEnabled": 0,
+            "Deafult": 0
+          }
+        ]
+      },
+      {
+        "mScoreUp": [
+          {
+            "IsEnabled": 1,
+            "Deafult": 0
+          },
+          {
+            "IsEnabled": 0,
+            "Deafult": 0
+          },
+          {
+            "IsEnabled": 0,
+            "Deafult": 0
+          }
+        ],
+        "mCoinUp": [
+          {
+            "IsEnabled": 1,
+            "Deafult": 0
+          },
+          {
+            "IsEnabled": 0,
+            "Deafult": 0
+          },
+          {
+            "IsEnabled": 0,
+            "Deafult": 0
+          }
+        ]
+      },
+      {
+        "mScoreUp": [
+          {
+            "IsEnabled": 0,
+            "Deafult": 0
+          },
+          {
+            "IsEnabled": 0,
+            "Deafult": 0
+          },
+          {
+            "IsEnabled": 0,
+            "Deafult": 0
+          }
+        ],
+        "mCoinUp": [
+          {
+            "IsEnabled": 0,
+            "Deafult": 0
+          },
+          {
+            "IsEnabled": 0,
+            "Deafult": 0
+          },
+          {
+            "IsEnabled": 0,
+            "Deafult": 0
+          }
+        ]
+      },
+      {
+        "mScoreUp": [
+          {
+            "IsEnabled": 0,
+            "Deafult": 0
+          },
+          {
+            "IsEnabled": 0,
+            "Deafult": 0
+          },
+          {
+            "IsEnabled": 0,
+            "Deafult": 0
+          }
+        ],
+        "mCoinUp": [
+          {
+            "IsEnabled": 0,
+            "Deafult": 0
+          },
+          {
+            "IsEnabled": 0,
+            "Deafult": 0
+          },
+          {
+            "IsEnabled": 0,
+            "Deafult": 0
+          }
+        ]
+      },
+      {
+        "mScoreUp": [
+          {
+            "IsEnabled": 0,
+            "Deafult": 0
+          },
+          {
+            "IsEnabled": 0,
+            "Deafult": 0
+          },
+          {
+            "IsEnabled": 0,
+            "Deafult": 0
+          }
+        ],
+        "mCoinUp": [
+          {
+            "IsEnabled": 0,
+            "Deafult": 0
+          },
+          {
+            "IsEnabled": 0,
+            "Deafult": 0
+          },
+          {
+            "IsEnabled": 0,
+            "Deafult": 0
+          }
+        ]
+      },
+      {
+        "mScoreUp": [
+          {
+            "IsEnabled": 0,
+            "Deafult": 0
+          },
+          {
+            "IsEnabled": 0,
+            "Deafult": 0
+          },
+          {
+            "IsEnabled": 0,
+            "Deafult": 0
+          }
+        ],
+        "mCoinUp": [
+          {
+            "IsEnabled": 0,
+            "Deafult": 0
+          },
+          {
+            "IsEnabled": 0,
+            "Deafult": 0
+          },
+          {
+            "IsEnabled": 0,
+            "Deafult": 0
+          }
+        ]
+      },
+      {
+        "mScoreUp": [
+          {
+            "IsEnabled": 0,
+            "Deafult": 0
+          },
+          {
+            "IsEnabled": 1,
+            "Deafult": 0
+          },
+          {
+            "IsEnabled": 0,
+            "Deafult": 0
+          }
+        ],
+        "mCoinUp": [
+          {
+            "IsEnabled": 0,
+            "Deafult": 0
+          },
+          {
+            "IsEnabled": 1,
+            "Deafult": 0
+          },
+          {
+            "IsEnabled": 0,
+            "Deafult": 0
+          }
+        ]
+      },
+      {
+        "mScoreUp": [
+          {
+            "IsEnabled": 0,
+            "Deafult": 0
+          },
+          {
+            "IsEnabled": 1,
+            "Deafult": 0
+          },
+          {
+            "IsEnabled": 0,
+            "Deafult": 0
+          }
+        ],
+        "mCoinUp": [
+          {
+            "IsEnabled": 0,
+            "Deafult": 0
+          },
+          {
+            "IsEnabled": 1,
+            "Deafult": 0
+          },
+          {
+            "IsEnabled": 0,
+            "Deafult": 0
+          }
+        ]
+      },
+      {
+        "mScoreUp": [
+          {
+            "IsEnabled": 0,
+            "Deafult": 0
+          },
+          {
+            "IsEnabled": 1,
+            "Deafult": 0
+          },
+          {
+            "IsEnabled": 0,
+            "Deafult": 0
+          }
+        ],
+        "mCoinUp": [
+          {
+            "IsEnabled": 0,
+            "Deafult": 0
+          },
+          {
+            "IsEnabled": 1,
+            "Deafult": 0
+          },
+          {
+            "IsEnabled": 0,
+            "Deafult": 0
+          }
+        ]
+      },
+      {
+        "mScoreUp": [
+          {
+            "IsEnabled": 0,
+            "Deafult": 0
+          },
+          {
+            "IsEnabled": 0,
+            "Deafult": 0
+          },
+          {
+            "IsEnabled": 0,
+            "Deafult": 0
+          }
+        ],
+        "mCoinUp": [
+          {
+            "IsEnabled": 0,
+            "Deafult": 0
+          },
+          {
+            "IsEnabled": 0,
+            "Deafult": 0
+          },
+          {
+            "IsEnabled": 0,
+            "Deafult": 0
+          }
+        ]
+      },
+      {
+        "mScoreUp": [
+          {
+            "IsEnabled": 0,
+            "Deafult": 0
+          },
+          {
+            "IsEnabled": 1,
+            "Deafult": 0
+          },
+          {
+            "IsEnabled": 0,
+            "Deafult": 0
+          }
+        ],
+        "mCoinUp": [
+          {
+            "IsEnabled": 0,
+            "Deafult": 0
+          },
+          {
+            "IsEnabled": 1,
+            "Deafult": 0
+          },
+          {
+            "IsEnabled": 0,
+            "Deafult": 0
+          }
+        ]
+      },
+      {
+        "mScoreUp": [
+          {
+            "IsEnabled": 0,
+            "Deafult": 0
+          },
+          {
+            "IsEnabled": 1,
+            "Deafult": 0
+          },
+          {
+            "IsEnabled": 0,
+            "Deafult": 0
+          }
+        ],
+        "mCoinUp": [
+          {
+            "IsEnabled": 0,
+            "Deafult": 0
+          },
+          {
+            "IsEnabled": 0,
+            "Deafult": 0
+          },
+          {
+            "IsEnabled": 0,
+            "Deafult": 0
+          }
+        ]
+      },
+      {
+        "mScoreUp": [
+          {
+            "IsEnabled": 0,
+            "Deafult": 0
+          },
+          {
+            "IsEnabled": 0,
+            "Deafult": 0
+          },
+          {
+            "IsEnabled": 0,
+            "Deafult": 0
+          }
+        ],
+        "mCoinUp": [
+          {
+            "IsEnabled": 0,
+            "Deafult": 0
+          },
+          {
+            "IsEnabled": 0,
+            "Deafult": 0
+          },
+          {
+            "IsEnabled": 0,
+            "Deafult": 0
+          }
+        ]
+      },
+      {
+        "mScoreUp": [
+          {
+            "IsEnabled": 0,
+            "Deafult": 0
+          },
+          {
+            "IsEnabled": 0,
+            "Deafult": 0
+          },
+          {
+            "IsEnabled": 0,
+            "Deafult": 0
+          }
+        ],
+        "mCoinUp": [
+          {
+            "IsEnabled": 0,
+            "Deafult": 0
+          },
+          {
+            "IsEnabled": 0,
+            "Deafult": 0
+          },
+          {
+            "IsEnabled": 0,
+            "Deafult": 0
+          }
+        ]
+      },
+      {
+        "mScoreUp": [
+          {
+            "IsEnabled": 0,
+            "Deafult": 0
+          },
+          {
+            "IsEnabled": 0,
+            "Deafult": 0
+          },
+          {
+            "IsEnabled": 0,
+            "Deafult": 0
+          }
+        ],
+        "mCoinUp": [
+          {
+            "IsEnabled": 0,
+            "Deafult": 0
+          },
+          {
+            "IsEnabled": 0,
+            "Deafult": 0
+          },
+          {
+            "IsEnabled": 0,
+            "Deafult": 0
+          }
+        ]
+      },
+      {
+        "mScoreUp": [
+          {
+            "IsEnabled": 0,
+            "Deafult": 0
+          },
+          {
+            "IsEnabled": 1,
+            "Deafult": 0
+          },
+          {
+            "IsEnabled": 0,
+            "Deafult": 0
+          }
+        ],
+        "mCoinUp": [
+          {
+            "IsEnabled": 0,
+            "Deafult": 0
+          },
+          {
+            "IsEnabled": 1,
+            "Deafult": 0
+          },
+          {
+            "IsEnabled": 0,
+            "Deafult": 0
+          }
+        ]
+      },
+      {
+        "mScoreUp": [
+          {
+            "IsEnabled": 0,
+            "Deafult": 0
+          },
+          {
+            "IsEnabled": 1,
+            "Deafult": 0
+          },
+          {
+            "IsEnabled": 0,
+            "Deafult": 0
+          }
+        ],
+        "mCoinUp": [
+          {
+            "IsEnabled": 0,
+            "Deafult": 0
+          },
+          {
+            "IsEnabled": 1,
+            "Deafult": 0
+          },
+          {
+            "IsEnabled": 0,
+            "Deafult": 0
+          }
+        ]
+      },
+      {
+        "mScoreUp": [
+          {
+            "IsEnabled": 0,
+            "Deafult": 0
+          },
+          {
+            "IsEnabled": 1,
+            "Deafult": 0
+          },
+          {
+            "IsEnabled": 1,
+            "Deafult": 0
+          }
+        ],
+        "mCoinUp": [
+          {
+            "IsEnabled": 0,
+            "Deafult": 0
+          },
+          {
+            "IsEnabled": 1,
+            "Deafult": 0
+          },
+          {
+            "IsEnabled": 1,
+            "Deafult": 0
+          }
+        ]
+      },
+      {
+        "mScoreUp": [
+          {
+            "IsEnabled": 0,
+            "Deafult": 0
+          },
+          {
+            "IsEnabled": 0,
+            "Deafult": 0
+          },
+          {
+            "IsEnabled": 0,
+            "Deafult": 0
+          }
+        ],
+        "mCoinUp": [
+          {
+            "IsEnabled": 0,
+            "Deafult": 0
+          },
+          {
+            "IsEnabled": 0,
+            "Deafult": 0
+          },
+          {
+            "IsEnabled": 0,
+            "Deafult": 0
+          }
+        ]
+      },
+      {
+        "mScoreUp": [
+          {
+            "IsEnabled": 0,
+            "Deafult": 0
+          },
+          {
+            "IsEnabled": 0,
+            "Deafult": 0
+          },
+          {
+            "IsEnabled": 0,
+            "Deafult": 0
+          }
+        ],
+        "mCoinUp": [
+          {
+            "IsEnabled": 0,
+            "Deafult": 0
+          },
+          {
+            "IsEnabled": 0,
+            "Deafult": 0
+          },
+          {
+            "IsEnabled": 0,
+            "Deafult": 0
+          }
+        ]
+      },
+      {
+        "mScoreUp": [
+          {
+            "IsEnabled": 0,
+            "Deafult": 0
+          },
+          {
+            "IsEnabled": 0,
+            "Deafult": 0
+          },
+          {
+            "IsEnabled": 0,
+            "Deafult": 0
+          }
+        ],
+        "mCoinUp": [
+          {
+            "IsEnabled": 0,
+            "Deafult": 0
+          },
+          {
+            "IsEnabled": 0,
+            "Deafult": 0
+          },
+          {
+            "IsEnabled": 0,
+            "Deafult": 0
+          }
+        ]
+      },
+      {
+        "mScoreUp": [
+          {
+            "IsEnabled": 0,
+            "Deafult": 0
+          },
+          {
+            "IsEnabled": 0,
+            "Deafult": 0
+          },
+          {
+            "IsEnabled": 0,
+            "Deafult": 0
+          }
+        ],
+        "mCoinUp": [
+          {
+            "IsEnabled": 0,
+            "Deafult": 0
+          },
+          {
+            "IsEnabled": 0,
+            "Deafult": 0
+          },
+          {
+            "IsEnabled": 0,
+            "Deafult": 0
+          }
+        ]
+      },
+      {
+        "mScoreUp": [
+          {
+            "IsEnabled": 0,
+            "Deafult": 0
+          },
+          {
+            "IsEnabled": 0,
+            "Deafult": 0
+          },
+          {
+            "IsEnabled": 0,
+            "Deafult": 0
+          }
+        ],
+        "mCoinUp": [
+          {
+            "IsEnabled": 0,
+            "Deafult": 0
+          },
+          {
+            "IsEnabled": 0,
+            "Deafult": 0
+          },
+          {
+            "IsEnabled": 0,
+            "Deafult": 0
+          }
+        ]
+      },
+      {
+        "mScoreUp": [
+          {
+            "IsEnabled": 0,
+            "Deafult": 0
+          },
+          {
+            "IsEnabled": 0,
+            "Deafult": 0
+          },
+          {
+            "IsEnabled": 0,
+            "Deafult": 0
+          }
+        ],
+        "mCoinUp": [
+          {
+            "IsEnabled": 0,
+            "Deafult": 0
+          },
+          {
+            "IsEnabled": 0,
+            "Deafult": 0
+          },
+          {
+            "IsEnabled": 0,
+            "Deafult": 0
+          }
+        ]
+      },
+      {
+        "mScoreUp": [
+          {
+            "IsEnabled": 1,
+            "Deafult": 0
+          },
+          {
+            "IsEnabled": 0,
+            "Deafult": 0
+          },
+          {
+            "IsEnabled": 0,
+            "Deafult": 0
+          }
+        ],
+        "mCoinUp": [
+          {
+            "IsEnabled": 1,
+            "Deafult": 0
+          },
+          {
+            "IsEnabled": 0,
+            "Deafult": 0
+          },
+          {
+            "IsEnabled": 0,
+            "Deafult": 0
+          }
+        ]
+      },
+      {
+        "mScoreUp": [
+          {
+            "IsEnabled": 0,
+            "Deafult": 0
+          },
+          {
+            "IsEnabled": 0,
+            "Deafult": 0
+          },
+          {
+            "IsEnabled": 0,
+            "Deafult": 0
+          }
+        ],
+        "mCoinUp": [
+          {
+            "IsEnabled": 0,
+            "Deafult": 0
+          },
+          {
+            "IsEnabled": 0,
+            "Deafult": 0
+          },
+          {
+            "IsEnabled": 0,
+            "Deafult": 0
+          }
+        ]
+      },
+      {
+        "mScoreUp": [
+          {
+            "IsEnabled": 0,
+            "Deafult": 0
+          },
+          {
+            "IsEnabled": 0,
+            "Deafult": 0
+          },
+          {
+            "IsEnabled": 0,
+            "Deafult": 0
+          }
+        ],
+        "mCoinUp": [
+          {
+            "IsEnabled": 0,
+            "Deafult": 0
+          },
+          {
+            "IsEnabled": 0,
+            "Deafult": 0
+          },
+          {
+            "IsEnabled": 0,
+            "Deafult": 0
+          }
+        ]
+      },
+      {
+        "mScoreUp": [
+          {
+            "IsEnabled": 0,
+            "Deafult": 0
+          },
+          {
+            "IsEnabled": 0,
+            "Deafult": 0
+          },
+          {
+            "IsEnabled": 0,
+            "Deafult": 0
+          }
+        ],
+        "mCoinUp": [
+          {
+            "IsEnabled": 0,
+            "Deafult": 0
+          },
+          {
+            "IsEnabled": 0,
+            "Deafult": 0
+          },
+          {
+            "IsEnabled": 0,
+            "Deafult": 0
+          }
+        ]
+      },
+      {
+        "mScoreUp": [
+          {
+            "IsEnabled": 0,
+            "Deafult": 30
+          },
+          {
+            "IsEnabled": 0,
+            "Deafult": 0
+          },
+          {
+            "IsEnabled": 0,
+            "Deafult": 0
+          }
+        ],
+        "mCoinUp": [
+          {
+            "IsEnabled": 1,
+            "Deafult": 0
+          },
+          {
+            "IsEnabled": 0,
+            "Deafult": 0
+          },
+          {
+            "IsEnabled": 0,
+            "Deafult": 0
+          }
+        ]
+      },
+      {
+        "mScoreUp": [
+          {
+            "IsEnabled": 1,
+            "Deafult": 0
+          },
+          {
+            "IsEnabled": 0,
+            "Deafult": 0
+          },
+          {
+            "IsEnabled": 0,
+            "Deafult": 0
+          }
+        ],
+        "mCoinUp": [
+          {
+            "IsEnabled": 1,
+            "Deafult": 0
+          },
+          {
+            "IsEnabled": 0,
+            "Deafult": 0
+          },
+          {
+            "IsEnabled": 0,
+            "Deafult": 0
+          }
+        ]
+      },
+      {
+        "mScoreUp": [
+          {
+            "IsEnabled": 0,
+            "Deafult": 0
+          },
+          {
+            "IsEnabled": 0,
+            "Deafult": 0
+          },
+          {
+            "IsEnabled": 0,
+            "Deafult": 0
+          }
+        ],
+        "mCoinUp": [
+          {
+            "IsEnabled": 0,
+            "Deafult": 0
+          },
+          {
+            "IsEnabled": 0,
+            "Deafult": 0
+          },
+          {
+            "IsEnabled": 0,
+            "Deafult": 0
+          }
+        ]
+      },
+      {
+        "mScoreUp": [
+          {
+            "IsEnabled": 0,
+            "Deafult": 0
+          },
+          {
+            "IsEnabled": 1,
+            "Deafult": 0
+          },
+          {
+            "IsEnabled": 0,
+            "Deafult": 0
+          }
+        ],
+        "mCoinUp": [
+          {
+            "IsEnabled": 0,
+            "Deafult": 0
+          },
+          {
+            "IsEnabled": 1,
+            "Deafult": 0
+          },
+          {
+            "IsEnabled": 0,
+            "Deafult": 0
+          }
+        ]
+      },
+      {
+        "mScoreUp": [
+          {
+            "IsEnabled": 0,
+            "Deafult": 0
+          },
+          {
+            "IsEnabled": 1,
+            "Deafult": 0
+          },
+          {
+            "IsEnabled": 0,
+            "Deafult": 0
+          }
+        ],
+        "mCoinUp": [
+          {
+            "IsEnabled": 0,
+            "Deafult": 0
+          },
+          {
+            "IsEnabled": 1,
+            "Deafult": 0
+          },
+          {
+            "IsEnabled": 0,
+            "Deafult": 0
+          }
+        ]
+      },
+      {
+        "mScoreUp": [
+          {
+            "IsEnabled": 0,
+            "Deafult": 0
+          },
+          {
+            "IsEnabled": 1,
+            "Deafult": 0
+          },
+          {
+            "IsEnabled": 0,
+            "Deafult": 0
+          }
+        ],
+        "mCoinUp": [
+          {
+            "IsEnabled": 0,
+            "Deafult": 0
+          },
+          {
+            "IsEnabled": 1,
+            "Deafult": 0
+          },
+          {
+            "IsEnabled": 0,
+            "Deafult": 0
+          }
+        ]
+      },
+      {
+        "mScoreUp": [
+          {
+            "IsEnabled": 0,
+            "Deafult": 0
+          },
+          {
+            "IsEnabled": 1,
+            "Deafult": 0
+          },
+          {
+            "IsEnabled": 0,
+            "Deafult": 0
+          }
+        ],
+        "mCoinUp": [
+          {
+            "IsEnabled": 0,
+            "Deafult": 0
+          },
+          {
+            "IsEnabled": 1,
+            "Deafult": 0
+          },
+          {
+            "IsEnabled": 0,
+            "Deafult": 0
+          }
+        ]
+      },
+      {
+        "mScoreUp": [
+          {
+            "IsEnabled": 0,
+            "Deafult": 0
+          },
+          {
+            "IsEnabled": 1,
+            "Deafult": 0
+          },
+          {
+            "IsEnabled": 0,
+            "Deafult": 0
+          }
+        ],
+        "mCoinUp": [
+          {
+            "IsEnabled": 0,
+            "Deafult": 0
+          },
+          {
+            "IsEnabled": 1,
+            "Deafult": 0
+          },
+          {
+            "IsEnabled": 0,
+            "Deafult": 0
+          }
+        ]
+      },
+      {
+        "mScoreUp": [
+          {
+            "IsEnabled": 0,
+            "Deafult": 0
+          },
+          {
+            "IsEnabled": 1,
+            "Deafult": 0
+          },
+          {
+            "IsEnabled": 0,
+            "Deafult": 0
+          }
+        ],
+        "mCoinUp": [
+          {
+            "IsEnabled": 0,
+            "Deafult": 0
+          },
+          {
+            "IsEnabled": 1,
+            "Deafult": 0
+          },
+          {
+            "IsEnabled": 0,
+            "Deafult": 0
+          }
+        ]
+      },
+      {
+        "mScoreUp": [
+          {
+            "IsEnabled": 0,
+            "Deafult": 0
+          },
+          {
+            "IsEnabled": 0,
+            "Deafult": 0
+          },
+          {
+            "IsEnabled": 0,
+            "Deafult": 0
+          }
+        ],
+        "mCoinUp": [
+          {
+            "IsEnabled": 0,
+            "Deafult": 0
+          },
+          {
+            "IsEnabled": 0,
+            "Deafult": 0
+          },
+          {
+            "IsEnabled": 0,
+            "Deafult": 0
+          }
+        ]
+      },
+      {
+        "mScoreUp": [
+          {
+            "IsEnabled": 0,
+            "Deafult": 0
+          },
+          {
+            "IsEnabled": 0,
+            "Deafult": 0
+          },
+          {
+            "IsEnabled": 0,
+            "Deafult": 0
+          }
+        ],
+        "mCoinUp": [
+          {
+            "IsEnabled": 0,
+            "Deafult": 0
+          },
+          {
+            "IsEnabled": 0,
+            "Deafult": 0
+          },
+          {
+            "IsEnabled": 0,
+            "Deafult": 0
+          }
+        ]
+      },
+      {
+        "mScoreUp": [
+          {
+            "IsEnabled": 0,
+            "Deafult": 0
+          },
+          {
+            "IsEnabled": 1,
+            "Deafult": 0
+          },
+          {
+            "IsEnabled": 0,
+            "Deafult": 0
+          },
+          {
+            "IsEnabled": 1,
+            "Deafult": 0
+          }
+        ],
+        "mCoinUp": [
+          {
+            "IsEnabled": 0,
+            "Deafult": 0
+          },
+          {
+            "IsEnabled": 1,
+            "Deafult": 0
+          },
+          {
+            "IsEnabled": 0,
+            "Deafult": 0
+          }
+        ]
+      },
+      {
+        "mScoreUp": [
+          {
+            "IsEnabled": 0,
+            "Deafult": 0
+          },
+          {
+            "IsEnabled": 1,
+            "Deafult": 0
+          },
+          {
+            "IsEnabled": 0,
+            "Deafult": 0
+          }
+        ],
+        "mCoinUp": [
+          {
+            "IsEnabled": 0,
+            "Deafult": 0
+          },
+          {
+            "IsEnabled": 1,
+            "Deafult": 0
+          },
+          {
+            "IsEnabled": 0,
+            "Deafult": 0
+          }
+        ]
+      },
+      {
+        "mScoreUp": [
+          {
+            "IsEnabled": 0,
+            "Deafult": 0
+          },
+          {
+            "IsEnabled": 1,
+            "Deafult": 0
+          },
+          {
+            "IsEnabled": 0,
+            "Deafult": 0
+          }
+        ],
+        "mCoinUp": [
+          {
+            "IsEnabled": 0,
+            "Deafult": 0
+          },
+          {
+            "IsEnabled": 1,
+            "Deafult": 0
+          },
+          {
+            "IsEnabled": 0,
+            "Deafult": 0
+          }
+        ]
+      },
+      {
+        "mScoreUp": [
+          {
+            "IsEnabled": 1,
+            "Deafult": 0
+          },
+          {
+            "IsEnabled": 0,
+            "Deafult": 0
+          },
+          {
+            "IsEnabled": 0,
+            "Deafult": 0
+          }
+        ],
+        "mCoinUp": [
+          {
+            "IsEnabled": 1,
+            "Deafult": 0
+          },
+          {
+            "IsEnabled": 0,
+            "Deafult": 0
+          },
+          {
+            "IsEnabled": 0,
+            "Deafult": 0
+          }
+        ]
+      },
+      {
+        "mScoreUp": [
+          {
+            "IsEnabled": 0,
+            "Deafult": 0
+          },
+          {
+            "IsEnabled": 0,
+            "Deafult": 0
+          },
+          {
+            "IsEnabled": 0,
+            "Deafult": 0
+          }
+        ],
+        "mCoinUp": [
+          {
+            "IsEnabled": 0,
+            "Deafult": 0
+          },
+          {
+            "IsEnabled": 0,
+            "Deafult": 0
+          },
+          {
+            "IsEnabled": 0,
+            "Deafult": 0
+          }
+        ]
+      },
+      {
+        "mScoreUp": [
+          {
+            "IsEnabled": 0,
+            "Deafult": 0
+          },
+          {
+            "IsEnabled": 0,
+            "Deafult": 0
+          },
+          {
+            "IsEnabled": 0,
+            "Deafult": 0
+          }
+        ],
+        "mCoinUp": [
+          {
+            "IsEnabled": 0,
+            "Deafult": 0
+          },
+          {
+            "IsEnabled": 0,
+            "Deafult": 0
+          },
+          {
+            "IsEnabled": 0,
+            "Deafult": 0
+          }
+        ]
+      },
+      {
+        "mScoreUp": [
+          {
+            "IsEnabled": 0,
+            "Deafult": 0
+          },
+          {
+            "IsEnabled": 0,
+            "Deafult": 0
+          },
+          {
+            "IsEnabled": 0,
+            "Deafult": 0
+          }
+        ],
+        "mCoinUp": [
+          {
+            "IsEnabled": 0,
+            "Deafult": 0
+          },
+          {
+            "IsEnabled": 0,
+            "Deafult": 0
+          },
+          {
+            "IsEnabled": 0,
+            "Deafult": 0
+          }
+        ]
+      },
+      {
+        "mScoreUp": [
+          {
+            "IsEnabled": 0,
+            "Deafult": 0
+          },
+          {
+            "IsEnabled": 0,
+            "Deafult": 0
+          },
+          {
+            "IsEnabled": 0,
+            "Deafult": 0
+          },
+          {
+            "IsEnabled": 0,
+            "Deafult": 0
+          },
+          {
+            "IsEnabled": 0,
+            "Deafult": 0
+          }
+        ],
+        "mCoinUp": [
+          {
+            "IsEnabled": 0,
+            "Deafult": 0
+          },
+          {
+            "IsEnabled": 0,
+            "Deafult": 0
+          },
+          {
+            "IsEnabled": 0,
+            "Deafult": 0
+          },
+          {
+            "IsEnabled": 0,
+            "Deafult": 0
+          },
+          {
+            "IsEnabled": 0,
+            "Deafult": 0
+          }
+        ]
+      },
+      {
+        "mScoreUp": [
+          {
+            "IsEnabled": 0,
+            "Deafult": 0
+          },
+          {
+            "IsEnabled": 0,
+            "Deafult": 0
+          },
+          {
+            "IsEnabled": 0,
+            "Deafult": 0
+          },
+          {
+            "IsEnabled": 0,
+            "Deafult": 0
+          },
+          {
+            "IsEnabled": 0,
+            "Deafult": 0
+          }
+        ],
+        "mCoinUp": [
+          {
+            "IsEnabled": 0,
+            "Deafult": 0
+          },
+          {
+            "IsEnabled": 0,
+            "Deafult": 0
+          },
+          {
+            "IsEnabled": 0,
+            "Deafult": 0
+          },
+          {
+            "IsEnabled": 0,
+            "Deafult": 0
+          },
+          {
+            "IsEnabled": 0,
+            "Deafult": 0
+          }
+        ]
+      },
+      {
+        "mScoreUp": [
+          {
+            "IsEnabled": 0,
+            "Deafult": 0
+          },
+          {
+            "IsEnabled": 0,
+            "Deafult": 0
+          },
+          {
+            "IsEnabled": 0,
+            "Deafult": 0
+          },
+          {
+            "IsEnabled": 0,
+            "Deafult": 0
+          },
+          {
+            "IsEnabled": 0,
+            "Deafult": 0
+          }
+        ],
+        "mCoinUp": [
+          {
+            "IsEnabled": 0,
+            "Deafult": 0
+          },
+          {
+            "IsEnabled": 0,
+            "Deafult": 0
+          },
+          {
+            "IsEnabled": 0,
+            "Deafult": 0
+          },
+          {
+            "IsEnabled": 0,
+            "Deafult": 0
+          },
+          {
+            "IsEnabled": 0,
+            "Deafult": 0
+          }
+        ]
+      },
+      {
+        "mScoreUp": [
+          {
+            "IsEnabled": 0,
+            "Deafult": 0
+          },
+          {
+            "IsEnabled": 0,
+            "Deafult": 0
+          },
+          {
+            "IsEnabled": 0,
+            "Deafult": 0
+          },
+          {
+            "IsEnabled": 0,
+            "Deafult": 0
+          },
+          {
+            "IsEnabled": 0,
+            "Deafult": 0
+          }
+        ],
+        "mCoinUp": [
+          {
+            "IsEnabled": 0,
+            "Deafult": 0
+          },
+          {
+            "IsEnabled": 0,
+            "Deafult": 0
+          },
+          {
+            "IsEnabled": 0,
+            "Deafult": 0
+          },
+          {
+            "IsEnabled": 0,
+            "Deafult": 0
+          },
+          {
+            "IsEnabled": 0,
+            "Deafult": 0
+          }
+        ]
+      },
+      {
+        "mScoreUp": [
+          {
+            "IsEnabled": 0,
+            "Deafult": 0
+          },
+          {
+            "IsEnabled": 0,
+            "Deafult": 0
+          },
+          {
+            "IsEnabled": 0,
+            "Deafult": 0
+          },
+          {
+            "IsEnabled": 0,
+            "Deafult": 0
+          },
+          {
+            "IsEnabled": 0,
+            "Deafult": 0
+          }
+        ],
+        "mCoinUp": [
+          {
+            "IsEnabled": 0,
+            "Deafult": 0
+          },
+          {
+            "IsEnabled": 0,
+            "Deafult": 0
+          },
+          {
+            "IsEnabled": 0,
+            "Deafult": 0
+          },
+          {
+            "IsEnabled": 0,
+            "Deafult": 0
+          },
+          {
+            "IsEnabled": 0,
+            "Deafult": 0
+          }
+        ]
+      },
+      {
+        "mScoreUp": [
+          {
+            "IsEnabled": 0,
+            "Deafult": 0
+          },
+          {
+            "IsEnabled": 0,
+            "Deafult": 0
+          },
+          {
+            "IsEnabled": 0,
+            "Deafult": 0
+          },
+          {
+            "IsEnabled": 0,
+            "Deafult": 0
+          },
+          {
+            "IsEnabled": 0,
+            "Deafult": 0
+          }
+        ],
+        "mCoinUp": [
+          {
+            "IsEnabled": 0,
+            "Deafult": 0
+          },
+          {
+            "IsEnabled": 0,
+            "Deafult": 0
+          },
+          {
+            "IsEnabled": 0,
+            "Deafult": 0
+          },
+          {
+            "IsEnabled": 0,
+            "Deafult": 0
+          },
+          {
+            "IsEnabled": 0,
+            "Deafult": 0
+          }
+        ]
+      },
+      {
+        "mScoreUp": [
+          {
+            "IsEnabled": 0,
+            "Deafult": 0
+          },
+          {
+            "IsEnabled": 0,
+            "Deafult": 0
+          },
+          {
+            "IsEnabled": 0,
+            "Deafult": 0
+          },
+          {
+            "IsEnabled": 0,
+            "Deafult": 0
+          },
+          {
+            "IsEnabled": 0,
+            "Deafult": 0
+          }
+        ],
+        "mCoinUp": [
+          {
+            "IsEnabled": 0,
+            "Deafult": 0
+          },
+          {
+            "IsEnabled": 0,
+            "Deafult": 0
+          },
+          {
+            "IsEnabled": 0,
+            "Deafult": 0
+          },
+          {
+            "IsEnabled": 0,
+            "Deafult": 0
+          },
+          {
+            "IsEnabled": 0,
+            "Deafult": 0
+          }
+        ]
+      },
+      {
+        "mScoreUp": [
+          {
+            "IsEnabled": 0,
+            "Deafult": 0
+          },
+          {
+            "IsEnabled": 0,
+            "Deafult": 0
+          },
+          {
+            "IsEnabled": 0,
+            "Deafult": 0
+          },
+          {
+            "IsEnabled": 0,
+            "Deafult": 0
+          },
+          {
+            "IsEnabled": 0,
+            "Deafult": 0
+          }
+        ],
+        "mCoinUp": [
+          {
+            "IsEnabled": 0,
+            "Deafult": 0
+          },
+          {
+            "IsEnabled": 0,
+            "Deafult": 0
+          },
+          {
+            "IsEnabled": 0,
+            "Deafult": 0
+          },
+          {
+            "IsEnabled": 0,
+            "Deafult": 0
+          },
+          {
+            "IsEnabled": 0,
+            "Deafult": 0
+          }
+        ]
+      },
+      {
+        "mScoreUp": [
+          {
+            "IsEnabled": 0,
+            "Deafult": 0
+          },
+          {
+            "IsEnabled": 0,
+            "Deafult": 0
+          },
+          {
+            "IsEnabled": 0,
+            "Deafult": 0
+          },
+          {
+            "IsEnabled": 0,
+            "Deafult": 0
+          },
+          {
+            "IsEnabled": 0,
+            "Deafult": 0
+          }
+        ],
+        "mCoinUp": [
+          {
+            "IsEnabled": 0,
+            "Deafult": 0
+          },
+          {
+            "IsEnabled": 0,
+            "Deafult": 0
+          },
+          {
+            "IsEnabled": 0,
+            "Deafult": 0
+          },
+          {
+            "IsEnabled": 0,
+            "Deafult": 0
+          },
+          {
+            "IsEnabled": 0,
+            "Deafult": 0
+          }
+        ]
+      },
+      {
+        "mScoreUp": [
+          {
+            "IsEnabled": 0,
+            "Deafult": 0
+          },
+          {
+            "IsEnabled": 0,
+            "Deafult": 0
+          },
+          {
+            "IsEnabled": 0,
+            "Deafult": 0
+          },
+          {
+            "IsEnabled": 0,
+            "Deafult": 0
+          },
+          {
+            "IsEnabled": 0,
+            "Deafult": 0
+          }
+        ],
+        "mCoinUp": [
+          {
+            "IsEnabled": 0,
+            "Deafult": 0
+          },
+          {
+            "IsEnabled": 0,
+            "Deafult": 0
+          },
+          {
+            "IsEnabled": 0,
+            "Deafult": 0
+          },
+          {
+            "IsEnabled": 0,
+            "Deafult": 0
+          },
+          {
+            "IsEnabled": 0,
+            "Deafult": 0
+          }
+        ]
+      },
+      {
+        "mScoreUp": [
+          {
+            "IsEnabled": 0,
+            "Deafult": 0
+          },
+          {
+            "IsEnabled": 0,
+            "Deafult": 0
+          },
+          {
+            "IsEnabled": 0,
+            "Deafult": 0
+          },
+          {
+            "IsEnabled": 0,
+            "Deafult": 0
+          },
+          {
+            "IsEnabled": 0,
+            "Deafult": 0
+          }
+        ],
+        "mCoinUp": [
+          {
+            "IsEnabled": 0,
+            "Deafult": 0
+          },
+          {
+            "IsEnabled": 0,
+            "Deafult": 0
+          },
+          {
+            "IsEnabled": 0,
+            "Deafult": 0
+          },
+          {
+            "IsEnabled": 0,
+            "Deafult": 0
+          },
+          {
+            "IsEnabled": 0,
+            "Deafult": 0
+          }
+        ]
+      },
+      {
+        "mScoreUp": [
+          {
+            "IsEnabled": 0,
+            "Deafult": 0
+          },
+          {
+            "IsEnabled": 0,
+            "Deafult": 0
+          },
+          {
+            "IsEnabled": 0,
+            "Deafult": 0
+          },
+          {
+            "IsEnabled": 0,
+            "Deafult": 0
+          },
+          {
+            "IsEnabled": 0,
+            "Deafult": 0
+          }
+        ],
+        "mCoinUp": [
+          {
+            "IsEnabled": 0,
+            "Deafult": 0
+          },
+          {
+            "IsEnabled": 0,
+            "Deafult": 0
+          },
+          {
+            "IsEnabled": 0,
+            "Deafult": 0
+          },
+          {
+            "IsEnabled": 0,
+            "Deafult": 0
+          },
+          {
+            "IsEnabled": 0,
+            "Deafult": 0
+          }
+        ]
+      },
+      {
+        "mScoreUp": [
+          {
+            "IsEnabled": 0,
+            "Deafult": 0
+          },
+          {
+            "IsEnabled": 0,
+            "Deafult": 0
+          },
+          {
+            "IsEnabled": 0,
+            "Deafult": 0
+          },
+          {
+            "IsEnabled": 0,
+            "Deafult": 0
+          },
+          {
+            "IsEnabled": 0,
+            "Deafult": 0
+          }
+        ],
+        "mCoinUp": [
+          {
+            "IsEnabled": 0,
+            "Deafult": 0
+          },
+          {
+            "IsEnabled": 0,
+            "Deafult": 0
+          },
+          {
+            "IsEnabled": 0,
+            "Deafult": 0
+          },
+          {
+            "IsEnabled": 0,
+            "Deafult": 0
+          },
+          {
+            "IsEnabled": 0,
+            "Deafult": 0
+          }
+        ]
+      },
+      {
+        "mScoreUp": [
+          {
+            "IsEnabled": 0,
+            "Deafult": 0
+          },
+          {
+            "IsEnabled": 0,
+            "Deafult": 0
+          },
+          {
+            "IsEnabled": 0,
+            "Deafult": 0
+          },
+          {
+            "IsEnabled": 0,
+            "Deafult": 0
+          },
+          {
+            "IsEnabled": 0,
+            "Deafult": 0
+          }
+        ],
+        "mCoinUp": [
+          {
+            "IsEnabled": 0,
+            "Deafult": 0
+          },
+          {
+            "IsEnabled": 0,
+            "Deafult": 0
+          },
+          {
+            "IsEnabled": 0,
+            "Deafult": 0
+          },
+          {
+            "IsEnabled": 0,
+            "Deafult": 0
+          },
+          {
+            "IsEnabled": 0,
+            "Deafult": 0
+          }
+        ]
+      },
+      {
+        "mScoreUp": [
+          {
+            "IsEnabled": 0,
+            "Deafult": 0
+          },
+          {
+            "IsEnabled": 0,
+            "Deafult": 0
+          },
+          {
+            "IsEnabled": 0,
+            "Deafult": 0
+          },
+          {
+            "IsEnabled": 0,
+            "Deafult": 0
+          },
+          {
+            "IsEnabled": 0,
+            "Deafult": 0
+          }
+        ],
+        "mCoinUp": [
+          {
+            "IsEnabled": 0,
+            "Deafult": 0
+          },
+          {
+            "IsEnabled": 0,
+            "Deafult": 0
+          },
+          {
+            "IsEnabled": 0,
+            "Deafult": 0
+          },
+          {
+            "IsEnabled": 0,
+            "Deafult": 0
+          },
+          {
+            "IsEnabled": 0,
+            "Deafult": 0
+          }
+        ]
+      },
+      {
+        "mScoreUp": [
+          {
+            "IsEnabled": 0,
+            "Deafult": 0
+          },
+          {
+            "IsEnabled": 0,
+            "Deafult": 0
+          },
+          {
+            "IsEnabled": 0,
+            "Deafult": 0
+          },
+          {
+            "IsEnabled": 0,
+            "Deafult": 0
+          },
+          {
+            "IsEnabled": 0,
+            "Deafult": 0
+          }
+        ],
+        "mCoinUp": [
+          {
+            "IsEnabled": 0,
+            "Deafult": 0
+          },
+          {
+            "IsEnabled": 0,
+            "Deafult": 0
+          },
+          {
+            "IsEnabled": 0,
+            "Deafult": 0
+          },
+          {
+            "IsEnabled": 0,
+            "Deafult": 0
+          },
+          {
+            "IsEnabled": 0,
+            "Deafult": 0
+          }
+        ]
+      },
+      {
+        "mScoreUp": [
+          {
+            "IsEnabled": 0,
+            "Deafult": 0
+          },
+          {
+            "IsEnabled": 0,
+            "Deafult": 0
+          },
+          {
+            "IsEnabled": 0,
+            "Deafult": 0
+          },
+          {
+            "IsEnabled": 0,
+            "Deafult": 0
+          },
+          {
+            "IsEnabled": 0,
+            "Deafult": 0
+          }
+        ],
+        "mCoinUp": [
+          {
+            "IsEnabled": 0,
+            "Deafult": 0
+          },
+          {
+            "IsEnabled": 0,
+            "Deafult": 0
+          },
+          {
+            "IsEnabled": 0,
+            "Deafult": 0
+          },
+          {
+            "IsEnabled": 0,
+            "Deafult": 0
+          },
+          {
+            "IsEnabled": 0,
+            "Deafult": 0
+          }
+        ]
+      },
+      {
+        "mScoreUp": [
+          {
+            "IsEnabled": 0,
+            "Deafult": 0
+          },
+          {
+            "IsEnabled": 0,
+            "Deafult": 0
+          },
+          {
+            "IsEnabled": 0,
+            "Deafult": 0
+          },
+          {
+            "IsEnabled": 0,
+            "Deafult": 0
+          },
+          {
+            "IsEnabled": 0,
+            "Deafult": 0
+          }
+        ],
+        "mCoinUp": [
+          {
+            "IsEnabled": 0,
+            "Deafult": 0
+          },
+          {
+            "IsEnabled": 0,
+            "Deafult": 0
+          },
+          {
+            "IsEnabled": 0,
+            "Deafult": 0
+          },
+          {
+            "IsEnabled": 0,
+            "Deafult": 0
+          },
+          {
+            "IsEnabled": 0,
+            "Deafult": 0
+          }
+        ]
+      },
+      {
+        "mScoreUp": [
+          {
+            "IsEnabled": 0,
+            "Deafult": 0
+          },
+          {
+            "IsEnabled": 0,
+            "Deafult": 0
+          },
+          {
+            "IsEnabled": 0,
+            "Deafult": 0
+          },
+          {
+            "IsEnabled": 0,
+            "Deafult": 0
+          },
+          {
+            "IsEnabled": 0,
+            "Deafult": 0
+          }
+        ],
+        "mCoinUp": [
+          {
+            "IsEnabled": 0,
+            "Deafult": 0
+          },
+          {
+            "IsEnabled": 0,
+            "Deafult": 0
+          },
+          {
+            "IsEnabled": 0,
+            "Deafult": 0
+          },
+          {
+            "IsEnabled": 0,
+            "Deafult": 0
+          },
+          {
+            "IsEnabled": 0,
+            "Deafult": 0
+          }
+        ]
+      },
+      {
+        "mScoreUp": [
+          {
+            "IsEnabled": 0,
+            "Deafult": 0
+          },
+          {
+            "IsEnabled": 0,
+            "Deafult": 0
+          },
+          {
+            "IsEnabled": 0,
+            "Deafult": 0
+          },
+          {
+            "IsEnabled": 0,
+            "Deafult": 0
+          },
+          {
+            "IsEnabled": 0,
+            "Deafult": 0
+          }
+        ],
+        "mCoinUp": [
+          {
+            "IsEnabled": 0,
+            "Deafult": 0
+          },
+          {
+            "IsEnabled": 0,
+            "Deafult": 0
+          },
+          {
+            "IsEnabled": 0,
+            "Deafult": 0
+          },
+          {
+            "IsEnabled": 0,
+            "Deafult": 0
+          },
+          {
+            "IsEnabled": 0,
+            "Deafult": 0
+          }
+        ]
+      },
+      {
+        "mScoreUp": [
+          {
+            "IsEnabled": 0,
+            "Deafult": 0
+          },
+          {
+            "IsEnabled": 0,
+            "Deafult": 0
+          },
+          {
+            "IsEnabled": 0,
+            "Deafult": 0
+          },
+          {
+            "IsEnabled": 0,
+            "Deafult": 0
+          },
+          {
+            "IsEnabled": 0,
+            "Deafult": 0
+          }
+        ],
+        "mCoinUp": [
+          {
+            "IsEnabled": 0,
+            "Deafult": 0
+          },
+          {
+            "IsEnabled": 0,
+            "Deafult": 0
+          },
+          {
+            "IsEnabled": 0,
+            "Deafult": 0
+          },
+          {
+            "IsEnabled": 0,
+            "Deafult": 0
+          },
+          {
+            "IsEnabled": 0,
+            "Deafult": 0
+          }
+        ]
+      },
+      {
+        "mScoreUp": [
+          {
+            "IsEnabled": 0,
+            "Deafult": 0
+          },
+          {
+            "IsEnabled": 0,
+            "Deafult": 0
+          },
+          {
+            "IsEnabled": 0,
+            "Deafult": 0
+          },
+          {
+            "IsEnabled": 0,
+            "Deafult": 0
+          },
+          {
+            "IsEnabled": 0,
+            "Deafult": 0
+          }
+        ],
+        "mCoinUp": [
+          {
+            "IsEnabled": 0,
+            "Deafult": 0
+          },
+          {
+            "IsEnabled": 0,
+            "Deafult": 0
+          },
+          {
+            "IsEnabled": 0,
+            "Deafult": 0
+          },
+          {
+            "IsEnabled": 0,
+            "Deafult": 0
+          },
+          {
+            "IsEnabled": 0,
+            "Deafult": 0
+          }
+        ]
+      }
+    ]
+  }
+}

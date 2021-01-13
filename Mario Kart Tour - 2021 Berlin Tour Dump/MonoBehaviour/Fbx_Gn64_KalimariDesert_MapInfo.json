@@ -1,0 +1,26 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": 980329048157257672
+  },
+  "m_Name": "Fbx_Gn64_KalimariDesert_MapInfo",
+  "rect": {
+    "x": -395.8,
+    "y": -442.745056,
+    "width": 765.3719,
+    "height": 765.3719
+  },
+  "sprite": {
+    "m_FileID": 0,
+    "m_PathID": 7345088900288728096
+  },
+  "offset": {
+    "x": -20.0,
+    "y": 0.0
+  }
+}

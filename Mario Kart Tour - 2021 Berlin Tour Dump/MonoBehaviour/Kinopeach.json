@@ -1,0 +1,131 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": -2094441087577622512
+  },
+  "m_Name": "Kinopeach",
+  "mModel": {
+    "m_FileID": 1,
+    "m_PathID": -7870046678883113915
+  },
+  "mFaceTextures": [
+    {
+      "m_FileID": 2,
+      "m_PathID": -233065629965758829
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 8001371792428909946
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -1897072623201283225
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 4476411732301869181
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -6116511044165261787
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -8281555331432356235
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 4498655605028329297
+    }
+  ],
+  "mIsFaceTextureEmission": 0,
+  "mEmblem": {
+    "m_FileID": 0,
+    "m_PathID": 2737854699683653776
+  },
+  "mAnimatorOverrideController": {
+    "m_FileID": 3,
+    "m_PathID": -6732618011704404900
+  },
+  "mKartScaleSize": 1.0,
+  "mWingJointType": 0,
+  "mFaceChangeEvent": {
+    "m_FileID": 0,
+    "m_PathID": -221196308762443655
+  },
+  "mIconInfo": [
+    {
+      "mPath": "Assets/Main/Content/Driver/Kinopeach/Icons/Kinopeach.png",
+      "mGuid": "0a70e19153235244aba9bb5f3e64d597"
+    },
+    {
+      "mPath": "Assets/Main/Content/Driver/Kinopeach/Icons/KinopeachMap.png",
+      "mGuid": "642129eeafbcf0541a2ee48ce5711e20"
+    },
+    {
+      "mPath": "Assets/Main/Content/Driver/Kinopeach/Icons/KinopeachFaceEntry.png",
+      "mGuid": "5f387203e323fbe4b9c45d8312847669"
+    },
+    {
+      "mPath": "Assets/Main/Content/Driver/Kinopeach/Icons/KinopeachWholeBody.png",
+      "mGuid": "304688204e866a844b3dbfbeb9530371"
+    },
+    {
+      "mPath": "Assets/Main/Content/Driver/Kinopeach/Icons/KinopeachUpperBody.png",
+      "mGuid": "d3d652b2c12fea34eb2c6f1006a3da09"
+    },
+    {
+      "mPath": "",
+      "mGuid": ""
+    },
+    {
+      "mPath": "Assets/Main/Content/Driver/Kinopeach/Icons/Kinopeach_Small.png",
+      "mGuid": "d6fe6cdbd79a65d4783ae7d10cef4b38"
+    },
+    {
+      "mPath": "Assets/Main/Content/Driver/Kinopeach/Icons/KinopeachFaceEntry_Small.png",
+      "mGuid": "c207984a7685d0f4a94d8c85a104294b"
+    },
+    {
+      "mPath": "Assets/Main/Content/Driver/Kinopeach/Icons/KinopeachWholeBody_Small.png",
+      "mGuid": "83878b92c17aea841915efa7798e23a1"
+    },
+    {
+      "mPath": "Assets/Main/Content/Driver/Kinopeach/Icons/KinopeachUpperBody_Small.png",
+      "mGuid": "cc4a41082f88e204e82f6e1ed1635e89"
+    }
+  ],
+  "mColorGroup": 0,
+  "mCharacterTextureList": [],
+  "mBaseParameter": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "mBodyMaterial": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "mEyeMaterial": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "mDynamicUnitMngInitData": {
+    "m_FileID": 0,
+    "m_PathID": 8697480883664205267
+  },
+  "mMetamorData": [],
+  "mDotDriverData": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "mDescription": "",
+  "mEffectContainer": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  }
+}

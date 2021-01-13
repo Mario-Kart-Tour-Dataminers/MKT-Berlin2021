@@ -1,0 +1,123 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": -2094441087577622512
+  },
+  "m_Name": "HoneKoopa",
+  "mModel": {
+    "m_FileID": 2,
+    "m_PathID": -2939475181442117271
+  },
+  "mFaceTextures": [
+    {
+      "m_FileID": 3,
+      "m_PathID": -6298887834730285793
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -4089965654266999974
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 5891184962621454484
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 2777789053447293060
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 1532221610076518806
+    }
+  ],
+  "mIsFaceTextureEmission": 1,
+  "mEmblem": {
+    "m_FileID": 0,
+    "m_PathID": -5506265706577344257
+  },
+  "mAnimatorOverrideController": {
+    "m_FileID": 1,
+    "m_PathID": 1369662724552123594
+  },
+  "mKartScaleSize": 1.1,
+  "mWingJointType": 0,
+  "mFaceChangeEvent": {
+    "m_FileID": 0,
+    "m_PathID": -1020214196753381351
+  },
+  "mIconInfo": [
+    {
+      "mPath": "Assets/Main/Content/Driver/HoneKoopa/Icons/HoneKoopa.png",
+      "mGuid": "7a9f7cf40697219429eca3ed2c03499f"
+    },
+    {
+      "mPath": "Assets/Main/Content/Driver/HoneKoopa/Icons/HoneKoopaMap.png",
+      "mGuid": "d69516b1437d47b44b344ce4ffa20c23"
+    },
+    {
+      "mPath": "Assets/Main/Content/Driver/HoneKoopa/Icons/HoneKoopaFaceEntry.png",
+      "mGuid": "4f71b30150077874caec21d0ccf3eb1f"
+    },
+    {
+      "mPath": "Assets/Main/Content/Driver/HoneKoopa/Icons/HoneKoopaWholeBody.png",
+      "mGuid": "515d62461aafcc84091280e71b1b3ba6"
+    },
+    {
+      "mPath": "Assets/Main/Content/Driver/HoneKoopa/Icons/HoneKoopaUpperBody.png",
+      "mGuid": "8ed4d666625bef440bbf71ed49d3d871"
+    },
+    {
+      "mPath": "",
+      "mGuid": ""
+    },
+    {
+      "mPath": "Assets/Main/Content/Driver/HoneKoopa/Icons/HoneKoopa_Small.png",
+      "mGuid": "e8bc91672a86c6141bd12d80e4972c8a"
+    },
+    {
+      "mPath": "Assets/Main/Content/Driver/HoneKoopa/Icons/HoneKoopaFaceEntry_Small.png",
+      "mGuid": "8d460e5e0e42b024b8163597ca8f050c"
+    },
+    {
+      "mPath": "Assets/Main/Content/Driver/HoneKoopa/Icons/HoneKoopaWholeBody_Small.png",
+      "mGuid": "b8ef0750b18bd554ab6e6256c407e86e"
+    },
+    {
+      "mPath": "Assets/Main/Content/Driver/HoneKoopa/Icons/HoneKoopaUpperBody_Small.png",
+      "mGuid": "bd02657639248024baccb6fc24c480cc"
+    }
+  ],
+  "mColorGroup": 0,
+  "mCharacterTextureList": [],
+  "mBaseParameter": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "mBodyMaterial": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "mEyeMaterial": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "mDynamicUnitMngInitData": {
+    "m_FileID": 0,
+    "m_PathID": -7410320677281438731
+  },
+  "mMetamorData": [],
+  "mDotDriverData": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "mDescription": "ほねクッパ",
+  "mEffectContainer": {
+    "m_FileID": 0,
+    "m_PathID": 7632211144315724334
+  }
+}

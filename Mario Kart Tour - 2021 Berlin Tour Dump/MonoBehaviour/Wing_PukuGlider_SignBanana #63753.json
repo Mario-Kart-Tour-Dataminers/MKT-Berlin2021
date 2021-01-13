@@ -1,0 +1,50 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": 2434717279687273224
+  },
+  "m_Name": "Wing_PukuGlider_SignBanana",
+  "mWingModel": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "mIconInfo": [
+    {
+      "mPath": "Assets/Main/Content/Kart/Wing/Wing_PukuGlider/Icons/Wing_PukuGlider_SignBanana.png",
+      "mGuid": "63ddf6b01d19bc34fa9bc91e566acfa8"
+    },
+    {
+      "mPath": "Assets/Main/Content/Kart/Wing/Wing_PukuGlider/Icons/Wing_PukuGlider_SignBanana_Large.png",
+      "mGuid": "58473160dfbbf6545a2529a943172cd8"
+    },
+    {
+      "mPath": "Assets/Main/Content/Kart/Wing/Wing_PukuGlider/Icons/Wing_PukuGlider_SignBanana_Small.png",
+      "mGuid": "eb72950f40557f24ca813a352b9f8c4d"
+    }
+  ],
+  "mWingType": 0,
+  "mIsFixedIcon": 0,
+  "mBaseParameter": {
+    "m_FileID": 6,
+    "m_PathID": -1163890223536989472
+  },
+  "mMaterial": {
+    "m_FileID": 0,
+    "m_PathID": -7217433321577211182
+  },
+  "mEffectContainer": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "mIsDisableAngleAnimation": 0,
+  "mDescription": "",
+  "mColorValiationRoot": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  }
+}

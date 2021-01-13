@@ -1,0 +1,64 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": -7949393647206850218
+  },
+  "m_Name": "GraphicShader",
+  "mBakeShaderAlphaFactor100": {
+    "m_FileID": 0,
+    "m_PathID": -3354380319028569181
+  },
+  "mBakeShaderAlphaFactor90": {
+    "m_FileID": 0,
+    "m_PathID": -656280956759223819
+  },
+  "mBakeShaderAlphaFactor80": {
+    "m_FileID": 0,
+    "m_PathID": -8984944133343351841
+  },
+  "mBakeShaderAlphaFactor75": {
+    "m_FileID": 0,
+    "m_PathID": -8149716082664661314
+  },
+  "mBakeShaderAlphaFactor70": {
+    "m_FileID": 0,
+    "m_PathID": 430408413270638921
+  },
+  "mBakeShaderAlphaFactor60": {
+    "m_FileID": 0,
+    "m_PathID": 3987117590944334376
+  },
+  "mBakeShaderAlphaFactor50": {
+    "m_FileID": 0,
+    "m_PathID": -1495563848592739382
+  },
+  "mBakeShadowBlurShader": {
+    "m_FileID": 0,
+    "m_PathID": 4572844704171179738
+  },
+  "mBakeShadowProjectorShader": {
+    "m_FileID": 2,
+    "m_PathID": 1101248977889168645
+  },
+  "mDriverGhostShader": {
+    "m_FileID": 0,
+    "m_PathID": 5856615092106774373
+  },
+  "mKartBodyGhostShader": {
+    "m_FileID": 0,
+    "m_PathID": -7240484231983736984
+  },
+  "mKartTireGhostShader": {
+    "m_FileID": 0,
+    "m_PathID": -5410945404727566333
+  },
+  "mKartWingGhostShader": {
+    "m_FileID": 0,
+    "m_PathID": -4180711232497941869
+  }
+}

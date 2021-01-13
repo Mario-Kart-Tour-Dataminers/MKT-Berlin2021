@@ -1,0 +1,131 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": -2094441087577622512
+  },
+  "m_Name": "BrosIce",
+  "mModel": {
+    "m_FileID": 2,
+    "m_PathID": 7534611520430454855
+  },
+  "mFaceTextures": [
+    {
+      "m_FileID": 3,
+      "m_PathID": -8843889503143843523
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 3452429033106149153
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -32657782250070937
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 6259134186913643323
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 6884436915445928940
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -4049293208175717055
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -3697944309542817415
+    }
+  ],
+  "mIsFaceTextureEmission": 0,
+  "mEmblem": {
+    "m_FileID": 0,
+    "m_PathID": 8937955677179235768
+  },
+  "mAnimatorOverrideController": {
+    "m_FileID": 4,
+    "m_PathID": 4400282569022022039
+  },
+  "mKartScaleSize": 1.0,
+  "mWingJointType": 0,
+  "mFaceChangeEvent": {
+    "m_FileID": 0,
+    "m_PathID": 6941325386792130074
+  },
+  "mIconInfo": [
+    {
+      "mPath": "Assets/Main/Content/Driver/BrosIce/Icons/BrosIce.png",
+      "mGuid": "52dd5813ac136b24f813cdb845ee3253"
+    },
+    {
+      "mPath": "Assets/Main/Content/Driver/BrosIce/Icons/BrosIceMap.png",
+      "mGuid": "cbe258cacc6a238409d870c7db27cdd6"
+    },
+    {
+      "mPath": "Assets/Main/Content/Driver/BrosIce/Icons/BrosIceFaceEntry.png",
+      "mGuid": "59e0963358d2712428619d5bb39871fc"
+    },
+    {
+      "mPath": "Assets/Main/Content/Driver/BrosIce/Icons/BrosIceWholeBody.png",
+      "mGuid": "0223aa3e5808dd24cb612327b063210b"
+    },
+    {
+      "mPath": "Assets/Main/Content/Driver/BrosIce/Icons/BrosIceUpperBody.png",
+      "mGuid": "f58cbc8a8b84c5f468c2d1e065825560"
+    },
+    {
+      "mPath": "",
+      "mGuid": ""
+    },
+    {
+      "mPath": "Assets/Main/Content/Driver/BrosIce/Icons/BrosIce_Small.png",
+      "mGuid": "b76c08fc6675c134fb770c566fe87e14"
+    },
+    {
+      "mPath": "Assets/Main/Content/Driver/BrosIce/Icons/BrosIceFaceEntry_Small.png",
+      "mGuid": "a99e16665ce086b45be1e1b54956af94"
+    },
+    {
+      "mPath": "Assets/Main/Content/Driver/BrosIce/Icons/BrosIceWholeBody_Small.png",
+      "mGuid": "66b12b5e9d62c8b428d893e4501afffc"
+    },
+    {
+      "mPath": "Assets/Main/Content/Driver/BrosIce/Icons/BrosIceUpperBody_Small.png",
+      "mGuid": "96aec710a94d6f24b86d1a85cd33530b"
+    }
+  ],
+  "mColorGroup": 0,
+  "mCharacterTextureList": [],
+  "mBaseParameter": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "mBodyMaterial": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "mEyeMaterial": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "mDynamicUnitMngInitData": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "mMetamorData": [],
+  "mDotDriverData": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "mDescription": "",
+  "mEffectContainer": {
+    "m_FileID": 0,
+    "m_PathID": 2569924333088147028
+  }
+}

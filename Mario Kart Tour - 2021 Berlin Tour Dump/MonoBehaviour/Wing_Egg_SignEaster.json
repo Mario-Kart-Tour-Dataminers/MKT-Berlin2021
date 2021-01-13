@@ -1,0 +1,50 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": 2434717279687273224
+  },
+  "m_Name": "Wing_Egg_SignEaster",
+  "mWingModel": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "mIconInfo": [
+    {
+      "mPath": "Assets/Main/Content/Kart/Wing/Wing_Egg/Icons/Wing_Egg_SignEaster.png",
+      "mGuid": "defdca75f92cfdb42a26fe0dc65758a8"
+    },
+    {
+      "mPath": "Assets/Main/Content/Kart/Wing/Wing_Egg/Icons/Wing_Egg_SignEaster_Large.png",
+      "mGuid": "3fbd10929c1b278409e080cefa96265f"
+    },
+    {
+      "mPath": "Assets/Main/Content/Kart/Wing/Wing_Egg/Icons/Wing_Egg_SignEaster_Small.png",
+      "mGuid": "bf85f15083bbce94b99f6bc607609500"
+    }
+  ],
+  "mWingType": 0,
+  "mIsFixedIcon": 0,
+  "mBaseParameter": {
+    "m_FileID": 1,
+    "m_PathID": -2991911149021283605
+  },
+  "mMaterial": {
+    "m_FileID": 0,
+    "m_PathID": 8630374296666960542
+  },
+  "mEffectContainer": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "mIsDisableAngleAnimation": 0,
+  "mDescription": "",
+  "mColorValiationRoot": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  }
+}

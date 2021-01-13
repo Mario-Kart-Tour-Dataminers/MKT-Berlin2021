@@ -1,0 +1,43 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": -3205259396417638272
+  },
+  "m_Name": "TireK_StdSFC_Silver",
+  "mTireType": 0,
+  "mTireList": [],
+  "mIconInfo": [
+    {
+      "mPath": "",
+      "mGuid": ""
+    }
+  ],
+  "mIsFixedIcon": 0,
+  "mBaseParameter": {
+    "m_FileID": 1,
+    "m_PathID": 7189746775567562978
+  },
+  "mMaterial": {
+    "m_FileID": 0,
+    "m_PathID": -2106355138359731756
+  },
+  "mShaftMaterial": {
+    "m_FileID": 0,
+    "m_PathID": 1614995494919995628
+  },
+  "mEffectContainer": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "mEffectContainerForBody": [],
+  "mDescription": "SFCノーマルタイヤ（銀）",
+  "mColorValiationRoot": {
+    "m_FileID": 1,
+    "m_PathID": 7189746775567562978
+  }
+}

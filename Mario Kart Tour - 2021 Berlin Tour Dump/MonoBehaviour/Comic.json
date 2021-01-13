@@ -1,0 +1,34 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": 4454195247659244470
+  },
+  "m_Name": "Comic",
+  "settings": [
+    {
+      "m_FileID": 0,
+      "m_PathID": 8235419405438579413
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 8288440158586071748
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 4336542842622239122
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 2027428126221898007
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 6986820228776295481
+    }
+  ]
+}

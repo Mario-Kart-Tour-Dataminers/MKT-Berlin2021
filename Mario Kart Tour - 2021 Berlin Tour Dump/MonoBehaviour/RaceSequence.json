@@ -1,0 +1,18 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": 1221170988587294811
+  },
+  "m_Name": "RaceSequence",
+  "mSyncingTimeMin": 0.0,
+  "mGoalCameraWaitTimeSinceFinishUI": 0.0,
+  "mResultTime": 2.0,
+  "mFadeInTime": 0.5,
+  "mFadeOutTime": 0.5,
+  "mFadeSustainTime": 0.0
+}

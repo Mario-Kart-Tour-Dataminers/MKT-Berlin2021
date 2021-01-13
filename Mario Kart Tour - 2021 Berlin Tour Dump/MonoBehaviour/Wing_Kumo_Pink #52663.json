@@ -1,0 +1,50 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": 2434717279687273224
+  },
+  "m_Name": "Wing_Kumo_Pink",
+  "mWingModel": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "mIconInfo": [
+    {
+      "mPath": "Assets/Main/Content/Kart/Wing/Wing_Kumo/Icons/Wing_Kumo_Pink.png",
+      "mGuid": "b821085f0fde9f74c8a8c5645c17f8c2"
+    },
+    {
+      "mPath": "Assets/Main/Content/Kart/Wing/Wing_Kumo/Icons/Wing_Kumo_Pink_Large.png",
+      "mGuid": "d21e215d7913e214d9901e01d5ae0805"
+    },
+    {
+      "mPath": "Assets/Main/Content/Kart/Wing/Wing_Kumo/Icons/Wing_Kumo_Pink_Small.png",
+      "mGuid": "2b3b677600729b247b324b020deb4150"
+    }
+  ],
+  "mWingType": 0,
+  "mIsFixedIcon": 0,
+  "mBaseParameter": {
+    "m_FileID": 1,
+    "m_PathID": 6533585055874795726
+  },
+  "mMaterial": {
+    "m_FileID": 0,
+    "m_PathID": 5149381694460057681
+  },
+  "mEffectContainer": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "mIsDisableAngleAnimation": 0,
+  "mDescription": "",
+  "mColorValiationRoot": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  }
+}

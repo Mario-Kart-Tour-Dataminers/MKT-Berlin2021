@@ -1,0 +1,26 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": 980329048157257672
+  },
+  "m_Name": "Fbx_G3ds_DaisyHills_MapInfo",
+  "rect": {
+    "x": -278.029,
+    "y": -413.183929,
+    "width": 730.783264,
+    "height": 730.783264
+  },
+  "sprite": {
+    "m_FileID": 0,
+    "m_PathID": -7470108315529192711
+  },
+  "offset": {
+    "x": 20.0,
+    "y": 0.0
+  }
+}

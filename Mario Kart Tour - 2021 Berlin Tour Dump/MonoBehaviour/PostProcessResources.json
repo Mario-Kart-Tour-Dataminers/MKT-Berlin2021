@@ -1,0 +1,258 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": -610103151655255854
+  },
+  "m_Name": "PostProcessResources",
+  "blueNoise64": [
+    {
+      "m_FileID": 0,
+      "m_PathID": 8039260549255123449
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -7777709987182929203
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 9137274969534507930
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 5305733666126132078
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 3417735746195909655
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -28057106415562169
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -9035240911314833302
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -7346558235494332024
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 1891538249334844255
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -276239683851060628
+    }
+  ],
+  "blueNoise256": [
+    {
+      "m_FileID": 0,
+      "m_PathID": -6780244411793225739
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 7158123275701190224
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 68557498493584347
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 3993662405645653317
+    }
+  ],
+  "smaaLuts": {
+    "area": {
+      "m_FileID": 0,
+      "m_PathID": 4034367648152015234
+    },
+    "search": {
+      "m_FileID": 0,
+      "m_PathID": 7370602297995014801
+    }
+  },
+  "shaders": {
+    "bloom": {
+      "m_FileID": 0,
+      "m_PathID": 8988913726339783424
+    },
+    "copy": {
+      "m_FileID": 0,
+      "m_PathID": -4973038200040909824
+    },
+    "copyStd": {
+      "m_FileID": 0,
+      "m_PathID": 298710939669815259
+    },
+    "copyStdFromTexArray": {
+      "m_FileID": 0,
+      "m_PathID": -6650416373133120969
+    },
+    "copyStdFromDoubleWide": {
+      "m_FileID": 0,
+      "m_PathID": 2195987627329493049
+    },
+    "discardAlpha": {
+      "m_FileID": 0,
+      "m_PathID": 7465293567043087699
+    },
+    "depthOfField": {
+      "m_FileID": 0,
+      "m_PathID": -2953848807474662952
+    },
+    "finalPass": {
+      "m_FileID": 0,
+      "m_PathID": -5858001442653136649
+    },
+    "grainBaker": {
+      "m_FileID": 0,
+      "m_PathID": 5624038553360078666
+    },
+    "motionBlur": {
+      "m_FileID": 0,
+      "m_PathID": -3307523492377991637
+    },
+    "temporalAntialiasing": {
+      "m_FileID": 0,
+      "m_PathID": 5405191335456954674
+    },
+    "subpixelMorphologicalAntialiasing": {
+      "m_FileID": 0,
+      "m_PathID": 3423760132543892835
+    },
+    "texture2dLerp": {
+      "m_FileID": 0,
+      "m_PathID": 2453043317722098349
+    },
+    "uber": {
+      "m_FileID": 0,
+      "m_PathID": -8743461278535665275
+    },
+    "lut2DBaker": {
+      "m_FileID": 0,
+      "m_PathID": -1937864785665725807
+    },
+    "lightMeter": {
+      "m_FileID": 0,
+      "m_PathID": 6709672099904423032
+    },
+    "gammaHistogram": {
+      "m_FileID": 0,
+      "m_PathID": -4709796742613844951
+    },
+    "waveform": {
+      "m_FileID": 0,
+      "m_PathID": 3383880505755123392
+    },
+    "vectorscope": {
+      "m_FileID": 0,
+      "m_PathID": -9047065357358581336
+    },
+    "debugOverlays": {
+      "m_FileID": 0,
+      "m_PathID": -3916141043457383556
+    },
+    "deferredFog": {
+      "m_FileID": 0,
+      "m_PathID": 1025418840632815531
+    },
+    "scalableAO": {
+      "m_FileID": 0,
+      "m_PathID": -5322518601826005645
+    },
+    "multiScaleAO": {
+      "m_FileID": 0,
+      "m_PathID": -4679685286374723708
+    },
+    "screenSpaceReflections": {
+      "m_FileID": 0,
+      "m_PathID": 5718197366326960878
+    },
+    "tilingTextureColor": {
+      "m_FileID": 0,
+      "m_PathID": 4333097386843567138
+    },
+    "tilingSubtractiveColor": {
+      "m_FileID": 0,
+      "m_PathID": 5238367707136503287
+    },
+    "radialBlur": {
+      "m_FileID": 0,
+      "m_PathID": 4875190101384049256
+    },
+    "oilPainting": {
+      "m_FileID": 0,
+      "m_PathID": 533499792569453117
+    },
+    "outline": {
+      "m_FileID": 0,
+      "m_PathID": -3901505896678296984
+    },
+    "silhouette": {
+      "m_FileID": 0,
+      "m_PathID": 4667013560333181313
+    },
+    "halftone": {
+      "m_FileID": 0,
+      "m_PathID": 6197827467725084020
+    }
+  },
+  "computeShaders": {
+    "autoExposure": {
+      "m_FileID": 0,
+      "m_PathID": -6878930987012681530
+    },
+    "exposureHistogram": {
+      "m_FileID": 0,
+      "m_PathID": -4005128471460205571
+    },
+    "lut3DBaker": {
+      "m_FileID": 0,
+      "m_PathID": 1732566613643786149
+    },
+    "texture3dLerp": {
+      "m_FileID": 0,
+      "m_PathID": -5229478451446583189
+    },
+    "gammaHistogram": {
+      "m_FileID": 0,
+      "m_PathID": -4350754158382115031
+    },
+    "waveform": {
+      "m_FileID": 0,
+      "m_PathID": 7864625063792381804
+    },
+    "vectorscope": {
+      "m_FileID": 0,
+      "m_PathID": 6273259233585234184
+    },
+    "multiScaleAODownsample1": {
+      "m_FileID": 0,
+      "m_PathID": -5713464771417595651
+    },
+    "multiScaleAODownsample2": {
+      "m_FileID": 0,
+      "m_PathID": -6121789328081435096
+    },
+    "multiScaleAORender": {
+      "m_FileID": 0,
+      "m_PathID": 1957954629993433079
+    },
+    "multiScaleAOUpsample": {
+      "m_FileID": 0,
+      "m_PathID": 8175472720999050358
+    },
+    "gaussianDownsample": {
+      "m_FileID": 0,
+      "m_PathID": 8060206236703827143
+    }
+  }
+}

@@ -1,0 +1,50 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": 2434717279687273224
+  },
+  "m_Name": "Wing_Paper_Red",
+  "mWingModel": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "mIconInfo": [
+    {
+      "mPath": "Assets/Main/Content/Kart/Wing/Wing_Paper/Icons/Wing_Paper_Red.png",
+      "mGuid": "bced3265e02c32b468e94d5a9afc52ba"
+    },
+    {
+      "mPath": "Assets/Main/Content/Kart/Wing/Wing_Paper/Icons/Wing_Paper_Red_Large.png",
+      "mGuid": "5d74a04205784ed4a8465c80839ff92b"
+    },
+    {
+      "mPath": "Assets/Main/Content/Kart/Wing/Wing_Paper/Icons/Wing_Paper_Red_Small.png",
+      "mGuid": "74874ab06b7fa1a4da32755e10df0df5"
+    }
+  ],
+  "mWingType": 0,
+  "mIsFixedIcon": 0,
+  "mBaseParameter": {
+    "m_FileID": 1,
+    "m_PathID": 6518380072120996344
+  },
+  "mMaterial": {
+    "m_FileID": 0,
+    "m_PathID": 1763513312204317373
+  },
+  "mEffectContainer": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "mIsDisableAngleAnimation": 0,
+  "mDescription": "かみひこうき（赤）",
+  "mColorValiationRoot": {
+    "m_FileID": 1,
+    "m_PathID": 6518380072120996344
+  }
+}

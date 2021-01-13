@@ -1,0 +1,22 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": 1459800800835859083
+  },
+  "m_Name": "KartParamVehicleDrift",
+  "cDriftSteerInRatio": 0.55,
+  "cDriftSteerInRatio_200CC": 0.7,
+  "cDriftSteerInRatio_CoinBattle": 0.7,
+  "cDriftSteerOutRatio": 0.4,
+  "cDriftSteerOutRatio_200CC": 0.6,
+  "cDriftSteerOutRatio_CoinBattle": 0.6,
+  "cAutoDriftCharge_AutoDriftStart": 20.0,
+  "cCurveAngle_AutoDriftAutoStart": 20.0,
+  "cCurveAngle_AutoDriftStart": 10.0,
+  "cAutoChargeMax": 40.0
+}

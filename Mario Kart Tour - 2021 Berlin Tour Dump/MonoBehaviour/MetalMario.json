@@ -1,0 +1,135 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": -2094441087577622512
+  },
+  "m_Name": "MetalMario",
+  "mModel": {
+    "m_FileID": 3,
+    "m_PathID": -4915877824580474498
+  },
+  "mFaceTextures": [
+    {
+      "m_FileID": 2,
+      "m_PathID": 3531599915437206519
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 5985018370945793231
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 4980072351617342578
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 5263421304690299457
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -4635666060336607017
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -8932321408391016558
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -6285367949901188074
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -6387277441696162892
+    }
+  ],
+  "mIsFaceTextureEmission": 0,
+  "mEmblem": {
+    "m_FileID": 0,
+    "m_PathID": 1403124996980639434
+  },
+  "mAnimatorOverrideController": {
+    "m_FileID": 1,
+    "m_PathID": 8628606730234119237
+  },
+  "mKartScaleSize": 1.0,
+  "mWingJointType": 0,
+  "mFaceChangeEvent": {
+    "m_FileID": 0,
+    "m_PathID": -8987943703352150035
+  },
+  "mIconInfo": [
+    {
+      "mPath": "Assets/Main/Content/Driver/MetalMario/Icons/MetalMario.png",
+      "mGuid": "3bde73557ffb9d348b5ef9cb6ca32c9c"
+    },
+    {
+      "mPath": "Assets/Main/Content/Driver/MetalMario/Icons/MetalMarioMap.png",
+      "mGuid": "afb8cfde9c8c9904d9953c77d80ac3da"
+    },
+    {
+      "mPath": "Assets/Main/Content/Driver/MetalMario/Icons/MetalMarioFaceEntry.png",
+      "mGuid": "15cf997e0ffa8e244a37491db61c3f7a"
+    },
+    {
+      "mPath": "Assets/Main/Content/Driver/MetalMario/Icons/MetalMarioWholeBody.png",
+      "mGuid": "bb69962ff27ea6144926b499dd967a29"
+    },
+    {
+      "mPath": "Assets/Main/Content/Driver/MetalMario/Icons/MetalMarioUpperBody.png",
+      "mGuid": "05fe1ee0eff4b054eaf3253ff695e1bc"
+    },
+    {
+      "mPath": "",
+      "mGuid": ""
+    },
+    {
+      "mPath": "Assets/Main/Content/Driver/MetalMario/Icons/MetalMario_Small.png",
+      "mGuid": "66a594c67d3e68741829f730ba0382e6"
+    },
+    {
+      "mPath": "Assets/Main/Content/Driver/MetalMario/Icons/MetalMarioFaceEntry_Small.png",
+      "mGuid": "3f1d6377933119842abc11cfc714a94d"
+    },
+    {
+      "mPath": "Assets/Main/Content/Driver/MetalMario/Icons/MetalMarioWholeBody_Small.png",
+      "mGuid": "cbece5b57804d534c8abd4491f788f60"
+    },
+    {
+      "mPath": "Assets/Main/Content/Driver/MetalMario/Icons/MetalMarioUpperBody_Small.png",
+      "mGuid": "80cc5135c8937a046a5a5ab09f30feac"
+    }
+  ],
+  "mColorGroup": 0,
+  "mCharacterTextureList": [],
+  "mBaseParameter": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "mBodyMaterial": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "mEyeMaterial": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "mDynamicUnitMngInitData": {
+    "m_FileID": 0,
+    "m_PathID": -4654195655762138983
+  },
+  "mMetamorData": [],
+  "mDotDriverData": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "mDescription": "メタルマリオ",
+  "mEffectContainer": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  }
+}

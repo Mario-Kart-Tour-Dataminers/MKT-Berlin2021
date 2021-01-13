@@ -1,0 +1,36 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": -3875019554938154149
+  },
+  "m_Name": "ItemParamKouraCommon",
+  "mGravity": 0.04,
+  "mGravityWing": 0.02,
+  "mInitSpeedAdd": 0.3,
+  "mInitSpeedBaseCannon": 1.5,
+  "mInitSpeedKartRatio": 1.66,
+  "mTermSpeedAdd": 0.6,
+  "mTermSpeedKartRatio": 1.2,
+  "mCheckIniVelMax": 4.0,
+  "mCheckIniVelMin": 0.25,
+  "mBackInitVelKartRatio": 0.0600000024,
+  "mBackInitVelMax": 1.5,
+  "mBackInitVelMin": 0.25,
+  "mThrowUpOffset": 0.7,
+  "mCruiseSpeedCannonPath": 2.7,
+  "mSpeedLerpRatio": 0.05,
+  "mVelDirLerpRatioOnGnd": 0.5,
+  "mNrmLerpRatio": 0.05,
+  "mSpeedRefSE": 0.5,
+  "mRatioWallNrmY": 0.01,
+  "mReflectUpLerpRatio": 0.3,
+  "mTrampolineReflectVelNrmMin": 0.3,
+  "mTrampolineReflectVelNrmMax": 1.1,
+  "mTrampolineReflectVelParMin": 0.2,
+  "mTrampolineReflectVelParMax": 0.7
+}

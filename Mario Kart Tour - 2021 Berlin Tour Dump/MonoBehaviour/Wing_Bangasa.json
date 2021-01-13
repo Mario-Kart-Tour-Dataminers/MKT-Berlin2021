@@ -1,0 +1,50 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": 2434717279687273224
+  },
+  "m_Name": "Wing_Bangasa",
+  "mWingModel": {
+    "m_FileID": 0,
+    "m_PathID": -7654321598724060262
+  },
+  "mIconInfo": [
+    {
+      "mPath": "Assets/Main/Content/Kart/Wing/Wing_Bangasa/Icons/Wing_Bangasa.png",
+      "mGuid": "94b289d472b9a5e40953b65416076efd"
+    },
+    {
+      "mPath": "Assets/Main/Content/Kart/Wing/Wing_Bangasa/Icons/Wing_Bangasa_Large.png",
+      "mGuid": "92588b3e2412b6146928eb830d3ccbf0"
+    },
+    {
+      "mPath": "Assets/Main/Content/Kart/Wing/Wing_Bangasa/Icons/Wing_Bangasa_Small.png",
+      "mGuid": "92275004632963842bb687345b9f4858"
+    }
+  ],
+  "mWingType": 0,
+  "mIsFixedIcon": 0,
+  "mBaseParameter": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "mMaterial": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "mEffectContainer": {
+    "m_FileID": 0,
+    "m_PathID": 8206457165313912183
+  },
+  "mIsDisableAngleAnimation": 0,
+  "mDescription": "",
+  "mColorValiationRoot": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  }
+}

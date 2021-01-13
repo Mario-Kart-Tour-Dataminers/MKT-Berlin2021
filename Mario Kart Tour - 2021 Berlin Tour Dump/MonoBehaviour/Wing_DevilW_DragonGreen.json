@@ -1,0 +1,50 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": 2434717279687273224
+  },
+  "m_Name": "Wing_DevilW_DragonGreen",
+  "mWingModel": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "mIconInfo": [
+    {
+      "mPath": "Assets/Main/Content/Kart/Wing/Wing_DevilW/Icons/Wing_DevilW_DragonGreen.png",
+      "mGuid": "acdedf5f14f74234ba3982d5c3762c45"
+    },
+    {
+      "mPath": "Assets/Main/Content/Kart/Wing/Wing_DevilW/Icons/Wing_DevilW_DragonGreen_Large.png",
+      "mGuid": "57c7ac546f854d94c901085b00081282"
+    },
+    {
+      "mPath": "Assets/Main/Content/Kart/Wing/Wing_DevilW/Icons/Wing_DevilW_DragonGreen_Small.png",
+      "mGuid": "a0e44d6f8e8ce034eaba9b32493f8d65"
+    }
+  ],
+  "mWingType": 0,
+  "mIsFixedIcon": 0,
+  "mBaseParameter": {
+    "m_FileID": 1,
+    "m_PathID": -3603503930182821615
+  },
+  "mMaterial": {
+    "m_FileID": 0,
+    "m_PathID": 7167221224638450972
+  },
+  "mEffectContainer": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "mIsDisableAngleAnimation": 0,
+  "mDescription": "",
+  "mColorValiationRoot": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  }
+}

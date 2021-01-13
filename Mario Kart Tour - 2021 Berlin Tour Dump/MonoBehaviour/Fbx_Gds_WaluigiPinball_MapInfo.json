@@ -1,0 +1,26 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": 980329048157257672
+  },
+  "m_Name": "Fbx_Gds_WaluigiPinball_MapInfo",
+  "rect": {
+    "x": -504.487427,
+    "y": -440.848267,
+    "width": 1003.041,
+    "height": 1003.041
+  },
+  "sprite": {
+    "m_FileID": 0,
+    "m_PathID": 1740880355965844909
+  },
+  "offset": {
+    "x": -45.0,
+    "y": 0.0
+  }
+}

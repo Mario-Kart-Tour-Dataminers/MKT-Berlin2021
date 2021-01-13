@@ -1,0 +1,50 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": 2434717279687273224
+  },
+  "m_Name": "Wing_Ribbon_CheckBrown",
+  "mWingModel": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "mIconInfo": [
+    {
+      "mPath": "Assets/Main/Content/Kart/Wing/Wing_Ribbon/Icons/Wing_Ribbon_CheckBrown.png",
+      "mGuid": "d01fb1ce98850874ea5792802973567a"
+    },
+    {
+      "mPath": "Assets/Main/Content/Kart/Wing/Wing_Ribbon/Icons/Wing_Ribbon_CheckBrown_Large.png",
+      "mGuid": "9aab401afb5db274db28129ce5af97cb"
+    },
+    {
+      "mPath": "Assets/Main/Content/Kart/Wing/Wing_Ribbon/Icons/Wing_Ribbon_CheckBrown_Small.png",
+      "mGuid": "834a76adc4dd4f8499184129361e7dbf"
+    }
+  ],
+  "mWingType": 0,
+  "mIsFixedIcon": 0,
+  "mBaseParameter": {
+    "m_FileID": 1,
+    "m_PathID": 6941257669023791266
+  },
+  "mMaterial": {
+    "m_FileID": 0,
+    "m_PathID": -7582415124145303325
+  },
+  "mEffectContainer": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "mIsDisableAngleAnimation": 0,
+  "mDescription": "",
+  "mColorValiationRoot": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  }
+}

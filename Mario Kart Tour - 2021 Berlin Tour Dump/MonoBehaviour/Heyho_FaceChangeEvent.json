@@ -1,0 +1,109 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": -4222366918237533649
+  },
+  "m_Name": "Heyho_FaceChangeEvent",
+  "mFaceChangeEvent": [
+    {
+      "mState": 0,
+      "mFaceId": 0,
+      "mTime": 0.0
+    },
+    {
+      "mState": 5,
+      "mFaceId": 0,
+      "mTime": 0.0
+    },
+    {
+      "mState": 4,
+      "mFaceId": 0,
+      "mTime": 0.0
+    },
+    {
+      "mState": 4,
+      "mFaceId": 0,
+      "mTime": 0.0
+    },
+    {
+      "mState": 2,
+      "mFaceId": 0,
+      "mTime": 0.0
+    },
+    {
+      "mState": 2,
+      "mFaceId": 0,
+      "mTime": 0.0
+    },
+    {
+      "mState": 3,
+      "mFaceId": 0,
+      "mTime": 0.0
+    },
+    {
+      "mState": 3,
+      "mFaceId": 0,
+      "mTime": 0.0
+    },
+    {
+      "mState": 1,
+      "mFaceId": 0,
+      "mTime": 0.0
+    },
+    {
+      "mState": 1,
+      "mFaceId": 0,
+      "mTime": 0.0
+    },
+    {
+      "mState": 6,
+      "mFaceId": 0,
+      "mTime": 0.0
+    },
+    {
+      "mState": 7,
+      "mFaceId": 0,
+      "mTime": 0.0
+    },
+    {
+      "mState": 8,
+      "mFaceId": 0,
+      "mTime": 0.0
+    },
+    {
+      "mState": 9,
+      "mFaceId": 0,
+      "mTime": 0.0
+    },
+    {
+      "mState": 10,
+      "mFaceId": 0,
+      "mTime": 0.0
+    },
+    {
+      "mState": 13,
+      "mFaceId": 0,
+      "mTime": 0.0
+    },
+    {
+      "mState": 11,
+      "mFaceId": 0,
+      "mTime": 0.0
+    },
+    {
+      "mState": 12,
+      "mFaceId": 0,
+      "mTime": 0.0
+    },
+    {
+      "mState": 14,
+      "mFaceId": 0,
+      "mTime": 0.0
+    }
+  ]
+}

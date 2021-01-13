@@ -1,0 +1,141 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": -9073935527606922507
+  },
+  "m_Name": "ItemSlotResultResult031",
+  "mParam": {
+    "mFileName": "ItemSlotResultInRaceResult031",
+    "mAI": {
+      "mBehavior": 8,
+      "BehaviorParams": [
+        20.0,
+        10.0
+      ]
+    },
+    "mSlotResult": 31,
+    "mSlotResultOverrideForHavingList": 0,
+    "mIsValid": 1,
+    "mIsImplmented": 1,
+    "mIsEnableProbTable": 1,
+    "mIsUIImageOk": 1,
+    "mIsSpecial": 1,
+    "mReleaseVersion": {
+      "mMajor": 1,
+      "mMinor": 0,
+      "mMicro": 0
+    },
+    "mIsFeverOnly": 0,
+    "mIsEventOnly": 0,
+    "mIsDisplayInRotatingSlot": 1,
+    "mFirstAppearSec": 0.0,
+    "mIntervalSec": 0.0,
+    "mIsGorgeousSEItem": 1,
+    "mIsDirectionalThrow": 1,
+    "mCanHoldOnlyOne": 0,
+    "mNoFeverOnHaving": 0,
+    "mItemsToEntry": [
+      27
+    ],
+    "mItemsToAdditionalEntry": [],
+    "mIsAutoUseOnSlotDecide": 0,
+    "mRandomReplaceType": 0,
+    "mReplacedSlotResult": [],
+    "mDriverAnimationType": 4,
+    "mIsEnableDriverVoiceOnUse": 0,
+    "mIsSingleFeverItem": 0,
+    "mIsSlotRemainFeverItem": 0,
+    "mKartStateOnFever": [
+      2
+    ],
+    "mForFeverJudge": 31,
+    "mFeverResult": 31,
+    "mFeverEquipItem": [
+      {
+        "Item": 27,
+        "Value": 6
+      }
+    ],
+    "mFeverAutoUseItem": [],
+    "mFeverInfiniteItem": [
+      {
+        "Item": 27,
+        "Value": 6
+      }
+    ],
+    "mFeverInfiniteItemThrowDir": [],
+    "mFeverEquipType": 2,
+    "mFeverFollowerFillingSec": 0.0,
+    "mAroundRotVelFever": 3.0,
+    "mStateInFeverAround": 5,
+    "mFeverInfiniteCoolSec": 1.2,
+    "mUseNumInFever": 1,
+    "mUseNumBackInFever": {
+      "Enabled": 0,
+      "Value": 0
+    },
+    "mIsUseFixedThrowDirectionInFever": 0,
+    "mFixedThrowDirInFever": 0,
+    "mIsUseFixedThrowDefaultDirectionInFever": 0,
+    "mFixedThrowDefaultDirInFever": 0,
+    "mIsKeepFeverWhileAIItemRun": 0,
+    "mIsEquipActionInFever": 0,
+    "mFeverRandomYawAngleDegForward": 10.0,
+    "mFeverRandomPitchAngleDegForward": 10.0,
+    "mFeverRandomYawAngleDegBack": 40.0,
+    "mFeverRandomPitchAngleDegBack": 10.0,
+    "mIsEmitFromEquipPosInFever": 0,
+    "mFeverEraseAroundSec": 0.333333343,
+    "mAutoCoinGetSecInFever": 0.0,
+    "mIsCoinGetEffectOnInAutoCoinGetInFever": 0,
+    "mAutoCoinEmitSecInFever": 0.0,
+    "mAutoCoinEmitNumInFever": 0,
+    "mAutoCoinEmitOffsetFromHeadInFever": 0.0,
+    "mAutoCoinEmitVelInFever": 0.0,
+    "mAutoCoinEmitVelYawAngleInFever": 0.0,
+    "mAutoCoinEmitVelKartInFever": 0.0,
+    "mFeverItemUseType": 1,
+    "mIsShortcutItem": 0,
+    "mIsAutoItemPreferentially": 0,
+    "mEquipType": 1,
+    "mEquipTypeParams": [],
+    "mEquipAtt": [],
+    "mEquipPos": [],
+    "mIsUseFixedThrowDirection": 0,
+    "mFixedThrowDir": 0,
+    "mCoolTimeSecondThrowFront": 0.0,
+    "mCoolTimeSecondThrowBack": 0.0,
+    "mAroundRotVel": 3.0,
+    "mAroundRotType": 1,
+    "mIsUseAdditionalAroundRot": 0,
+    "mAdditionalAttAround": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 0.0
+    },
+    "mFixedAroundRotRadius": 0.0,
+    "mForkAnglesFront": [
+      0.0
+    ],
+    "mForkAnglesBack": [
+      0.0
+    ],
+    "mThrowDelaySec": [],
+    "mReflectNumToHitInSameFork": 1,
+    "mIsSameDirThrow": 1,
+    "mUseNumBack": {
+      "Enabled": 0,
+      "Value": 0
+    },
+    "mIsChangeThrowDelaySecInBack": 0,
+    "mThrowDelaySecBack": [],
+    "mIsChangeThrowDelaySecInFever": 0,
+    "mThrowDelaySecFever": [],
+    "mLevel": 0
+  }
+}

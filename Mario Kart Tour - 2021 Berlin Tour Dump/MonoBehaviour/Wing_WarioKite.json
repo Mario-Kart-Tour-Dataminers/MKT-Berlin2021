@@ -1,0 +1,50 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": 2434717279687273224
+  },
+  "m_Name": "Wing_WarioKite",
+  "mWingModel": {
+    "m_FileID": 0,
+    "m_PathID": -442299588812543038
+  },
+  "mIconInfo": [
+    {
+      "mPath": "Assets/Main/Content/Kart/Wing/Wing_WarioKite/Icons/Wing_WarioKite.png",
+      "mGuid": "742e10ec453e5d24a92c3a4f9198bae8"
+    },
+    {
+      "mPath": "Assets/Main/Content/Kart/Wing/Wing_WarioKite/Icons/Wing_WarioKite_Large.png",
+      "mGuid": "ff67891eb65f4fc4797d1904ddc27777"
+    },
+    {
+      "mPath": "Assets/Main/Content/Kart/Wing/Wing_WarioKite/Icons/Wing_WarioKite_Small.png",
+      "mGuid": "b69d4694cde8e3942bbad0b1ef1aeb75"
+    }
+  ],
+  "mWingType": 0,
+  "mIsFixedIcon": 0,
+  "mBaseParameter": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "mMaterial": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "mEffectContainer": {
+    "m_FileID": 0,
+    "m_PathID": 556346918423401163
+  },
+  "mIsDisableAngleAnimation": 0,
+  "mDescription": "ワリオカイト",
+  "mColorValiationRoot": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  }
+}

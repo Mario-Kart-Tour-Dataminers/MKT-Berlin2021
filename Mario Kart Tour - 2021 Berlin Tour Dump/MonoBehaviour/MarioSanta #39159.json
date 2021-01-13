@@ -1,0 +1,135 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": -2094441087577622512
+  },
+  "m_Name": "MarioSanta",
+  "mModel": {
+    "m_FileID": 3,
+    "m_PathID": 5119263585221714591
+  },
+  "mFaceTextures": [
+    {
+      "m_FileID": 1,
+      "m_PathID": 3389702986956271768
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 6574172331929235232
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -5629222221770336351
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -6115758994178486824
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 6733205032581679618
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 8351607765694580754
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -5250232408241615216
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 4242658692504046003
+    }
+  ],
+  "mIsFaceTextureEmission": 0,
+  "mEmblem": {
+    "m_FileID": 0,
+    "m_PathID": 7457464125097536213
+  },
+  "mAnimatorOverrideController": {
+    "m_FileID": 2,
+    "m_PathID": 5333352328079625236
+  },
+  "mKartScaleSize": 1.0,
+  "mWingJointType": 0,
+  "mFaceChangeEvent": {
+    "m_FileID": 0,
+    "m_PathID": 502007480910786177
+  },
+  "mIconInfo": [
+    {
+      "mPath": "Assets/Main/Content/Driver/MarioSanta/Icons/MarioSanta.png",
+      "mGuid": "ee3eee2ec6f06544fa5530a8467984f9"
+    },
+    {
+      "mPath": "Assets/Main/Content/Driver/MarioSanta/Icons/MarioSantaMap.png",
+      "mGuid": "60906c037908b9d4f827eca90967792d"
+    },
+    {
+      "mPath": "Assets/Main/Content/Driver/MarioSanta/Icons/MarioSantaFaceEntry.png",
+      "mGuid": "be98a602cd6413243b54c5d5d71f7238"
+    },
+    {
+      "mPath": "Assets/Main/Content/Driver/MarioSanta/Icons/MarioSantaWholeBody.png",
+      "mGuid": "bd2b33bbd542e4b48b6df41dc78ef586"
+    },
+    {
+      "mPath": "Assets/Main/Content/Driver/MarioSanta/Icons/MarioSantaUpperBody.png",
+      "mGuid": "8dfbd350493f63546b652cfb0683d668"
+    },
+    {
+      "mPath": "",
+      "mGuid": ""
+    },
+    {
+      "mPath": "Assets/Main/Content/Driver/MarioSanta/Icons/MarioSanta_Small.png",
+      "mGuid": "6d22772b76f930446b94fda3abab5d6d"
+    },
+    {
+      "mPath": "Assets/Main/Content/Driver/MarioSanta/Icons/MarioSantaFaceEntry_Small.png",
+      "mGuid": "9888f7cb36496a347912fa8b02313e7b"
+    },
+    {
+      "mPath": "Assets/Main/Content/Driver/MarioSanta/Icons/MarioSantaWholeBody_Small.png",
+      "mGuid": "50254206e975b574d9791b720a16077b"
+    },
+    {
+      "mPath": "Assets/Main/Content/Driver/MarioSanta/Icons/MarioSantaUpperBody_Small.png",
+      "mGuid": "1653da249a5434649ada940bbe3fe1dd"
+    }
+  ],
+  "mColorGroup": 0,
+  "mCharacterTextureList": [],
+  "mBaseParameter": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "mBodyMaterial": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "mEyeMaterial": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "mDynamicUnitMngInitData": {
+    "m_FileID": 0,
+    "m_PathID": 7594927530942054174
+  },
+  "mMetamorData": [],
+  "mDotDriverData": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "mDescription": "サンタマリオ",
+  "mEffectContainer": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  }
+}

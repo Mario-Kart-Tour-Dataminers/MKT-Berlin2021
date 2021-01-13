@@ -1,0 +1,18 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": 8670473757938694334
+  },
+  "m_Name": "Fx_ItemKoura_04_Mesh",
+  "mMeshes": [
+    {
+      "m_FileID": 0,
+      "m_PathID": -9081501097036710127
+    }
+  ]
+}

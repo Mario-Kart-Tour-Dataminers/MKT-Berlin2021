@@ -1,0 +1,26 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": 980329048157257672
+  },
+  "m_Name": "Fbx_Ggc_DinoDinoJungle_MapInfo",
+  "rect": {
+    "x": -220.138123,
+    "y": -374.82193,
+    "width": 635.3319,
+    "height": 635.3319
+  },
+  "sprite": {
+    "m_FileID": 0,
+    "m_PathID": 1593847583184559093
+  },
+  "offset": {
+    "x": 15.0,
+    "y": 0.0
+  }
+}

@@ -1,0 +1,110 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": 3359257035081449835
+  },
+  "m_Name": "ItemTableOfMapObj",
+  "mTable": [
+    {
+      "mTable": [
+        {
+          "mItemToEmit": 1,
+          "mRelativeProbability": 1
+        },
+        {
+          "mItemToEmit": 2,
+          "mRelativeProbability": 1
+        },
+        {
+          "mItemToEmit": 0,
+          "mRelativeProbability": 2
+        }
+      ]
+    },
+    {
+      "mTable": [
+        {
+          "mItemToEmit": 4,
+          "mRelativeProbability": 2
+        },
+        {
+          "mItemToEmit": 1,
+          "mRelativeProbability": 3
+        },
+        {
+          "mItemToEmit": 2,
+          "mRelativeProbability": 3
+        }
+      ]
+    },
+    {
+      "mTable": [
+        {
+          "mItemToEmit": 4,
+          "mRelativeProbability": 1
+        },
+        {
+          "mItemToEmit": 1,
+          "mRelativeProbability": 3
+        }
+      ]
+    },
+    {
+      "mTable": [
+        {
+          "mItemToEmit": 1,
+          "mRelativeProbability": 1
+        },
+        {
+          "mItemToEmit": 2,
+          "mRelativeProbability": 1
+        },
+        {
+          "mItemToEmit": 3,
+          "mRelativeProbability": 1
+        }
+      ]
+    },
+    {
+      "mTable": [
+        {
+          "mItemToEmit": 5,
+          "mRelativeProbability": 2
+        }
+      ]
+    },
+    {
+      "mTable": [
+        {
+          "mItemToEmit": 3,
+          "mRelativeProbability": 1
+        }
+      ]
+    },
+    {
+      "mTable": [
+        {
+          "mItemToEmit": 0,
+          "mRelativeProbability": 5
+        },
+        {
+          "mItemToEmit": 3,
+          "mRelativeProbability": 3
+        },
+        {
+          "mItemToEmit": 2,
+          "mRelativeProbability": 1
+        },
+        {
+          "mItemToEmit": 1,
+          "mRelativeProbability": 1
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": 2434717279687273224
+  },
+  "m_Name": "Wing_Paper_PinkGold",
+  "mWingModel": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "mIconInfo": [
+    {
+      "mPath": "Assets/Main/Content/Kart/Wing/Wing_Paper/Icons/Wing_Paper_PinkGold.png",
+      "mGuid": "764e0c3769fa6554dbb6f61f23228570"
+    },
+    {
+      "mPath": "Assets/Main/Content/Kart/Wing/Wing_Paper/Icons/Wing_Paper_PinkGold_Large.png",
+      "mGuid": "40a0a8adf80bfde4e875ec7412d5aa76"
+    },
+    {
+      "mPath": "Assets/Main/Content/Kart/Wing/Wing_Paper/Icons/Wing_Paper_PinkGold_Small.png",
+      "mGuid": "3ddc0721fc6ee0740b71655dfeacf8b1"
+    }
+  ],
+  "mWingType": 0,
+  "mIsFixedIcon": 0,
+  "mBaseParameter": {
+    "m_FileID": 3,
+    "m_PathID": 6518380072120996344
+  },
+  "mMaterial": {
+    "m_FileID": 0,
+    "m_PathID": 7168503626017142343
+  },
+  "mEffectContainer": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "mIsDisableAngleAnimation": 0,
+  "mDescription": "かみひこうき（ピンクゴールド）",
+  "mColorValiationRoot": {
+    "m_FileID": 3,
+    "m_PathID": 6518380072120996344
+  }
+}

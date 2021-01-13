@@ -1,0 +1,50 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": 2434717279687273224
+  },
+  "m_Name": "Wing_Penguin",
+  "mWingModel": {
+    "m_FileID": 0,
+    "m_PathID": 4038703481312732617
+  },
+  "mIconInfo": [
+    {
+      "mPath": "Assets/Main/Content/Kart/Wing/Wing_Penguin/Icons/Wing_Penguin.png",
+      "mGuid": "f3ae484a1c34d9d41b590e52e5d5c7e4"
+    },
+    {
+      "mPath": "Assets/Main/Content/Kart/Wing/Wing_Penguin/Icons/Wing_Penguin_Large.png",
+      "mGuid": "be8b024ff5a92804e8376ba23891cc17"
+    },
+    {
+      "mPath": "Assets/Main/Content/Kart/Wing/Wing_Penguin/Icons/Wing_Penguin_Small.png",
+      "mGuid": "25469bb235bb075428ab854a582732d1"
+    }
+  ],
+  "mWingType": 0,
+  "mIsFixedIcon": 0,
+  "mBaseParameter": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "mMaterial": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "mEffectContainer": {
+    "m_FileID": 0,
+    "m_PathID": 1230992984238515208
+  },
+  "mIsDisableAngleAnimation": 0,
+  "mDescription": "",
+  "mColorValiationRoot": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  }
+}

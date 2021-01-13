@@ -1,0 +1,18 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": 3718094394832668311
+  },
+  "m_Name": "NokonokoUpperBody",
+  "mSprites": [
+    {
+      "m_FileID": 0,
+      "m_PathID": 6087457347469046457
+    }
+  ]
+}

@@ -1,0 +1,131 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": -2094441087577622512
+  },
+  "m_Name": "BrosHammer",
+  "mModel": {
+    "m_FileID": 1,
+    "m_PathID": -9164550908038424155
+  },
+  "mFaceTextures": [
+    {
+      "m_FileID": 2,
+      "m_PathID": 4054050325493240435
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 5124144678935245460
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -102450647069762501
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -7612561816269600290
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 556232879873134305
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 1483834167231266965
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 5935088439628798268
+    }
+  ],
+  "mIsFaceTextureEmission": 0,
+  "mEmblem": {
+    "m_FileID": 0,
+    "m_PathID": 7182680331546585982
+  },
+  "mAnimatorOverrideController": {
+    "m_FileID": 3,
+    "m_PathID": -2440021739238208583
+  },
+  "mKartScaleSize": 1.0,
+  "mWingJointType": 0,
+  "mFaceChangeEvent": {
+    "m_FileID": 0,
+    "m_PathID": 7839293907807252924
+  },
+  "mIconInfo": [
+    {
+      "mPath": "Assets/Main/Content/Driver/BrosHammer/Icons/BrosHammer.png",
+      "mGuid": "3b3c424a4317cca4c8cee25e413f90bc"
+    },
+    {
+      "mPath": "Assets/Main/Content/Driver/BrosHammer/Icons/BrosHammerMap.png",
+      "mGuid": "9b8bb5bdb804fce4c81dec0ba0968ea1"
+    },
+    {
+      "mPath": "Assets/Main/Content/Driver/BrosHammer/Icons/BrosHammerFaceEntry.png",
+      "mGuid": "41a543d8f80123643917a963e5393b2e"
+    },
+    {
+      "mPath": "Assets/Main/Content/Driver/BrosHammer/Icons/BrosHammerWholeBody.png",
+      "mGuid": "909c6f7b6aeb9804c895720f1599a597"
+    },
+    {
+      "mPath": "Assets/Main/Content/Driver/BrosHammer/Icons/BrosHammerUpperBody.png",
+      "mGuid": "a5cab7db02ce5e44da2d6d37bee63531"
+    },
+    {
+      "mPath": "",
+      "mGuid": ""
+    },
+    {
+      "mPath": "Assets/Main/Content/Driver/BrosHammer/Icons/BrosHammer_Small.png",
+      "mGuid": "0c4cd2fefb66b964d8be56f8f2ea1e74"
+    },
+    {
+      "mPath": "Assets/Main/Content/Driver/BrosHammer/Icons/BrosHammerFaceEntry_Small.png",
+      "mGuid": "8400c3340927b464b846304197a542ac"
+    },
+    {
+      "mPath": "Assets/Main/Content/Driver/BrosHammer/Icons/BrosHammerWholeBody_Small.png",
+      "mGuid": "1e9488263e5980e4496a505e69962b96"
+    },
+    {
+      "mPath": "Assets/Main/Content/Driver/BrosHammer/Icons/BrosHammerUpperBody_Small.png",
+      "mGuid": "d5a347a9f3c6dae449fa6b35074a7d15"
+    }
+  ],
+  "mColorGroup": 0,
+  "mCharacterTextureList": [],
+  "mBaseParameter": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "mBodyMaterial": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "mEyeMaterial": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "mDynamicUnitMngInitData": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "mMetamorData": [],
+  "mDotDriverData": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "mDescription": "",
+  "mEffectContainer": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  }
+}

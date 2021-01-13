@@ -1,0 +1,54 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": -3977807471082417869
+  },
+  "m_Name": "DlgResultActionBaseList00",
+  "savePath": 1,
+  "isEnableCheckNoEmptyValue": 0,
+  "assetDataList": [
+    {
+      "obj": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      },
+      "path": "Assets/Main/Content/UI/Texture/DlgResultActionBaseT00.png",
+      "guid": "ed36fe42300142547b0ae3f7e6d04440",
+      "substitutedArrayIndex": 0
+    },
+    {
+      "obj": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      },
+      "path": "Assets/Main/Content/UI/Texture/DlgResultActionBaseC00.png",
+      "guid": "f006c53b2289b4948a4bfbe4534585fc",
+      "substitutedArrayIndex": 1
+    },
+    {
+      "obj": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      },
+      "path": "Assets/Main/Content/UI/Texture/DlgResultActionBaseB00.png",
+      "guid": "5f48dc16724559142bc2268c165a1dcc",
+      "substitutedArrayIndex": 2
+    },
+    {
+      "obj": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      },
+      "path": "Assets/Main/Content/UI/Texture/DlgResultActionBase00.png",
+      "guid": "cbbf7b3a04992194bad75f6575248401",
+      "substitutedArrayIndex": 3
+    }
+  ],
+  "assetType": 0,
+  "keyType": 19
+}

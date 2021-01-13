@@ -1,0 +1,135 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": -2094441087577622512
+  },
+  "m_Name": "RosettaFire",
+  "mModel": {
+    "m_FileID": 1,
+    "m_PathID": -4136317827554169063
+  },
+  "mFaceTextures": [
+    {
+      "m_FileID": 2,
+      "m_PathID": -1711904279194240881
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -7287776685771245485
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 360393754340254841
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -5241920976391705691
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -8250929276579250231
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -5793439459697430513
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 401171407311681576
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 1511398764353865889
+    }
+  ],
+  "mIsFaceTextureEmission": 0,
+  "mEmblem": {
+    "m_FileID": 0,
+    "m_PathID": 6344433920033716044
+  },
+  "mAnimatorOverrideController": {
+    "m_FileID": 3,
+    "m_PathID": 6128783467065935927
+  },
+  "mKartScaleSize": 1.1,
+  "mWingJointType": 0,
+  "mFaceChangeEvent": {
+    "m_FileID": 0,
+    "m_PathID": -3168475284574606511
+  },
+  "mIconInfo": [
+    {
+      "mPath": "Assets/Main/Content/Driver/RosettaFire/Icons/RosettaFire.png",
+      "mGuid": "a9560477fcd875a43a5e5244976528bf"
+    },
+    {
+      "mPath": "Assets/Main/Content/Driver/RosettaFire/Icons/RosettaFireMap.png",
+      "mGuid": "5fe48c89bf803e54f92592644fd0ccf1"
+    },
+    {
+      "mPath": "Assets/Main/Content/Driver/RosettaFire/Icons/RosettaFireFaceEntry.png",
+      "mGuid": "8119b28292b842649b1ffb4af3e9063d"
+    },
+    {
+      "mPath": "Assets/Main/Content/Driver/RosettaFire/Icons/RosettaFireWholeBody.png",
+      "mGuid": "a66b29c5931fd8d469e8805d666259bd"
+    },
+    {
+      "mPath": "Assets/Main/Content/Driver/RosettaFire/Icons/RosettaFireUpperBody.png",
+      "mGuid": "3f513679577fbbf498a0c627cb91d7b2"
+    },
+    {
+      "mPath": "",
+      "mGuid": ""
+    },
+    {
+      "mPath": "Assets/Main/Content/Driver/RosettaFire/Icons/RosettaFire_Small.png",
+      "mGuid": "5232aceba4361f44e9812205d2d28d09"
+    },
+    {
+      "mPath": "Assets/Main/Content/Driver/RosettaFire/Icons/RosettaFireFaceEntry_Small.png",
+      "mGuid": "b0e31a7d4eea3f84b8ae80b678aa83dc"
+    },
+    {
+      "mPath": "Assets/Main/Content/Driver/RosettaFire/Icons/RosettaFireWholeBody_Small.png",
+      "mGuid": "4d9576104f0279e4ba26cb21c10787ad"
+    },
+    {
+      "mPath": "Assets/Main/Content/Driver/RosettaFire/Icons/RosettaFireUpperBody_Small.png",
+      "mGuid": "0793bccdb0786b24d9260b80799bacec"
+    }
+  ],
+  "mColorGroup": 0,
+  "mCharacterTextureList": [],
+  "mBaseParameter": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "mBodyMaterial": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "mEyeMaterial": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "mDynamicUnitMngInitData": {
+    "m_FileID": 0,
+    "m_PathID": 6409241879370831282
+  },
+  "mMetamorData": [],
+  "mDotDriverData": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "mDescription": "",
+  "mEffectContainer": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  }
+}

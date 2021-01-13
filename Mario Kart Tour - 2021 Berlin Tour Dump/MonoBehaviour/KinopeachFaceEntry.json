@@ -1,0 +1,18 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": 3718094394832668311
+  },
+  "m_Name": "KinopeachFaceEntry",
+  "mSprites": [
+    {
+      "m_FileID": 0,
+      "m_PathID": 3736050519761651466
+    }
+  ]
+}

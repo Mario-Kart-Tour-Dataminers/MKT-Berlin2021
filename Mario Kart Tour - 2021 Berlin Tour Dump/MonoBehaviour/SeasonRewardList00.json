@@ -1,0 +1,36 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": -3977807471082417869
+  },
+  "m_Name": "SeasonRewardList00",
+  "savePath": 1,
+  "isEnableCheckNoEmptyValue": 0,
+  "assetDataList": [
+    {
+      "obj": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      },
+      "path": "Assets/Main/Content/UI/Texture/SeasonReward00.png",
+      "guid": "cc7f2fb0e0da87a4eb7fceaeb1019ce7",
+      "substitutedArrayIndex": 0
+    },
+    {
+      "obj": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      },
+      "path": "Assets/Main/Content/UI/Texture/SeasonReward01.png",
+      "guid": "e24ffd83a40be03439601da9f11ffbcf",
+      "substitutedArrayIndex": 1
+    }
+  ],
+  "assetType": 0,
+  "keyType": 25
+}

@@ -1,0 +1,123 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": -2094441087577622512
+  },
+  "m_Name": "KoopaHoliday",
+  "mModel": {
+    "m_FileID": 42,
+    "m_PathID": 4665390231385587431
+  },
+  "mFaceTextures": [
+    {
+      "m_FileID": 43,
+      "m_PathID": 9062886821083844345
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -3905087314135059629
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -5581476925439146406
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 8479559049963000540
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -268418260843111077
+    }
+  ],
+  "mIsFaceTextureEmission": 0,
+  "mEmblem": {
+    "m_FileID": 0,
+    "m_PathID": -5192804142706501935
+  },
+  "mAnimatorOverrideController": {
+    "m_FileID": 0,
+    "m_PathID": -9074862930689232246
+  },
+  "mKartScaleSize": 1.1,
+  "mWingJointType": 0,
+  "mFaceChangeEvent": {
+    "m_FileID": 0,
+    "m_PathID": 7367693260334081643
+  },
+  "mIconInfo": [
+    {
+      "mPath": "Assets/Main/Content/Driver/KoopaHoliday/Icons/KoopaHoliday.png",
+      "mGuid": "e086f1728d2fed0459d66ff62fde34ac"
+    },
+    {
+      "mPath": "Assets/Main/Content/Driver/KoopaHoliday/Icons/KoopaHolidayMap.png",
+      "mGuid": "b636d3bb9da9bd34a8797d2d7b8ed18f"
+    },
+    {
+      "mPath": "Assets/Main/Content/Driver/KoopaHoliday/Icons/KoopaHolidayFaceEntry.png",
+      "mGuid": "4f83f7998f62c0049b1115bb409c88e1"
+    },
+    {
+      "mPath": "Assets/Main/Content/Driver/KoopaHoliday/Icons/KoopaHolidayWholeBody.png",
+      "mGuid": "60f46fc684c0c5346bd5c566c9c8c192"
+    },
+    {
+      "mPath": "Assets/Main/Content/Driver/KoopaHoliday/Icons/KoopaHolidayUpperBody.png",
+      "mGuid": "6a9444dbb3543ab40ae4e3e0f32fab47"
+    },
+    {
+      "mPath": "",
+      "mGuid": ""
+    },
+    {
+      "mPath": "Assets/Main/Content/Driver/KoopaHoliday/Icons/KoopaHoliday_Small.png",
+      "mGuid": "404353a509868f84e84bf7dc75dd3bc6"
+    },
+    {
+      "mPath": "Assets/Main/Content/Driver/KoopaHoliday/Icons/KoopaHolidayFaceEntry_Small.png",
+      "mGuid": "23ec84bb369b94f478e398bacb8d3aab"
+    },
+    {
+      "mPath": "Assets/Main/Content/Driver/KoopaHoliday/Icons/KoopaHolidayWholeBody_Small.png",
+      "mGuid": "cd60bf4956a5daa4cb1cf619bfbed9e7"
+    },
+    {
+      "mPath": "Assets/Main/Content/Driver/KoopaHoliday/Icons/KoopaHolidayUpperBody_Small.png",
+      "mGuid": "ee0a237170e507b418ac78d21aa2e395"
+    }
+  ],
+  "mColorGroup": 0,
+  "mCharacterTextureList": [],
+  "mBaseParameter": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "mBodyMaterial": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "mEyeMaterial": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "mDynamicUnitMngInitData": {
+    "m_FileID": 0,
+    "m_PathID": -4495721860615670974
+  },
+  "mMetamorData": [],
+  "mDotDriverData": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "mDescription": "",
+  "mEffectContainer": {
+    "m_FileID": 0,
+    "m_PathID": -7674582321502139290
+  }
+}

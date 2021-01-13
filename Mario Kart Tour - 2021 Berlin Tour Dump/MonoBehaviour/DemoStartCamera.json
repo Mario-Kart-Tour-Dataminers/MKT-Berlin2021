@@ -1,0 +1,39 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": -4763855514933715190
+  },
+  "m_Name": "DemoStartCamera",
+  "cBeginSecond": 1.0,
+  "cMasterSpeed": 0.007,
+  "cDegY": 150.0,
+  "cFovy": 70.0,
+  "cDegX_SingleL": 1.0,
+  "cTargetOffset_SingleL": {
+    "x": 0.0,
+    "y": 0.7,
+    "z": 1.0
+  },
+  "cDist_SingleL": 6.0,
+  "cDegX_SingleM": 1.0,
+  "cTargetOffset_SingleM": {
+    "x": 0.0,
+    "y": 0.0,
+    "z": 0.6
+  },
+  "cDist_SingleM": 4.0,
+  "cDegX_SingleS": 1.0,
+  "cTargetOffset_SingleS": {
+    "x": 0.0,
+    "y": -0.2,
+    "z": 0.2
+  },
+  "cDist_SingleS": 2.0,
+  "mColRadius": 2.0,
+  "mCheckWallCollisionRadius": 1.5
+}

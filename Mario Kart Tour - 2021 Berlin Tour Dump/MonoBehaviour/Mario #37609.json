@@ -1,0 +1,135 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": -2094441087577622512
+  },
+  "m_Name": "Mario",
+  "mModel": {
+    "m_FileID": 5,
+    "m_PathID": 3025601183696314987
+  },
+  "mFaceTextures": [
+    {
+      "m_FileID": 10,
+      "m_PathID": -6928822409486409595
+    },
+    {
+      "m_FileID": 8,
+      "m_PathID": -186498226437011168
+    },
+    {
+      "m_FileID": 1,
+      "m_PathID": 1249190222849436030
+    },
+    {
+      "m_FileID": 11,
+      "m_PathID": 5320645358964844494
+    },
+    {
+      "m_FileID": 6,
+      "m_PathID": -2920666763295625263
+    },
+    {
+      "m_FileID": 9,
+      "m_PathID": -6424537147178137691
+    },
+    {
+      "m_FileID": 2,
+      "m_PathID": -8483431275192233611
+    },
+    {
+      "m_FileID": 4,
+      "m_PathID": -1993525904534721650
+    }
+  ],
+  "mIsFaceTextureEmission": 0,
+  "mEmblem": {
+    "m_FileID": 0,
+    "m_PathID": 9160626630818301458
+  },
+  "mAnimatorOverrideController": {
+    "m_FileID": 7,
+    "m_PathID": 4252890379515971215
+  },
+  "mKartScaleSize": 1.0,
+  "mWingJointType": 0,
+  "mFaceChangeEvent": {
+    "m_FileID": 0,
+    "m_PathID": 2689884753144207492
+  },
+  "mIconInfo": [
+    {
+      "mPath": "Assets/Main/Content/Driver/Mario/Icons/Mario.png",
+      "mGuid": "82d473bd1541b2f4485d0e4a0ab6330f"
+    },
+    {
+      "mPath": "Assets/Main/Content/Driver/Mario/Icons/MarioMap.png",
+      "mGuid": "a624d7b15eda9514ca42aab28a43ddea"
+    },
+    {
+      "mPath": "Assets/Main/Content/Driver/Mario/Icons/MarioFaceEntry.png",
+      "mGuid": "fd8ab757332613743aa5fbad801c5ebd"
+    },
+    {
+      "mPath": "Assets/Main/Content/Driver/Mario/Icons/MarioWholeBody.png",
+      "mGuid": "901d88f011458f54a919f69383540f5a"
+    },
+    {
+      "mPath": "Assets/Main/Content/Driver/Mario/Icons/MarioUpperBody.png",
+      "mGuid": "9ca1d19fe69da51459aecc15b242d9d5"
+    },
+    {
+      "mPath": "",
+      "mGuid": ""
+    },
+    {
+      "mPath": "Assets/Main/Content/Driver/Mario/Icons/Mario_Small.png",
+      "mGuid": "d30da6bcaa86eee479b754aa19877f44"
+    },
+    {
+      "mPath": "Assets/Main/Content/Driver/Mario/Icons/MarioFaceEntry_Small.png",
+      "mGuid": "e3c22ec81fe23464f8df1de4e95ed30d"
+    },
+    {
+      "mPath": "Assets/Main/Content/Driver/Mario/Icons/MarioWholeBody_Small.png",
+      "mGuid": "0ace7e031249d304a91dbc25440538c9"
+    },
+    {
+      "mPath": "Assets/Main/Content/Driver/Mario/Icons/MarioUpperBody_Small.png",
+      "mGuid": "32e3e25ceb4cd8043926448456ffdd00"
+    }
+  ],
+  "mColorGroup": 0,
+  "mCharacterTextureList": [],
+  "mBaseParameter": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "mBodyMaterial": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "mEyeMaterial": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "mDynamicUnitMngInitData": {
+    "m_FileID": 3,
+    "m_PathID": -3030777122461082920
+  },
+  "mMetamorData": [],
+  "mDotDriverData": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "mDescription": "マリオ",
+  "mEffectContainer": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": -322587439545626304
+  },
+  "m_Name": "TilingSubtractiveColor",
+  "active": 1,
+  "enabled": {
+    "overrideState": 1,
+    "value": 1
+  },
+  "tileScale": {
+    "overrideState": 1,
+    "value": 1E-06
+  },
+  "tileScaleParGrid": {
+    "overrideState": 0,
+    "value": 10.0
+  },
+  "gridFineness": {
+    "overrideState": 0,
+    "value": 10.0
+  },
+  "channelParColor": {
+    "overrideState": 1,
+    "value": 8.0
+  },
+  "maxGridAlpha": {
+    "overrideState": 1,
+    "value": 0.0
+  },
+  "finalColorScale": {
+    "overrideState": 1,
+    "value": 1.5
+  }
+}

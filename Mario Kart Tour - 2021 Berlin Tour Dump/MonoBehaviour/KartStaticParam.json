@@ -1,0 +1,19 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": -4877644661246380597
+  },
+  "m_Name": "KartStaticParam",
+  "cSpeedMin": 0.5,
+  "cSpeed150CC": 0.66,
+  "cSpeed200CC": 0.89,
+  "cSpeed300CC": 1.05,
+  "cSpeedMin_Battle": 0.4,
+  "cVelCCMin": 0.5,
+  "cVelCCMax": 2.0
+}

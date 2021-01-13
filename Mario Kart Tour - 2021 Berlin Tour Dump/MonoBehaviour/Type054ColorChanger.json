@@ -1,0 +1,133 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": 6547958068063497850
+  },
+  "m_Name": "Type054ColorChanger",
+  "mActivateion": {
+    "mIsAlwaysActive": 0,
+    "mIsActiveFront": 1,
+    "mIsActiveBack": 0,
+    "mIsActiveInCertainState": 0,
+    "mStatesToActivate": {
+      "mStates": [],
+      "mDelaySec": []
+    },
+    "mTriggersToForceActivate": {
+      "mStates": []
+    },
+    "mTriggersToForceDeactivate": {
+      "mStates": []
+    }
+  },
+  "mActivateionInFever": {
+    "mIsAlwaysActive": 1,
+    "mIsActiveFront": 1,
+    "mIsActiveBack": 1,
+    "mIsActiveInCertainState": 0,
+    "mStatesToActivate": {
+      "mStates": [],
+      "mDelaySec": []
+    },
+    "mTriggersToForceActivate": {
+      "mStates": []
+    },
+    "mTriggersToForceDeactivate": {
+      "mStates": []
+    }
+  },
+  "mShaderType": 0,
+  "mOnBound": {
+    "mColorOnBound": [
+      {
+        "Mode": 1,
+        "Color0": {
+          "r": 0.0,
+          "g": 0.0,
+          "b": 0.0,
+          "a": 1.0
+        },
+        "Color1": {
+          "r": 0.0,
+          "g": 0.0,
+          "b": 0.0,
+          "a": 1.0
+        },
+        "TimeSec": 0.4
+      },
+      {
+        "Mode": 1,
+        "Color0": {
+          "r": 0.0,
+          "g": 0.0,
+          "b": 0.0,
+          "a": 1.0
+        },
+        "Color1": {
+          "r": 0.117647059,
+          "g": 0.0,
+          "b": 0.0,
+          "a": 1.0
+        },
+        "TimeSec": 0.4
+      },
+      {
+        "Mode": 1,
+        "Color0": {
+          "r": 0.117647059,
+          "g": 0.0,
+          "b": 0.0,
+          "a": 1.0
+        },
+        "Color1": {
+          "r": 0.490196079,
+          "g": 0.0,
+          "b": 0.0,
+          "a": 1.0
+        },
+        "TimeSec": 0.4
+      },
+      {
+        "Mode": 2,
+        "Color0": {
+          "r": 0.0784313753,
+          "g": 0.0,
+          "b": 0.0,
+          "a": 1.0
+        },
+        "Color1": {
+          "r": 1.0,
+          "g": 0.0,
+          "b": 0.0,
+          "a": 1.0
+        },
+        "TimeSec": 0.2
+      }
+    ]
+  },
+  "mOnReactBreak": {
+    "mColorOnBound": [
+      {
+        "Mode": 2,
+        "Color0": {
+          "r": 0.0,
+          "g": 0.0,
+          "b": 0.0,
+          "a": 1.0
+        },
+        "Color1": {
+          "r": 0.426470578,
+          "g": 0.0,
+          "b": 0.0,
+          "a": 1.0
+        },
+        "TimeSec": 0.4
+      }
+    ]
+  }
+}

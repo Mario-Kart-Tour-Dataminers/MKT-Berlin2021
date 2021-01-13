@@ -1,0 +1,50 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": 2434717279687273224
+  },
+  "m_Name": "Wing_Parachute_SignKiller",
+  "mWingModel": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "mIconInfo": [
+    {
+      "mPath": "Assets/Main/Content/Kart/Wing/Wing_Parachute/Icons/Wing_Parachute_SignKiller.png",
+      "mGuid": "5e7deb865a3ca5e438e336d392bc906e"
+    },
+    {
+      "mPath": "Assets/Main/Content/Kart/Wing/Wing_Parachute/Icons/Wing_Parachute_SignKiller_Large.png",
+      "mGuid": "7227f5c656d155f47870d209840155ec"
+    },
+    {
+      "mPath": "Assets/Main/Content/Kart/Wing/Wing_Parachute/Icons/Wing_Parachute_SignKiller_Small.png",
+      "mGuid": "fccb2b3dd48b5ad40a07b1e32fe1af4c"
+    }
+  ],
+  "mWingType": 0,
+  "mIsFixedIcon": 0,
+  "mBaseParameter": {
+    "m_FileID": 1,
+    "m_PathID": 411820290415868396
+  },
+  "mMaterial": {
+    "m_FileID": 0,
+    "m_PathID": 4590656350244574954
+  },
+  "mEffectContainer": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "mIsDisableAngleAnimation": 0,
+  "mDescription": "",
+  "mColorValiationRoot": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  }
+}

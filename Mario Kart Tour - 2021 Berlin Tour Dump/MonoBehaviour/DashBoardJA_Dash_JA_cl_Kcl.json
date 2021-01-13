@@ -1,0 +1,242 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": 7562848319295149356
+  },
+  "m_Name": "DashBoardJA_Dash_JA_cl_Kcl",
+  "mKCollision": {
+    "mHeader": {
+      "versionNum0": 2,
+      "versionNum1": 2,
+      "versionNum2": 0,
+      "versionNum3": 0,
+      "division_info_offset": 56,
+      "kcl_jumplist_offset": 88,
+      "num_kcl": 1,
+      "area_min_pos": {
+        "x": -8.9,
+        "y": -8.8949995,
+        "z": -11.49351
+      },
+      "area_max_pos": {
+        "x": 8.9,
+        "y": 8.041905,
+        "z": 6.000005
+      },
+      "area_width_shift": {
+        "x": 5,
+        "y": 5,
+        "z": 5
+      },
+      "num_prism_number": 6
+    },
+    "mKclOffset": [
+      92
+    ],
+    "mBlockData": [
+      2147483648,
+      2147483648,
+      2147483648,
+      2147483648,
+      2147483648,
+      2147483648,
+      2147483648,
+      2147483648,
+      92
+    ],
+    "mAreaWidthShift": {
+      "x": 4,
+      "y": 4,
+      "z": 4
+    },
+    "mAreaWidthMask": {
+      "x": -32,
+      "y": -32,
+      "z": -32
+    },
+    "mVer1Data": [
+      {
+        "mHeader": {
+          "pos_data_offset": 60,
+          "nrm_data_offset": 84,
+          "prism_data_offset": 240,
+          "block_data_offset": 360,
+          "prism_thickness": 3.0,
+          "area_min_pos": {
+            "x": -8.9,
+            "y": -8.8949995,
+            "z": -11.49351
+          },
+          "area_x_width_mask": 4294967264,
+          "area_y_width_mask": 4294967264,
+          "area_z_width_mask": 4294967264,
+          "block_width_shift": 4,
+          "area_x_blocks_shift": 1,
+          "area_xy_blocks_shift": 2,
+          "sphere_radius": 1.8
+        },
+        "mPosData": [
+          {
+            "x": -2.9,
+            "y": 0.105,
+            "z": -5.49351025
+          },
+          {
+            "x": 2.9,
+            "y": 0.105,
+            "z": -5.49351025
+          }
+        ],
+        "mNrmData": [
+          {
+            "x": 0.0,
+            "y": 1.0,
+            "z": 0.0
+          },
+          {
+            "x": 0.0,
+            "y": 0.0,
+            "z": -1.0
+          },
+          {
+            "x": -1.0,
+            "y": 0.0,
+            "z": 0.0
+          },
+          {
+            "x": 0.68766,
+            "y": 0.0,
+            "z": 0.72603
+          },
+          {
+            "x": 1.0,
+            "y": 0.0,
+            "z": 0.0
+          },
+          {
+            "x": -0.68766,
+            "y": 0.0,
+            "z": -0.72603
+          },
+          {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 1.0
+          },
+          {
+            "x": 0.0,
+            "y": -0.64564,
+            "z": -0.76364994
+          },
+          {
+            "x": -0.528589964,
+            "y": -0.64824,
+            "z": 0.548069954
+          },
+          {
+            "x": 0.0,
+            "y": 0.76364994,
+            "z": -0.64564
+          },
+          {
+            "x": 0.528589964,
+            "y": 0.64824,
+            "z": -0.548069954
+          },
+          {
+            "x": 0.0,
+            "y": -0.76364994,
+            "z": 0.64564
+          },
+          {
+            "x": 0.0,
+            "y": -0.75358,
+            "z": 0.657359958
+          }
+        ],
+        "mPrismData": [
+          {
+            "height": 3.98844981,
+            "pos_i": 0,
+            "fnrm_i": 0,
+            "enrm1_i": 1,
+            "enrm2_i": 2,
+            "enrm3_i": 3,
+            "attribute": 1032,
+            "id": 2147483648
+          },
+          {
+            "height": 5.49351025,
+            "pos_i": 1,
+            "fnrm_i": 0,
+            "enrm1_i": 4,
+            "enrm2_i": 5,
+            "enrm3_i": 6,
+            "attribute": 1032,
+            "id": 2147483649
+          },
+          {
+            "height": 5.8,
+            "pos_i": 0,
+            "fnrm_i": 7,
+            "enrm1_i": 8,
+            "enrm2_i": 9,
+            "enrm3_i": 4,
+            "attribute": 18,
+            "id": 2147483650
+          },
+          {
+            "height": 3.61162186,
+            "pos_i": 0,
+            "fnrm_i": 7,
+            "enrm1_i": 2,
+            "enrm2_i": 10,
+            "enrm3_i": 11,
+            "attribute": 18,
+            "id": 2147483651
+          },
+          {
+            "height": 3.61119032,
+            "pos_i": 0,
+            "fnrm_i": 2,
+            "enrm1_i": 0,
+            "enrm2_i": 7,
+            "enrm3_i": 12,
+            "attribute": 79,
+            "id": 2147483652
+          },
+          {
+            "height": 3.6111908,
+            "pos_i": 1,
+            "fnrm_i": 4,
+            "enrm1_i": 7,
+            "enrm2_i": 0,
+            "enrm3_i": 12,
+            "attribute": 79,
+            "id": 2147483653
+          }
+        ],
+        "mBlockData": [
+          2147483678,
+          2147483690,
+          2147483690,
+          2147483690,
+          2147483690,
+          2147483690,
+          2147483690,
+          2147483690,
+          65536,
+          196610,
+          327684,
+          65535
+        ],
+        "mNumPrism": 6
+      }
+    ]
+  }
+}

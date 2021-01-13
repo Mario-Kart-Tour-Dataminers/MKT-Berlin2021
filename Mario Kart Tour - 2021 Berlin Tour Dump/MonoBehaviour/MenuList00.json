@@ -1,0 +1,153 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": -3977807471082417869
+  },
+  "m_Name": "MenuList00",
+  "savePath": 1,
+  "isEnableCheckNoEmptyValue": 0,
+  "assetDataList": [
+    {
+      "obj": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      },
+      "path": "",
+      "guid": "",
+      "substitutedArrayIndex": 1
+    },
+    {
+      "obj": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      },
+      "path": "Assets/Main/Content/UI/Texture/Menu/MenuMenu00.png",
+      "guid": "67a7b3e7eb3e2754fbcd69d062edcbd7",
+      "substitutedArrayIndex": 1
+    },
+    {
+      "obj": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      },
+      "path": "Assets/Main/Content/UI/Texture/Menu/MenuNetPlay00.png",
+      "guid": "42b7ef61806c6044aa9e1780117d5b95",
+      "substitutedArrayIndex": 2
+    },
+    {
+      "obj": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      },
+      "path": "Assets/Main/Content/UI/Texture/Menu/MenuWappen00.png",
+      "guid": "15b5af768d515924193cfd3449c31420",
+      "substitutedArrayIndex": 3
+    },
+    {
+      "obj": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      },
+      "path": "Assets/Main/Content/UI/Texture/Menu/MenuSeasonRewardGold00.png",
+      "guid": "2b76b4a4805b25c49bea6b2a1f569fe6",
+      "substitutedArrayIndex": 4
+    },
+    {
+      "obj": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      },
+      "path": "Assets/Main/Content/UI/Texture/Menu/MenuShop00.png",
+      "guid": "e996da0979731ae4dad96ecd3ad4bf92",
+      "substitutedArrayIndex": 5
+    },
+    {
+      "obj": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      },
+      "path": "Assets/Main/Content/UI/Texture/Menu/MenuDriver00.png",
+      "guid": "ba8ab122599794a4cb4b4975837f18ca",
+      "substitutedArrayIndex": 6
+    },
+    {
+      "obj": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      },
+      "path": "Assets/Main/Content/UI/Texture/Menu/MenuMachine00.png",
+      "guid": "1a2656b8794eff441a8144f4f7d57134",
+      "substitutedArrayIndex": 7
+    },
+    {
+      "obj": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      },
+      "path": "Assets/Main/Content/UI/Texture/Menu/MenuGlide00.png",
+      "guid": "c42f17cf9b22ec540878f8115b85702b",
+      "substitutedArrayIndex": 8
+    },
+    {
+      "obj": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      },
+      "path": "Assets/Main/Content/UI/Texture/Menu/MenuTicket00.png",
+      "guid": "6637f8d9f16ee2f4a92b666e344b2c1c",
+      "substitutedArrayIndex": 9
+    },
+    {
+      "obj": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      },
+      "path": "Assets/Main/Content/UI/Texture/Menu/MenuWappen01.png",
+      "guid": "3636a73604b2e36429a5ff28a89360cb",
+      "substitutedArrayIndex": 10
+    },
+    {
+      "obj": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      },
+      "path": "Assets/Main/Content/UI/Texture/Menu/MenuFriend00.png",
+      "guid": "35246ba2aadfd3b4c8a5398baedeb36d",
+      "substitutedArrayIndex": 11
+    },
+    {
+      "obj": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      },
+      "path": "Assets/Main/Content/UI/Texture/Menu/MenuNews00.png",
+      "guid": "f0d0672aa4f46d8428e054d834ab0b6d",
+      "substitutedArrayIndex": 12
+    },
+    {
+      "obj": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      },
+      "path": "Assets/Main/Content/UI/Texture/Menu/MenuPresent00.png",
+      "guid": "0731fcff83388494c96cedc360b4fabc",
+      "substitutedArrayIndex": 13
+    },
+    {
+      "obj": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      },
+      "path": "Assets/Main/Content/UI/Texture/Menu/MenuSetting00.png",
+      "guid": "fa26072c338f9fd43a92e1ea3851e478",
+      "substitutedArrayIndex": 14
+    }
+  ],
+  "assetType": 0,
+  "keyType": 13
+}

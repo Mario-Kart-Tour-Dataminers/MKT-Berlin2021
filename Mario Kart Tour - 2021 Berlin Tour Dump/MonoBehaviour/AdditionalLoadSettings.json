@@ -1,0 +1,1257 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": 8700286265590686969
+  },
+  "m_Name": "AdditionalLoadSettings",
+  "list": [
+    {
+      "group": 2,
+      "type": 2,
+      "id": "",
+      "obj": {
+        "m_FileID": 9,
+        "m_PathID": 6267388481002276304
+      },
+      "preinstantiate": 0,
+      "requestOnly": 0
+    },
+    {
+      "group": 2,
+      "type": 3,
+      "id": "",
+      "obj": {
+        "m_FileID": 11,
+        "m_PathID": -6167418194414527739
+      },
+      "preinstantiate": 0,
+      "requestOnly": 0
+    },
+    {
+      "group": 2,
+      "type": 3,
+      "id": "",
+      "obj": {
+        "m_FileID": 23,
+        "m_PathID": -7396722092471006587
+      },
+      "preinstantiate": 0,
+      "requestOnly": 0
+    },
+    {
+      "group": 2,
+      "type": 3,
+      "id": "",
+      "obj": {
+        "m_FileID": 24,
+        "m_PathID": -4783483433389575827
+      },
+      "preinstantiate": 0,
+      "requestOnly": 0
+    },
+    {
+      "group": 2,
+      "type": 3,
+      "id": "",
+      "obj": {
+        "m_FileID": 2,
+        "m_PathID": 1697824468660805034
+      },
+      "preinstantiate": 0,
+      "requestOnly": 0
+    },
+    {
+      "group": 2,
+      "type": 3,
+      "id": "",
+      "obj": {
+        "m_FileID": 0,
+        "m_PathID": -8045457634919137321
+      },
+      "preinstantiate": 0,
+      "requestOnly": 0
+    },
+    {
+      "group": 2,
+      "type": 3,
+      "id": "",
+      "obj": {
+        "m_FileID": 5,
+        "m_PathID": 4114796963321617877
+      },
+      "preinstantiate": 0,
+      "requestOnly": 0
+    },
+    {
+      "group": 2,
+      "type": 3,
+      "id": "",
+      "obj": {
+        "m_FileID": 15,
+        "m_PathID": -8708522726098696012
+      },
+      "preinstantiate": 0,
+      "requestOnly": 0
+    },
+    {
+      "group": 2,
+      "type": 3,
+      "id": "",
+      "obj": {
+        "m_FileID": 0,
+        "m_PathID": -2709397126825374872
+      },
+      "preinstantiate": 0,
+      "requestOnly": 0
+    },
+    {
+      "group": 2,
+      "type": 3,
+      "id": "",
+      "obj": {
+        "m_FileID": 18,
+        "m_PathID": 6474555028772707147
+      },
+      "preinstantiate": 0,
+      "requestOnly": 0
+    },
+    {
+      "group": 2,
+      "type": 3,
+      "id": "",
+      "obj": {
+        "m_FileID": 13,
+        "m_PathID": -6834889350792660170
+      },
+      "preinstantiate": 0,
+      "requestOnly": 0
+    },
+    {
+      "group": 2,
+      "type": 3,
+      "id": "",
+      "obj": {
+        "m_FileID": 22,
+        "m_PathID": 1640361080692289029
+      },
+      "preinstantiate": 0,
+      "requestOnly": 0
+    },
+    {
+      "group": 2,
+      "type": 3,
+      "id": "",
+      "obj": {
+        "m_FileID": 21,
+        "m_PathID": 9129155203743338845
+      },
+      "preinstantiate": 0,
+      "requestOnly": 0
+    },
+    {
+      "group": 2,
+      "type": 3,
+      "id": "",
+      "obj": {
+        "m_FileID": 0,
+        "m_PathID": -2032432878358577628
+      },
+      "preinstantiate": 0,
+      "requestOnly": 0
+    },
+    {
+      "group": 2,
+      "type": 3,
+      "id": "",
+      "obj": {
+        "m_FileID": 0,
+        "m_PathID": 1478800326309473477
+      },
+      "preinstantiate": 0,
+      "requestOnly": 0
+    },
+    {
+      "group": 2,
+      "type": 3,
+      "id": "",
+      "obj": {
+        "m_FileID": 0,
+        "m_PathID": 8184122389313862672
+      },
+      "preinstantiate": 0,
+      "requestOnly": 0
+    },
+    {
+      "group": 2,
+      "type": 3,
+      "id": "",
+      "obj": {
+        "m_FileID": 0,
+        "m_PathID": 8743364934087541125
+      },
+      "preinstantiate": 0,
+      "requestOnly": 0
+    },
+    {
+      "group": 2,
+      "type": 0,
+      "id": "Celebration",
+      "obj": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      },
+      "preinstantiate": 0,
+      "requestOnly": 0
+    },
+    {
+      "group": 2,
+      "type": 0,
+      "id": "CoinRaceConfirm",
+      "obj": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      },
+      "preinstantiate": 0,
+      "requestOnly": 0
+    },
+    {
+      "group": 2,
+      "type": 0,
+      "id": "CoinRaceList",
+      "obj": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      },
+      "preinstantiate": 0,
+      "requestOnly": 0
+    },
+    {
+      "group": 2,
+      "type": 0,
+      "id": "Customize",
+      "obj": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      },
+      "preinstantiate": 0,
+      "requestOnly": 0
+    },
+    {
+      "group": 2,
+      "type": 0,
+      "id": "DlgCourseResultEvent",
+      "obj": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      },
+      "preinstantiate": 0,
+      "requestOnly": 0
+    },
+    {
+      "group": 2,
+      "type": 0,
+      "id": "DlgCourseResultRace",
+      "obj": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      },
+      "preinstantiate": 0,
+      "requestOnly": 0
+    },
+    {
+      "group": 2,
+      "type": 0,
+      "id": "DlgNetPlayLobbyInvite",
+      "obj": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      },
+      "preinstantiate": 0,
+      "requestOnly": 0
+    },
+    {
+      "group": 2,
+      "type": 0,
+      "id": "DlgNetPlayRuleGuest",
+      "obj": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      },
+      "preinstantiate": 0,
+      "requestOnly": 0
+    },
+    {
+      "group": 2,
+      "type": 0,
+      "id": "DlgNetPlayRuleHost",
+      "obj": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      },
+      "preinstantiate": 0,
+      "requestOnly": 0
+    },
+    {
+      "group": 2,
+      "type": 0,
+      "id": "DriverSelect",
+      "obj": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      },
+      "preinstantiate": 0,
+      "requestOnly": 0
+    },
+    {
+      "group": 2,
+      "type": 0,
+      "id": "FavoritePartsSelect",
+      "obj": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      },
+      "preinstantiate": 0,
+      "requestOnly": 0
+    },
+    {
+      "group": 2,
+      "type": 0,
+      "id": "Friend",
+      "obj": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      },
+      "preinstantiate": 0,
+      "requestOnly": 0
+    },
+    {
+      "group": 2,
+      "type": 0,
+      "id": "FriendApplication",
+      "obj": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      },
+      "preinstantiate": 0,
+      "requestOnly": 0
+    },
+    {
+      "group": 2,
+      "type": 0,
+      "id": "FriendApproval",
+      "obj": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      },
+      "preinstantiate": 0,
+      "requestOnly": 0
+    },
+    {
+      "group": 2,
+      "type": 0,
+      "id": "GetItem",
+      "obj": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      },
+      "preinstantiate": 0,
+      "requestOnly": 0
+    },
+    {
+      "group": 2,
+      "type": 0,
+      "id": "GetItemList",
+      "obj": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      },
+      "preinstantiate": 0,
+      "requestOnly": 0
+    },
+    {
+      "group": 2,
+      "type": 0,
+      "id": "IdCopyComplete",
+      "obj": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      },
+      "preinstantiate": 0,
+      "requestOnly": 0
+    },
+    {
+      "group": 2,
+      "type": 1,
+      "id": "Inventory",
+      "obj": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      },
+      "preinstantiate": 0,
+      "requestOnly": 0
+    },
+    {
+      "group": 2,
+      "type": 0,
+      "id": "ItemInfo",
+      "obj": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      },
+      "preinstantiate": 0,
+      "requestOnly": 0
+    },
+    {
+      "group": 2,
+      "type": 0,
+      "id": "Loading",
+      "obj": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      },
+      "preinstantiate": 0,
+      "requestOnly": 0
+    },
+    {
+      "group": 2,
+      "type": 0,
+      "id": "LoginBonusList",
+      "obj": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      },
+      "preinstantiate": 0,
+      "requestOnly": 0
+    },
+    {
+      "group": 2,
+      "type": 0,
+      "id": "MainMenu",
+      "obj": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      },
+      "preinstantiate": 0,
+      "requestOnly": 0
+    },
+    {
+      "group": 2,
+      "type": 0,
+      "id": "MainMenuNetPlayCountDown",
+      "obj": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      },
+      "preinstantiate": 0,
+      "requestOnly": 0
+    },
+    {
+      "group": 2,
+      "type": 0,
+      "id": "Maintenance",
+      "obj": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      },
+      "preinstantiate": 0,
+      "requestOnly": 0
+    },
+    {
+      "group": 2,
+      "type": 1,
+      "id": "Menu",
+      "obj": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      },
+      "preinstantiate": 0,
+      "requestOnly": 0
+    },
+    {
+      "group": 2,
+      "type": 0,
+      "id": "Message",
+      "obj": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      },
+      "preinstantiate": 0,
+      "requestOnly": 0
+    },
+    {
+      "group": 2,
+      "type": 1,
+      "id": "Mission",
+      "obj": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      },
+      "preinstantiate": 0,
+      "requestOnly": 0
+    },
+    {
+      "group": 2,
+      "type": 0,
+      "id": "NetPlayBG",
+      "obj": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      },
+      "preinstantiate": 0,
+      "requestOnly": 0
+    },
+    {
+      "group": 2,
+      "type": 0,
+      "id": "NetPlayLobby",
+      "obj": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      },
+      "preinstantiate": 0,
+      "requestOnly": 0
+    },
+    {
+      "group": 2,
+      "type": 0,
+      "id": "NetPlayWait",
+      "obj": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      },
+      "preinstantiate": 0,
+      "requestOnly": 0
+    },
+    {
+      "group": 2,
+      "type": 0,
+      "id": "News",
+      "obj": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      },
+      "preinstantiate": 0,
+      "requestOnly": 0
+    },
+    {
+      "group": 2,
+      "type": 1,
+      "id": "News",
+      "obj": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      },
+      "preinstantiate": 0,
+      "requestOnly": 0
+    },
+    {
+      "group": 2,
+      "type": 0,
+      "id": "OverlapItems",
+      "obj": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      },
+      "preinstantiate": 0,
+      "requestOnly": 0
+    },
+    {
+      "group": 2,
+      "type": 0,
+      "id": "PartsBuyConfirm",
+      "obj": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      },
+      "preinstantiate": 0,
+      "requestOnly": 0
+    },
+    {
+      "group": 2,
+      "type": 0,
+      "id": "PartsUnlock",
+      "obj": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      },
+      "preinstantiate": 0,
+      "requestOnly": 0
+    },
+    {
+      "group": 2,
+      "type": 0,
+      "id": "PinkCoinShop",
+      "obj": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      },
+      "preinstantiate": 0,
+      "requestOnly": 0
+    },
+    {
+      "group": 2,
+      "type": 0,
+      "id": "Profile",
+      "obj": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      },
+      "preinstantiate": 0,
+      "requestOnly": 0
+    },
+    {
+      "group": 2,
+      "type": 0,
+      "id": "RacePlaySteer",
+      "obj": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      },
+      "preinstantiate": 0,
+      "requestOnly": 0
+    },
+    {
+      "group": 2,
+      "type": 0,
+      "id": "Ranking",
+      "obj": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      },
+      "preinstantiate": 0,
+      "requestOnly": 0
+    },
+    {
+      "group": 2,
+      "type": 0,
+      "id": "SaveDeleteConfirm",
+      "obj": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      },
+      "preinstantiate": 0,
+      "requestOnly": 0
+    },
+    {
+      "group": 2,
+      "type": 1,
+      "id": "Season",
+      "obj": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      },
+      "preinstantiate": 0,
+      "requestOnly": 0
+    },
+    {
+      "group": 2,
+      "type": 0,
+      "id": "Settings",
+      "obj": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      },
+      "preinstantiate": 0,
+      "requestOnly": 0
+    },
+    {
+      "group": 2,
+      "type": 1,
+      "id": "SpecialOffer",
+      "obj": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      },
+      "preinstantiate": 0,
+      "requestOnly": 0
+    },
+    {
+      "group": 2,
+      "type": 0,
+      "id": "TicketList",
+      "obj": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      },
+      "preinstantiate": 0,
+      "requestOnly": 0
+    },
+    {
+      "group": 2,
+      "type": 0,
+      "id": "TicketTargetList",
+      "obj": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      },
+      "preinstantiate": 0,
+      "requestOnly": 0
+    },
+    {
+      "group": 2,
+      "type": 0,
+      "id": "TourGift",
+      "obj": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      },
+      "preinstantiate": 0,
+      "requestOnly": 0
+    },
+    {
+      "group": 2,
+      "type": 0,
+      "id": "TreasureBox",
+      "obj": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      },
+      "preinstantiate": 0,
+      "requestOnly": 0
+    },
+    {
+      "group": 2,
+      "type": 1,
+      "id": "TreasureBox",
+      "obj": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      },
+      "preinstantiate": 0,
+      "requestOnly": 0
+    },
+    {
+      "group": 2,
+      "type": 1,
+      "id": "TreasureBoxWarning",
+      "obj": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      },
+      "preinstantiate": 0,
+      "requestOnly": 0
+    },
+    {
+      "group": 2,
+      "type": 0,
+      "id": "WappenList",
+      "obj": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      },
+      "preinstantiate": 0,
+      "requestOnly": 0
+    },
+    {
+      "group": 2,
+      "type": 1,
+      "id": "WappenSheet",
+      "obj": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      },
+      "preinstantiate": 0,
+      "requestOnly": 0
+    },
+    {
+      "group": 2,
+      "type": 1,
+      "id": "WeeklyEvent",
+      "obj": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      },
+      "preinstantiate": 0,
+      "requestOnly": 0
+    },
+    {
+      "group": 3,
+      "type": 2,
+      "id": "",
+      "obj": {
+        "m_FileID": 10,
+        "m_PathID": 3019283939769776909
+      },
+      "preinstantiate": 0,
+      "requestOnly": 0
+    },
+    {
+      "group": 3,
+      "type": 2,
+      "id": "",
+      "obj": {
+        "m_FileID": 4,
+        "m_PathID": -3732338041420287787
+      },
+      "preinstantiate": 0,
+      "requestOnly": 0
+    },
+    {
+      "group": 3,
+      "type": 2,
+      "id": "",
+      "obj": {
+        "m_FileID": 26,
+        "m_PathID": 643227787103208748
+      },
+      "preinstantiate": 0,
+      "requestOnly": 0
+    },
+    {
+      "group": 3,
+      "type": 2,
+      "id": "",
+      "obj": {
+        "m_FileID": 19,
+        "m_PathID": 2754584172997450942
+      },
+      "preinstantiate": 0,
+      "requestOnly": 0
+    },
+    {
+      "group": 3,
+      "type": 2,
+      "id": "",
+      "obj": {
+        "m_FileID": 3,
+        "m_PathID": 3067369201678393556
+      },
+      "preinstantiate": 0,
+      "requestOnly": 0
+    },
+    {
+      "group": 3,
+      "type": 2,
+      "id": "",
+      "obj": {
+        "m_FileID": 14,
+        "m_PathID": 3516330188969854794
+      },
+      "preinstantiate": 0,
+      "requestOnly": 0
+    },
+    {
+      "group": 3,
+      "type": 3,
+      "id": "",
+      "obj": {
+        "m_FileID": 7,
+        "m_PathID": 7274404883049414987
+      },
+      "preinstantiate": 0,
+      "requestOnly": 0
+    },
+    {
+      "group": 3,
+      "type": 3,
+      "id": "",
+      "obj": {
+        "m_FileID": 6,
+        "m_PathID": 6314952720618636016
+      },
+      "preinstantiate": 0,
+      "requestOnly": 0
+    },
+    {
+      "group": 3,
+      "type": 3,
+      "id": "",
+      "obj": {
+        "m_FileID": 12,
+        "m_PathID": -2684422601146308876
+      },
+      "preinstantiate": 0,
+      "requestOnly": 0
+    },
+    {
+      "group": 3,
+      "type": 3,
+      "id": "",
+      "obj": {
+        "m_FileID": 16,
+        "m_PathID": -3163950649729324040
+      },
+      "preinstantiate": 0,
+      "requestOnly": 0
+    },
+    {
+      "group": 3,
+      "type": 3,
+      "id": "",
+      "obj": {
+        "m_FileID": 20,
+        "m_PathID": -2525209802991670139
+      },
+      "preinstantiate": 0,
+      "requestOnly": 0
+    },
+    {
+      "group": 3,
+      "type": 3,
+      "id": "",
+      "obj": {
+        "m_FileID": 25,
+        "m_PathID": -1811514566641430259
+      },
+      "preinstantiate": 0,
+      "requestOnly": 0
+    },
+    {
+      "group": 3,
+      "type": 0,
+      "id": "EventAim",
+      "obj": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      },
+      "preinstantiate": 0,
+      "requestOnly": 0
+    },
+    {
+      "group": 3,
+      "type": 0,
+      "id": "EventRaceRemainingTime",
+      "obj": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      },
+      "preinstantiate": 0,
+      "requestOnly": 0
+    },
+    {
+      "group": 3,
+      "type": 0,
+      "id": "Finish",
+      "obj": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      },
+      "preinstantiate": 1,
+      "requestOnly": 0
+    },
+    {
+      "group": 3,
+      "type": 0,
+      "id": "Go",
+      "obj": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      },
+      "preinstantiate": 1,
+      "requestOnly": 0
+    },
+    {
+      "group": 3,
+      "type": 0,
+      "id": "ItemAlert",
+      "obj": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      },
+      "preinstantiate": 1,
+      "requestOnly": 0
+    },
+    {
+      "group": 3,
+      "type": 0,
+      "id": "Lap",
+      "obj": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      },
+      "preinstantiate": 1,
+      "requestOnly": 0
+    },
+    {
+      "group": 3,
+      "type": 0,
+      "id": "Miss",
+      "obj": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      },
+      "preinstantiate": 0,
+      "requestOnly": 0
+    },
+    {
+      "group": 3,
+      "type": 0,
+      "id": "PlayerNames",
+      "obj": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      },
+      "preinstantiate": 1,
+      "requestOnly": 0
+    },
+    {
+      "group": 3,
+      "type": 1,
+      "id": "Race",
+      "obj": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      },
+      "preinstantiate": 0,
+      "requestOnly": 0
+    },
+    {
+      "group": 3,
+      "type": 0,
+      "id": "RaceHud",
+      "obj": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      },
+      "preinstantiate": 1,
+      "requestOnly": 0
+    },
+    {
+      "group": 3,
+      "type": 0,
+      "id": "RaceHudMap",
+      "obj": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      },
+      "preinstantiate": 1,
+      "requestOnly": 0
+    },
+    {
+      "group": 3,
+      "type": 0,
+      "id": "RankRaceEntryLandscapeGuide",
+      "obj": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      },
+      "preinstantiate": 0,
+      "requestOnly": 0
+    },
+    {
+      "group": 3,
+      "type": 0,
+      "id": "TourEndingParade",
+      "obj": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      },
+      "preinstantiate": 0,
+      "requestOnly": 0
+    },
+    {
+      "group": 4,
+      "type": 3,
+      "id": "",
+      "obj": {
+        "m_FileID": 8,
+        "m_PathID": -2893800201445074505
+      },
+      "preinstantiate": 0,
+      "requestOnly": 0
+    },
+    {
+      "group": 4,
+      "type": 3,
+      "id": "",
+      "obj": {
+        "m_FileID": 17,
+        "m_PathID": 582562137047282830
+      },
+      "preinstantiate": 0,
+      "requestOnly": 0
+    },
+    {
+      "group": 4,
+      "type": 3,
+      "id": "",
+      "obj": {
+        "m_FileID": 8,
+        "m_PathID": -2893800201445074505
+      },
+      "preinstantiate": 0,
+      "requestOnly": 0
+    },
+    {
+      "group": 4,
+      "type": 3,
+      "id": "",
+      "obj": {
+        "m_FileID": 0,
+        "m_PathID": -277702405402617493
+      },
+      "preinstantiate": 0,
+      "requestOnly": 0
+    },
+    {
+      "group": 4,
+      "type": 3,
+      "id": "",
+      "obj": {
+        "m_FileID": 27,
+        "m_PathID": -2216256564359795752
+      },
+      "preinstantiate": 0,
+      "requestOnly": 0
+    },
+    {
+      "group": 4,
+      "type": 1,
+      "id": "Course",
+      "obj": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      },
+      "preinstantiate": 0,
+      "requestOnly": 0
+    },
+    {
+      "group": 4,
+      "type": 1,
+      "id": "Cup",
+      "obj": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      },
+      "preinstantiate": 0,
+      "requestOnly": 0
+    },
+    {
+      "group": 4,
+      "type": 1,
+      "id": "Event",
+      "obj": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      },
+      "preinstantiate": 0,
+      "requestOnly": 0
+    },
+    {
+      "group": 4,
+      "type": 0,
+      "id": "EventRaceEntry",
+      "obj": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      },
+      "preinstantiate": 0,
+      "requestOnly": 0
+    },
+    {
+      "group": 4,
+      "type": 0,
+      "id": "Fade",
+      "obj": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      },
+      "preinstantiate": 0,
+      "requestOnly": 0
+    },
+    {
+      "group": 4,
+      "type": 1,
+      "id": "Item",
+      "obj": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      },
+      "preinstantiate": 0,
+      "requestOnly": 0
+    },
+    {
+      "group": 4,
+      "type": 1,
+      "id": "JugemMessage",
+      "obj": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      },
+      "preinstantiate": 0,
+      "requestOnly": 0
+    },
+    {
+      "group": 4,
+      "type": 0,
+      "id": "RankRaceEntry",
+      "obj": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      },
+      "preinstantiate": 0,
+      "requestOnly": 0
+    },
+    {
+      "group": 4,
+      "type": 1,
+      "id": "Tips",
+      "obj": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      },
+      "preinstantiate": 0,
+      "requestOnly": 0
+    },
+    {
+      "group": 6,
+      "type": 3,
+      "id": "",
+      "obj": {
+        "m_FileID": 28,
+        "m_PathID": -87763236563823962
+      },
+      "preinstantiate": 0,
+      "requestOnly": 0
+    },
+    {
+      "group": 6,
+      "type": 0,
+      "id": "EventResult",
+      "obj": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      },
+      "preinstantiate": 0,
+      "requestOnly": 0
+    },
+    {
+      "group": 6,
+      "type": 0,
+      "id": "RankRaceResult",
+      "obj": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      },
+      "preinstantiate": 0,
+      "requestOnly": 0
+    },
+    {
+      "group": 6,
+      "type": 0,
+      "id": "RankRaceResultPoint",
+      "obj": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      },
+      "preinstantiate": 0,
+      "requestOnly": 0
+    },
+    {
+      "group": 3,
+      "type": 0,
+      "id": "ScreenshotShare",
+      "obj": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      },
+      "preinstantiate": 0,
+      "requestOnly": 0
+    }
+  ]
+}

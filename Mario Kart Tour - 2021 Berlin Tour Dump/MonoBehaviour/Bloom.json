@@ -1,0 +1,66 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": 1542276887623293071
+  },
+  "m_Name": "Bloom",
+  "active": 1,
+  "enabled": {
+    "overrideState": 1,
+    "value": 1
+  },
+  "intensity": {
+    "overrideState": 1,
+    "value": 7.0
+  },
+  "threshold": {
+    "overrideState": 1,
+    "value": 1.0
+  },
+  "softKnee": {
+    "overrideState": 0,
+    "value": 0.5
+  },
+  "clamp": {
+    "overrideState": 0,
+    "value": 65472.0
+  },
+  "diffusion": {
+    "overrideState": 1,
+    "value": 6.04
+  },
+  "anamorphicRatio": {
+    "overrideState": 0,
+    "value": 0.0
+  },
+  "color": {
+    "overrideState": 0,
+    "value": {
+      "r": 1.0,
+      "g": 1.0,
+      "b": 1.0,
+      "a": 1.0
+    }
+  },
+  "fastMode": {
+    "overrideState": 0,
+    "value": 1
+  },
+  "dirtTexture": {
+    "overrideState": 0,
+    "value": {
+      "m_FileID": 0,
+      "m_PathID": 0
+    },
+    "defaultState": 1
+  },
+  "dirtIntensity": {
+    "overrideState": 0,
+    "value": 0.0
+  }
+}

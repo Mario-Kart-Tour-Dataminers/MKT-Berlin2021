@@ -1,0 +1,50 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": 2434717279687273224
+  },
+  "m_Name": "Wing_Parachute_Rainbow",
+  "mWingModel": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "mIconInfo": [
+    {
+      "mPath": "Assets/Main/Content/Kart/Wing/Wing_Parachute/Icons/Wing_Parachute_Rainbow.png",
+      "mGuid": "1608176a2fd46e54cab56ac3d62bfbb2"
+    },
+    {
+      "mPath": "Assets/Main/Content/Kart/Wing/Wing_Parachute/Icons/Wing_Parachute_Rainbow_Large.png",
+      "mGuid": "963812170fe985b4384482712824fbab"
+    },
+    {
+      "mPath": "Assets/Main/Content/Kart/Wing/Wing_Parachute/Icons/Wing_Parachute_Rainbow_Small.png",
+      "mGuid": "e5c46903b5ff97b4fbed9e93a467f6a1"
+    }
+  ],
+  "mWingType": 0,
+  "mIsFixedIcon": 0,
+  "mBaseParameter": {
+    "m_FileID": 1,
+    "m_PathID": 411820290415868396
+  },
+  "mMaterial": {
+    "m_FileID": 2,
+    "m_PathID": 7408985139274886991
+  },
+  "mEffectContainer": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "mIsDisableAngleAnimation": 0,
+  "mDescription": "パラシュート（虹）",
+  "mColorValiationRoot": {
+    "m_FileID": 1,
+    "m_PathID": 411820290415868396
+  }
+}

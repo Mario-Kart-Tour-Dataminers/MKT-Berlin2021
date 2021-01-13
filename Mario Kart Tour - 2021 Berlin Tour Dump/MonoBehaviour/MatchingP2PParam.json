@@ -1,0 +1,167 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": 994693890074813154
+  },
+  "m_Name": "MatchingP2PParam",
+  "mMMRMin": 500,
+  "mMMRMax": 5000,
+  "mRatingParam": {
+    "InitRate": 1500,
+    "InitRD": 250.0,
+    "InitVolatility": 0.06,
+    "Tau": 0.2,
+    "ResultRD": 250.0,
+    "ResultVolatility": 0.06,
+    "Outcomes": [
+      1.0,
+      0.8,
+      0.68,
+      0.56,
+      0.44,
+      0.32,
+      0.2,
+      0.0
+    ],
+    "LoseTeamFirstRankRatio": 0.5,
+    "RateMin": 500,
+    "RateMax": 5000,
+    "RDMin": 50.0,
+    "RDMax": 300.0,
+    "VolatilityMin": 0.055,
+    "VolatilityMax": 0.065
+  },
+  "mUdemaeParam": {
+    "InitRank": 1,
+    "InitRate": 0,
+    "InitGaugeRatio": 0.2,
+    "CalcParamRateUpdateRatio": {
+      "ParamForEachRankIndex": [
+        1.5,
+        1.0,
+        1.0,
+        1.0,
+        1.0,
+        1.0,
+        1.0,
+        1.5
+      ],
+      "ModeBoost": [
+        4.0,
+        1.0,
+        5.0,
+        1.25
+      ]
+    },
+    "CalcParamTargetUpdateRatio": {
+      "ParamForEachRankIndex": [
+        0.02,
+        0.02,
+        0.02,
+        0.02,
+        0.02,
+        0.02,
+        0.02,
+        0.02
+      ],
+      "ModeBoost": [
+        2.0,
+        1.0,
+        2.5,
+        1.25
+      ]
+    },
+    "UdemaeClampParam": [
+      {
+        "RankThreshold": 0,
+        "IsMiddleRankZero": 1,
+        "CalcParamUpdateMin": {
+          "ParamForEachRankIndex": [
+            10.0,
+            5.0,
+            3.0,
+            1.0,
+            -5.0,
+            -15.0,
+            -25.0,
+            -50.0
+          ],
+          "ModeBoost": [
+            4.0,
+            1.0,
+            5.0,
+            1.25
+          ]
+        },
+        "CalcParamUpdateMax": {
+          "ParamForEachRankIndex": [
+            50.0,
+            25.0,
+            15.0,
+            5.0,
+            -1.0,
+            -3.0,
+            -5.0,
+            -10.0
+          ],
+          "ModeBoost": [
+            4.0,
+            1.0,
+            5.0,
+            1.25
+          ]
+        }
+      },
+      {
+        "RankThreshold": 10000,
+        "IsMiddleRankZero": 0,
+        "CalcParamUpdateMin": {
+          "ParamForEachRankIndex": [
+            10.0,
+            -50.0,
+            -50.0,
+            -50.0,
+            -50.0,
+            -50.0,
+            -50.0,
+            -50.0
+          ],
+          "ModeBoost": [
+            4.0,
+            1.0,
+            5.0,
+            1.25
+          ]
+        },
+        "CalcParamUpdateMax": {
+          "ParamForEachRankIndex": [
+            50.0,
+            50.0,
+            50.0,
+            50.0,
+            50.0,
+            50.0,
+            50.0,
+            -10.0
+          ],
+          "ModeBoost": [
+            4.0,
+            1.0,
+            5.0,
+            1.25
+          ]
+        }
+      }
+    ]
+  },
+  "mResetParam": {
+    "FromMMRMin": 100,
+    "FromMMRMax": 700,
+    "ToMMRWidth": 600
+  }
+}

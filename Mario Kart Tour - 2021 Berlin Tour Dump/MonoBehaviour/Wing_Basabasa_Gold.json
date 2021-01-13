@@ -1,0 +1,50 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": 2434717279687273224
+  },
+  "m_Name": "Wing_Basabasa_Gold",
+  "mWingModel": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "mIconInfo": [
+    {
+      "mPath": "Assets/Main/Content/Kart/Wing/Wing_Basabasa/Icons/Wing_Basabasa_Gold.png",
+      "mGuid": "80bc8e5b16aa0b54398210a1a30e58dd"
+    },
+    {
+      "mPath": "Assets/Main/Content/Kart/Wing/Wing_Basabasa/Icons/Wing_Basabasa_Gold_Large.png",
+      "mGuid": "fdfb63ecf3336d94dae0c9a716bcbac1"
+    },
+    {
+      "mPath": "Assets/Main/Content/Kart/Wing/Wing_Basabasa/Icons/Wing_Basabasa_Gold_Small.png",
+      "mGuid": "4acf427b5729ab9409b97229718644ea"
+    }
+  ],
+  "mWingType": 0,
+  "mIsFixedIcon": 0,
+  "mBaseParameter": {
+    "m_FileID": 1,
+    "m_PathID": -3545415275461388014
+  },
+  "mMaterial": {
+    "m_FileID": 0,
+    "m_PathID": 3000751132676099144
+  },
+  "mEffectContainer": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "mIsDisableAngleAnimation": 0,
+  "mDescription": "",
+  "mColorValiationRoot": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  }
+}

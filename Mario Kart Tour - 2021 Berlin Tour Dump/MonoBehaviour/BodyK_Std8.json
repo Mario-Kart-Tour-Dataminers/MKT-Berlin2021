@@ -1,0 +1,100 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": -8652336194674809844
+  },
+  "m_Name": "BodyK_Std8",
+  "mBodyModel": {
+    "m_FileID": 0,
+    "m_PathID": -856335042977989401
+  },
+  "mDriverOffset": {
+    "x": 0.0,
+    "y": 0.0,
+    "z": 0.0
+  },
+  "mBodyCenterPosition": {
+    "x": 0.0,
+    "y": 0.0,
+    "z": 0.0
+  },
+  "mScrewPosition": {
+    "x": 0.0,
+    "y": 0.18,
+    "z": -0.55
+  },
+  "mShaftPositionList": [],
+  "mGearBoxData": {
+    "m_FileID": 2,
+    "m_PathID": 3532631435007547029
+  },
+  "mGearBoxScale": {
+    "x": 1.4,
+    "y": 1.2,
+    "z": 1.2
+  },
+  "mGearBoxPosition": {
+    "x": 0.0,
+    "y": -0.1,
+    "z": 0.57
+  },
+  "mGearBoxSlideOffset": {
+    "x": 0.0,
+    "y": 0.0,
+    "z": 0.05
+  },
+  "mBodyWingParams": {
+    "m_FileID": 0,
+    "m_PathID": 3833502778058290352
+  },
+  "mBodyTireParams": {
+    "m_FileID": 0,
+    "m_PathID": 4763686402167572617
+  },
+  "mIconInfo": [
+    {
+      "mPath": "Assets/Main/Content/Kart/Body/BodyK_Std8/Icons/BodyK_Std8.png",
+      "mGuid": "c9ea4b037f4e50a4fb947060f85e5525"
+    }
+  ],
+  "mJointMode": 1,
+  "mScrewScale": {
+    "x": 0.85,
+    "y": 0.85,
+    "z": 0.85
+  },
+  "mScrewAxisOffset": {
+    "x": 0.0,
+    "y": 0.0,
+    "z": -0.08
+  },
+  "mBackrestHeight": 0.0,
+  "mIsFixedIcon": 0,
+  "mBaseParameter": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "mMaterial": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "mGearBoxMaterial": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "mEffectContainer": {
+    "m_FileID": 0,
+    "m_PathID": 7137583212506101622
+  },
+  "mEffectContainerForTire": [],
+  "mDescription": "スタンダード8",
+  "mColorValiationRoot": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  }
+}

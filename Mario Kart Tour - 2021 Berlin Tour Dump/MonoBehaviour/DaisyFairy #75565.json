@@ -1,0 +1,135 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": -2094441087577622512
+  },
+  "m_Name": "DaisyFairy",
+  "mModel": {
+    "m_FileID": 1,
+    "m_PathID": 4601430002454595972
+  },
+  "mFaceTextures": [
+    {
+      "m_FileID": 2,
+      "m_PathID": 5216644308873864261
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -2281267067808429228
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 6701106377827769491
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 2662317001864768468
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 3696807160184008882
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -7690741410071589246
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -754223223251128640
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -7226407220442498613
+    }
+  ],
+  "mIsFaceTextureEmission": 0,
+  "mEmblem": {
+    "m_FileID": 0,
+    "m_PathID": -1883967704074717346
+  },
+  "mAnimatorOverrideController": {
+    "m_FileID": 3,
+    "m_PathID": -3219381837738509888
+  },
+  "mKartScaleSize": 1.0,
+  "mWingJointType": 0,
+  "mFaceChangeEvent": {
+    "m_FileID": 0,
+    "m_PathID": 377573520901337911
+  },
+  "mIconInfo": [
+    {
+      "mPath": "Assets/Main/Content/Driver/DaisyFairy/Icons/DaisyFairy.png",
+      "mGuid": "cbe234eb37a96b4459ce6cb46846686b"
+    },
+    {
+      "mPath": "Assets/Main/Content/Driver/DaisyFairy/Icons/DaisyFairyMap.png",
+      "mGuid": "ed326ea9975c2a24caa9f1035a81be87"
+    },
+    {
+      "mPath": "Assets/Main/Content/Driver/DaisyFairy/Icons/DaisyFairyFaceEntry.png",
+      "mGuid": "939ac018a8f275f4ab3d159fd783cd49"
+    },
+    {
+      "mPath": "Assets/Main/Content/Driver/DaisyFairy/Icons/DaisyFairyWholeBody.png",
+      "mGuid": "2385723437470e048b0ca9b3670ae559"
+    },
+    {
+      "mPath": "Assets/Main/Content/Driver/DaisyFairy/Icons/DaisyFairyUpperBody.png",
+      "mGuid": "16444c6ddf5ed9249b0aab8d3f2d9739"
+    },
+    {
+      "mPath": "",
+      "mGuid": ""
+    },
+    {
+      "mPath": "Assets/Main/Content/Driver/DaisyFairy/Icons/DaisyFairy_Small.png",
+      "mGuid": "4d69c54e6973360448a5e70944ae25c0"
+    },
+    {
+      "mPath": "Assets/Main/Content/Driver/DaisyFairy/Icons/DaisyFairyFaceEntry_Small.png",
+      "mGuid": "77b885ff9d164294fa7b0ecae9d4d284"
+    },
+    {
+      "mPath": "Assets/Main/Content/Driver/DaisyFairy/Icons/DaisyFairyWholeBody_Small.png",
+      "mGuid": "038fcc2e23abf994ca02fc645bbe8836"
+    },
+    {
+      "mPath": "Assets/Main/Content/Driver/DaisyFairy/Icons/DaisyFairyUpperBody_Small.png",
+      "mGuid": "fd1bf4d2c33cff6498d135c994c27fe1"
+    }
+  ],
+  "mColorGroup": 0,
+  "mCharacterTextureList": [],
+  "mBaseParameter": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "mBodyMaterial": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "mEyeMaterial": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "mDynamicUnitMngInitData": {
+    "m_FileID": 0,
+    "m_PathID": 8897135979664679251
+  },
+  "mMetamorData": [],
+  "mDotDriverData": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "mDescription": "",
+  "mEffectContainer": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  }
+}

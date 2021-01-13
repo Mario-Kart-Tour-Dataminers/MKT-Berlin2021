@@ -1,0 +1,100 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": -8652336194674809844
+  },
+  "m_Name": "BodyK_Turbo1",
+  "mBodyModel": {
+    "m_FileID": 0,
+    "m_PathID": -8947334476642533919
+  },
+  "mDriverOffset": {
+    "x": 0.0,
+    "y": 0.0,
+    "z": 0.0
+  },
+  "mBodyCenterPosition": {
+    "x": 0.0,
+    "y": 0.0,
+    "z": 0.0
+  },
+  "mScrewPosition": {
+    "x": 0.0,
+    "y": 0.27,
+    "z": -0.78
+  },
+  "mShaftPositionList": [],
+  "mGearBoxData": {
+    "m_FileID": 2,
+    "m_PathID": 3532631435007547029
+  },
+  "mGearBoxScale": {
+    "x": 1.5,
+    "y": 1.5,
+    "z": 1.5
+  },
+  "mGearBoxPosition": {
+    "x": 0.0,
+    "y": 0.12,
+    "z": 0.78
+  },
+  "mGearBoxSlideOffset": {
+    "x": 0.0,
+    "y": 0.0,
+    "z": -0.17
+  },
+  "mBodyWingParams": {
+    "m_FileID": 0,
+    "m_PathID": -7680251243360053166
+  },
+  "mBodyTireParams": {
+    "m_FileID": 0,
+    "m_PathID": 1428385901567935068
+  },
+  "mIconInfo": [
+    {
+      "mPath": "Assets/Main/Content/Kart/Body/BodyK_Turbo1/Icons/BodyK_Turbo1.png",
+      "mGuid": "105a808c186d35c4b9f8e297f16f8c3d"
+    }
+  ],
+  "mJointMode": 1,
+  "mScrewScale": {
+    "x": 1.0,
+    "y": 1.0,
+    "z": 1.0
+  },
+  "mScrewAxisOffset": {
+    "x": 0.0,
+    "y": 0.0,
+    "z": -0.08
+  },
+  "mBackrestHeight": 0.0,
+  "mIsFixedIcon": 0,
+  "mBaseParameter": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "mMaterial": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "mGearBoxMaterial": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "mEffectContainer": {
+    "m_FileID": 0,
+    "m_PathID": -2823198094823501984
+  },
+  "mEffectContainerForTire": [],
+  "mDescription": "ターボ・ワン",
+  "mColorValiationRoot": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  }
+}

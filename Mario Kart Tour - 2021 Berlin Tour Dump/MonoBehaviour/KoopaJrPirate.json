@@ -1,0 +1,135 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": -2094441087577622512
+  },
+  "m_Name": "KoopaJrPirate",
+  "mModel": {
+    "m_FileID": 1,
+    "m_PathID": -6838881835933766486
+  },
+  "mFaceTextures": [
+    {
+      "m_FileID": 2,
+      "m_PathID": 1259547701969393266
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 6531569503227681488
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -726698041753568921
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 2853376275087513753
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 4703644569987087389
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 8092295656987015365
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -9196167868102504336
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -5298114036468473432
+    }
+  ],
+  "mIsFaceTextureEmission": 0,
+  "mEmblem": {
+    "m_FileID": 0,
+    "m_PathID": -5620906493018010601
+  },
+  "mAnimatorOverrideController": {
+    "m_FileID": 3,
+    "m_PathID": 528133852139271889
+  },
+  "mKartScaleSize": 0.85,
+  "mWingJointType": 0,
+  "mFaceChangeEvent": {
+    "m_FileID": 0,
+    "m_PathID": 2602305944074225438
+  },
+  "mIconInfo": [
+    {
+      "mPath": "Assets/Main/Content/Driver/KoopaJrPirate/Icons/KoopaJrPirate.png",
+      "mGuid": "48acf92186763c94697cb65aab570cfa"
+    },
+    {
+      "mPath": "Assets/Main/Content/Driver/KoopaJrPirate/Icons/KoopaJrPirateMap.png",
+      "mGuid": "700fce1a73c5ebb4d81f2fe5ed93d85e"
+    },
+    {
+      "mPath": "Assets/Main/Content/Driver/KoopaJrPirate/Icons/KoopaJrPirateFaceEntry.png",
+      "mGuid": "699f3fb024f9a994a8a06f340adae36a"
+    },
+    {
+      "mPath": "Assets/Main/Content/Driver/KoopaJrPirate/Icons/KoopaJrPirateWholeBody.png",
+      "mGuid": "37781130c8fc71146a56ec3c34bf25ee"
+    },
+    {
+      "mPath": "Assets/Main/Content/Driver/KoopaJrPirate/Icons/KoopaJrPirateUpperBody.png",
+      "mGuid": "6861d81815a9c064198c254855113de0"
+    },
+    {
+      "mPath": "",
+      "mGuid": ""
+    },
+    {
+      "mPath": "Assets/Main/Content/Driver/KoopaJrPirate/Icons/KoopaJrPirate_Small.png",
+      "mGuid": "06bbad175690a274da59d4bfada23f7b"
+    },
+    {
+      "mPath": "Assets/Main/Content/Driver/KoopaJrPirate/Icons/KoopaJrPirateFaceEntry_Small.png",
+      "mGuid": "afe6d69096708e34d920e3ce2b9782f8"
+    },
+    {
+      "mPath": "Assets/Main/Content/Driver/KoopaJrPirate/Icons/KoopaJrPirateWholeBody_Small.png",
+      "mGuid": "b3e86b6608c8d2c41ab153f7d407a267"
+    },
+    {
+      "mPath": "Assets/Main/Content/Driver/KoopaJrPirate/Icons/KoopaJrPirateUpperBody_Small.png",
+      "mGuid": "6bf193f3e615b3846a7687b5141e0c5f"
+    }
+  ],
+  "mColorGroup": 0,
+  "mCharacterTextureList": [],
+  "mBaseParameter": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "mBodyMaterial": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "mEyeMaterial": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "mDynamicUnitMngInitData": {
+    "m_FileID": 0,
+    "m_PathID": 2484069878154279841
+  },
+  "mMetamorData": [],
+  "mDotDriverData": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "mDescription": "",
+  "mEffectContainer": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  }
+}

@@ -1,0 +1,119 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": -2094441087577622512
+  },
+  "m_Name": "Karon",
+  "mModel": {
+    "m_FileID": 1,
+    "m_PathID": 5280762577229132077
+  },
+  "mFaceTextures": [
+    {
+      "m_FileID": 2,
+      "m_PathID": -3350730858978402789
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 6281514492234752617
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -2868922578148862960
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -1918831414325870316
+    }
+  ],
+  "mIsFaceTextureEmission": 1,
+  "mEmblem": {
+    "m_FileID": 0,
+    "m_PathID": -1418146244044849162
+  },
+  "mAnimatorOverrideController": {
+    "m_FileID": 3,
+    "m_PathID": 7425558583839047858
+  },
+  "mKartScaleSize": 0.85,
+  "mWingJointType": 0,
+  "mFaceChangeEvent": {
+    "m_FileID": 0,
+    "m_PathID": -3967648495641012325
+  },
+  "mIconInfo": [
+    {
+      "mPath": "Assets/Main/Content/Driver/Karon/Icons/Karon.png",
+      "mGuid": "68bfc7c4410eb394f94d24e8b2df824b"
+    },
+    {
+      "mPath": "Assets/Main/Content/Driver/Karon/Icons/KaronMap.png",
+      "mGuid": "e3df4aaf030444046847d656220ca5f4"
+    },
+    {
+      "mPath": "Assets/Main/Content/Driver/Karon/Icons/KaronFaceEntry.png",
+      "mGuid": "a2bc7be8a06547e448e95d53358b7ee9"
+    },
+    {
+      "mPath": "Assets/Main/Content/Driver/Karon/Icons/KaronWholeBody.png",
+      "mGuid": "11fb06db136af744abd3c988d888f6ff"
+    },
+    {
+      "mPath": "Assets/Main/Content/Driver/Karon/Icons/KaronUpperBody.png",
+      "mGuid": "49f24784c56c192418e0d0bd91dc8194"
+    },
+    {
+      "mPath": "",
+      "mGuid": ""
+    },
+    {
+      "mPath": "Assets/Main/Content/Driver/Karon/Icons/Karon_Small.png",
+      "mGuid": "6af946642f28ff9499bd202fb9d708c3"
+    },
+    {
+      "mPath": "Assets/Main/Content/Driver/Karon/Icons/KaronFaceEntry_Small.png",
+      "mGuid": "39815c374041a3944a1013c6ad881661"
+    },
+    {
+      "mPath": "Assets/Main/Content/Driver/Karon/Icons/KaronWholeBody_Small.png",
+      "mGuid": "16e1390a352535b46bd81d7abfbc9924"
+    },
+    {
+      "mPath": "Assets/Main/Content/Driver/Karon/Icons/KaronUpperBody_Small.png",
+      "mGuid": "f092482e58d34104f9cea3aa187e9ae4"
+    }
+  ],
+  "mColorGroup": 0,
+  "mCharacterTextureList": [],
+  "mBaseParameter": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "mBodyMaterial": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "mEyeMaterial": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "mDynamicUnitMngInitData": {
+    "m_FileID": 0,
+    "m_PathID": 5770434263734338936
+  },
+  "mMetamorData": [],
+  "mDotDriverData": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "mDescription": "カロン",
+  "mEffectContainer": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  }
+}

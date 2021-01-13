@@ -1,0 +1,32 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": -6565622707628119514
+  },
+  "m_Name": "Gallery",
+  "mMaterial": {
+    "Rotate": [
+      {
+        "m_FileID": 0,
+        "m_PathID": 8548182493365148159
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": -965675668547948005
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": 5303931546674912381
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": -4163161699733410970
+      }
+    ]
+  }
+}

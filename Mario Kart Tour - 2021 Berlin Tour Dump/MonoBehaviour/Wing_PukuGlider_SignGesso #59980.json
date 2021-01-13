@@ -1,0 +1,50 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": 2434717279687273224
+  },
+  "m_Name": "Wing_PukuGlider_SignGesso",
+  "mWingModel": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "mIconInfo": [
+    {
+      "mPath": "Assets/Main/Content/Kart/Wing/Wing_PukuGlider/Icons/Wing_PukuGlider_SignGesso.png",
+      "mGuid": "1db0e1f2985c8bc4a960e4f16a76abf4"
+    },
+    {
+      "mPath": "Assets/Main/Content/Kart/Wing/Wing_PukuGlider/Icons/Wing_PukuGlider_SignGesso_Large.png",
+      "mGuid": "500d56b40b6e92743b46e7131d56d5a8"
+    },
+    {
+      "mPath": "Assets/Main/Content/Kart/Wing/Wing_PukuGlider/Icons/Wing_PukuGlider_SignGesso_Small.png",
+      "mGuid": "96a489986335d9c40b54a253e6816dda"
+    }
+  ],
+  "mWingType": 0,
+  "mIsFixedIcon": 0,
+  "mBaseParameter": {
+    "m_FileID": 6,
+    "m_PathID": -1163890223536989472
+  },
+  "mMaterial": {
+    "m_FileID": 0,
+    "m_PathID": -8269939602172208452
+  },
+  "mEffectContainer": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "mIsDisableAngleAnimation": 0,
+  "mDescription": "",
+  "mColorValiationRoot": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  }
+}

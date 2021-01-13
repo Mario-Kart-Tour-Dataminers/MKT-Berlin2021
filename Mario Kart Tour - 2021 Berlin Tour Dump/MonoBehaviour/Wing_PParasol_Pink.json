@@ -1,0 +1,50 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": 2434717279687273224
+  },
+  "m_Name": "Wing_PParasol_Pink",
+  "mWingModel": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "mIconInfo": [
+    {
+      "mPath": "Assets/Main/Content/Kart/Wing/Wing_PParasol/Icons/Wing_PParasol_Pink.png",
+      "mGuid": "48517739a1c22eb4ab22a7a1ac1f1572"
+    },
+    {
+      "mPath": "Assets/Main/Content/Kart/Wing/Wing_PParasol/Icons/Wing_PParasol_Pink_Large.png",
+      "mGuid": "deaac7c3bdcf9214eaaa83fdf03fe609"
+    },
+    {
+      "mPath": "Assets/Main/Content/Kart/Wing/Wing_PParasol/Icons/Wing_PParasol_Pink_Small.png",
+      "mGuid": "5f93b4f425bc25d459782596df20ebe7"
+    }
+  ],
+  "mWingType": 0,
+  "mIsFixedIcon": 0,
+  "mBaseParameter": {
+    "m_FileID": 1,
+    "m_PathID": 255618208156333930
+  },
+  "mMaterial": {
+    "m_FileID": 2,
+    "m_PathID": -6612047625714832411
+  },
+  "mEffectContainer": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "mIsDisableAngleAnimation": 0,
+  "mDescription": "ピーチパラソル（ピンク）",
+  "mColorValiationRoot": {
+    "m_FileID": 1,
+    "m_PathID": 255618208156333930
+  }
+}

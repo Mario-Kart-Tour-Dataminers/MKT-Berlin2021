@@ -1,0 +1,36 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": -3977807471082417869
+  },
+  "m_Name": "NetPlayLobbyContentBaseList00",
+  "savePath": 1,
+  "isEnableCheckNoEmptyValue": 0,
+  "assetDataList": [
+    {
+      "obj": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      },
+      "path": "Assets/Main/Content/UI/Texture/CircleBase04.png",
+      "guid": "87e405d7cf85cec4abe7dd41920a3188",
+      "substitutedArrayIndex": 0
+    },
+    {
+      "obj": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      },
+      "path": "Assets/Main/Content/UI/Texture/NetPlayLobbyContentBase00.png",
+      "guid": "7e8bfb53515f06d45a3eff54388e9952",
+      "substitutedArrayIndex": 1
+    }
+  ],
+  "assetType": 0,
+  "keyType": 0
+}

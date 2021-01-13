@@ -1,0 +1,36 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": -3977807471082417869
+  },
+  "m_Name": "BtnDlgRetryList00",
+  "savePath": 1,
+  "isEnableCheckNoEmptyValue": 0,
+  "assetDataList": [
+    {
+      "obj": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      },
+      "path": "Assets/Main/Content/UI/Texture/Setting/BtnDlgRetire00.png",
+      "guid": "2748ed14acfc7ff458bccd2cac410bcc",
+      "substitutedArrayIndex": 0
+    },
+    {
+      "obj": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      },
+      "path": "Assets/Main/Content/UI/Texture/Setting/BtnDlgRetry00.png",
+      "guid": "668911bb5e01c4444b29c2d03f85a87a",
+      "substitutedArrayIndex": 1
+    }
+  ],
+  "assetType": 0,
+  "keyType": 0
+}

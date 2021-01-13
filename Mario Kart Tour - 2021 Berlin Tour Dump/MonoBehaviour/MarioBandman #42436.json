@@ -1,0 +1,135 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": -2094441087577622512
+  },
+  "m_Name": "MarioBandman",
+  "mModel": {
+    "m_FileID": 1,
+    "m_PathID": 979102663406863990
+  },
+  "mFaceTextures": [
+    {
+      "m_FileID": 2,
+      "m_PathID": -2327167363969406010
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 6426806297059028417
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -4455272631953573379
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -7492098155136781753
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -1171846814106577125
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 7582799456838564691
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -8147315195155145424
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -1744865477713306564
+    }
+  ],
+  "mIsFaceTextureEmission": 0,
+  "mEmblem": {
+    "m_FileID": 0,
+    "m_PathID": 5737318783877669438
+  },
+  "mAnimatorOverrideController": {
+    "m_FileID": 3,
+    "m_PathID": 9139566617465488907
+  },
+  "mKartScaleSize": 1.0,
+  "mWingJointType": 0,
+  "mFaceChangeEvent": {
+    "m_FileID": 0,
+    "m_PathID": 505617448525112993
+  },
+  "mIconInfo": [
+    {
+      "mPath": "Assets/Main/Content/Driver/MarioBandman/Icons/MarioBandman.png",
+      "mGuid": "6e9e67e945edd0a4b8a93d72ed23321b"
+    },
+    {
+      "mPath": "Assets/Main/Content/Driver/MarioBandman/Icons/MarioBandmanMap.png",
+      "mGuid": "08a46ecd477c9bb43adf6ecb98b2c871"
+    },
+    {
+      "mPath": "Assets/Main/Content/Driver/MarioBandman/Icons/MarioBandmanFaceEntry.png",
+      "mGuid": "1c630d9fbeb395444a84212439d25263"
+    },
+    {
+      "mPath": "Assets/Main/Content/Driver/MarioBandman/Icons/MarioBandmanWholeBody.png",
+      "mGuid": "57de17b7d1be2944dac085e4b69cc349"
+    },
+    {
+      "mPath": "Assets/Main/Content/Driver/MarioBandman/Icons/MarioBandmanUpperBody.png",
+      "mGuid": "4bf86585152edc249ad21595a27d49fd"
+    },
+    {
+      "mPath": "",
+      "mGuid": ""
+    },
+    {
+      "mPath": "Assets/Main/Content/Driver/MarioBandman/Icons/MarioBandman_Small.png",
+      "mGuid": "8da13d390397da6449c2f060909722e8"
+    },
+    {
+      "mPath": "Assets/Main/Content/Driver/MarioBandman/Icons/MarioBandmanFaceEntry_Small.png",
+      "mGuid": "71d8775bca0e20e43942e8d025acf8e0"
+    },
+    {
+      "mPath": "Assets/Main/Content/Driver/MarioBandman/Icons/MarioBandmanWholeBody_Small.png",
+      "mGuid": "b9b2a85f450a2ea44832fe9d8062d41e"
+    },
+    {
+      "mPath": "Assets/Main/Content/Driver/MarioBandman/Icons/MarioBandmanUpperBody_Small.png",
+      "mGuid": "d06f98f9c54e53342adb2ed1fbbd997b"
+    }
+  ],
+  "mColorGroup": 0,
+  "mCharacterTextureList": [],
+  "mBaseParameter": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "mBodyMaterial": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "mEyeMaterial": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "mDynamicUnitMngInitData": {
+    "m_FileID": 0,
+    "m_PathID": -7696847220241416606
+  },
+  "mMetamorData": [],
+  "mDotDriverData": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "mDescription": "",
+  "mEffectContainer": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  }
+}

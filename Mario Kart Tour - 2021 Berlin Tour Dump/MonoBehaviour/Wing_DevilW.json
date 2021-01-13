@@ -1,0 +1,50 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": 2434717279687273224
+  },
+  "m_Name": "Wing_DevilW",
+  "mWingModel": {
+    "m_FileID": 0,
+    "m_PathID": 3906498293919890458
+  },
+  "mIconInfo": [
+    {
+      "mPath": "Assets/Main/Content/Kart/Wing/Wing_DevilW/Icons/Wing_DevilW.png",
+      "mGuid": "f86987633c0f1ca48a4df5bdf8629bfc"
+    },
+    {
+      "mPath": "Assets/Main/Content/Kart/Wing/Wing_DevilW/Icons/Wing_DevilW_Large.png",
+      "mGuid": "856b0c8f7480cbd4ab5ca7edd45f7982"
+    },
+    {
+      "mPath": "Assets/Main/Content/Kart/Wing/Wing_DevilW/Icons/Wing_DevilW_Small.png",
+      "mGuid": "a926c7d138693b048896c076b18c16c0"
+    }
+  ],
+  "mWingType": 2,
+  "mIsFixedIcon": 0,
+  "mBaseParameter": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "mMaterial": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "mEffectContainer": {
+    "m_FileID": 0,
+    "m_PathID": 2530932208325798145
+  },
+  "mIsDisableAngleAnimation": 0,
+  "mDescription": "",
+  "mColorValiationRoot": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  }
+}

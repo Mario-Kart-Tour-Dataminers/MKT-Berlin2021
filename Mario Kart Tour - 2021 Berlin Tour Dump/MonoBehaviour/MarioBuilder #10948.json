@@ -1,0 +1,135 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": -2094441087577622512
+  },
+  "m_Name": "MarioBuilder",
+  "mModel": {
+    "m_FileID": 3,
+    "m_PathID": -8914988242803235791
+  },
+  "mFaceTextures": [
+    {
+      "m_FileID": 1,
+      "m_PathID": 3152292509047805135
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -6039420930798886182
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -7474676034373374260
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -1616417969199984043
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -3233055333836978899
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 7597943787792004926
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -8727768859271510253
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -3666935976328267138
+    }
+  ],
+  "mIsFaceTextureEmission": 0,
+  "mEmblem": {
+    "m_FileID": 0,
+    "m_PathID": -4168230751379542774
+  },
+  "mAnimatorOverrideController": {
+    "m_FileID": 2,
+    "m_PathID": -1668043275751312778
+  },
+  "mKartScaleSize": 1.0,
+  "mWingJointType": 0,
+  "mFaceChangeEvent": {
+    "m_FileID": 0,
+    "m_PathID": 1074618082275306799
+  },
+  "mIconInfo": [
+    {
+      "mPath": "Assets/Main/Content/Driver/MarioBuilder/Icons/MarioBuilder.png",
+      "mGuid": "9928b9515f1bece449fb4ede36deba38"
+    },
+    {
+      "mPath": "Assets/Main/Content/Driver/MarioBuilder/Icons/MarioBuilderMap.png",
+      "mGuid": "9cd964e6b6bdb244ea57181de8d7249e"
+    },
+    {
+      "mPath": "Assets/Main/Content/Driver/MarioBuilder/Icons/MarioBuilderFaceEntry.png",
+      "mGuid": "570c0fc324439714e8665a5cf8ae8e91"
+    },
+    {
+      "mPath": "Assets/Main/Content/Driver/MarioBuilder/Icons/MarioBuilderWholeBody.png",
+      "mGuid": "9f2fb9bde3b72be479113a6d9e46706a"
+    },
+    {
+      "mPath": "Assets/Main/Content/Driver/MarioBuilder/Icons/MarioBuilderUpperBody.png",
+      "mGuid": "fdfda990d89815b42884ae6e07eb1ef9"
+    },
+    {
+      "mPath": "",
+      "mGuid": ""
+    },
+    {
+      "mPath": "Assets/Main/Content/Driver/MarioBuilder/Icons/MarioBuilder_Small.png",
+      "mGuid": "8804a51b473e6dd499fb5ac3e8aeb55b"
+    },
+    {
+      "mPath": "Assets/Main/Content/Driver/MarioBuilder/Icons/MarioBuilderFaceEntry_Small.png",
+      "mGuid": "77f80992e1c26ca4cab1e48a70cecbc9"
+    },
+    {
+      "mPath": "Assets/Main/Content/Driver/MarioBuilder/Icons/MarioBuilderWholeBody_Small.png",
+      "mGuid": "e3fe3929e7dffb847aa8400c4a9f20b0"
+    },
+    {
+      "mPath": "Assets/Main/Content/Driver/MarioBuilder/Icons/MarioBuilderUpperBody_Small.png",
+      "mGuid": "b82f5cb3fe19a734097b716f6f1d4e66"
+    }
+  ],
+  "mColorGroup": 0,
+  "mCharacterTextureList": [],
+  "mBaseParameter": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "mBodyMaterial": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "mEyeMaterial": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "mDynamicUnitMngInitData": {
+    "m_FileID": 0,
+    "m_PathID": -2422891397803741523
+  },
+  "mMetamorData": [],
+  "mDotDriverData": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "mDescription": "",
+  "mEffectContainer": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  }
+}

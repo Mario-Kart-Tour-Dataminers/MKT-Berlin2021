@@ -1,0 +1,135 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": -2094441087577622512
+  },
+  "m_Name": "RosettaSwimwear",
+  "mModel": {
+    "m_FileID": 1,
+    "m_PathID": -1802067430540423846
+  },
+  "mFaceTextures": [
+    {
+      "m_FileID": 2,
+      "m_PathID": -5425370035084718145
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -3695799824801916395
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -6869507836285854384
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 2235537275621844175
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -7701747145832787560
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 4013248277874151722
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 2423835363093414953
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -1426035347839032203
+    }
+  ],
+  "mIsFaceTextureEmission": 0,
+  "mEmblem": {
+    "m_FileID": 0,
+    "m_PathID": -8565444602035077291
+  },
+  "mAnimatorOverrideController": {
+    "m_FileID": 3,
+    "m_PathID": -905674348811141533
+  },
+  "mKartScaleSize": 1.1,
+  "mWingJointType": 0,
+  "mFaceChangeEvent": {
+    "m_FileID": 0,
+    "m_PathID": -5740175994190905779
+  },
+  "mIconInfo": [
+    {
+      "mPath": "Assets/Main/Content/Driver/RosettaSwimwear/Icons/RosettaSwimwear.png",
+      "mGuid": "b3605f7499099284eacce2630f630ffd"
+    },
+    {
+      "mPath": "Assets/Main/Content/Driver/RosettaSwimwear/Icons/RosettaSwimwearMap.png",
+      "mGuid": "51ca16a8c3e756745811bd82e2b72c57"
+    },
+    {
+      "mPath": "Assets/Main/Content/Driver/RosettaSwimwear/Icons/RosettaSwimwearFaceEntry.png",
+      "mGuid": "0789a9c592a44b843b47c1fd73bbeb8b"
+    },
+    {
+      "mPath": "Assets/Main/Content/Driver/RosettaSwimwear/Icons/RosettaSwimwearWholeBody.png",
+      "mGuid": "653aff817516dd842b59c43f8518e46d"
+    },
+    {
+      "mPath": "Assets/Main/Content/Driver/RosettaSwimwear/Icons/RosettaSwimwearUpperBody.png",
+      "mGuid": "85e4ba6293ede894091dff64b2dff1b4"
+    },
+    {
+      "mPath": "",
+      "mGuid": ""
+    },
+    {
+      "mPath": "Assets/Main/Content/Driver/RosettaSwimwear/Icons/RosettaSwimwear_Small.png",
+      "mGuid": "b027da4ffb8a1934984cecb548447b66"
+    },
+    {
+      "mPath": "Assets/Main/Content/Driver/RosettaSwimwear/Icons/RosettaSwimwearFaceEntry_Small.png",
+      "mGuid": "b764b635499f7e14893e5a1a8e91d1ef"
+    },
+    {
+      "mPath": "Assets/Main/Content/Driver/RosettaSwimwear/Icons/RosettaSwimwearWholeBody_Small.png",
+      "mGuid": "3d2ad0de8817e6a4e96791821658d251"
+    },
+    {
+      "mPath": "Assets/Main/Content/Driver/RosettaSwimwear/Icons/RosettaSwimwearUpperBody_Small.png",
+      "mGuid": "ef27799e28e568648b444ec68499ae24"
+    }
+  ],
+  "mColorGroup": 0,
+  "mCharacterTextureList": [],
+  "mBaseParameter": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "mBodyMaterial": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "mEyeMaterial": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "mDynamicUnitMngInitData": {
+    "m_FileID": 0,
+    "m_PathID": -6331558084262706451
+  },
+  "mMetamorData": [],
+  "mDotDriverData": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "mDescription": "",
+  "mEffectContainer": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  }
+}

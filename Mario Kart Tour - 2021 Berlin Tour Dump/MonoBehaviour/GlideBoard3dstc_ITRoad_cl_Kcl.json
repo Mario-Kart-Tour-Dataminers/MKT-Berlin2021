@@ -1,0 +1,166 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": 7562848319295149356
+  },
+  "m_Name": "GlideBoard3dstc_ITRoad_cl_Kcl",
+  "mKCollision": {
+    "mHeader": {
+      "versionNum0": 2,
+      "versionNum1": 2,
+      "versionNum2": 0,
+      "versionNum3": 0,
+      "division_info_offset": 56,
+      "kcl_jumplist_offset": 88,
+      "num_kcl": 1,
+      "area_min_pos": {
+        "x": -13.52058,
+        "y": -8.850613,
+        "z": -16.4195442
+      },
+      "area_max_pos": {
+        "x": 13.52058,
+        "y": 9.11058,
+        "z": 6.0
+      },
+      "area_width_shift": {
+        "x": 5,
+        "y": 5,
+        "z": 5
+      },
+      "num_prism_number": 2
+    },
+    "mKclOffset": [
+      92
+    ],
+    "mBlockData": [
+      2147483648,
+      2147483648,
+      2147483648,
+      2147483648,
+      2147483648,
+      2147483648,
+      2147483648,
+      2147483648,
+      92
+    ],
+    "mAreaWidthShift": {
+      "x": 4,
+      "y": 4,
+      "z": 4
+    },
+    "mAreaWidthMask": {
+      "x": -32,
+      "y": -32,
+      "z": -32
+    },
+    "mVer1Data": [
+      {
+        "mHeader": {
+          "pos_data_offset": 60,
+          "nrm_data_offset": 72,
+          "prism_data_offset": 156,
+          "block_data_offset": 196,
+          "prism_thickness": 3.0,
+          "area_min_pos": {
+            "x": -13.52058,
+            "y": -8.850613,
+            "z": -16.4195442
+          },
+          "area_x_width_mask": 4294967264,
+          "area_y_width_mask": 4294967264,
+          "area_z_width_mask": 4294967264,
+          "block_width_shift": 4,
+          "area_x_blocks_shift": 1,
+          "area_xy_blocks_shift": 2,
+          "sphere_radius": 1.8
+        },
+        "mPosData": [
+          {
+            "x": 7.52058029,
+            "y": 3.11058021,
+            "z": -9.48466
+          }
+        ],
+        "mNrmData": [
+          {
+            "x": 0.0,
+            "y": 0.950199962,
+            "z": 0.31163
+          },
+          {
+            "x": 0.55298996,
+            "y": -0.25965,
+            "z": 0.7917
+          },
+          {
+            "x": 0.0,
+            "y": 0.31163,
+            "z": -0.950199962
+          },
+          {
+            "x": -1.0,
+            "y": -4.99486923E-05,
+            "z": 0.000159978867
+          },
+          {
+            "x": 1.0,
+            "y": -4.99486923E-05,
+            "z": 0.000159978867
+          },
+          {
+            "x": -0.55298996,
+            "y": 0.25965,
+            "z": -0.7917
+          },
+          {
+            "x": 0.0,
+            "y": -0.31163,
+            "z": 0.950199962
+          }
+        ],
+        "mPrismData": [
+          {
+            "height": 15.0411606,
+            "pos_i": 0,
+            "fnrm_i": 0,
+            "enrm1_i": 1,
+            "enrm2_i": 2,
+            "enrm3_i": 3,
+            "attribute": 14,
+            "id": 2147483648
+          },
+          {
+            "height": 9.981709,
+            "pos_i": 0,
+            "fnrm_i": 0,
+            "enrm1_i": 4,
+            "enrm2_i": 5,
+            "enrm3_i": 6,
+            "attribute": 14,
+            "id": 1
+          }
+        ],
+        "mBlockData": [
+          2147483678,
+          2147483678,
+          2147483686,
+          2147483686,
+          2147483678,
+          2147483684,
+          2147483686,
+          2147483686,
+          65536,
+          131071,
+          65535
+        ],
+        "mNumPrism": 2
+      }
+    ]
+  }
+}

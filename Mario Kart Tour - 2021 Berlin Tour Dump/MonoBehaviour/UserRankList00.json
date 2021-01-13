@@ -1,0 +1,117 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": -3977807471082417869
+  },
+  "m_Name": "UserRankList00",
+  "savePath": 1,
+  "isEnableCheckNoEmptyValue": 0,
+  "assetDataList": [
+    {
+      "obj": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      },
+      "path": "",
+      "guid": "",
+      "substitutedArrayIndex": 0
+    },
+    {
+      "obj": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      },
+      "path": "Assets/Main/Content/UI/Texture/UserRank/UserRank1-10.png",
+      "guid": "4c45a1e79e029c64c90e2f358e825adf",
+      "substitutedArrayIndex": 1
+    },
+    {
+      "obj": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      },
+      "path": "Assets/Main/Content/UI/Texture/UserRank/UserRank11-20.png",
+      "guid": "1a713c637c5f2ce43ade03d6153065b2",
+      "substitutedArrayIndex": 2
+    },
+    {
+      "obj": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      },
+      "path": "Assets/Main/Content/UI/Texture/UserRank/UserRank21-30.png",
+      "guid": "76dff85161f1bf14b96a290852cce8fb",
+      "substitutedArrayIndex": 3
+    },
+    {
+      "obj": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      },
+      "path": "Assets/Main/Content/UI/Texture/UserRank/UserRank31-40.png",
+      "guid": "a98d8ab4365e95042991c9b0bb646e63",
+      "substitutedArrayIndex": 4
+    },
+    {
+      "obj": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      },
+      "path": "Assets/Main/Content/UI/Texture/UserRank/UserRank41-50.png",
+      "guid": "211d28ac94dfa744685e5ca2fdc223d8",
+      "substitutedArrayIndex": 5
+    },
+    {
+      "obj": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      },
+      "path": "Assets/Main/Content/UI/Texture/UserRank/UserRank51-60.png",
+      "guid": "a9b80bbb59160074a9b14b2a66873965",
+      "substitutedArrayIndex": 6
+    },
+    {
+      "obj": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      },
+      "path": "Assets/Main/Content/UI/Texture/UserRank/UserRank61-70.png",
+      "guid": "fa34b736bf1fe2d4c81b9d15bd6e2b04",
+      "substitutedArrayIndex": 7
+    },
+    {
+      "obj": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      },
+      "path": "Assets/Main/Content/UI/Texture/UserRank/UserRank71-80.png",
+      "guid": "fe006d6352d988649ae1794108e34f1b",
+      "substitutedArrayIndex": 8
+    },
+    {
+      "obj": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      },
+      "path": "Assets/Main/Content/UI/Texture/UserRank/UserRank81-90.png",
+      "guid": "3010dbe4726b80a49a6e6860b641f732",
+      "substitutedArrayIndex": 9
+    },
+    {
+      "obj": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      },
+      "path": "Assets/Main/Content/UI/Texture/UserRank/UserRank91-99.png",
+      "guid": "a07214692f8705c4f8075a3f4d91097f",
+      "substitutedArrayIndex": 10
+    }
+  ],
+  "assetType": 0,
+  "keyType": 0
+}

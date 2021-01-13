@@ -1,0 +1,139 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": -2094441087577622512
+  },
+  "m_Name": "PeachWinter",
+  "mModel": {
+    "m_FileID": 1,
+    "m_PathID": -5855522093406434935
+  },
+  "mFaceTextures": [
+    {
+      "m_FileID": 0,
+      "m_PathID": -2900371411031138144
+    },
+    {
+      "m_FileID": 2,
+      "m_PathID": -5644906876580683698
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -6213179430583119486
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -7076669771933258249
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -6545322674745978437
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 2962655353968499993
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 2283759643440046745
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 1901323849977470056
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -3669068497202684498
+    }
+  ],
+  "mIsFaceTextureEmission": 0,
+  "mEmblem": {
+    "m_FileID": 0,
+    "m_PathID": 7673786799071070161
+  },
+  "mAnimatorOverrideController": {
+    "m_FileID": 3,
+    "m_PathID": -7298864438311713545
+  },
+  "mKartScaleSize": 1.0,
+  "mWingJointType": 0,
+  "mFaceChangeEvent": {
+    "m_FileID": 0,
+    "m_PathID": -2775825574809206743
+  },
+  "mIconInfo": [
+    {
+      "mPath": "Assets/Main/Content/Driver/PeachWinter/Icons/PeachWinter.png",
+      "mGuid": "0fc9bf861b103354b90214cfac3bc958"
+    },
+    {
+      "mPath": "Assets/Main/Content/Driver/PeachWinter/Icons/PeachWinterMap.png",
+      "mGuid": "bf6a51fd61339e9428d9a47372ac6a74"
+    },
+    {
+      "mPath": "Assets/Main/Content/Driver/PeachWinter/Icons/PeachWinterFaceEntry.png",
+      "mGuid": "e51ca17d3bc679d408bb104669fda50f"
+    },
+    {
+      "mPath": "Assets/Main/Content/Driver/PeachWinter/Icons/PeachWinterWholeBody.png",
+      "mGuid": "a11500de7a80bc843bcdd97b536c8daf"
+    },
+    {
+      "mPath": "Assets/Main/Content/Driver/PeachWinter/Icons/PeachWinterUpperBody.png",
+      "mGuid": "cc6e680b1d8f6164abc7c00731bdd5cd"
+    },
+    {
+      "mPath": "",
+      "mGuid": ""
+    },
+    {
+      "mPath": "Assets/Main/Content/Driver/PeachWinter/Icons/PeachWinter_Small.png",
+      "mGuid": "b1c0386a7175fb640ac048c5d5b8df71"
+    },
+    {
+      "mPath": "Assets/Main/Content/Driver/PeachWinter/Icons/PeachWinterFaceEntry_Small.png",
+      "mGuid": "d4fd5066b81950844b0670f3ff64f16f"
+    },
+    {
+      "mPath": "Assets/Main/Content/Driver/PeachWinter/Icons/PeachWinterWholeBody_Small.png",
+      "mGuid": "f5ef0dc7e5818c542b95d3281b4f57fd"
+    },
+    {
+      "mPath": "Assets/Main/Content/Driver/PeachWinter/Icons/PeachWinterUpperBody_Small.png",
+      "mGuid": "d0debb1cdafc51741b0ad7fbcd8844ec"
+    }
+  ],
+  "mColorGroup": 0,
+  "mCharacterTextureList": [],
+  "mBaseParameter": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "mBodyMaterial": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "mEyeMaterial": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "mDynamicUnitMngInitData": {
+    "m_FileID": 0,
+    "m_PathID": 2509722871634005067
+  },
+  "mMetamorData": [],
+  "mDotDriverData": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "mDescription": "",
+  "mEffectContainer": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  }
+}

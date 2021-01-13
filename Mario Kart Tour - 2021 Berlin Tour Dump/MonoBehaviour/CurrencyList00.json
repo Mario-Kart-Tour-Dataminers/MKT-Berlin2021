@@ -1,0 +1,89 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": -3528712136297729501
+  },
+  "m_Name": "CurrencyList00",
+  "savePath": 1,
+  "assetDataList": [
+    {
+      "Key": 1,
+      "Value": {
+        "obj": {
+          "m_FileID": 0,
+          "m_PathID": 0
+        },
+        "path": "Assets/Main/Content/UI/Texture/Currency/Currency00.png",
+        "guid": "e62d9e93a570aa04a857ab0eb66cb179",
+        "substitutedKey": 1
+      }
+    },
+    {
+      "Key": 10,
+      "Value": {
+        "obj": {
+          "m_FileID": 0,
+          "m_PathID": 0
+        },
+        "path": "Assets/Main/Content/UI/Texture/Currency/Currency01.png",
+        "guid": "9d01da8007f3f894d8d0bf89c49fd130",
+        "substitutedKey": 0
+      }
+    },
+    {
+      "Key": 20,
+      "Value": {
+        "obj": {
+          "m_FileID": 0,
+          "m_PathID": 0
+        },
+        "path": "Assets/Main/Content/UI/Texture/Currency/Currency02.png",
+        "guid": "0fc6fa868a60e49439d139ba61fad1a0",
+        "substitutedKey": 0
+      }
+    },
+    {
+      "Key": 40,
+      "Value": {
+        "obj": {
+          "m_FileID": 0,
+          "m_PathID": 0
+        },
+        "path": "Assets/Main/Content/UI/Texture/Currency/Currency03.png",
+        "guid": "d191b9b76507cd34a8d093c93035f131",
+        "substitutedKey": 0
+      }
+    },
+    {
+      "Key": 60,
+      "Value": {
+        "obj": {
+          "m_FileID": 0,
+          "m_PathID": 0
+        },
+        "path": "Assets/Main/Content/UI/Texture/Currency/Currency04.png",
+        "guid": "ad714051f73bec14982651d53cac1876",
+        "substitutedKey": 0
+      }
+    },
+    {
+      "Key": 100,
+      "Value": {
+        "obj": {
+          "m_FileID": 0,
+          "m_PathID": 0
+        },
+        "path": "Assets/Main/Content/UI/Texture/Currency/Currency05.png",
+        "guid": "0e2529a8856f4e4498a347085617648e",
+        "substitutedKey": 0
+      }
+    }
+  ],
+  "notContainKeyAction": 3,
+  "assetType": 0
+}

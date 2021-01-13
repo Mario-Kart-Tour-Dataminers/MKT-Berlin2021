@@ -1,0 +1,18 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": 3718094394832668311
+  },
+  "m_Name": "Gn64_KalimariDesert2R_main_DixieKong00",
+  "mSprites": [
+    {
+      "m_FileID": 0,
+      "m_PathID": -5521742044713288407
+    }
+  ]
+}

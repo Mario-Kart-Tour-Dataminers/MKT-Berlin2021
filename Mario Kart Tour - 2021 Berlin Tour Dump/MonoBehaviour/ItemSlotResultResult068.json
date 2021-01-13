@@ -1,0 +1,194 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": -9073935527606922507
+  },
+  "m_Name": "ItemSlotResultResult068",
+  "mParam": {
+    "mFileName": "ItemSlotResultInRaceResult068",
+    "mAI": {
+      "mBehavior": 3,
+      "BehaviorParams": [
+        50.0,
+        8.0,
+        0.0
+      ]
+    },
+    "mSlotResult": 68,
+    "mSlotResultOverrideForHavingList": 0,
+    "mIsValid": 1,
+    "mIsImplmented": 1,
+    "mIsEnableProbTable": 1,
+    "mIsUIImageOk": 1,
+    "mIsSpecial": 1,
+    "mReleaseVersion": {
+      "mMajor": 2,
+      "mMinor": 0,
+      "mMicro": 0
+    },
+    "mIsFeverOnly": 0,
+    "mIsEventOnly": 0,
+    "mIsDisplayInRotatingSlot": 1,
+    "mFirstAppearSec": 0.0,
+    "mIntervalSec": 0.0,
+    "mIsGorgeousSEItem": 1,
+    "mIsDirectionalThrow": 1,
+    "mCanHoldOnlyOne": 0,
+    "mNoFeverOnHaving": 0,
+    "mItemsToEntry": [
+      28,
+      15,
+      15,
+      15,
+      15,
+      15,
+      15,
+      15
+    ],
+    "mItemsToAdditionalEntry": [],
+    "mIsAutoUseOnSlotDecide": 0,
+    "mRandomReplaceType": 0,
+    "mReplacedSlotResult": [],
+    "mDriverAnimationType": 1,
+    "mIsEnableDriverVoiceOnUse": 0,
+    "mIsSingleFeverItem": 0,
+    "mIsSlotRemainFeverItem": 0,
+    "mKartStateOnFever": [
+      2
+    ],
+    "mForFeverJudge": 68,
+    "mFeverResult": 68,
+    "mFeverEquipItem": [
+      {
+        "Item": 15,
+        "Value": 6
+      }
+    ],
+    "mFeverAutoUseItem": [],
+    "mFeverInfiniteItem": [
+      {
+        "Item": 15,
+        "Value": 9
+      }
+    ],
+    "mFeverInfiniteItemThrowDir": [],
+    "mFeverEquipType": 2,
+    "mFeverFollowerFillingSec": 0.0,
+    "mAroundRotVelFever": 3.0,
+    "mStateInFeverAround": 5,
+    "mFeverInfiniteCoolSec": 0.2,
+    "mUseNumInFever": 2,
+    "mUseNumBackInFever": {
+      "Enabled": 1,
+      "Value": 3
+    },
+    "mIsUseFixedThrowDirectionInFever": 0,
+    "mFixedThrowDirInFever": 0,
+    "mIsUseFixedThrowDefaultDirectionInFever": 0,
+    "mFixedThrowDefaultDirInFever": 0,
+    "mIsKeepFeverWhileAIItemRun": 0,
+    "mIsEquipActionInFever": 0,
+    "mFeverRandomYawAngleDegForward": 14.0,
+    "mFeverRandomPitchAngleDegForward": 0.0,
+    "mFeverRandomYawAngleDegBack": 1.2,
+    "mFeverRandomPitchAngleDegBack": 0.0,
+    "mIsEmitFromEquipPosInFever": 0,
+    "mFeverEraseAroundSec": 0.333333343,
+    "mAutoCoinGetSecInFever": 0.0,
+    "mIsCoinGetEffectOnInAutoCoinGetInFever": 0,
+    "mAutoCoinEmitSecInFever": 0.0,
+    "mAutoCoinEmitNumInFever": 0,
+    "mAutoCoinEmitOffsetFromHeadInFever": 0.0,
+    "mAutoCoinEmitVelInFever": 0.0,
+    "mAutoCoinEmitVelYawAngleInFever": 0.0,
+    "mAutoCoinEmitVelKartInFever": 0.0,
+    "mFeverItemUseType": 1,
+    "mIsShortcutItem": 0,
+    "mIsAutoItemPreferentially": 0,
+    "mEquipType": 1,
+    "mEquipTypeParams": [],
+    "mEquipAtt": [
+      {
+        "IsUseAtt": 0,
+        "Att": {
+          "mPitchAngleDeg": -45.33,
+          "mYawAngleDeg": 93.43,
+          "mRollAngleDeg": 0.0
+        }
+      }
+    ],
+    "mEquipPos": [
+      {
+        "IsUsePos": 1,
+        "Pos": {
+          "x": 0.0,
+          "y": 0.36,
+          "z": 0.13
+        }
+      }
+    ],
+    "mIsUseFixedThrowDirection": 0,
+    "mFixedThrowDir": 0,
+    "mCoolTimeSecondThrowFront": 0.0,
+    "mCoolTimeSecondThrowBack": 0.0,
+    "mAroundRotVel": 2.0,
+    "mAroundRotType": 1,
+    "mIsUseAdditionalAroundRot": 1,
+    "mAdditionalAttAround": {
+      "x": 37.05,
+      "y": 0.0,
+      "z": 0.0
+    },
+    "mFixedAroundRotRadius": 0.0,
+    "mForkAnglesFront": [
+      0.0,
+      1.5,
+      -2.2,
+      0.0,
+      2.2,
+      -1.5,
+      4.0,
+      -4.0
+    ],
+    "mForkAnglesBack": [
+      0.0,
+      15.0,
+      -15.0,
+      0.0,
+      -40.0,
+      40.0
+    ],
+    "mThrowDelaySec": [
+      0.0,
+      0.0,
+      0.075,
+      0.15,
+      0.2,
+      0.1,
+      0.3,
+      0.3
+    ],
+    "mReflectNumToHitInSameFork": 999,
+    "mIsSameDirThrow": 1,
+    "mUseNumBack": {
+      "Enabled": 1,
+      "Value": 4
+    },
+    "mIsChangeThrowDelaySecInBack": 1,
+    "mThrowDelaySecBack": [],
+    "mIsChangeThrowDelaySecInFever": 1,
+    "mThrowDelaySecFever": [
+      0.0,
+      0.1,
+      0.2,
+      0.3,
+      0.0
+    ],
+    "mLevel": 1
+  }
+}

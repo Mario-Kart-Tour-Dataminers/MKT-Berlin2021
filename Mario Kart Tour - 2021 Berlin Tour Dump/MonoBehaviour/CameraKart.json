@@ -1,0 +1,63 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": -9010386195217986162
+  },
+  "m_Name": "CameraKart",
+  "cEditFlag": 0,
+  "cTopHeightSizeS": 2.0,
+  "cTopHeightSizeL": 5.0,
+  "cPosYCenterGroundRaceS": [
+    0.2
+  ],
+  "cPosYCenterGroundRaceL": [
+    0.6
+  ],
+  "cLookDirYLengthWaterFloatingS": 0.18,
+  "cLookDirYLengthWaterFloatingL": 0.5,
+  "cLookDirYLengthAerialS": 0.2,
+  "cLookDirYLengthAerialL": 0.6,
+  "cLookDirYLengthJugemS": 0.2,
+  "cLookDirYLengthJugemL": 0.6,
+  "cLookDirYLengthGlideMinS": 0.1,
+  "cLookDirYLengthGlideMinL": 0.4,
+  "cLookDirYLengthGlideMaxS": 0.2,
+  "cLookDirYLengthGlideMaxL": 0.6,
+  "cPosOffsetBackS": {
+    "x": 0.0,
+    "y": 0.0,
+    "z": 10.0
+  },
+  "cPosOffsetBackL": {
+    "x": 0.0,
+    "y": 5.0,
+    "z": 10.0
+  },
+  "cAtOffsetBackS": {
+    "x": 0.0,
+    "y": -1.2,
+    "z": 0.0
+  },
+  "cAtOffsetBackL": {
+    "x": 0.0,
+    "y": -6.0,
+    "z": 0.0
+  },
+  "cBackFovy": 80.0,
+  "cShakeForceRot": 0.0,
+  "cShakeSpringPosDt": 1.0,
+  "cShakeSpringRotDt": 1.25,
+  "cShakeDRate": 0.02,
+  "cShakeSpringRatePos": 0.1,
+  "cShakeDampExpRatePos": 0.3,
+  "cShakeDampContRatePos": 0.005,
+  "cShakeSpringRateRot": 0.2,
+  "cShakeDampExpRateRot": 0.2,
+  "cShakeDampContRateRot": 0.2,
+  "cNearClipPlane": 1.0
+}

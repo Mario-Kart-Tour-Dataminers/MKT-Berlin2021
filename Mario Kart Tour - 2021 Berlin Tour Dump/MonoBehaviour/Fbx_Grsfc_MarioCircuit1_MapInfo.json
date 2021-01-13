@@ -1,0 +1,26 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": 980329048157257672
+  },
+  "m_Name": "Fbx_Grsfc_MarioCircuit1_MapInfo",
+  "rect": {
+    "x": -316.7382,
+    "y": -304.791138,
+    "width": 607.6919,
+    "height": 607.6919
+  },
+  "sprite": {
+    "m_FileID": 0,
+    "m_PathID": 112032953454017850
+  },
+  "offset": {
+    "x": 0.0,
+    "y": 0.0
+  }
+}

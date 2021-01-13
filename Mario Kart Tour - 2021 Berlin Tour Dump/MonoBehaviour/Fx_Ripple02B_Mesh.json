@@ -1,0 +1,18 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": 8670473757938694334
+  },
+  "m_Name": "Fx_Ripple02B_Mesh",
+  "mMeshes": [
+    {
+      "m_FileID": 0,
+      "m_PathID": -6047351483515194826
+    }
+  ]
+}

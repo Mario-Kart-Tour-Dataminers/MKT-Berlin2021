@@ -1,0 +1,50 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": 2434717279687273224
+  },
+  "m_Name": "Wing_Crepe",
+  "mWingModel": {
+    "m_FileID": 0,
+    "m_PathID": 7242662834215267124
+  },
+  "mIconInfo": [
+    {
+      "mPath": "Assets/Main/Content/Kart/Wing/Wing_Crepe/Icons/Wing_Crepe.png",
+      "mGuid": "07374632e57511d489c9a0ecf6552988"
+    },
+    {
+      "mPath": "Assets/Main/Content/Kart/Wing/Wing_Crepe/Icons/Wing_Crepe_Large.png",
+      "mGuid": "e491370a60a439b4f960300e2b07379f"
+    },
+    {
+      "mPath": "Assets/Main/Content/Kart/Wing/Wing_Crepe/Icons/Wing_Crepe_Small.png",
+      "mGuid": "02ed34f7fd23d834abededc520522b09"
+    }
+  ],
+  "mWingType": 0,
+  "mIsFixedIcon": 0,
+  "mBaseParameter": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "mMaterial": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "mEffectContainer": {
+    "m_FileID": 0,
+    "m_PathID": -1163157146299543490
+  },
+  "mIsDisableAngleAnimation": 0,
+  "mDescription": "",
+  "mColorValiationRoot": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  }
+}

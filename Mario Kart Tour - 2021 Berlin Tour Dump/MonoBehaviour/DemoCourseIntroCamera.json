@@ -1,0 +1,18 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": 3850960567685848545
+  },
+  "m_Name": "DemoCourseIntroCamera",
+  "mBrakeFrame": 120.0,
+  "mLastCameraMarginFrame": 120,
+  "mRaceKartVisibleNotLast": 0,
+  "mRaceKartVisibleLast": 1,
+  "mGlobalCutOffDistance": 150.0,
+  "mGlobalCutOffDistanceY": 50.0
+}

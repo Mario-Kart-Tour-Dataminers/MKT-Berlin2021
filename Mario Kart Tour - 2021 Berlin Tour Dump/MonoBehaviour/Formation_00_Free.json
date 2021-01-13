@@ -1,0 +1,15 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": 5729155180541303578
+  },
+  "m_Name": "Formation_00_Free",
+  "mDisplayName": "Free",
+  "mKart": [],
+  "mRouteRadiusMin": 0.0
+}

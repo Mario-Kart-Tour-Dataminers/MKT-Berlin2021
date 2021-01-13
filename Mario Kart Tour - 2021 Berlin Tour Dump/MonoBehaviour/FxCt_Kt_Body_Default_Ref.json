@@ -1,0 +1,17 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": -3393848682055733865
+  },
+  "m_Name": "FxCt_Kt_Body_Default_Ref",
+  "mEffectContainer": {
+    "m_FileID": 0,
+    "m_PathID": -4682924598454546154
+  },
+  "mSpecialEffectContainerList": []
+}

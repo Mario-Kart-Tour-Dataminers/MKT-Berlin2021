@@ -1,0 +1,26 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": 980329048157257672
+  },
+  "m_Name": "Fbx_Gn64_FrappeSnowland_MapInfo",
+  "rect": {
+    "x": -345.401428,
+    "y": -332.1184,
+    "width": 653.5381,
+    "height": 653.5381
+  },
+  "sprite": {
+    "m_FileID": 0,
+    "m_PathID": 441447444611511796
+  },
+  "offset": {
+    "x": 0.0,
+    "y": 0.0
+  }
+}

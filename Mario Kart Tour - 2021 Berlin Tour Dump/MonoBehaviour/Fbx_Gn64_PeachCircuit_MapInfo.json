@@ -1,0 +1,26 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": 980329048157257672
+  },
+  "m_Name": "Fbx_Gn64_PeachCircuit_MapInfo",
+  "rect": {
+    "x": -402.8919,
+    "y": -325.56778,
+    "width": 605.6617,
+    "height": 605.6617
+  },
+  "sprite": {
+    "m_FileID": 0,
+    "m_PathID": -6567781985359429245
+  },
+  "offset": {
+    "x": 0.0,
+    "y": 0.0
+  }
+}

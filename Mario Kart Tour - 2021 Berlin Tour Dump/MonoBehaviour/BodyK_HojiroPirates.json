@@ -1,0 +1,100 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": -8652336194674809844
+  },
+  "m_Name": "BodyK_HojiroPirates",
+  "mBodyModel": {
+    "m_FileID": 0,
+    "m_PathID": 7534819247837275108
+  },
+  "mDriverOffset": {
+    "x": 0.0,
+    "y": 0.0,
+    "z": 0.0
+  },
+  "mBodyCenterPosition": {
+    "x": 0.0,
+    "y": 0.0,
+    "z": 0.0
+  },
+  "mScrewPosition": {
+    "x": 0.0,
+    "y": 0.055,
+    "z": -0.9
+  },
+  "mShaftPositionList": [],
+  "mGearBoxData": {
+    "m_FileID": 3,
+    "m_PathID": 3532631435007547029
+  },
+  "mGearBoxScale": {
+    "x": 1.5,
+    "y": 1.88,
+    "z": 1.8
+  },
+  "mGearBoxPosition": {
+    "x": 0.0,
+    "y": -0.1,
+    "z": 0.98
+  },
+  "mGearBoxSlideOffset": {
+    "x": 0.0,
+    "y": 0.0,
+    "z": 0.14
+  },
+  "mBodyWingParams": {
+    "m_FileID": 0,
+    "m_PathID": -4629440407115110160
+  },
+  "mBodyTireParams": {
+    "m_FileID": 0,
+    "m_PathID": 8431373297851618985
+  },
+  "mIconInfo": [
+    {
+      "mPath": "",
+      "mGuid": ""
+    }
+  ],
+  "mJointMode": 1,
+  "mScrewScale": {
+    "x": 0.8,
+    "y": 0.8,
+    "z": 1.0
+  },
+  "mScrewAxisOffset": {
+    "x": 0.0,
+    "y": 0.0,
+    "z": 0.0
+  },
+  "mBackrestHeight": 0.0,
+  "mIsFixedIcon": 0,
+  "mBaseParameter": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "mMaterial": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "mGearBoxMaterial": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "mEffectContainer": {
+    "m_FileID": 0,
+    "m_PathID": -4829887913662464124
+  },
+  "mEffectContainerForTire": [],
+  "mDescription": "",
+  "mColorValiationRoot": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  }
+}

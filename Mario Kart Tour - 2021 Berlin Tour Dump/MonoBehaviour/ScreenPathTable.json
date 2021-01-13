@@ -1,0 +1,1635 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": -4708328194615386554
+  },
+  "m_Name": "ScreenPathTable",
+  "savePath": 1,
+  "assetDataList": [
+    {
+      "Key": "Clear",
+      "Value": {
+        "obj": {
+          "m_FileID": 0,
+          "m_PathID": 0
+        },
+        "path": "Assets/Main/Content/UI/Race/Clear/Clear00.prefab",
+        "guid": "5a6aeeb81de591c489dd5a444f10725a",
+        "substitutedKey": ""
+      }
+    },
+    {
+      "Key": "CoinRaceList",
+      "Value": {
+        "obj": {
+          "m_FileID": 0,
+          "m_PathID": 0
+        },
+        "path": "Assets/Main/Content/UI/Common/Dialog/DlgCoin00.prefab",
+        "guid": "31cfa4316b9cb3749a66ce6e5574f52e",
+        "substitutedKey": ""
+      }
+    },
+    {
+      "Key": "CoinRaceResult",
+      "Value": {
+        "obj": {
+          "m_FileID": 0,
+          "m_PathID": 0
+        },
+        "path": "Assets/Main/Content/UI/Result/RaceResult/ResultCoinRaceBase00.prefab",
+        "guid": "0017b99916e9b5147b516f1bcd4b9019",
+        "substitutedKey": ""
+      }
+    },
+    {
+      "Key": "CommonDialog",
+      "Value": {
+        "obj": {
+          "m_FileID": 0,
+          "m_PathID": 0
+        },
+        "path": "Assets/Main/Content/UI/Common/Dialog/Dlg00.prefab",
+        "guid": "359877da9d4917047a1411c3508a416d",
+        "substitutedKey": "ChangeKartParts"
+      }
+    },
+    {
+      "Key": "Customize",
+      "Value": {
+        "obj": {
+          "m_FileID": 0,
+          "m_PathID": 0
+        },
+        "path": "Assets/Main/Content/UI/Menu/Customize/CustomizeTop/CustomizeTop00.prefab",
+        "guid": "40ee21ef91219f747958c1aa3265c463",
+        "substitutedKey": ""
+      }
+    },
+    {
+      "Key": "DataUseInformation",
+      "Value": {
+        "obj": {
+          "m_FileID": 0,
+          "m_PathID": 0
+        },
+        "path": "Assets/Main/Content/UI/Common/Dialog/DlgSettingUseInformation00.prefab",
+        "guid": "cd004d1aa82921a44bd7f35df0745044",
+        "substitutedKey": ""
+      }
+    },
+    {
+      "Key": "DialogEula",
+      "Value": {
+        "obj": {
+          "m_FileID": 0,
+          "m_PathID": 0
+        },
+        "path": "Assets/Main/Content/UI/Common/Dialog/DlgEula00.prefab",
+        "guid": "6dfcc572515136048b68f88327541b26",
+        "substitutedKey": ""
+      }
+    },
+    {
+      "Key": "DlgBootHelp",
+      "Value": {
+        "obj": {
+          "m_FileID": 0,
+          "m_PathID": 0
+        },
+        "path": "Assets/Main/Content/UI/Common/Dialog/DlgBootHelp00.prefab",
+        "guid": "cf31f454b4dc9ff41a45924f6f36091e",
+        "substitutedKey": ""
+      }
+    },
+    {
+      "Key": "DlgTutorialHold",
+      "Value": {
+        "obj": {
+          "m_FileID": 0,
+          "m_PathID": 0
+        },
+        "path": "Assets/Main/Content/UI/Common/Dialog/DlgTutorialHold00.prefab",
+        "guid": "443c9d653ab5e494abb51395e07842a8",
+        "substitutedKey": ""
+      }
+    },
+    {
+      "Key": "DriverSelect",
+      "Value": {
+        "obj": {
+          "m_FileID": 0,
+          "m_PathID": 0
+        },
+        "path": "Assets/Main/Content/UI/Menu/MainMenu/MainMenuCharaSelect00.prefab",
+        "guid": "95b844062519dc84c8afcc4ceb2d7c8f",
+        "substitutedKey": ""
+      }
+    },
+    {
+      "Key": "ErrorDialog",
+      "Value": {
+        "obj": {
+          "m_FileID": 0,
+          "m_PathID": 0
+        },
+        "path": "Assets/Main/Content/UI/Common/Dialog/DlgError00.prefab",
+        "guid": "0e070062eb0ca9648a064e2370c6bc78",
+        "substitutedKey": "ChangeKartParts"
+      }
+    },
+    {
+      "Key": "EventAim",
+      "Value": {
+        "obj": {
+          "m_FileID": 0,
+          "m_PathID": 0
+        },
+        "path": "Assets/Main/Content/UI/Menu/RankRace/RankRaceTop/EventRaceEntryBase00.prefab",
+        "guid": "6640e21c4b52e9e448433e6db7d5ae6e",
+        "substitutedKey": ""
+      }
+    },
+    {
+      "Key": "EventRaceEntry",
+      "Value": {
+        "obj": {
+          "m_FileID": 0,
+          "m_PathID": 0
+        },
+        "path": "Assets/Main/Content/UI/Common/Tips/Tips00.prefab",
+        "guid": "90dfd38aedbe9ad4a91d21292f41f369",
+        "substitutedKey": "ChangeKartParts"
+      }
+    },
+    {
+      "Key": "EventResult",
+      "Value": {
+        "obj": {
+          "m_FileID": 0,
+          "m_PathID": 0
+        },
+        "path": "Assets/Main/Content/UI/Result/RaceResult/ResultEventRaceBase01.prefab",
+        "guid": "791257039898bd4468c7701438ada937",
+        "substitutedKey": ""
+      }
+    },
+    {
+      "Key": "Exception",
+      "Value": {
+        "obj": {
+          "m_FileID": 0,
+          "m_PathID": 0
+        },
+        "path": "Assets/Main/UnderPilot/Resources/Prefab/Exception.prefab",
+        "guid": "34ed30cbc928c6141b3a8e066c6bcfdb",
+        "substitutedKey": "ChangeKartParts"
+      }
+    },
+    {
+      "Key": "Fade",
+      "Value": {
+        "obj": {
+          "m_FileID": 0,
+          "m_PathID": 0
+        },
+        "path": "Assets/Main/Content/UI/Common/Fade/Fade00.prefab",
+        "guid": "3858b8c84abcec24d849a96cf457b180",
+        "substitutedKey": "ChangeKartParts"
+      }
+    },
+    {
+      "Key": "FilterDlg",
+      "Value": {
+        "obj": {
+          "m_FileID": 0,
+          "m_PathID": 0
+        },
+        "path": "Assets/Main/Content/UI/Common/Filter/FilterDlg00.prefab",
+        "guid": "e9b4fe3110b325147b050c61d0db3ee3",
+        "substitutedKey": ""
+      }
+    },
+    {
+      "Key": "Finish",
+      "Value": {
+        "obj": {
+          "m_FileID": 0,
+          "m_PathID": 0
+        },
+        "path": "Assets/Main/Content/UI/Race/Finish/Finish00.prefab",
+        "guid": "a0ad771cc7e2ed244aa469dc86987bf2",
+        "substitutedKey": "ChangeKartParts"
+      }
+    },
+    {
+      "Key": "GetItem",
+      "Value": {
+        "obj": {
+          "m_FileID": 0,
+          "m_PathID": 0
+        },
+        "path": "Assets/Main/Content/UI/Menu/Shop/TreasureBox/PresentBox00.prefab",
+        "guid": "2350353d97713594a8a7182a8432f67e",
+        "substitutedKey": ""
+      }
+    },
+    {
+      "Key": "GetItemList",
+      "Value": {
+        "obj": {
+          "m_FileID": 0,
+          "m_PathID": 0
+        },
+        "path": "Assets/Main/Content/UI/Common/Dialog/DlgPresentList00.prefab",
+        "guid": "6eb5341ab82737945a4752c89c982f8f",
+        "substitutedKey": ""
+      }
+    },
+    {
+      "Key": "Go",
+      "Value": {
+        "obj": {
+          "m_FileID": 0,
+          "m_PathID": 0
+        },
+        "path": "Assets/Main/Content/UI/Race/Go/Go00.prefab",
+        "guid": "15f1696dff8776a4690c2ced70ca7b35",
+        "substitutedKey": "ChangeKartParts"
+      }
+    },
+    {
+      "Key": "ItemAlert",
+      "Value": {
+        "obj": {
+          "m_FileID": 0,
+          "m_PathID": 0
+        },
+        "path": "Assets/Main/Content/UI/Race/ItemAlert/ItemAlert00.prefab",
+        "guid": "cadf1bb8251b1654287fd2a23d38fc20",
+        "substitutedKey": "ChangeKartParts"
+      }
+    },
+    {
+      "Key": "ItemInfo",
+      "Value": {
+        "obj": {
+          "m_FileID": 0,
+          "m_PathID": 0
+        },
+        "path": "Assets/Main/Content/UI/Common/Dialog/DlgCustomizeItem00.prefab",
+        "guid": "2dd85c0ad82605f40a57fd8e571e452b",
+        "substitutedKey": ""
+      }
+    },
+    {
+      "Key": "Lap",
+      "Value": {
+        "obj": {
+          "m_FileID": 0,
+          "m_PathID": 0
+        },
+        "path": "Assets/Main/Content/UI/Race/Lap/Lap00.prefab",
+        "guid": "d7b5da844f996564b94bc31b0060cd6c",
+        "substitutedKey": "ChangeKartParts"
+      }
+    },
+    {
+      "Key": "ListDialog",
+      "Value": {
+        "obj": {
+          "m_FileID": 0,
+          "m_PathID": 0
+        },
+        "path": "Assets/Main/Content/UI/Common/Dialog/DlgList00.prefab",
+        "guid": "4170fa6613c06b14b828666ebb253a8b",
+        "substitutedKey": ""
+      }
+    },
+    {
+      "Key": "Loading",
+      "Value": {
+        "obj": {
+          "m_FileID": 0,
+          "m_PathID": 0
+        },
+        "path": "Assets/Main/Content/UI/Common/Loading/Loading00.prefab",
+        "guid": "ba444bc9c923c5141a0b1dbb7e11dea6",
+        "substitutedKey": "ChangeKartParts"
+      }
+    },
+    {
+      "Key": "LoginBonusList",
+      "Value": {
+        "obj": {
+          "m_FileID": 0,
+          "m_PathID": 0
+        },
+        "path": "Assets/Main/Content/UI/Menu/Login/LoginBase00.prefab",
+        "guid": "bf8b4cd34f108ab46a6995750ec052aa",
+        "substitutedKey": "ChangeKartParts"
+      }
+    },
+    {
+      "Key": "MainMenu",
+      "Value": {
+        "obj": {
+          "m_FileID": 0,
+          "m_PathID": 0
+        },
+        "path": "Assets/Main/Content/UI/Menu/MainMenu/MainMenu00.prefab",
+        "guid": "6749d9600a1aefa48a7fa441a5c3ddab",
+        "substitutedKey": "ChangeKartParts"
+      }
+    },
+    {
+      "Key": "Maintenance",
+      "Value": {
+        "obj": {
+          "m_FileID": 0,
+          "m_PathID": 0
+        },
+        "path": "Assets/Main/Content/UI/Common/Dialog/DlgMaintenance00.prefab",
+        "guid": "cd0d69b6cbf1dec4f9ccd4ea384f7eaa",
+        "substitutedKey": ""
+      }
+    },
+    {
+      "Key": "MenuHud",
+      "Value": {
+        "obj": {
+          "m_FileID": 0,
+          "m_PathID": 0
+        },
+        "path": "Assets/Main/Content/UI/Menu/MenuHud/MenuHud/MenuHud00.prefab",
+        "guid": "8ba203d87e0d31f42be0088466a4adbb",
+        "substitutedKey": ""
+      }
+    },
+    {
+      "Key": "Message",
+      "Value": {
+        "obj": {
+          "m_FileID": 0,
+          "m_PathID": 0
+        },
+        "path": "Assets/Main/Content/UI/Common/Tips/TipsTutorial00.prefab",
+        "guid": "bf3dcad637a9da94888c7ca0a7481b16",
+        "substitutedKey": ""
+      }
+    },
+    {
+      "Key": "MiniMessage",
+      "Value": {
+        "obj": {
+          "m_FileID": 0,
+          "m_PathID": 0
+        },
+        "path": "Assets/Main/Content/UI/Menu/Description/Description00.prefab",
+        "guid": "adeead9bbeb8c394894bdddc5a620621",
+        "substitutedKey": ""
+      }
+    },
+    {
+      "Key": "Miss",
+      "Value": {
+        "obj": {
+          "m_FileID": 0,
+          "m_PathID": 0
+        },
+        "path": "Assets/Main/Content/UI/Race/Miss/Miss00.prefab",
+        "guid": "15c0914814574ba4398850978e79d81a",
+        "substitutedKey": ""
+      }
+    },
+    {
+      "Key": "News",
+      "Value": {
+        "obj": {
+          "m_FileID": 0,
+          "m_PathID": 0
+        },
+        "path": "Assets/Main/Content/UI/Common/Dialog/DlgNews00.prefab",
+        "guid": "d750036bce8174748819065e6f609e8f",
+        "substitutedKey": "ChangeKartParts"
+      }
+    },
+    {
+      "Key": "PauseWindow",
+      "Value": {
+        "obj": {
+          "m_FileID": 0,
+          "m_PathID": 0
+        },
+        "path": "Assets/Main/Content/UI/Race/PauseWindow/PauseWindow00.prefab",
+        "guid": "4dec922012c5ed647ab03b958f74979c",
+        "substitutedKey": "ChangeKartParts"
+      }
+    },
+    {
+      "Key": "PinkCoinShop",
+      "Value": {
+        "obj": {
+          "m_FileID": 0,
+          "m_PathID": 0
+        },
+        "path": "Assets/Main/Content/UI/Common/Dialog/DlgCurrency00.prefab",
+        "guid": "b4e7fb884ae86e44cb7a58ed829d87f8",
+        "substitutedKey": "ChangeKartParts"
+      }
+    },
+    {
+      "Key": "PlayerNames",
+      "Value": {
+        "obj": {
+          "m_FileID": 0,
+          "m_PathID": 0
+        },
+        "path": "Assets/Main/Content/UI/Race/PlayerNames/PlayerNames00.prefab",
+        "guid": "cebd1bf051bdba548a343e1299a38989",
+        "substitutedKey": "ChangeKartParts"
+      }
+    },
+    {
+      "Key": "Present",
+      "Value": {
+        "obj": {
+          "m_FileID": 0,
+          "m_PathID": 0
+        },
+        "path": "Assets/Main/Content/UI/Menu/Present/Present/PresentTop00.prefab",
+        "guid": "a6d6268f4d1be1f4cbe0d90ff76850ae",
+        "substitutedKey": ""
+      }
+    },
+    {
+      "Key": "RaceHud",
+      "Value": {
+        "obj": {
+          "m_FileID": 0,
+          "m_PathID": 0
+        },
+        "path": "Assets/Main/Content/UI/Race/RaceHudBody/RaceHudBody00.prefab",
+        "guid": "2d1ca7e5fec5ef445895b151d36aebb4",
+        "substitutedKey": "ChangeKartParts"
+      }
+    },
+    {
+      "Key": "RacePlayEvent",
+      "Value": {
+        "obj": {
+          "m_FileID": 0,
+          "m_PathID": 0
+        },
+        "path": "Assets/Main/Content/UI/Race/TutorialEvent/RacePlayEvent00.prefab",
+        "guid": "5d3ccc0dc38e4494b8989fa6b20d01fc",
+        "substitutedKey": ""
+      }
+    },
+    {
+      "Key": "RacePlayItem",
+      "Value": {
+        "obj": {
+          "m_FileID": 0,
+          "m_PathID": 0
+        },
+        "path": "Assets/Main/Content/UI/Tutorial/RacePlay/RacePlayItem00.prefab",
+        "guid": "13256a4d1f7f2e641b7cdf57a4b183f6",
+        "substitutedKey": ""
+      }
+    },
+    {
+      "Key": "RacePlaySteer",
+      "Value": {
+        "obj": {
+          "m_FileID": 0,
+          "m_PathID": 0
+        },
+        "path": "Assets/Main/Content/UI/Tutorial/RacePlay/RacePlaySteer00.prefab",
+        "guid": "7b06dc56d90231748871ec6d056a60e1",
+        "substitutedKey": ""
+      }
+    },
+    {
+      "Key": "RaceWipe",
+      "Value": {
+        "obj": {
+          "m_FileID": 0,
+          "m_PathID": 0
+        },
+        "path": "Assets/Main/Content/UI/Common/Fade/Wipe00.prefab",
+        "guid": "f0b747d8a45853b48a369c8348602e27",
+        "substitutedKey": ""
+      }
+    },
+    {
+      "Key": "RankRaceEntry",
+      "Value": {
+        "obj": {
+          "m_FileID": 0,
+          "m_PathID": 0
+        },
+        "path": "Assets/Main/Content/UI/Menu/RankRace/RankRaceTop/RankRaceEntryBase01.prefab",
+        "guid": "7f16b8e5ec295924385cc30627c950d5",
+        "substitutedKey": "ChangeKartParts"
+      }
+    },
+    {
+      "Key": "RankRaceResult",
+      "Value": {
+        "obj": {
+          "m_FileID": 0,
+          "m_PathID": 0
+        },
+        "path": "Assets/Main/Content/UI/Result/RaceResult/ResultRankRaceBase01.prefab",
+        "guid": "432002d2777389c4692270702ac3b809",
+        "substitutedKey": "ChangeKartParts"
+      }
+    },
+    {
+      "Key": "SaveDeleteConfirm",
+      "Value": {
+        "obj": {
+          "m_FileID": 0,
+          "m_PathID": 0
+        },
+        "path": "Assets/Main/Content/UI/Common/Dialog/DlgSettingConfirm00.prefab",
+        "guid": "d717b0a6a57b77f45a7852244ee85538",
+        "substitutedKey": ""
+      }
+    },
+    {
+      "Key": "SettingHelpDialog",
+      "Value": {
+        "obj": {
+          "m_FileID": 0,
+          "m_PathID": 0
+        },
+        "path": "Assets/Main/Content/UI/Common/Dialog/DlgSettingHelp00.prefab",
+        "guid": "5a0ee32548498b74ebf62cb5d37b7ae6",
+        "substitutedKey": ""
+      }
+    },
+    {
+      "Key": "Settings",
+      "Value": {
+        "obj": {
+          "m_FileID": 0,
+          "m_PathID": 0
+        },
+        "path": "Assets/Main/Content/UI/Menu/Setting/Setting00.prefab",
+        "guid": "04d44a4b472ff1144bf89cea4dcdd750",
+        "substitutedKey": "ChangeKartParts"
+      }
+    },
+    {
+      "Key": "Shop",
+      "Value": {
+        "obj": {
+          "m_FileID": 0,
+          "m_PathID": 0
+        },
+        "path": "Assets/Main/Content/UI/Menu/Shop/ShopTop/ShopTop01.prefab",
+        "guid": "033aa2170e3b6a04e9d7895d0ff147a0",
+        "substitutedKey": ""
+      }
+    },
+    {
+      "Key": "SpecialOffer",
+      "Value": {
+        "obj": {
+          "m_FileID": 0,
+          "m_PathID": 0
+        },
+        "path": "Assets/Main/Content/UI/Common/Dialog/DlgShopSpecialOffer00.prefab",
+        "guid": "9ad6c8ddb59c03b438a4ab8c97982ab0",
+        "substitutedKey": ""
+      }
+    },
+    {
+      "Key": "SubMenu",
+      "Value": {
+        "obj": {
+          "m_FileID": 0,
+          "m_PathID": 0
+        },
+        "path": "Assets/Main/Content/UI/Menu/MainMenu/MainMenuSubMenu00.prefab",
+        "guid": "3de7be658c8faa44facd54e8dcd25bee",
+        "substitutedKey": ""
+      }
+    },
+    {
+      "Key": "Title",
+      "Value": {
+        "obj": {
+          "m_FileID": 0,
+          "m_PathID": 0
+        },
+        "path": "Assets/Main/Content/UI/Title/Title00.prefab",
+        "guid": "8667ce4f269f4b6419769a4db65323fb",
+        "substitutedKey": "ChangeKartParts"
+      }
+    },
+    {
+      "Key": "TreasureBox",
+      "Value": {
+        "obj": {
+          "m_FileID": 0,
+          "m_PathID": 0
+        },
+        "path": "Assets/Main/Content/UI/Menu/Shop/TreasureBox/TreasureBox00.prefab",
+        "guid": "771f5aebe457a1b4283a9ec5b7dba306",
+        "substitutedKey": ""
+      }
+    },
+    {
+      "Key": "TreasurePurchaseConfirm",
+      "Value": {
+        "obj": {
+          "m_FileID": 0,
+          "m_PathID": 0
+        },
+        "path": "Assets/Main/Content/UI/Common/Dialog/DlgShop00.prefab",
+        "guid": "8266dbb4c4b503143ad9c90d15a4be4d",
+        "substitutedKey": ""
+      }
+    },
+    {
+      "Key": "TutorialGood",
+      "Value": {
+        "obj": {
+          "m_FileID": 0,
+          "m_PathID": 0
+        },
+        "path": "Assets/Main/Content/UI/Tutorial/Good/Good00.prefab",
+        "guid": "870056577c6c92742833091fc53bc1dd",
+        "substitutedKey": ""
+      }
+    },
+    {
+      "Key": "WappenList",
+      "Value": {
+        "obj": {
+          "m_FileID": 0,
+          "m_PathID": 0
+        },
+        "path": "Assets/Main/Content/UI/Common/Dialog/DlgWappenBook00.prefab",
+        "guid": "1cb3dca715c3b9448a7359c9f2c8736d",
+        "substitutedKey": ""
+      }
+    },
+    {
+      "Key": "CoinRaceConfirm",
+      "Value": {
+        "obj": {
+          "m_FileID": 0,
+          "m_PathID": 0
+        },
+        "path": "Assets/Main/Content/UI/Common/Dialog/DlgCoin01.prefab",
+        "guid": "357fb5f1a6fe9bf44910b2cf15d648aa",
+        "substitutedKey": ""
+      }
+    },
+    {
+      "Key": "DownloadInfo",
+      "Value": {
+        "obj": {
+          "m_FileID": 0,
+          "m_PathID": 0
+        },
+        "path": "Assets/Main/Content/UI/Common/Dialog/DlgDownload00.prefab",
+        "guid": "ef26e412275192c46af7b2660f87ac7f",
+        "substitutedKey": ""
+      }
+    },
+    {
+      "Key": "FeverFrame",
+      "Value": {
+        "obj": {
+          "m_FileID": 0,
+          "m_PathID": 0
+        },
+        "path": "Assets/Main/Content/UI/Race/Fever/FeverFrame00.prefab",
+        "guid": "1c2c0f24955515b40abcef8304079224",
+        "substitutedKey": ""
+      }
+    },
+    {
+      "Key": "NewsInfo",
+      "Value": {
+        "obj": {
+          "m_FileID": 0,
+          "m_PathID": 0
+        },
+        "path": "Assets/Main/Content/UI/Common/Dialog/DlgNews01.prefab",
+        "guid": "4f39a46d1b476a04690e054a7aaac86d",
+        "substitutedKey": ""
+      }
+    },
+    {
+      "Key": "PartsBuyConfirm",
+      "Value": {
+        "obj": {
+          "m_FileID": 0,
+          "m_PathID": 0
+        },
+        "path": "Assets/Main/Content/UI/Common/Dialog/DlgCustomize07.prefab",
+        "guid": "71a0bfba0b323fc4fb6e51671f934764",
+        "substitutedKey": ""
+      }
+    },
+    {
+      "Key": "PartsPowerUp",
+      "Value": {
+        "obj": {
+          "m_FileID": 0,
+          "m_PathID": 0
+        },
+        "path": "Assets/Main/Content/UI/Common/Dialog/DlgCustomizePowerUp00.prefab",
+        "guid": "df0c09b6b1188734f848233800bb7a4c",
+        "substitutedKey": ""
+      }
+    },
+    {
+      "Key": "ItemBuyConfirm",
+      "Value": {
+        "obj": {
+          "m_FileID": 0,
+          "m_PathID": 0
+        },
+        "path": "Assets/Main/Content/UI/Common/Dialog/DlgCustomizeItem01.prefab",
+        "guid": "13e8f05b82dee774d96e79ed47f4e560",
+        "substitutedKey": ""
+      }
+    },
+    {
+      "Key": "PartsInfo",
+      "Value": {
+        "obj": {
+          "m_FileID": 0,
+          "m_PathID": 0
+        },
+        "path": "Assets/Main/Content/UI/Common/Dialog/DlgCustomize04.prefab",
+        "guid": "f1e48258a8b21354ea4b80bc3fdd138b",
+        "substitutedKey": ""
+      }
+    },
+    {
+      "Key": "CcSelect",
+      "Value": {
+        "obj": {
+          "m_FileID": 0,
+          "m_PathID": 0
+        },
+        "path": "Assets/Main/Content/UI/Common/Dialog/DlgCC00.prefab",
+        "guid": "040c1395b225f6d409585a06c5787e45",
+        "substitutedKey": ""
+      }
+    },
+    {
+      "Key": "NewSeason",
+      "Value": {
+        "obj": {
+          "m_FileID": 0,
+          "m_PathID": 0
+        },
+        "path": "Assets/Main/Content/UI/Menu/Season/Season00.prefab",
+        "guid": "f5d826fb9d27a284b9de445b5c87a09c",
+        "substitutedKey": ""
+      }
+    },
+    {
+      "Key": "RankRaceResultPoint",
+      "Value": {
+        "obj": {
+          "m_FileID": 0,
+          "m_PathID": 0
+        },
+        "path": "Assets/Main/Content/UI/Result/RaceResult/ResultRankRacePoint00.prefab",
+        "guid": "e538a21364f43ec40a6e7e2111c1a204",
+        "substitutedKey": ""
+      }
+    },
+    {
+      "Key": "PremiumPassPurchaseConfirm",
+      "Value": {
+        "obj": {
+          "m_FileID": 0,
+          "m_PathID": 0
+        },
+        "path": "Assets/Main/Content/UI/Common/Dialog/DlgSeasonReward00.prefab",
+        "guid": "1fabf4b0aec210a4c92326aa0abff01a",
+        "substitutedKey": ""
+      }
+    },
+    {
+      "Key": "PurchasePremiumPassRewardList",
+      "Value": {
+        "obj": {
+          "m_FileID": 0,
+          "m_PathID": 0
+        },
+        "path": "Assets/Main/Content/UI/Common/Dialog/DlgSeasonReward01.prefab",
+        "guid": "7242abece26c64c48a6c6226b5168edc",
+        "substitutedKey": ""
+      }
+    },
+    {
+      "Key": "ResultActionDialog",
+      "Value": {
+        "obj": {
+          "m_FileID": 0,
+          "m_PathID": 0
+        },
+        "path": "Assets/Main/Content/UI/Common/Dialog/DlgResultAction00.prefab",
+        "guid": "66ef96e43b7a4694890ee39f38695bc3",
+        "substitutedKey": ""
+      }
+    },
+    {
+      "Key": "ItemSlotFrame",
+      "Value": {
+        "obj": {
+          "m_FileID": 0,
+          "m_PathID": 0
+        },
+        "path": "Assets/Main/Content/UI/Race/ItemSlot/ItemSlotFrame01.prefab",
+        "guid": "1eb8f0b5dcd430747b18a8d0e6a34c93",
+        "substitutedKey": ""
+      }
+    },
+    {
+      "Key": "Celebration",
+      "Value": {
+        "obj": {
+          "m_FileID": 0,
+          "m_PathID": 0
+        },
+        "path": "Assets/Main/Content/UI/Common/Dialog/DlgUnlock00.prefab",
+        "guid": "227e03639871b4242ab1ceb2fe99af6b",
+        "substitutedKey": ""
+      }
+    },
+    {
+      "Key": "Ranking",
+      "Value": {
+        "obj": {
+          "m_FileID": 0,
+          "m_PathID": 0
+        },
+        "path": "Assets/Main/Content/UI/Menu/Ranking/Ranking00.prefab",
+        "guid": "1e60fc61a0841dc4096f269ab775210d",
+        "substitutedKey": ""
+      }
+    },
+    {
+      "Key": "OverlapItems",
+      "Value": {
+        "obj": {
+          "m_FileID": 0,
+          "m_PathID": 0
+        },
+        "path": "Assets/Main/Content/UI/Menu/Description/DescriptionRanking00.prefab",
+        "guid": "6a39cdd1702af0848b268b5f48a47473",
+        "substitutedKey": ""
+      }
+    },
+    {
+      "Key": "RacePlayTxt",
+      "Value": {
+        "obj": {
+          "m_FileID": 0,
+          "m_PathID": 0
+        },
+        "path": "Assets/Main/Content/UI/Race/TutorialEvent/RacePlayTxt00.prefab",
+        "guid": "2b0b34f7d14f4d442a687512af7aa073",
+        "substitutedKey": ""
+      }
+    },
+    {
+      "Key": "RankingDescription",
+      "Value": {
+        "obj": {
+          "m_FileID": 0,
+          "m_PathID": 0
+        },
+        "path": "Assets/Main/Content/UI/Common/Dialog/DlgTutorialRanking00.prefab",
+        "guid": "c557ba801f526dd4ab27a570e5ff0b67",
+        "substitutedKey": ""
+      }
+    },
+    {
+      "Key": "RaceHudDLRace",
+      "Value": {
+        "obj": {
+          "m_FileID": 0,
+          "m_PathID": 0
+        },
+        "path": "Assets/Main/Content/UI/Race/RaceHudBody/RaceHudBody01.prefab",
+        "guid": "fef6468a3bc77314a9f3afe350a8f5c0",
+        "substitutedKey": ""
+      }
+    },
+    {
+      "Key": "FocusMenuButton",
+      "Value": {
+        "obj": {
+          "m_FileID": 0,
+          "m_PathID": 0
+        },
+        "path": "Assets/Main/Content/UI/Common/Filter/FocusMainMenu00.prefab",
+        "guid": "a567492f17ae123489723fdd215d87af",
+        "substitutedKey": ""
+      }
+    },
+    {
+      "Key": "FocusTreasureBoxButton",
+      "Value": {
+        "obj": {
+          "m_FileID": 0,
+          "m_PathID": 0
+        },
+        "path": "Assets/Main/Content/UI/Common/Filter/FocusSubMenu00.prefab",
+        "guid": "00c30b602b8f093438866231dfa96be6",
+        "substitutedKey": ""
+      }
+    },
+    {
+      "Key": "FocusTreasureBoxProductButton",
+      "Value": {
+        "obj": {
+          "m_FileID": 0,
+          "m_PathID": 0
+        },
+        "path": "Assets/Main/Content/UI/Common/Filter/FocusDlgShop00.prefab",
+        "guid": "f98863d305ea82b449410119ad30ace3",
+        "substitutedKey": ""
+      }
+    },
+    {
+      "Key": "MaxItemChange",
+      "Value": {
+        "obj": {
+          "m_FileID": 0,
+          "m_PathID": 0
+        },
+        "path": "Assets/Main/Content/UI/Common/Dialog/DlgCoinExchange00.prefab",
+        "guid": "174cd95795910184196a8776a88ec248",
+        "substitutedKey": ""
+      }
+    },
+    {
+      "Key": "CupTicketConfirm",
+      "Value": {
+        "obj": {
+          "m_FileID": 0,
+          "m_PathID": 0
+        },
+        "path": "Assets/Main/Content/UI/Common/Dialog/DlgCupOpen00.prefab",
+        "guid": "773a0fe35ba861645a6aa3f7af6c7a2a",
+        "substitutedKey": ""
+      }
+    },
+    {
+      "Key": "CupOpen",
+      "Value": {
+        "obj": {
+          "m_FileID": 0,
+          "m_PathID": 0
+        },
+        "path": "Assets/Main/Content/UI/Common/Dialog/DlgCupOpenDone00.prefab",
+        "guid": "1129db0669baec349a816b1443dd2a99",
+        "substitutedKey": ""
+      }
+    },
+    {
+      "Key": "StoreReview",
+      "Value": {
+        "obj": {
+          "m_FileID": 0,
+          "m_PathID": 0
+        },
+        "path": "Assets/Main/Content/UI/Common/Dialog/DlgReview00.prefab",
+        "guid": "2a369b542ce9e6a458e5bb2d0e80dae0",
+        "substitutedKey": ""
+      }
+    },
+    {
+      "Key": "FirstEula",
+      "Value": {
+        "obj": {
+          "m_FileID": 0,
+          "m_PathID": 0
+        },
+        "path": "Assets/Main/Content/UI/Title/Eula00.prefab",
+        "guid": "6331c232dfff06742959bee8c5579991",
+        "substitutedKey": ""
+      }
+    },
+    {
+      "Key": "WappenCelebration",
+      "Value": {
+        "obj": {
+          "m_FileID": 0,
+          "m_PathID": 0
+        },
+        "path": "Assets/Main/Content/UI/Common/Dialog/DlgUnlock01.prefab",
+        "guid": "60608344b3bad5f459f30ec42394d2e6",
+        "substitutedKey": ""
+      }
+    },
+    {
+      "Key": "OpenSeasonRankRewardConfirm",
+      "Value": {
+        "obj": {
+          "m_FileID": 0,
+          "m_PathID": 0
+        },
+        "path": "Assets/Main/Content/UI/Common/Dialog/DlgSeasonRewardOpen00.prefab",
+        "guid": "5205fd71013c64b43ab0dcb7f908fcc3",
+        "substitutedKey": ""
+      }
+    },
+    {
+      "Key": "OpenSeasonRankReward",
+      "Value": {
+        "obj": {
+          "m_FileID": 0,
+          "m_PathID": 0
+        },
+        "path": "Assets/Main/Content/UI/Common/Dialog/DlgSeasonRewardOpenDone00.prefab",
+        "guid": "9e99a63dfb4beda46bf30161f1a91c1b",
+        "substitutedKey": ""
+      }
+    },
+    {
+      "Key": "Friend",
+      "Value": {
+        "obj": {
+          "m_FileID": 0,
+          "m_PathID": 0
+        },
+        "path": "Assets/Main/Content/UI/Common/Dialog/DlgFriend00.prefab",
+        "guid": "803d560c1ba23304aa9064bf13e92621",
+        "substitutedKey": ""
+      }
+    },
+    {
+      "Key": "IdCopyComplete",
+      "Value": {
+        "obj": {
+          "m_FileID": 0,
+          "m_PathID": 0
+        },
+        "path": "Assets/Main/Content/UI/Common/Dialog/DlgFriendCode00.prefab",
+        "guid": "cf536167b188074498c04509a0891efc",
+        "substitutedKey": ""
+      }
+    },
+    {
+      "Key": "DailyChallengeList",
+      "Value": {
+        "obj": {
+          "m_FileID": 0,
+          "m_PathID": 0
+        },
+        "path": "",
+        "guid": "",
+        "substitutedKey": ""
+      }
+    },
+    {
+      "Key": "FriendApproval",
+      "Value": {
+        "obj": {
+          "m_FileID": 0,
+          "m_PathID": 0
+        },
+        "path": "Assets/Main/Content/UI/Common/Dialog/DlgFriendApproval00.prefab",
+        "guid": "12758ad903d26d349b6df3c610772ef0",
+        "substitutedKey": ""
+      }
+    },
+    {
+      "Key": "PremiumPassExpire",
+      "Value": {
+        "obj": {
+          "m_FileID": 0,
+          "m_PathID": 0
+        },
+        "path": "Assets/Main/Content/UI/Common/Dialog/DlgSeasonReward02.prefab",
+        "guid": "1add51b7d186fa44e87817bca9bc42ba",
+        "substitutedKey": ""
+      }
+    },
+    {
+      "Key": "SelectDriftMode",
+      "Value": {
+        "obj": {
+          "m_FileID": 0,
+          "m_PathID": 0
+        },
+        "path": "Assets/Main/Content/UI/Common/Dialog/DlgDrift00.prefab",
+        "guid": "beae1cb7fbfec99468643ebe23842c42",
+        "substitutedKey": ""
+      }
+    },
+    {
+      "Key": "FriendApplication",
+      "Value": {
+        "obj": {
+          "m_FileID": 0,
+          "m_PathID": 0
+        },
+        "path": "Assets/Main/Content/UI/Common/Dialog/DlgFriendApplication00.prefab",
+        "guid": "6f6c695d4c53d6a4ebb11eeeabc3f6b6",
+        "substitutedKey": ""
+      }
+    },
+    {
+      "Key": "UserRankInfo",
+      "Value": {
+        "obj": {
+          "m_FileID": 0,
+          "m_PathID": 0
+        },
+        "path": "Assets/Main/Content/UI/Common/Dialog/DlgUserRank00.prefab",
+        "guid": "ae99980e0cd1b9843a8a15cd5e4c62be",
+        "substitutedKey": ""
+      }
+    },
+    {
+      "Key": "PremiumPassUserLocked",
+      "Value": {
+        "obj": {
+          "m_FileID": 0,
+          "m_PathID": 0
+        },
+        "path": "Assets/Main/Content/UI/Common/Dialog/DlgSeasonReward04.prefab",
+        "guid": "d9b74a3194535c3428e3b7cd0cc9873a",
+        "substitutedKey": ""
+      }
+    },
+    {
+      "Key": "PremiumPassLockedItem",
+      "Value": {
+        "obj": {
+          "m_FileID": 0,
+          "m_PathID": 0
+        },
+        "path": "Assets/Main/Content/UI/Common/Dialog/DlgCustomizeItem02.prefab",
+        "guid": "d5fd0b2b1bcf9ac41983dfeb583c13fb",
+        "substitutedKey": ""
+      }
+    },
+    {
+      "Key": "PremiumPassLockedParts",
+      "Value": {
+        "obj": {
+          "m_FileID": 0,
+          "m_PathID": 0
+        },
+        "path": "Assets/Main/Content/UI/Common/Dialog/DlgCustomize08.prefab",
+        "guid": "74827d0883ba7f549a7f6ec6e367734a",
+        "substitutedKey": ""
+      }
+    },
+    {
+      "Key": "DlgCourseResultEvent",
+      "Value": {
+        "obj": {
+          "m_FileID": 0,
+          "m_PathID": 0
+        },
+        "path": "Assets/Main/Content/UI/Common/Dialog/DlgCourseResult01.prefab",
+        "guid": "63c2e55ee8a78f645b6c95e21bb505e4",
+        "substitutedKey": ""
+      }
+    },
+    {
+      "Key": "DlgCourseResultRace",
+      "Value": {
+        "obj": {
+          "m_FileID": 0,
+          "m_PathID": 0
+        },
+        "path": "Assets/Main/Content/UI/Common/Dialog/DlgCourseResult00.prefab",
+        "guid": "984eb392524911240874745f81396926",
+        "substitutedKey": ""
+      }
+    },
+    {
+      "Key": "StockWappenList",
+      "Value": {
+        "obj": {
+          "m_FileID": 0,
+          "m_PathID": 0
+        },
+        "path": "Assets/Main/Content/UI/Menu/Wappen/WappenTop00.prefab",
+        "guid": "484a71e7fa0f4d943b3d1b28d47db436",
+        "substitutedKey": ""
+      }
+    },
+    {
+      "Key": "WappenEquipConfirm",
+      "Value": {
+        "obj": {
+          "m_FileID": 0,
+          "m_PathID": 0
+        },
+        "path": "Assets/Main/Content/UI/Common/Dialog/DlgWappen00.prefab",
+        "guid": "08a71c4f707007841b52a1418cfd341d",
+        "substitutedKey": ""
+      }
+    },
+    {
+      "Key": "WappenEquipped",
+      "Value": {
+        "obj": {
+          "m_FileID": 0,
+          "m_PathID": 0
+        },
+        "path": "Assets/Main/Content/UI/Common/Dialog/DlgWappen01.prefab",
+        "guid": "6b994f530362f24469240affe6c05b07",
+        "substitutedKey": ""
+      }
+    },
+    {
+      "Key": "PremiumPassInfo",
+      "Value": {
+        "obj": {
+          "m_FileID": 0,
+          "m_PathID": 0
+        },
+        "path": "Assets/Main/Content/UI/Common/Dialog/DlgSeasonReward05.prefab",
+        "guid": "06f94ac2af2bfd94889d01d6518a7190",
+        "substitutedKey": ""
+      }
+    },
+    {
+      "Key": "SpecialOfferRecommend",
+      "Value": {
+        "obj": {
+          "m_FileID": 0,
+          "m_PathID": 0
+        },
+        "path": "Assets/Main/Content/UI/Common/Dialog/DlgShopSpecialOfferRecommend00.prefab",
+        "guid": "7e9f21af97fabbf408309b5bc0afdcd7",
+        "substitutedKey": ""
+      }
+    },
+    {
+      "Key": "TicketList",
+      "Value": {
+        "obj": {
+          "m_FileID": 0,
+          "m_PathID": 0
+        },
+        "path": "Assets/Main/Content/UI/Menu/Ticket/TicketTop00.prefab",
+        "guid": "485ce41ddbecf17419127668cba0cc3c",
+        "substitutedKey": ""
+      }
+    },
+    {
+      "Key": "TicketTargetList",
+      "Value": {
+        "obj": {
+          "m_FileID": 0,
+          "m_PathID": 0
+        },
+        "path": "Assets/Main/Content/UI/Common/Dialog/DlgTicketTarget00.prefab",
+        "guid": "8798068dbe86a6147bd1c0bcbc10099f",
+        "substitutedKey": ""
+      }
+    },
+    {
+      "Key": "TreasureBoxDetail",
+      "Value": {
+        "obj": {
+          "m_FileID": 0,
+          "m_PathID": 0
+        },
+        "path": "Assets/Main/Content/UI/Common/Dialog/DlgShopIntroduction00.prefab",
+        "guid": "88e5ff0f94c67e04b8658e1c3d104d8b",
+        "substitutedKey": ""
+      }
+    },
+    {
+      "Key": "NetPlayBG",
+      "Value": {
+        "obj": {
+          "m_FileID": 0,
+          "m_PathID": 0
+        },
+        "path": "Assets/Main/Content/UI/Menu/NetPlay/NetPlayBG00.prefab",
+        "guid": "b19c2d4b86c0e124bb7c4b3c5742af0d",
+        "substitutedKey": ""
+      }
+    },
+    {
+      "Key": "NetPlayTop",
+      "Value": {
+        "obj": {
+          "m_FileID": 0,
+          "m_PathID": 0
+        },
+        "path": "Assets/Main/Content/UI/Menu/NetPlay/NetPlayTop00.prefab",
+        "guid": "9230c565e1061fc4cb9b898050dad764",
+        "substitutedKey": ""
+      }
+    },
+    {
+      "Key": "NetPlayWait",
+      "Value": {
+        "obj": {
+          "m_FileID": 0,
+          "m_PathID": 0
+        },
+        "path": "Assets/Main/Content/UI/Menu/NetPlay/NetPlayWait00.prefab",
+        "guid": "d6d667cdc02c9234fb5e98901302ee71",
+        "substitutedKey": ""
+      }
+    },
+    {
+      "Key": "NetPlayLobby",
+      "Value": {
+        "obj": {
+          "m_FileID": 0,
+          "m_PathID": 0
+        },
+        "path": "Assets/Main/Content/UI/Menu/NetPlay/NetPlayLobby00.prefab",
+        "guid": "f2a3585fe5cfca041b5faf04d813e3de",
+        "substitutedKey": ""
+      }
+    },
+    {
+      "Key": "MainMenuNetPlayCountDown",
+      "Value": {
+        "obj": {
+          "m_FileID": 0,
+          "m_PathID": 0
+        },
+        "path": "Assets/Main/Content/UI/Menu/MainMenu/MainMenuNetPlayCountDown00.prefab",
+        "guid": "1204210fe5ac396418c0e35308f1e267",
+        "substitutedKey": ""
+      }
+    },
+    {
+      "Key": "DlgNetPlayRuleHost",
+      "Value": {
+        "obj": {
+          "m_FileID": 0,
+          "m_PathID": 0
+        },
+        "path": "Assets/Main/Content/UI/Common/Dialog/DlgNetPlayRule00.prefab",
+        "guid": "97c80daa1a152544b8696389c41446c3",
+        "substitutedKey": ""
+      }
+    },
+    {
+      "Key": "DlgNetPlayRuleGuest",
+      "Value": {
+        "obj": {
+          "m_FileID": 0,
+          "m_PathID": 0
+        },
+        "path": "Assets/Main/Content/UI/Common/Dialog/DlgNetPlayRule01.prefab",
+        "guid": "d773df6fc87757b4597832376f91b47b",
+        "substitutedKey": ""
+      }
+    },
+    {
+      "Key": "PartsUnlock",
+      "Value": {
+        "obj": {
+          "m_FileID": 0,
+          "m_PathID": 0
+        },
+        "path": "Assets/Main/Content/UI/Common/Dialog/DlgCustomizeUnlock00.prefab",
+        "guid": "7f197e47c1321554ca98472ee460aabe",
+        "substitutedKey": ""
+      }
+    },
+    {
+      "Key": "DlgNetPlayPin",
+      "Value": {
+        "obj": {
+          "m_FileID": 0,
+          "m_PathID": 0
+        },
+        "path": "Assets/Main/Content/UI/Common/Dialog/DlgNetPlayPin00.prefab",
+        "guid": "ebb6f447ee0577942a2aacd23ba62a0e",
+        "substitutedKey": ""
+      }
+    },
+    {
+      "Key": "MainMenuTest",
+      "Value": {
+        "obj": {
+          "m_FileID": 0,
+          "m_PathID": 0
+        },
+        "path": "Assets/Main/Content/UI/Menu/MainMenu/MainMenu01.prefab",
+        "guid": "23140b05a9a3498478a78dc398d2e286",
+        "substitutedKey": ""
+      }
+    },
+    {
+      "Key": "DlgNetPlayLobbyInvite",
+      "Value": {
+        "obj": {
+          "m_FileID": 0,
+          "m_PathID": 0
+        },
+        "path": "Assets/Main/Content/UI/Common/Dialog/DlgNetPlayLobbyInvite00.prefab",
+        "guid": "ae3ae8412ff92e44f805550dd74cddc5",
+        "substitutedKey": ""
+      }
+    },
+    {
+      "Key": "NotificationRoomOpenedSimple",
+      "Value": {
+        "obj": {
+          "m_FileID": 0,
+          "m_PathID": 0
+        },
+        "path": "Assets/Main/Content/UI/Common/Notification/Notification01.prefab",
+        "guid": "6853b4c07a140d94ca5fe315ffd46cef",
+        "substitutedKey": ""
+      }
+    },
+    {
+      "Key": "NotificationRoomOpenedDetail",
+      "Value": {
+        "obj": {
+          "m_FileID": 0,
+          "m_PathID": 0
+        },
+        "path": "Assets/Main/Content/UI/Common/Notification/Notification00.prefab",
+        "guid": "6142d77e9153aa5439987a22f03317af",
+        "substitutedKey": ""
+      }
+    },
+    {
+      "Key": "TourGift",
+      "Value": {
+        "obj": {
+          "m_FileID": 0,
+          "m_PathID": 0
+        },
+        "path": "Assets/Main/Content/UI/Menu/SeasonReward/SeasonRewardTop00.prefab",
+        "guid": "b792af85a4e096b4bb3e1cdd871f6099",
+        "substitutedKey": ""
+      }
+    },
+    {
+      "Key": "RaceHudMap",
+      "Value": {
+        "obj": {
+          "m_FileID": 0,
+          "m_PathID": 0
+        },
+        "path": "Assets/Main/Content/UI/Race/RaceHudBody/RaceHudMap00.prefab",
+        "guid": "52201e8f071ae564380a8c4d5ae1ccfa",
+        "substitutedKey": ""
+      }
+    },
+    {
+      "Key": "TourEndingParade",
+      "Value": {
+        "obj": {
+          "m_FileID": 0,
+          "m_PathID": 0
+        },
+        "path": "Assets/Main/Content/UI/Menu/RankRace/RankRaceTop/TourEndingParadeBase00.prefab",
+        "guid": "7f55bd1d061888345af7c7afe2d179fe",
+        "substitutedKey": ""
+      }
+    },
+    {
+      "Key": "RankRaceEntryLandscapeGuide",
+      "Value": {
+        "obj": {
+          "m_FileID": 0,
+          "m_PathID": 0
+        },
+        "path": "Assets/Main/Content/UI/Menu/RankRace/RankRaceTop/RankRaceEntryLandscapeBase00.prefab",
+        "guid": "d11b57058d97a9f4e84574b94b7f6c93",
+        "substitutedKey": ""
+      }
+    },
+    {
+      "Key": "MainMenuLandscapeGuide",
+      "Value": {
+        "obj": {
+          "m_FileID": 0,
+          "m_PathID": 0
+        },
+        "path": "Assets/Main/Content/UI/Common/Dialog/DlgTutorialLandscape00.prefab",
+        "guid": "f948648566c9808458e5e9a1a546e562",
+        "substitutedKey": ""
+      }
+    },
+    {
+      "Key": "EventRaceRemainingTime",
+      "Value": {
+        "obj": {
+          "m_FileID": 0,
+          "m_PathID": 0
+        },
+        "path": "Assets/Main/Content/UI/Race/RemainingTime/RemainingTime00.prefab",
+        "guid": "fcaae7160a212fb4caf25589fa9794a0",
+        "substitutedKey": ""
+      }
+    },
+    {
+      "Key": "PartsPowerUpContent",
+      "Value": {
+        "obj": {
+          "m_FileID": 0,
+          "m_PathID": 0
+        },
+        "path": "Assets/Main/Content/UI/Common/Dialog/DlgCustomizePowerUpContent00.prefab",
+        "guid": "dc92c7b26c0a6494ab326404aa89767e",
+        "substitutedKey": ""
+      }
+    },
+    {
+      "Key": "Profile",
+      "Value": {
+        "obj": {
+          "m_FileID": 0,
+          "m_PathID": 0
+        },
+        "path": "Assets/Main/Content/UI/Menu/Profile/Profile00.prefab",
+        "guid": "624821d9309261547a91279841532e47",
+        "substitutedKey": ""
+      }
+    },
+    {
+      "Key": "FavoritePartsSelect",
+      "Value": {
+        "obj": {
+          "m_FileID": 0,
+          "m_PathID": 0
+        },
+        "path": "Assets/Main/Content/UI/Common/Dialog/DlgTicketTarget01.prefab",
+        "guid": "6ab0672c7bbf0f541bc56e32f8285229",
+        "substitutedKey": ""
+      }
+    },
+    {
+      "Key": "ScreenshotShare",
+      "Value": {
+        "obj": {
+          "m_FileID": 0,
+          "m_PathID": 0
+        },
+        "path": "Assets/Main/Content/UI/Common/Dialog/DlgShare00.prefab",
+        "guid": "0f8d91b6240b6db4397650cb76db62df",
+        "substitutedKey": ""
+      }
+    },
+    {
+      "Key": "FestivalTeamSelect",
+      "Value": {
+        "obj": {
+          "m_FileID": 0,
+          "m_PathID": 0
+        },
+        "path": "Assets/Main/Content/UI/Menu/Fes/FesTeamSelect00.prefab",
+        "guid": "db73e360b98e76c4ba4168e510987973",
+        "substitutedKey": ""
+      }
+    },
+    {
+      "Key": "FestivalTeamConfirm",
+      "Value": {
+        "obj": {
+          "m_FileID": 0,
+          "m_PathID": 0
+        },
+        "path": "Assets/Main/Content/UI/Common/Dialog/DlgFesTeamConfirmation00.prefab",
+        "guid": "fb75305508403d4408edfd20d7808573",
+        "substitutedKey": ""
+      }
+    },
+    {
+      "Key": "FestivalEnding",
+      "Value": {
+        "obj": {
+          "m_FileID": 0,
+          "m_PathID": 0
+        },
+        "path": "Assets/Main/Content/UI/Menu/Fes/FesResult00.prefab",
+        "guid": "7f08962b284b95d4bbb64322c36e8ec9",
+        "substitutedKey": ""
+      }
+    }
+  ]
+}

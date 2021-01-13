@@ -1,0 +1,135 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": -2094441087577622512
+  },
+  "m_Name": "KingTeresaLM",
+  "mModel": {
+    "m_FileID": 1,
+    "m_PathID": -4334177228908190410
+  },
+  "mFaceTextures": [
+    {
+      "m_FileID": 2,
+      "m_PathID": 8888274654978394091
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 3609297321274298995
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 5549629584950078947
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 838009181537565107
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -1076855628367543460
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 7223536208271258563
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -68317774858652474
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -1994314197570931697
+    }
+  ],
+  "mIsFaceTextureEmission": 1,
+  "mEmblem": {
+    "m_FileID": 0,
+    "m_PathID": -4983693636604291745
+  },
+  "mAnimatorOverrideController": {
+    "m_FileID": 3,
+    "m_PathID": -8294049812228171833
+  },
+  "mKartScaleSize": 1.1,
+  "mWingJointType": 0,
+  "mFaceChangeEvent": {
+    "m_FileID": 0,
+    "m_PathID": -6569255482923258776
+  },
+  "mIconInfo": [
+    {
+      "mPath": "Assets/Main/Content/Driver/KingTeresaLM/Icons/KingTeresaLM.png",
+      "mGuid": "151468ce6ace10e4981e8aac9d85c3ab"
+    },
+    {
+      "mPath": "Assets/Main/Content/Driver/KingTeresaLM/Icons/KingTeresaLMMap.png",
+      "mGuid": "b049517284a52da49994786cd3befd80"
+    },
+    {
+      "mPath": "Assets/Main/Content/Driver/KingTeresaLM/Icons/KingTeresaLMFaceEntry.png",
+      "mGuid": "17fafe8dec6acad4ea8d821b1f353f7b"
+    },
+    {
+      "mPath": "Assets/Main/Content/Driver/KingTeresaLM/Icons/KingTeresaLMWholeBody.png",
+      "mGuid": "2b8c3575122317d42a8c520b4e7a00be"
+    },
+    {
+      "mPath": "Assets/Main/Content/Driver/KingTeresaLM/Icons/KingTeresaLMUpperBody.png",
+      "mGuid": "a6479e657c5d60d4e880b4d4aab5eaf0"
+    },
+    {
+      "mPath": "",
+      "mGuid": ""
+    },
+    {
+      "mPath": "Assets/Main/Content/Driver/KingTeresaLM/Icons/KingTeresaLM_Small.png",
+      "mGuid": "667982f9131646449a2b9dfe926d5347"
+    },
+    {
+      "mPath": "Assets/Main/Content/Driver/KingTeresaLM/Icons/KingTeresaLMFaceEntry_Small.png",
+      "mGuid": "e479741c854c524448736b8bca8bfc55"
+    },
+    {
+      "mPath": "Assets/Main/Content/Driver/KingTeresaLM/Icons/KingTeresaLMWholeBody_Small.png",
+      "mGuid": "5f662ca61f5d54946a8323145c58d552"
+    },
+    {
+      "mPath": "Assets/Main/Content/Driver/KingTeresaLM/Icons/KingTeresaLMUpperBody_Small.png",
+      "mGuid": "b7c9e665567ac424b9a4ae73aa08aa5d"
+    }
+  ],
+  "mColorGroup": 0,
+  "mCharacterTextureList": [],
+  "mBaseParameter": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "mBodyMaterial": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "mEyeMaterial": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "mDynamicUnitMngInitData": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "mMetamorData": [],
+  "mDotDriverData": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "mDescription": "",
+  "mEffectContainer": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  }
+}

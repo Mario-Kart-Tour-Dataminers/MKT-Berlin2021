@@ -1,0 +1,72 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": -3977807471082417869
+  },
+  "m_Name": "MainMenuNotificationBalloonList00",
+  "savePath": 1,
+  "isEnableCheckNoEmptyValue": 0,
+  "assetDataList": [
+    {
+      "obj": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      },
+      "path": "Assets/Main/Content/UI/Texture/StarOn00.png",
+      "guid": "81f3a15f08099564ebdc81e3b9cebcfa",
+      "substitutedArrayIndex": 0
+    },
+    {
+      "obj": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      },
+      "path": "Assets/Main/Content/UI/Texture/Menu/MenuSeasonRewardGold00.png",
+      "guid": "2b76b4a4805b25c49bea6b2a1f569fe6",
+      "substitutedArrayIndex": 1
+    },
+    {
+      "obj": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      },
+      "path": "Assets/Main/Content/UI/Texture/Menu/MenuFriend00.png",
+      "guid": "35246ba2aadfd3b4c8a5398baedeb36d",
+      "substitutedArrayIndex": 2
+    },
+    {
+      "obj": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      },
+      "path": "Assets/Main/Content/UI/Texture/Menu/MenuPresent00.png",
+      "guid": "0731fcff83388494c96cedc360b4fabc",
+      "substitutedArrayIndex": 3
+    },
+    {
+      "obj": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      },
+      "path": "Assets/Main/Content/UI/Texture/EventCoin/EventCoinIcon00.png",
+      "guid": "7a8e4c4331f66b84d8ef5999f3a36995",
+      "substitutedArrayIndex": 4
+    },
+    {
+      "obj": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      },
+      "path": "Assets/Main/Content/UI/Texture/Coin/CoinIcon00.png",
+      "guid": "cda7ecf54ce19614f838c81ad5a631d6",
+      "substitutedArrayIndex": 5
+    }
+  ],
+  "assetType": 0,
+  "keyType": 31
+}

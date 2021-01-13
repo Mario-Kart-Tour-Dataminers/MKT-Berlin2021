@@ -1,0 +1,26 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": 980329048157257672
+  },
+  "m_Name": "Fbx_Gwii_MapleTreeway_MapInfo",
+  "rect": {
+    "x": -442.874237,
+    "y": -507.5422,
+    "width": 1022.16846,
+    "height": 1022.16846
+  },
+  "sprite": {
+    "m_FileID": 0,
+    "m_PathID": -6334995134026467503
+  },
+  "offset": {
+    "x": 0.0,
+    "y": 0.0
+  }
+}

@@ -1,0 +1,135 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": -2094441087577622512
+  },
+  "m_Name": "WarioCamper",
+  "mModel": {
+    "m_FileID": 1,
+    "m_PathID": -8259718503170847173
+  },
+  "mFaceTextures": [
+    {
+      "m_FileID": 2,
+      "m_PathID": -1158592873657045300
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -7209781837347112418
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -5907232900479379065
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 1930419184167174647
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -5906103147060243104
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -1868058549533238693
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 569190727911219722
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 6790105727786115816
+    }
+  ],
+  "mIsFaceTextureEmission": 0,
+  "mEmblem": {
+    "m_FileID": 0,
+    "m_PathID": -2340763006966899102
+  },
+  "mAnimatorOverrideController": {
+    "m_FileID": 3,
+    "m_PathID": -4871822963747658446
+  },
+  "mKartScaleSize": 1.1,
+  "mWingJointType": 0,
+  "mFaceChangeEvent": {
+    "m_FileID": 0,
+    "m_PathID": -839476102236151535
+  },
+  "mIconInfo": [
+    {
+      "mPath": "Assets/Main/Content/Driver/WarioCamper/Icons/WarioCamper.png",
+      "mGuid": "1f4aa4dd0b2e0da41bf68717ffa481e1"
+    },
+    {
+      "mPath": "Assets/Main/Content/Driver/WarioCamper/Icons/WarioCamperMap.png",
+      "mGuid": "e9377d40ae861cd418e2e57e488cd643"
+    },
+    {
+      "mPath": "Assets/Main/Content/Driver/WarioCamper/Icons/WarioCamperFaceEntry.png",
+      "mGuid": "f796c7312b39e3443883194fc021baff"
+    },
+    {
+      "mPath": "Assets/Main/Content/Driver/WarioCamper/Icons/WarioCamperWholeBody.png",
+      "mGuid": "687ec1bb1b86f4944ac869e46236d101"
+    },
+    {
+      "mPath": "Assets/Main/Content/Driver/WarioCamper/Icons/WarioCamperUpperBody.png",
+      "mGuid": "e8dd3cfa7621c294890df51e41104fb8"
+    },
+    {
+      "mPath": "",
+      "mGuid": ""
+    },
+    {
+      "mPath": "Assets/Main/Content/Driver/WarioCamper/Icons/WarioCamper_Small.png",
+      "mGuid": "08a39458625ffc040aad6b6cbcaf8720"
+    },
+    {
+      "mPath": "Assets/Main/Content/Driver/WarioCamper/Icons/WarioCamperFaceEntry_Small.png",
+      "mGuid": "94a64316e2e0cb34fa1554eaf2ce9e18"
+    },
+    {
+      "mPath": "Assets/Main/Content/Driver/WarioCamper/Icons/WarioCamperWholeBody_Small.png",
+      "mGuid": "7c72210bbd7160e448ae487a0f064f60"
+    },
+    {
+      "mPath": "Assets/Main/Content/Driver/WarioCamper/Icons/WarioCamperUpperBody_Small.png",
+      "mGuid": "ac5a05f02e502914c94af9e18a344423"
+    }
+  ],
+  "mColorGroup": 0,
+  "mCharacterTextureList": [],
+  "mBaseParameter": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "mBodyMaterial": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "mEyeMaterial": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "mDynamicUnitMngInitData": {
+    "m_FileID": 0,
+    "m_PathID": -4766699449370324446
+  },
+  "mMetamorData": [],
+  "mDotDriverData": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "mDescription": "",
+  "mEffectContainer": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  }
+}

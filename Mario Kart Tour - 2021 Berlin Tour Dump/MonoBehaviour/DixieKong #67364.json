@@ -1,0 +1,131 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": -2094441087577622512
+  },
+  "m_Name": "DixieKong",
+  "mModel": {
+    "m_FileID": 1,
+    "m_PathID": -7985299641853615472
+  },
+  "mFaceTextures": [
+    {
+      "m_FileID": 2,
+      "m_PathID": -5046557035008308885
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 6445113561932045337
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 6190463865218616581
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 8470908682503996754
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -7461469668633356872
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 794871195290300551
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -387412967302930743
+    }
+  ],
+  "mIsFaceTextureEmission": 0,
+  "mEmblem": {
+    "m_FileID": 0,
+    "m_PathID": 2909806523806330762
+  },
+  "mAnimatorOverrideController": {
+    "m_FileID": 3,
+    "m_PathID": 1107969624916358660
+  },
+  "mKartScaleSize": 1.0,
+  "mWingJointType": 0,
+  "mFaceChangeEvent": {
+    "m_FileID": 0,
+    "m_PathID": -2529131608790851671
+  },
+  "mIconInfo": [
+    {
+      "mPath": "Assets/Main/Content/Driver/DixieKong/Icons/DixieKong.png",
+      "mGuid": "a7609da3e257b3d4d927a4a23cfbdf4c"
+    },
+    {
+      "mPath": "Assets/Main/Content/Driver/DixieKong/Icons/DixieKongMap.png",
+      "mGuid": "7cf0712f0e734b844b543f874cf88d21"
+    },
+    {
+      "mPath": "Assets/Main/Content/Driver/DixieKong/Icons/DixieKongFaceEntry.png",
+      "mGuid": "1cd2b445cd3e0f046b4f02291cffa472"
+    },
+    {
+      "mPath": "Assets/Main/Content/Driver/DixieKong/Icons/DixieKongWholeBody.png",
+      "mGuid": "6ab0852127d68b24988c2d1e2c31361b"
+    },
+    {
+      "mPath": "Assets/Main/Content/Driver/DixieKong/Icons/DixieKongUpperBody.png",
+      "mGuid": "c04d0279311aa3b41a6e4ebe5f722f8b"
+    },
+    {
+      "mPath": "",
+      "mGuid": ""
+    },
+    {
+      "mPath": "Assets/Main/Content/Driver/DixieKong/Icons/DixieKong_Small.png",
+      "mGuid": "2b5b0819844c76a47b60cff3fc49bdbc"
+    },
+    {
+      "mPath": "Assets/Main/Content/Driver/DixieKong/Icons/DixieKongFaceEntry_Small.png",
+      "mGuid": "b100228c13dbb6d4eb81e817a31c65ac"
+    },
+    {
+      "mPath": "Assets/Main/Content/Driver/DixieKong/Icons/DixieKongWholeBody_Small.png",
+      "mGuid": "977cb472a426a6245b7ae16898a23a48"
+    },
+    {
+      "mPath": "Assets/Main/Content/Driver/DixieKong/Icons/DixieKongUpperBody_Small.png",
+      "mGuid": "0ea8c02febb49024ab617af68e2dcc9f"
+    }
+  ],
+  "mColorGroup": 0,
+  "mCharacterTextureList": [],
+  "mBaseParameter": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "mBodyMaterial": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "mEyeMaterial": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "mDynamicUnitMngInitData": {
+    "m_FileID": 0,
+    "m_PathID": 1832792897419139278
+  },
+  "mMetamorData": [],
+  "mDotDriverData": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "mDescription": "",
+  "mEffectContainer": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  }
+}

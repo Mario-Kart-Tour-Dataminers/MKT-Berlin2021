@@ -1,0 +1,55 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": -2123104953829129971
+  },
+  "m_Name": "Outline",
+  "active": 1,
+  "enabled": {
+    "overrideState": 1,
+    "value": 1
+  },
+  "useBaseColor": {
+    "overrideState": 0,
+    "value": 1
+  },
+  "baseColor": {
+    "overrideState": 0,
+    "value": {
+      "r": 1.0,
+      "g": 1.0,
+      "b": 1.0,
+      "a": 1.0
+    }
+  },
+  "outlineColor": {
+    "overrideState": 1,
+    "value": {
+      "r": 0.311320782,
+      "g": 0.08577732,
+      "b": 0.04405482,
+      "a": 1.0
+    }
+  },
+  "normalIntensityFactor": {
+    "overrideState": 1,
+    "value": 1.5
+  },
+  "normalAttenuationBias": {
+    "overrideState": 1,
+    "value": 3.0
+  },
+  "depthIntensityFactor": {
+    "overrideState": 1,
+    "value": 0.5
+  },
+  "depthAttenuationBias": {
+    "overrideState": 1,
+    "value": 3.0
+  }
+}

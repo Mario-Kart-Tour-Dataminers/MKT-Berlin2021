@@ -1,0 +1,135 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": -2094441087577622512
+  },
+  "m_Name": "Ludwig",
+  "mModel": {
+    "m_FileID": 1,
+    "m_PathID": -5680637628188774562
+  },
+  "mFaceTextures": [
+    {
+      "m_FileID": 2,
+      "m_PathID": -772204818082560261
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -8057147721101615606
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -5343509542663218914
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 5505066810349229806
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -8600162036530049662
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -3255343860786329664
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 1117196605588298665
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -414925384033569308
+    }
+  ],
+  "mIsFaceTextureEmission": 0,
+  "mEmblem": {
+    "m_FileID": 0,
+    "m_PathID": -7343820962644040852
+  },
+  "mAnimatorOverrideController": {
+    "m_FileID": 3,
+    "m_PathID": -8731424032601877811
+  },
+  "mKartScaleSize": 1.0,
+  "mWingJointType": 0,
+  "mFaceChangeEvent": {
+    "m_FileID": 0,
+    "m_PathID": 1582254008677667482
+  },
+  "mIconInfo": [
+    {
+      "mPath": "Assets/Main/Content/Driver/Ludwig/Icons/Ludwig.png",
+      "mGuid": "03e71c3c257c02f4c99615da5ba15472"
+    },
+    {
+      "mPath": "Assets/Main/Content/Driver/Ludwig/Icons/LudwigMap.png",
+      "mGuid": "e5a0034297dd720408c095c2dd84c7d7"
+    },
+    {
+      "mPath": "Assets/Main/Content/Driver/Ludwig/Icons/LudwigFaceEntry.png",
+      "mGuid": "a7f7f93c9544c3f4c9fe3a10847db99c"
+    },
+    {
+      "mPath": "Assets/Main/Content/Driver/Ludwig/Icons/LudwigWholeBody.png",
+      "mGuid": "cf46b46b6e196b84187a2a320de047e3"
+    },
+    {
+      "mPath": "Assets/Main/Content/Driver/Ludwig/Icons/LudwigUpperBody.png",
+      "mGuid": "b40f6fd6a955d0f4385220c3d5ad947e"
+    },
+    {
+      "mPath": "",
+      "mGuid": ""
+    },
+    {
+      "mPath": "Assets/Main/Content/Driver/Ludwig/Icons/Ludwig_Small.png",
+      "mGuid": "0952f51705297d841857d37901a7b408"
+    },
+    {
+      "mPath": "Assets/Main/Content/Driver/Ludwig/Icons/LudwigFaceEntry_Small.png",
+      "mGuid": "0a765763a0ffdf74e86dd44ceef67028"
+    },
+    {
+      "mPath": "Assets/Main/Content/Driver/Ludwig/Icons/LudwigWholeBody_Small.png",
+      "mGuid": "184e6945768338c45b6f948764d420ee"
+    },
+    {
+      "mPath": "Assets/Main/Content/Driver/Ludwig/Icons/LudwigUpperBody_Small.png",
+      "mGuid": "d98088bedc4559c42b0fb80cda76eae0"
+    }
+  ],
+  "mColorGroup": 0,
+  "mCharacterTextureList": [],
+  "mBaseParameter": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "mBodyMaterial": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "mEyeMaterial": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "mDynamicUnitMngInitData": {
+    "m_FileID": 0,
+    "m_PathID": -6874964294906328262
+  },
+  "mMetamorData": [],
+  "mDotDriverData": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "mDescription": "ルドウィッグ",
+  "mEffectContainer": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  }
+}

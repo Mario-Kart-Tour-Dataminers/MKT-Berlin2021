@@ -1,0 +1,50 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": 2434717279687273224
+  },
+  "m_Name": "Wing_Orizuru_Red",
+  "mWingModel": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "mIconInfo": [
+    {
+      "mPath": "Assets/Main/Content/Kart/Wing/Wing_Orizuru/Icons/Wing_Orizuru_Red.png",
+      "mGuid": "f5cdc972e1ccb364f953f2ce3b64939b"
+    },
+    {
+      "mPath": "Assets/Main/Content/Kart/Wing/Wing_Orizuru/Icons/Wing_Orizuru_Red_Large.png",
+      "mGuid": "5f832a8d5c9e77942bbe579cf2b8e48e"
+    },
+    {
+      "mPath": "Assets/Main/Content/Kart/Wing/Wing_Orizuru/Icons/Wing_Orizuru_Red_Small.png",
+      "mGuid": "b44701febf883aa44a146a9bd38b69ce"
+    }
+  ],
+  "mWingType": 0,
+  "mIsFixedIcon": 0,
+  "mBaseParameter": {
+    "m_FileID": 1,
+    "m_PathID": 4939087738904978792
+  },
+  "mMaterial": {
+    "m_FileID": 2,
+    "m_PathID": -3148602176046447660
+  },
+  "mEffectContainer": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "mIsDisableAngleAnimation": 0,
+  "mDescription": "",
+  "mColorValiationRoot": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  }
+}

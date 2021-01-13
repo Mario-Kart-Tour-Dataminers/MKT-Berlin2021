@@ -1,0 +1,50 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": 2434717279687273224
+  },
+  "m_Name": "Wing_Orizuru_Gold",
+  "mWingModel": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "mIconInfo": [
+    {
+      "mPath": "Assets/Main/Content/Kart/Wing/Wing_Orizuru/Icons/Wing_Orizuru_Gold.png",
+      "mGuid": "9915c9ff63aca834da42336dc429114b"
+    },
+    {
+      "mPath": "Assets/Main/Content/Kart/Wing/Wing_Orizuru/Icons/Wing_Orizuru_Gold_Large.png",
+      "mGuid": "5a40522b6afa8074396a866a7fb2068a"
+    },
+    {
+      "mPath": "Assets/Main/Content/Kart/Wing/Wing_Orizuru/Icons/Wing_Orizuru_Gold_Small.png",
+      "mGuid": "cfc4223c48ed8434a950dc282c671301"
+    }
+  ],
+  "mWingType": 0,
+  "mIsFixedIcon": 0,
+  "mBaseParameter": {
+    "m_FileID": 1,
+    "m_PathID": 4939087738904978792
+  },
+  "mMaterial": {
+    "m_FileID": 0,
+    "m_PathID": 6426632281715416745
+  },
+  "mEffectContainer": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "mIsDisableAngleAnimation": 0,
+  "mDescription": "",
+  "mColorValiationRoot": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  }
+}

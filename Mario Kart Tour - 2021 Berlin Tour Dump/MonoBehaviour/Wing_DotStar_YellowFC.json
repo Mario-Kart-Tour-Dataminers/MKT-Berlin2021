@@ -1,0 +1,50 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": 2434717279687273224
+  },
+  "m_Name": "Wing_DotStar_YellowFC",
+  "mWingModel": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "mIconInfo": [
+    {
+      "mPath": "Assets/Main/Content/Kart/Wing/Wing_DotStar/Icons/Wing_DotStar_YellowFC.png",
+      "mGuid": "12a5c93f2d719954cb3af207d26a96e8"
+    },
+    {
+      "mPath": "Assets/Main/Content/Kart/Wing/Wing_DotStar/Icons/Wing_DotStar_YellowFC_Large.png",
+      "mGuid": "a222a1e20f78df84489a1b94e74bc210"
+    },
+    {
+      "mPath": "Assets/Main/Content/Kart/Wing/Wing_DotStar/Icons/Wing_DotStar_YellowFC_Small.png",
+      "mGuid": "81e13fd14bd88c746aad271774655533"
+    }
+  ],
+  "mWingType": 0,
+  "mIsFixedIcon": 0,
+  "mBaseParameter": {
+    "m_FileID": 0,
+    "m_PathID": -3440731473084521463
+  },
+  "mMaterial": {
+    "m_FileID": 0,
+    "m_PathID": 2871056106913390957
+  },
+  "mEffectContainer": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "mIsDisableAngleAnimation": 0,
+  "mDescription": "",
+  "mColorValiationRoot": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  }
+}

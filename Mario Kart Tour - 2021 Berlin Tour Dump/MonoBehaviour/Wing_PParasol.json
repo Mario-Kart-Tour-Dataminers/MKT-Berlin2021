@@ -1,0 +1,50 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": 2434717279687273224
+  },
+  "m_Name": "Wing_PParasol",
+  "mWingModel": {
+    "m_FileID": 0,
+    "m_PathID": 3093541392747241711
+  },
+  "mIconInfo": [
+    {
+      "mPath": "Assets/Main/Content/Kart/Wing/Wing_PParasol/Icons/Wing_PParasol.png",
+      "mGuid": "c648ec3bdd4705a429704dc96aae03e6"
+    },
+    {
+      "mPath": "Assets/Main/Content/Kart/Wing/Wing_PParasol/Icons/Wing_PParasol_Large.png",
+      "mGuid": "a72883e9dd579824486086d2756f3588"
+    },
+    {
+      "mPath": "Assets/Main/Content/Kart/Wing/Wing_PParasol/Icons/Wing_PParasol_Small.png",
+      "mGuid": "fae9de89e28718a4c9bdb008e1838ccf"
+    }
+  ],
+  "mWingType": 0,
+  "mIsFixedIcon": 0,
+  "mBaseParameter": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "mMaterial": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "mEffectContainer": {
+    "m_FileID": 0,
+    "m_PathID": -6817783472729265611
+  },
+  "mIsDisableAngleAnimation": 0,
+  "mDescription": "ピーチパラソル",
+  "mColorValiationRoot": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  }
+}

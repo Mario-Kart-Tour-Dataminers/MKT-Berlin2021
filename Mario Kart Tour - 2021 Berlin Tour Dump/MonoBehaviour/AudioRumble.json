@@ -1,0 +1,34 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": 8864450817174347990
+  },
+  "m_Name": "AudioRumble",
+  "list": [
+    {
+      "name": "SeKartCmnJump",
+      "pattern": 2
+    },
+    {
+      "name": "SeKartCmnDashPlay",
+      "pattern": 1
+    },
+    {
+      "name": "SeKartCmnDashKinokoPlay",
+      "pattern": 1
+    },
+    {
+      "name": "SeKartCmnDashTriplePlay",
+      "pattern": 1
+    },
+    {
+      "name": "SeKartCmnDashStartPlay",
+      "pattern": 1
+    }
+  ]
+}

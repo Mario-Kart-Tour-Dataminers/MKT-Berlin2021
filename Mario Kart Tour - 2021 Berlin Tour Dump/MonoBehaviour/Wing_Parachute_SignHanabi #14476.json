@@ -1,0 +1,50 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": 2434717279687273224
+  },
+  "m_Name": "Wing_Parachute_SignHanabi",
+  "mWingModel": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "mIconInfo": [
+    {
+      "mPath": "Assets/Main/Content/Kart/Wing/Wing_Parachute/Icons/Wing_Parachute_SignHanabi.png",
+      "mGuid": "fb230443efa67ab47a788a6b4fe198dd"
+    },
+    {
+      "mPath": "Assets/Main/Content/Kart/Wing/Wing_Parachute/Icons/Wing_Parachute_SignHanabi_Large.png",
+      "mGuid": "1108fa4b5ca5da3489bc75cef6c6b702"
+    },
+    {
+      "mPath": "Assets/Main/Content/Kart/Wing/Wing_Parachute/Icons/Wing_Parachute_SignHanabi_Small.png",
+      "mGuid": "9002467620ad87c4f9f2ffac47540517"
+    }
+  ],
+  "mWingType": 0,
+  "mIsFixedIcon": 0,
+  "mBaseParameter": {
+    "m_FileID": 1,
+    "m_PathID": 411820290415868396
+  },
+  "mMaterial": {
+    "m_FileID": 0,
+    "m_PathID": 2229849604913681442
+  },
+  "mEffectContainer": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "mIsDisableAngleAnimation": 0,
+  "mDescription": "",
+  "mColorValiationRoot": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  }
+}

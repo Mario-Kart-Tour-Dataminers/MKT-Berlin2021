@@ -1,0 +1,135 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": -2094441087577622512
+  },
+  "m_Name": "PeachWedding",
+  "mModel": {
+    "m_FileID": 1,
+    "m_PathID": -944963945327409872
+  },
+  "mFaceTextures": [
+    {
+      "m_FileID": 2,
+      "m_PathID": 635505841082641645
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 9052060588585364158
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 6163439351037482459
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -8619008069890873213
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -7358734632052514749
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 7483080084052903527
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -4712528194883859456
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -3763295478602322049
+    }
+  ],
+  "mIsFaceTextureEmission": 0,
+  "mEmblem": {
+    "m_FileID": 0,
+    "m_PathID": 7859941378045744467
+  },
+  "mAnimatorOverrideController": {
+    "m_FileID": 3,
+    "m_PathID": 2495080884122823165
+  },
+  "mKartScaleSize": 1.0,
+  "mWingJointType": 0,
+  "mFaceChangeEvent": {
+    "m_FileID": 0,
+    "m_PathID": 4765316924974830241
+  },
+  "mIconInfo": [
+    {
+      "mPath": "Assets/Main/Content/Driver/PeachWedding/Icons/PeachWedding.png",
+      "mGuid": "389fa00a68336ca47a9893d7b806df18"
+    },
+    {
+      "mPath": "Assets/Main/Content/Driver/PeachWedding/Icons/PeachWeddingMap.png",
+      "mGuid": "abbf27bf1215b1f4588a9803623855c1"
+    },
+    {
+      "mPath": "Assets/Main/Content/Driver/PeachWedding/Icons/PeachWeddingFaceEntry.png",
+      "mGuid": "cba5f4bebb8c5674d99237ff98e35623"
+    },
+    {
+      "mPath": "Assets/Main/Content/Driver/PeachWedding/Icons/PeachWeddingWholeBody.png",
+      "mGuid": "85e2f06cd1c4f41428e476dbd42d5d46"
+    },
+    {
+      "mPath": "Assets/Main/Content/Driver/PeachWedding/Icons/PeachWeddingUpperBody.png",
+      "mGuid": "4431e5566b57e0e449e3378013a2be3f"
+    },
+    {
+      "mPath": "",
+      "mGuid": ""
+    },
+    {
+      "mPath": "Assets/Main/Content/Driver/PeachWedding/Icons/PeachWedding_Small.png",
+      "mGuid": "8a78d60608d693341b82d79e6eca71b5"
+    },
+    {
+      "mPath": "Assets/Main/Content/Driver/PeachWedding/Icons/PeachWeddingFaceEntry_Small.png",
+      "mGuid": "c7bef756472120541bb8084216c0bc49"
+    },
+    {
+      "mPath": "Assets/Main/Content/Driver/PeachWedding/Icons/PeachWeddingWholeBody_Small.png",
+      "mGuid": "38e69bd1e8dc3674983d02714726a76d"
+    },
+    {
+      "mPath": "Assets/Main/Content/Driver/PeachWedding/Icons/PeachWeddingUpperBody_Small.png",
+      "mGuid": "dcc01e9b16706ed459da5cacb38e010a"
+    }
+  ],
+  "mColorGroup": 0,
+  "mCharacterTextureList": [],
+  "mBaseParameter": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "mBodyMaterial": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "mEyeMaterial": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "mDynamicUnitMngInitData": {
+    "m_FileID": 0,
+    "m_PathID": 4752360434211405901
+  },
+  "mMetamorData": [],
+  "mDotDriverData": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "mDescription": "",
+  "mEffectContainer": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  }
+}

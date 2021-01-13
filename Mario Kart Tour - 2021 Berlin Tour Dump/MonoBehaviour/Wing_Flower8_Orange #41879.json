@@ -1,0 +1,50 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": 2434717279687273224
+  },
+  "m_Name": "Wing_Flower8_Orange",
+  "mWingModel": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "mIconInfo": [
+    {
+      "mPath": "Assets/Main/Content/Kart/Wing/Wing_Flower8/Icons/Wing_Flower8_Orange.png",
+      "mGuid": "65e1ee2cc50b80d42ae950a1b46760d9"
+    },
+    {
+      "mPath": "Assets/Main/Content/Kart/Wing/Wing_Flower8/Icons/Wing_Flower8_Orange_Large.png",
+      "mGuid": "4a066388c6174234f892951d5964725a"
+    },
+    {
+      "mPath": "Assets/Main/Content/Kart/Wing/Wing_Flower8/Icons/Wing_Flower8_Orange_Small.png",
+      "mGuid": "89e0fe2cfdd907a41a3531965c2d6c57"
+    }
+  ],
+  "mWingType": 0,
+  "mIsFixedIcon": 0,
+  "mBaseParameter": {
+    "m_FileID": 1,
+    "m_PathID": 5935096358540543435
+  },
+  "mMaterial": {
+    "m_FileID": 2,
+    "m_PathID": -3363817458971041910
+  },
+  "mEffectContainer": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "mIsDisableAngleAnimation": 0,
+  "mDescription": "フラワーカイト（オレンジ）",
+  "mColorValiationRoot": {
+    "m_FileID": 1,
+    "m_PathID": 5935096358540543435
+  }
+}

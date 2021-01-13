@@ -1,0 +1,65 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": -3528712136297729501
+  },
+  "m_Name": "CoinList00",
+  "savePath": 1,
+  "assetDataList": [
+    {
+      "Key": 1,
+      "Value": {
+        "obj": {
+          "m_FileID": 0,
+          "m_PathID": 0
+        },
+        "path": "Assets/Main/Content/UI/Texture/Coin/Coin00.png",
+        "guid": "b0673a5119f1b104eb4ea433528bf2d9",
+        "substitutedKey": 0
+      }
+    },
+    {
+      "Key": 50,
+      "Value": {
+        "obj": {
+          "m_FileID": 0,
+          "m_PathID": 0
+        },
+        "path": "Assets/Main/Content/UI/Texture/Coin/Coin01.png",
+        "guid": "1a763bb017345b542ab7130e67649ec2",
+        "substitutedKey": 0
+      }
+    },
+    {
+      "Key": 100,
+      "Value": {
+        "obj": {
+          "m_FileID": 0,
+          "m_PathID": 0
+        },
+        "path": "Assets/Main/Content/UI/Texture/Coin/Coin02.png",
+        "guid": "fb4c5e112a5816d418fa4b6bcb6ab855",
+        "substitutedKey": 0
+      }
+    },
+    {
+      "Key": 1000,
+      "Value": {
+        "obj": {
+          "m_FileID": 0,
+          "m_PathID": 0
+        },
+        "path": "Assets/Main/Content/UI/Texture/Coin/Coin03.png",
+        "guid": "9f597d4d2e1b16e4f848d3c271bb5cbd",
+        "substitutedKey": 0
+      }
+    }
+  ],
+  "notContainKeyAction": 3,
+  "assetType": 0
+}

@@ -1,0 +1,32 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": -2635221561383931851
+  },
+  "m_Name": "AudioDialog",
+  "DefaultDialogOpenSe": 9,
+  "DefaultDialogCloseSe": 10,
+  "list": [
+    {
+      "ScreenId": 14,
+      "ScreenIdStr": "CommonDialog",
+      "CommonDialogContentType": 0,
+      "CommonDialogContentTypeStr": "LackOfCoin",
+      "DialogOpenSe": 0,
+      "DialogCloseSe": 10
+    },
+    {
+      "ScreenId": 82,
+      "ScreenIdStr": "NewSeason",
+      "CommonDialogContentType": 0,
+      "CommonDialogContentTypeStr": "LackOfCoin",
+      "DialogOpenSe": 64,
+      "DialogCloseSe": 20
+    }
+  ]
+}

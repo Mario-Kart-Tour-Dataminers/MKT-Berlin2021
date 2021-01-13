@@ -1,0 +1,50 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": 2434717279687273224
+  },
+  "m_Name": "Wing_OoTako_SignGoldKakizome",
+  "mWingModel": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "mIconInfo": [
+    {
+      "mPath": "Assets/Main/Content/Kart/Wing/Wing_OoTako/Icons/Wing_OoTako_SignGoldKakizome.png",
+      "mGuid": "8df92f4dbcab2254197b4580d7471041"
+    },
+    {
+      "mPath": "Assets/Main/Content/Kart/Wing/Wing_OoTako/Icons/Wing_OoTako_SignGoldKakizome_Large.png",
+      "mGuid": "6189c4ff6bf6a07428d11f3bea6f16a9"
+    },
+    {
+      "mPath": "Assets/Main/Content/Kart/Wing/Wing_OoTako/Icons/Wing_OoTako_SignGoldKakizome_Small.png",
+      "mGuid": "49023a3014c8c7348919994d60634f05"
+    }
+  ],
+  "mWingType": 0,
+  "mIsFixedIcon": 0,
+  "mBaseParameter": {
+    "m_FileID": 3,
+    "m_PathID": -7452357288680968741
+  },
+  "mMaterial": {
+    "m_FileID": 0,
+    "m_PathID": -6858921543136265451
+  },
+  "mEffectContainer": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "mIsDisableAngleAnimation": 0,
+  "mDescription": "",
+  "mColorValiationRoot": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  }
+}

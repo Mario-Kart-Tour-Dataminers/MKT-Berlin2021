@@ -1,0 +1,107 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": -2094441087577622512
+  },
+  "m_Name": "HeyhoGolden",
+  "mModel": {
+    "m_FileID": 3,
+    "m_PathID": 7274115284692129192
+  },
+  "mFaceTextures": [
+    {
+      "m_FileID": 1,
+      "m_PathID": -5990824653328697200
+    }
+  ],
+  "mIsFaceTextureEmission": 0,
+  "mEmblem": {
+    "m_FileID": 0,
+    "m_PathID": 5604312274705508057
+  },
+  "mAnimatorOverrideController": {
+    "m_FileID": 2,
+    "m_PathID": 7699839483517173820
+  },
+  "mKartScaleSize": 0.85,
+  "mWingJointType": 0,
+  "mFaceChangeEvent": {
+    "m_FileID": 0,
+    "m_PathID": 8654611621814815306
+  },
+  "mIconInfo": [
+    {
+      "mPath": "Assets/Main/Content/Driver/HeyhoGolden/Icons/HeyhoGolden.png",
+      "mGuid": "40626c4db52ec7144980723d446ee210"
+    },
+    {
+      "mPath": "Assets/Main/Content/Driver/HeyhoGolden/Icons/HeyhoGoldenMap.png",
+      "mGuid": "4b16ab3270ab2b54bb62cb37450a8e3e"
+    },
+    {
+      "mPath": "Assets/Main/Content/Driver/HeyhoGolden/Icons/HeyhoGoldenFaceEntry.png",
+      "mGuid": "f418f57b5bbb217458eb19aac630920f"
+    },
+    {
+      "mPath": "Assets/Main/Content/Driver/HeyhoGolden/Icons/HeyhoGoldenWholeBody.png",
+      "mGuid": "df64e03fabf04f740ad772ecd5a1aa87"
+    },
+    {
+      "mPath": "Assets/Main/Content/Driver/HeyhoGolden/Icons/HeyhoGoldenUpperBody.png",
+      "mGuid": "b3d1af3a9e2c34f4394d38bc59f58041"
+    },
+    {
+      "mPath": "",
+      "mGuid": ""
+    },
+    {
+      "mPath": "Assets/Main/Content/Driver/HeyhoGolden/Icons/HeyhoGolden_Small.png",
+      "mGuid": "51bf1ff7b3c42cd46894706c44f4cad8"
+    },
+    {
+      "mPath": "Assets/Main/Content/Driver/HeyhoGolden/Icons/HeyhoGoldenFaceEntry_Small.png",
+      "mGuid": "0acbe5ee5ac6c6f45864ea2ee43c7e9a"
+    },
+    {
+      "mPath": "Assets/Main/Content/Driver/HeyhoGolden/Icons/HeyhoGoldenWholeBody_Small.png",
+      "mGuid": "519abb929dc18814da02c56c477292fe"
+    },
+    {
+      "mPath": "Assets/Main/Content/Driver/HeyhoGolden/Icons/HeyhoGoldenUpperBody_Small.png",
+      "mGuid": "d2a50c5afb40ce540a1181996248b74f"
+    }
+  ],
+  "mColorGroup": 0,
+  "mCharacterTextureList": [],
+  "mBaseParameter": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "mBodyMaterial": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "mEyeMaterial": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "mDynamicUnitMngInitData": {
+    "m_FileID": 0,
+    "m_PathID": 4884405081134143164
+  },
+  "mMetamorData": [],
+  "mDotDriverData": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "mDescription": "",
+  "mEffectContainer": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  }
+}

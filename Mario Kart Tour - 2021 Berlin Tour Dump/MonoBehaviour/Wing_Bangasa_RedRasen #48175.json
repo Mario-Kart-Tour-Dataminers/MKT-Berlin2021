@@ -1,0 +1,50 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": 2434717279687273224
+  },
+  "m_Name": "Wing_Bangasa_RedRasen",
+  "mWingModel": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "mIconInfo": [
+    {
+      "mPath": "Assets/Main/Content/Kart/Wing/Wing_Bangasa/Icons/Wing_Bangasa_RedRasen.png",
+      "mGuid": "b60ba6816f29adc449f3098d1a7e98d5"
+    },
+    {
+      "mPath": "Assets/Main/Content/Kart/Wing/Wing_Bangasa/Icons/Wing_Bangasa_RedRasen_Large.png",
+      "mGuid": "8c01bc5daa5882e49ac0aee314852ade"
+    },
+    {
+      "mPath": "Assets/Main/Content/Kart/Wing/Wing_Bangasa/Icons/Wing_Bangasa_RedRasen_Small.png",
+      "mGuid": "81c1dc6caeefa99428cdad4dbef60d74"
+    }
+  ],
+  "mWingType": 0,
+  "mIsFixedIcon": 0,
+  "mBaseParameter": {
+    "m_FileID": 1,
+    "m_PathID": 5574116931583460884
+  },
+  "mMaterial": {
+    "m_FileID": 2,
+    "m_PathID": -8288384120364209289
+  },
+  "mEffectContainer": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "mIsDisableAngleAnimation": 0,
+  "mDescription": "",
+  "mColorValiationRoot": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  }
+}

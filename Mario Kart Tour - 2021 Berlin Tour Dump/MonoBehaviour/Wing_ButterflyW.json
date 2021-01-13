@@ -1,0 +1,50 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": 2434717279687273224
+  },
+  "m_Name": "Wing_ButterflyW",
+  "mWingModel": {
+    "m_FileID": 0,
+    "m_PathID": 7583116318664054392
+  },
+  "mIconInfo": [
+    {
+      "mPath": "Assets/Main/Content/Kart/Wing/Wing_ButterflyW/Icons/Wing_ButterflyW.png",
+      "mGuid": "8a5f0a501cfe5484c8118159166928d7"
+    },
+    {
+      "mPath": "Assets/Main/Content/Kart/Wing/Wing_ButterflyW/Icons/Wing_ButterflyW_Large.png",
+      "mGuid": "25aa63ab4e0da5f45aa3c324fdfc1ecb"
+    },
+    {
+      "mPath": "Assets/Main/Content/Kart/Wing/Wing_ButterflyW/Icons/Wing_ButterflyW_Small.png",
+      "mGuid": "d421d35c1e169d148847760ecfa6a28e"
+    }
+  ],
+  "mWingType": 2,
+  "mIsFixedIcon": 0,
+  "mBaseParameter": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "mMaterial": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "mEffectContainer": {
+    "m_FileID": 0,
+    "m_PathID": 1486117705742471094
+  },
+  "mIsDisableAngleAnimation": 0,
+  "mDescription": "",
+  "mColorValiationRoot": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  }
+}

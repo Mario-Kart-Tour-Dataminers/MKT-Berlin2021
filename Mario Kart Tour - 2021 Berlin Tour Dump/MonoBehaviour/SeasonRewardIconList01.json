@@ -1,0 +1,90 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": -3977807471082417869
+  },
+  "m_Name": "SeasonRewardIconList01",
+  "savePath": 1,
+  "isEnableCheckNoEmptyValue": 0,
+  "assetDataList": [
+    {
+      "obj": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      },
+      "path": "Assets/Main/Content/UI/Texture/Cup/CupBase01.png",
+      "guid": "82e80c1edf83f784092c328252154a70",
+      "substitutedArrayIndex": 0
+    },
+    {
+      "obj": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      },
+      "path": "Assets/Main/Content/UI/Texture/SeasonRewardIconSilver01.png",
+      "guid": "379d0874c3926f44f8cc008e0579281c",
+      "substitutedArrayIndex": 1
+    },
+    {
+      "obj": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      },
+      "path": "Assets/Main/Content/UI/Texture/SeasonRewardIconSilverOpen01.png",
+      "guid": "06bf0282b9237ce4ca177e0a96e6d07d",
+      "substitutedArrayIndex": 2
+    },
+    {
+      "obj": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      },
+      "path": "Assets/Main/Content/UI/Texture/SeasonRewardIconGold01.png",
+      "guid": "eb5dc7547eeef9c47baf54a32a6166fb",
+      "substitutedArrayIndex": 3
+    },
+    {
+      "obj": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      },
+      "path": "Assets/Main/Content/UI/Texture/SeasonRewardIconGoldOpen01.png",
+      "guid": "bb877f43a20b6684785d9874ec7569e6",
+      "substitutedArrayIndex": 4
+    },
+    {
+      "obj": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      },
+      "path": "Assets/Main/Content/UI/Texture/TreasureIcon01.png",
+      "guid": "97529ac3cffba1e4c90f5e8f35797c4b",
+      "substitutedArrayIndex": 5
+    },
+    {
+      "obj": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      },
+      "path": "",
+      "guid": "",
+      "substitutedArrayIndex": 0
+    },
+    {
+      "obj": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      },
+      "path": "Assets/Main/Content/UI/Texture/TreasureGoldIcon01.png",
+      "guid": "6dc7fdc0e0dcaa24e94b74f50b148036",
+      "substitutedArrayIndex": 7
+    }
+  ],
+  "assetType": 0,
+  "keyType": 24
+}

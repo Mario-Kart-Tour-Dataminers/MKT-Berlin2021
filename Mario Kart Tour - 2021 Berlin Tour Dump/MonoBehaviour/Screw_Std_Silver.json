@@ -1,0 +1,25 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": -2333654491169874456
+  },
+  "m_Name": "Screw_Std_Silver",
+  "mScrewModel": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "mIsFixedIcon": 0,
+  "mBaseParameter": {
+    "m_FileID": 5,
+    "m_PathID": -2620830771875830218
+  },
+  "mMaterial": {
+    "m_FileID": 0,
+    "m_PathID": -9160544492194158868
+  }
+}

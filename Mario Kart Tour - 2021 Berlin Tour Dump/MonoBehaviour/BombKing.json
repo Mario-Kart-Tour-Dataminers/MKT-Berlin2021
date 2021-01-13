@@ -1,0 +1,131 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": -2094441087577622512
+  },
+  "m_Name": "BombKing",
+  "mModel": {
+    "m_FileID": 1,
+    "m_PathID": -2697601341935279476
+  },
+  "mFaceTextures": [
+    {
+      "m_FileID": 2,
+      "m_PathID": -5902707575202315967
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 1777521416090249910
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 5316921669263517438
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -4346104892074339727
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 9181830379885875499
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 7802452704024104512
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 6634410192637134593
+    }
+  ],
+  "mIsFaceTextureEmission": 0,
+  "mEmblem": {
+    "m_FileID": 0,
+    "m_PathID": -1989845730713905950
+  },
+  "mAnimatorOverrideController": {
+    "m_FileID": 3,
+    "m_PathID": -5500973415288752935
+  },
+  "mKartScaleSize": 1.1,
+  "mWingJointType": 0,
+  "mFaceChangeEvent": {
+    "m_FileID": 0,
+    "m_PathID": 4745506379646365495
+  },
+  "mIconInfo": [
+    {
+      "mPath": "Assets/Main/Content/Driver/BombKing/Icons/BombKing.png",
+      "mGuid": "9468e5aad53889841a466b6fa80c75e8"
+    },
+    {
+      "mPath": "Assets/Main/Content/Driver/BombKing/Icons/BombKingMap.png",
+      "mGuid": "f34ee772b5cde1441918a5ee3d7f3f06"
+    },
+    {
+      "mPath": "Assets/Main/Content/Driver/BombKing/Icons/BombKingFaceEntry.png",
+      "mGuid": "7674602e4bcf33e49af18f2f6cd4b6eb"
+    },
+    {
+      "mPath": "Assets/Main/Content/Driver/BombKing/Icons/BombKingWholeBody.png",
+      "mGuid": "66ac9926921ed0e49a7cb16976333e64"
+    },
+    {
+      "mPath": "Assets/Main/Content/Driver/BombKing/Icons/BombKingUpperBody.png",
+      "mGuid": "ef0bea9e9f707bb40abcd9c741280686"
+    },
+    {
+      "mPath": "",
+      "mGuid": ""
+    },
+    {
+      "mPath": "Assets/Main/Content/Driver/BombKing/Icons/BombKing_Small.png",
+      "mGuid": "0452b186fd826f243b000d204f63887e"
+    },
+    {
+      "mPath": "Assets/Main/Content/Driver/BombKing/Icons/BombKingFaceEntry_Small.png",
+      "mGuid": "90dd078695df8b94dbf82c77fe1bf576"
+    },
+    {
+      "mPath": "Assets/Main/Content/Driver/BombKing/Icons/BombKingWholeBody_Small.png",
+      "mGuid": "0687c0b2db8a0d84ba8fa5eacbc35c2c"
+    },
+    {
+      "mPath": "Assets/Main/Content/Driver/BombKing/Icons/BombKingUpperBody_Small.png",
+      "mGuid": "a33b5d3fe51e2ed49bf5e1ecb0c4d107"
+    }
+  ],
+  "mColorGroup": 0,
+  "mCharacterTextureList": [],
+  "mBaseParameter": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "mBodyMaterial": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "mEyeMaterial": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "mDynamicUnitMngInitData": {
+    "m_FileID": 0,
+    "m_PathID": 2463243451936833505
+  },
+  "mMetamorData": [],
+  "mDotDriverData": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "mDescription": "",
+  "mEffectContainer": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  }
+}

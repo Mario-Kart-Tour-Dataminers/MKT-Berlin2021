@@ -1,0 +1,50 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": 2434717279687273224
+  },
+  "m_Name": "Wing_Sail",
+  "mWingModel": {
+    "m_FileID": 0,
+    "m_PathID": 34542282599797296
+  },
+  "mIconInfo": [
+    {
+      "mPath": "Assets/Main/Content/Kart/Wing/Wing_Sail/Icons/Wing_Sail.png",
+      "mGuid": "7dedbc2e0194d8c4caf717bcc12fe577"
+    },
+    {
+      "mPath": "Assets/Main/Content/Kart/Wing/Wing_Sail/Icons/Wing_Sail_Large.png",
+      "mGuid": "2957d317b2d243042b3d5db19b71d664"
+    },
+    {
+      "mPath": "Assets/Main/Content/Kart/Wing/Wing_Sail/Icons/Wing_Sail_Small.png",
+      "mGuid": "651474bd2a15b5b48a2938a3386f06a8"
+    }
+  ],
+  "mWingType": 0,
+  "mIsFixedIcon": 0,
+  "mBaseParameter": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "mMaterial": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "mEffectContainer": {
+    "m_FileID": 0,
+    "m_PathID": -642848271366142001
+  },
+  "mIsDisableAngleAnimation": 0,
+  "mDescription": "",
+  "mColorValiationRoot": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  }
+}

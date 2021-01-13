@@ -1,0 +1,26 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": 980329048157257672
+  },
+  "m_Name": "Fbx_Gds_KillerShip_MapInfo",
+  "rect": {
+    "x": -405.974274,
+    "y": -411.3751,
+    "width": 764.8688,
+    "height": 764.8688
+  },
+  "sprite": {
+    "m_FileID": 0,
+    "m_PathID": -584572626664888208
+  },
+  "offset": {
+    "x": 0.0,
+    "y": 0.0
+  }
+}

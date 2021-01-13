@@ -1,0 +1,16 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": -6292057592239474594
+  },
+  "m_Name": "KartParamVehicle",
+  "cPressCountByKart": 3.0,
+  "cFrozenSlipCount": 3.0,
+  "cSlipStreamAsHitCount": 0.25,
+  "cSlipStreamChargeCount": 1.5
+}

@@ -1,0 +1,100 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": -8652336194674809844
+  },
+  "m_Name": "BodyK_DDack",
+  "mBodyModel": {
+    "m_FileID": 0,
+    "m_PathID": -1341385337409730902
+  },
+  "mDriverOffset": {
+    "x": 0.0,
+    "y": 0.0,
+    "z": 0.0
+  },
+  "mBodyCenterPosition": {
+    "x": 0.0,
+    "y": 0.0,
+    "z": 0.0
+  },
+  "mScrewPosition": {
+    "x": 0.0,
+    "y": 0.18,
+    "z": -0.71
+  },
+  "mShaftPositionList": [],
+  "mGearBoxData": {
+    "m_FileID": 1,
+    "m_PathID": 3532631435007547029
+  },
+  "mGearBoxScale": {
+    "x": 1.6,
+    "y": 1.4,
+    "z": 1.4
+  },
+  "mGearBoxPosition": {
+    "x": 0.0,
+    "y": 0.0,
+    "z": 0.6
+  },
+  "mGearBoxSlideOffset": {
+    "x": 0.0,
+    "y": 0.0,
+    "z": -0.1
+  },
+  "mBodyWingParams": {
+    "m_FileID": 0,
+    "m_PathID": -8583268110754082711
+  },
+  "mBodyTireParams": {
+    "m_FileID": 0,
+    "m_PathID": -3398472832085169922
+  },
+  "mIconInfo": [
+    {
+      "mPath": "Assets/Main/Content/Kart/Body/BodyK_DDack/Icons/BodyK_DDack.png",
+      "mGuid": "ab305b0afa3971440b9dfad01abc87a6"
+    }
+  ],
+  "mJointMode": 1,
+  "mScrewScale": {
+    "x": 0.75,
+    "y": 0.75,
+    "z": 1.0
+  },
+  "mScrewAxisOffset": {
+    "x": 0.0,
+    "y": 0.0,
+    "z": -0.1
+  },
+  "mBackrestHeight": 0.0,
+  "mIsFixedIcon": 0,
+  "mBaseParameter": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "mMaterial": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "mGearBoxMaterial": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "mEffectContainer": {
+    "m_FileID": 0,
+    "m_PathID": 9155710739456228635
+  },
+  "mEffectContainerForTire": [],
+  "mDescription": "ダンガンダック",
+  "mColorValiationRoot": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  }
+}

@@ -1,0 +1,135 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": -2094441087577622512
+  },
+  "m_Name": "Waluigi",
+  "mModel": {
+    "m_FileID": 2,
+    "m_PathID": 191428517266274292
+  },
+  "mFaceTextures": [
+    {
+      "m_FileID": 1,
+      "m_PathID": 4185836007204536772
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 3800557516307916157
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 9147771495343890940
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -8975446344797490401
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 7421072817826488718
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -5261969544895458700
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -4079321531277106455
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 2447521581022781539
+    }
+  ],
+  "mIsFaceTextureEmission": 0,
+  "mEmblem": {
+    "m_FileID": 0,
+    "m_PathID": -2552245077667265811
+  },
+  "mAnimatorOverrideController": {
+    "m_FileID": 3,
+    "m_PathID": -6230923201966074504
+  },
+  "mKartScaleSize": 1.1,
+  "mWingJointType": 0,
+  "mFaceChangeEvent": {
+    "m_FileID": 0,
+    "m_PathID": -6652385684872576641
+  },
+  "mIconInfo": [
+    {
+      "mPath": "Assets/Main/Content/Driver/Waluigi/Icons/Waluigi.png",
+      "mGuid": "b85b23bcfbf9c9a4eb6500d893a364c7"
+    },
+    {
+      "mPath": "Assets/Main/Content/Driver/Waluigi/Icons/WaluigiMap.png",
+      "mGuid": "01a13bd0b672bac43b5e5e619aeb3254"
+    },
+    {
+      "mPath": "Assets/Main/Content/Driver/Waluigi/Icons/WaluigiFaceEntry.png",
+      "mGuid": "55194fb9637da59449bbcf1a6d9e9485"
+    },
+    {
+      "mPath": "Assets/Main/Content/Driver/Waluigi/Icons/WaluigiWholeBody.png",
+      "mGuid": "60d7939b992e0da478c08f28ba15ab25"
+    },
+    {
+      "mPath": "Assets/Main/Content/Driver/Waluigi/Icons/WaluigiUpperBody.png",
+      "mGuid": "da8827e97af9e23419c91c8e4edbe719"
+    },
+    {
+      "mPath": "",
+      "mGuid": ""
+    },
+    {
+      "mPath": "Assets/Main/Content/Driver/Waluigi/Icons/Waluigi_Small.png",
+      "mGuid": "dc12bed84a7f5b243880b536a3162bba"
+    },
+    {
+      "mPath": "Assets/Main/Content/Driver/Waluigi/Icons/WaluigiFaceEntry_Small.png",
+      "mGuid": "0b6b70b3710d330429701c391a786496"
+    },
+    {
+      "mPath": "Assets/Main/Content/Driver/Waluigi/Icons/WaluigiWholeBody_Small.png",
+      "mGuid": "91aeca79305df5744842c3417355f301"
+    },
+    {
+      "mPath": "Assets/Main/Content/Driver/Waluigi/Icons/WaluigiUpperBody_Small.png",
+      "mGuid": "639ea7842b006d041ac5ba505ecc8cb8"
+    }
+  ],
+  "mColorGroup": 0,
+  "mCharacterTextureList": [],
+  "mBaseParameter": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "mBodyMaterial": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "mEyeMaterial": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "mDynamicUnitMngInitData": {
+    "m_FileID": 0,
+    "m_PathID": -3318157874173503985
+  },
+  "mMetamorData": [],
+  "mDotDriverData": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "mDescription": "ワルイージ",
+  "mEffectContainer": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  }
+}

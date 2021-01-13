@@ -1,0 +1,26 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": 980329048157257672
+  },
+  "m_Name": "Fbx_Ggc_YoshiCircuit_MapInfo",
+  "rect": {
+    "x": -370.345276,
+    "y": -376.61264,
+    "width": 742.9697,
+    "height": 742.9697
+  },
+  "sprite": {
+    "m_FileID": 0,
+    "m_PathID": 5512291784962935767
+  },
+  "offset": {
+    "x": 0.0,
+    "y": 0.0
+  }
+}

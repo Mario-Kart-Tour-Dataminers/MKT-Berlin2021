@@ -1,0 +1,99 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": -3977807471082417869
+  },
+  "m_Name": "RareBalloonList00",
+  "savePath": 1,
+  "isEnableCheckNoEmptyValue": 0,
+  "assetDataList": [
+    {
+      "obj": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      },
+      "path": "Assets/Main/Content/UI/Texture/RareBalloonItemNormal00.png",
+      "guid": "e5a77422a492d5b4f9d156f4772a2b95",
+      "substitutedArrayIndex": 0
+    },
+    {
+      "obj": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      },
+      "path": "Assets/Main/Content/UI/Texture/RareBalloonItemRare00.png",
+      "guid": "c7c64fde7071e5048967b4e8c9670194",
+      "substitutedArrayIndex": 1
+    },
+    {
+      "obj": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      },
+      "path": "Assets/Main/Content/UI/Texture/RareBalloonItemUltra00.png",
+      "guid": "65554ed2c7c0fad47b9ca618a74b9cce",
+      "substitutedArrayIndex": 2
+    },
+    {
+      "obj": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      },
+      "path": "Assets/Main/Content/UI/Texture/RareBalloonMachineNormal00.png",
+      "guid": "fa32430bb8ad04b41bc74baee30ef8f6",
+      "substitutedArrayIndex": 3
+    },
+    {
+      "obj": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      },
+      "path": "Assets/Main/Content/UI/Texture/RareBalloonMachineRare00.png",
+      "guid": "97e6df7aec4dc4448be8e2c43842fe54",
+      "substitutedArrayIndex": 4
+    },
+    {
+      "obj": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      },
+      "path": "Assets/Main/Content/UI/Texture/RareBalloonMachineUltra00.png",
+      "guid": "3f4d3ccfde09f0a489622ee08e54f663",
+      "substitutedArrayIndex": 5
+    },
+    {
+      "obj": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      },
+      "path": "Assets/Main/Content/UI/Texture/RareBalloonNormal00.png",
+      "guid": "153fa83a21d6da546b650e648926be96",
+      "substitutedArrayIndex": 6
+    },
+    {
+      "obj": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      },
+      "path": "Assets/Main/Content/UI/Texture/RareBalloonRare00.png",
+      "guid": "d81ae4fcc6f305543a622ef48126de5e",
+      "substitutedArrayIndex": 7
+    },
+    {
+      "obj": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      },
+      "path": "Assets/Main/Content/UI/Texture/RareBalloonUltra00.png",
+      "guid": "18c8b0ed646c0b040aafcea70d74b5dd",
+      "substitutedArrayIndex": 8
+    }
+  ],
+  "assetType": 0,
+  "keyType": 0
+}

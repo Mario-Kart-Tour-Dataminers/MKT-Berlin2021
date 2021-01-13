@@ -1,0 +1,100 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": -8652336194674809844
+  },
+  "m_Name": "BodyK_Egg1",
+  "mBodyModel": {
+    "m_FileID": 0,
+    "m_PathID": 2166280443067310951
+  },
+  "mDriverOffset": {
+    "x": 0.0,
+    "y": 0.0,
+    "z": 0.0
+  },
+  "mBodyCenterPosition": {
+    "x": 0.0,
+    "y": 0.0,
+    "z": 0.0
+  },
+  "mScrewPosition": {
+    "x": 0.0,
+    "y": 0.1,
+    "z": -0.3
+  },
+  "mShaftPositionList": [],
+  "mGearBoxData": {
+    "m_FileID": 2,
+    "m_PathID": 3532631435007547029
+  },
+  "mGearBoxScale": {
+    "x": 1.5,
+    "y": 1.0,
+    "z": 1.0
+  },
+  "mGearBoxPosition": {
+    "x": 0.0,
+    "y": -0.25,
+    "z": 0.62
+  },
+  "mGearBoxSlideOffset": {
+    "x": 0.0,
+    "y": 0.0,
+    "z": 0.07
+  },
+  "mBodyWingParams": {
+    "m_FileID": 0,
+    "m_PathID": -6929237984374991426
+  },
+  "mBodyTireParams": {
+    "m_FileID": 0,
+    "m_PathID": -8838215630496059423
+  },
+  "mIconInfo": [
+    {
+      "mPath": "Assets/Main/Content/Kart/Body/BodyK_Egg1/Icons/BodyK_Egg1.png",
+      "mGuid": "8300dbac1724b2942b372181e00640ab"
+    }
+  ],
+  "mJointMode": 1,
+  "mScrewScale": {
+    "x": 0.65,
+    "y": 0.65,
+    "z": 0.65
+  },
+  "mScrewAxisOffset": {
+    "x": 0.0,
+    "y": 0.0,
+    "z": 0.0
+  },
+  "mBackrestHeight": 0.0,
+  "mIsFixedIcon": 0,
+  "mBaseParameter": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "mMaterial": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "mGearBoxMaterial": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "mEffectContainer": {
+    "m_FileID": 0,
+    "m_PathID": 8567980730009227128
+  },
+  "mEffectContainerForTire": [],
+  "mDescription": "エッグ・ワン",
+  "mColorValiationRoot": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  }
+}

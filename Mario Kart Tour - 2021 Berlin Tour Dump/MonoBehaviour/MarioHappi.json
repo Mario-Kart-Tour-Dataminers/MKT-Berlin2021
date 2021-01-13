@@ -1,0 +1,135 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": -2094441087577622512
+  },
+  "m_Name": "MarioHappi",
+  "mModel": {
+    "m_FileID": 4,
+    "m_PathID": 6556200625865652922
+  },
+  "mFaceTextures": [
+    {
+      "m_FileID": 2,
+      "m_PathID": -53586339224717350
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -7595444704877413109
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 2045180123632599585
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -8100843631594740127
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 6343964168794187736
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -2442796912819882677
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 932224034646130278
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 7171579672532120038
+    }
+  ],
+  "mIsFaceTextureEmission": 0,
+  "mEmblem": {
+    "m_FileID": 0,
+    "m_PathID": -6825139818458558286
+  },
+  "mAnimatorOverrideController": {
+    "m_FileID": 3,
+    "m_PathID": 665336823326345569
+  },
+  "mKartScaleSize": 1.0,
+  "mWingJointType": 0,
+  "mFaceChangeEvent": {
+    "m_FileID": 0,
+    "m_PathID": -1272359219561334163
+  },
+  "mIconInfo": [
+    {
+      "mPath": "Assets/Main/Content/Driver/MarioHappi/Icons/MarioHappi.png",
+      "mGuid": "853568eebab5a8c4aafe2f3000b6eb9d"
+    },
+    {
+      "mPath": "Assets/Main/Content/Driver/MarioHappi/Icons/MarioHappiMap.png",
+      "mGuid": "27f1f65583368d44c913d3e2eab895d4"
+    },
+    {
+      "mPath": "Assets/Main/Content/Driver/MarioHappi/Icons/MarioHappiFaceEntry.png",
+      "mGuid": "2e28c5612af67c9459e747c9ba3aee36"
+    },
+    {
+      "mPath": "Assets/Main/Content/Driver/MarioHappi/Icons/MarioHappiWholeBody.png",
+      "mGuid": "5d4cd76c6963cd542826e5efd4055b3b"
+    },
+    {
+      "mPath": "Assets/Main/Content/Driver/MarioHappi/Icons/MarioHappiUpperBody.png",
+      "mGuid": "948e028e22282034b9f6484bb9f169e7"
+    },
+    {
+      "mPath": "",
+      "mGuid": ""
+    },
+    {
+      "mPath": "Assets/Main/Content/Driver/MarioHappi/Icons/MarioHappi_Small.png",
+      "mGuid": "e830a78b5e71bf54fa23a35c6c1acc60"
+    },
+    {
+      "mPath": "Assets/Main/Content/Driver/MarioHappi/Icons/MarioHappiFaceEntry_Small.png",
+      "mGuid": "9a4023eab53a1a54abb82e1f831bfcb6"
+    },
+    {
+      "mPath": "Assets/Main/Content/Driver/MarioHappi/Icons/MarioHappiWholeBody_Small.png",
+      "mGuid": "27bbf17d034b8b2458dc64e083f240b5"
+    },
+    {
+      "mPath": "Assets/Main/Content/Driver/MarioHappi/Icons/MarioHappiUpperBody_Small.png",
+      "mGuid": "54702c1846caf8b45ab353f6a3f58024"
+    }
+  ],
+  "mColorGroup": 0,
+  "mCharacterTextureList": [],
+  "mBaseParameter": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "mBodyMaterial": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "mEyeMaterial": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "mDynamicUnitMngInitData": {
+    "m_FileID": 1,
+    "m_PathID": -3030777122461082920
+  },
+  "mMetamorData": [],
+  "mDotDriverData": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "mDescription": "",
+  "mEffectContainer": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  }
+}

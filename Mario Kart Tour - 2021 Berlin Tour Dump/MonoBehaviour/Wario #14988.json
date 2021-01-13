@@ -1,0 +1,135 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": -2094441087577622512
+  },
+  "m_Name": "Wario",
+  "mModel": {
+    "m_FileID": 1,
+    "m_PathID": -1458961956754203744
+  },
+  "mFaceTextures": [
+    {
+      "m_FileID": 2,
+      "m_PathID": -8198139113354077567
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 1872193196778446282
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -5118560581478978720
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -2601736068914934041
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 1378234115725553929
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 6370634675209419792
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -1519911249907110976
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 4937964740926422713
+    }
+  ],
+  "mIsFaceTextureEmission": 0,
+  "mEmblem": {
+    "m_FileID": 0,
+    "m_PathID": 7176015329771527818
+  },
+  "mAnimatorOverrideController": {
+    "m_FileID": 3,
+    "m_PathID": 1658532611096788449
+  },
+  "mKartScaleSize": 1.1,
+  "mWingJointType": 0,
+  "mFaceChangeEvent": {
+    "m_FileID": 0,
+    "m_PathID": -7499861971829599947
+  },
+  "mIconInfo": [
+    {
+      "mPath": "Assets/Main/Content/Driver/Wario/Icons/Wario.png",
+      "mGuid": "c419a9bcc267d994a94d2c7825aaf75f"
+    },
+    {
+      "mPath": "Assets/Main/Content/Driver/Wario/Icons/WarioMap.png",
+      "mGuid": "58c8bb260abee8641a69c3e6c06c0b65"
+    },
+    {
+      "mPath": "Assets/Main/Content/Driver/Wario/Icons/WarioFaceEntry.png",
+      "mGuid": "5934c3b4b4f32d148bd9946a116ecc88"
+    },
+    {
+      "mPath": "Assets/Main/Content/Driver/Wario/Icons/WarioWholeBody.png",
+      "mGuid": "d6c89bf726d630343adca063a964b76e"
+    },
+    {
+      "mPath": "Assets/Main/Content/Driver/Wario/Icons/WarioUpperBody.png",
+      "mGuid": "a115c22da1445274ca503eac63186da1"
+    },
+    {
+      "mPath": "",
+      "mGuid": ""
+    },
+    {
+      "mPath": "Assets/Main/Content/Driver/Wario/Icons/Wario_Small.png",
+      "mGuid": "e185b69ab7e8a524ab0ccb3ff8afe437"
+    },
+    {
+      "mPath": "Assets/Main/Content/Driver/Wario/Icons/WarioFaceEntry_Small.png",
+      "mGuid": "7ae932c75ee417c498273e9fc5b4a1cf"
+    },
+    {
+      "mPath": "Assets/Main/Content/Driver/Wario/Icons/WarioWholeBody_Small.png",
+      "mGuid": "cae1b518e2b7aad41b9c4701406a3a60"
+    },
+    {
+      "mPath": "Assets/Main/Content/Driver/Wario/Icons/WarioUpperBody_Small.png",
+      "mGuid": "464e4a3243ed188408f127d477daffad"
+    }
+  ],
+  "mColorGroup": 0,
+  "mCharacterTextureList": [],
+  "mBaseParameter": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "mBodyMaterial": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "mEyeMaterial": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "mDynamicUnitMngInitData": {
+    "m_FileID": 0,
+    "m_PathID": -7595172887263167960
+  },
+  "mMetamorData": [],
+  "mDotDriverData": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "mDescription": "ワリオ",
+  "mEffectContainer": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  }
+}

@@ -1,0 +1,135 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": -2094441087577622512
+  },
+  "m_Name": "WarioGunman",
+  "mModel": {
+    "m_FileID": 2,
+    "m_PathID": -9042967909176548181
+  },
+  "mFaceTextures": [
+    {
+      "m_FileID": 1,
+      "m_PathID": 1434932723646633555
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -3522435046184276665
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 8322786398727126438
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -7226620131017094107
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 2324451485355889869
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -4382850682162919430
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -6057955569547135619
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -8544375559910015027
+    }
+  ],
+  "mIsFaceTextureEmission": 0,
+  "mEmblem": {
+    "m_FileID": 0,
+    "m_PathID": -6215213660611282967
+  },
+  "mAnimatorOverrideController": {
+    "m_FileID": 3,
+    "m_PathID": 1146902631539957160
+  },
+  "mKartScaleSize": 1.1,
+  "mWingJointType": 0,
+  "mFaceChangeEvent": {
+    "m_FileID": 0,
+    "m_PathID": -8082564782064897434
+  },
+  "mIconInfo": [
+    {
+      "mPath": "Assets/Main/Content/Driver/WarioGunman/Icons/WarioGunman.png",
+      "mGuid": "34e8334fbdf7ddd4e938db588e34ced5"
+    },
+    {
+      "mPath": "Assets/Main/Content/Driver/WarioGunman/Icons/WarioGunmanMap.png",
+      "mGuid": "9ff567f485b48c64d94c84526140584d"
+    },
+    {
+      "mPath": "Assets/Main/Content/Driver/WarioGunman/Icons/WarioGunmanFaceEntry.png",
+      "mGuid": "42a0d45a800f83d4b89e916f5fd6bae3"
+    },
+    {
+      "mPath": "Assets/Main/Content/Driver/WarioGunman/Icons/WarioGunmanWholeBody.png",
+      "mGuid": "7f5ffe7d9f429344f80a94c8de80cd24"
+    },
+    {
+      "mPath": "Assets/Main/Content/Driver/WarioGunman/Icons/WarioGunmanUpperBody.png",
+      "mGuid": "f5d2e78105159d14fb55a15a3011357c"
+    },
+    {
+      "mPath": "",
+      "mGuid": ""
+    },
+    {
+      "mPath": "Assets/Main/Content/Driver/WarioGunman/Icons/WarioGunman_Small.png",
+      "mGuid": "d8ccf420a291ae341a775c13ca1ab9d1"
+    },
+    {
+      "mPath": "Assets/Main/Content/Driver/WarioGunman/Icons/WarioGunmanFaceEntry_Small.png",
+      "mGuid": "de6b75439a2bfae49b6dd9668a3c6689"
+    },
+    {
+      "mPath": "Assets/Main/Content/Driver/WarioGunman/Icons/WarioGunmanWholeBody_Small.png",
+      "mGuid": "c23b49c8e6d91bf4ebe556bc26b7a50a"
+    },
+    {
+      "mPath": "Assets/Main/Content/Driver/WarioGunman/Icons/WarioGunmanUpperBody_Small.png",
+      "mGuid": "54205c48ebe673d4190a2a1c136c4cdc"
+    }
+  ],
+  "mColorGroup": 0,
+  "mCharacterTextureList": [],
+  "mBaseParameter": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "mBodyMaterial": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "mEyeMaterial": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "mDynamicUnitMngInitData": {
+    "m_FileID": 0,
+    "m_PathID": 4349784904863698753
+  },
+  "mMetamorData": [],
+  "mDotDriverData": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "mDescription": "",
+  "mEffectContainer": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  }
+}

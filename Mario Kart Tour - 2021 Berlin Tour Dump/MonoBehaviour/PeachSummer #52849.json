@@ -1,0 +1,135 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": -2094441087577622512
+  },
+  "m_Name": "PeachSummer",
+  "mModel": {
+    "m_FileID": 1,
+    "m_PathID": 4590972280360330570
+  },
+  "mFaceTextures": [
+    {
+      "m_FileID": 2,
+      "m_PathID": 5623262040014173237
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 8038812411951457213
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -7709344813079251324
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 1674260880943501859
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -792703994100990121
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 6941816929689360990
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -1762432100006986980
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 935268131028451865
+    }
+  ],
+  "mIsFaceTextureEmission": 0,
+  "mEmblem": {
+    "m_FileID": 0,
+    "m_PathID": 3423000522184137153
+  },
+  "mAnimatorOverrideController": {
+    "m_FileID": 3,
+    "m_PathID": -2205303824848496794
+  },
+  "mKartScaleSize": 1.0,
+  "mWingJointType": 0,
+  "mFaceChangeEvent": {
+    "m_FileID": 0,
+    "m_PathID": 1690608082456236039
+  },
+  "mIconInfo": [
+    {
+      "mPath": "Assets/Main/Content/Driver/PeachSummer/Icons/PeachSummer.png",
+      "mGuid": "c2653dad91ef9fe48ab7bed70952b3ed"
+    },
+    {
+      "mPath": "Assets/Main/Content/Driver/PeachSummer/Icons/PeachSummerMap.png",
+      "mGuid": "f6f9dadeda3b0674185349f5815bfba1"
+    },
+    {
+      "mPath": "Assets/Main/Content/Driver/PeachSummer/Icons/PeachSummerFaceEntry.png",
+      "mGuid": "c563a92ba3c58ca40bfd15b38690928b"
+    },
+    {
+      "mPath": "Assets/Main/Content/Driver/PeachSummer/Icons/PeachSummerWholeBody.png",
+      "mGuid": "0d5f4339f065bee47806b321093196c9"
+    },
+    {
+      "mPath": "Assets/Main/Content/Driver/PeachSummer/Icons/PeachSummerUpperBody.png",
+      "mGuid": "d9a8066c1356ea548884431de66dbf3d"
+    },
+    {
+      "mPath": "",
+      "mGuid": ""
+    },
+    {
+      "mPath": "Assets/Main/Content/Driver/PeachSummer/Icons/PeachSummer_Small.png",
+      "mGuid": "edab4475e0cc57948856bad90dc66d4c"
+    },
+    {
+      "mPath": "Assets/Main/Content/Driver/PeachSummer/Icons/PeachSummerFaceEntry_Small.png",
+      "mGuid": "d3130c8655ab7aa45b5b3437c8bca43c"
+    },
+    {
+      "mPath": "Assets/Main/Content/Driver/PeachSummer/Icons/PeachSummerWholeBody_Small.png",
+      "mGuid": "9e54b5913a91cd649869e782e26113e7"
+    },
+    {
+      "mPath": "Assets/Main/Content/Driver/PeachSummer/Icons/PeachSummerUpperBody_Small.png",
+      "mGuid": "a7c667699a4ba644f8e59926c5fb9c46"
+    }
+  ],
+  "mColorGroup": 0,
+  "mCharacterTextureList": [],
+  "mBaseParameter": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "mBodyMaterial": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "mEyeMaterial": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "mDynamicUnitMngInitData": {
+    "m_FileID": 0,
+    "m_PathID": 8865385496427838210
+  },
+  "mMetamorData": [],
+  "mDotDriverData": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "mDescription": "",
+  "mEffectContainer": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  }
+}

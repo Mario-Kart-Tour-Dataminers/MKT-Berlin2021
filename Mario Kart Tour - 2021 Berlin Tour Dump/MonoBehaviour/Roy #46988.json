@@ -1,0 +1,107 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": -2094441087577622512
+  },
+  "m_Name": "Roy",
+  "mModel": {
+    "m_FileID": 1,
+    "m_PathID": -8054552904194348843
+  },
+  "mFaceTextures": [
+    {
+      "m_FileID": 2,
+      "m_PathID": 6260476283364338208
+    }
+  ],
+  "mIsFaceTextureEmission": 0,
+  "mEmblem": {
+    "m_FileID": 0,
+    "m_PathID": -8984933068248110339
+  },
+  "mAnimatorOverrideController": {
+    "m_FileID": 3,
+    "m_PathID": 1706304555499707878
+  },
+  "mKartScaleSize": 1.1,
+  "mWingJointType": 0,
+  "mFaceChangeEvent": {
+    "m_FileID": 0,
+    "m_PathID": 6608537257693894162
+  },
+  "mIconInfo": [
+    {
+      "mPath": "Assets/Main/Content/Driver/Roy/Icons/Roy.png",
+      "mGuid": "b6fb07a809a910e45b2a5a9815be957d"
+    },
+    {
+      "mPath": "Assets/Main/Content/Driver/Roy/Icons/RoyMap.png",
+      "mGuid": "11c2b1477a3c263428399de85abb544e"
+    },
+    {
+      "mPath": "Assets/Main/Content/Driver/Roy/Icons/RoyFaceEntry.png",
+      "mGuid": "45d3fc4b4507c374d9a87a68efb63def"
+    },
+    {
+      "mPath": "Assets/Main/Content/Driver/Roy/Icons/RoyWholeBody.png",
+      "mGuid": "4a30598bef4dcd44495bdc0e2bb0b6b3"
+    },
+    {
+      "mPath": "Assets/Main/Content/Driver/Roy/Icons/RoyUpperBody.png",
+      "mGuid": "e4307b63bd356134780cfece97697d2e"
+    },
+    {
+      "mPath": "",
+      "mGuid": ""
+    },
+    {
+      "mPath": "Assets/Main/Content/Driver/Roy/Icons/Roy_Small.png",
+      "mGuid": "aff463786f1dec84f918b94be8114511"
+    },
+    {
+      "mPath": "Assets/Main/Content/Driver/Roy/Icons/RoyFaceEntry_Small.png",
+      "mGuid": "efa091b62ce132c40abb1320ec76aac9"
+    },
+    {
+      "mPath": "Assets/Main/Content/Driver/Roy/Icons/RoyWholeBody_Small.png",
+      "mGuid": "b00faa0f3961c734597f48afaf40c95f"
+    },
+    {
+      "mPath": "Assets/Main/Content/Driver/Roy/Icons/RoyUpperBody_Small.png",
+      "mGuid": "82f38a93ea20100419229905c35e8158"
+    }
+  ],
+  "mColorGroup": 0,
+  "mCharacterTextureList": [],
+  "mBaseParameter": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "mBodyMaterial": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "mEyeMaterial": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "mDynamicUnitMngInitData": {
+    "m_FileID": 0,
+    "m_PathID": -4552066033621175635
+  },
+  "mMetamorData": [],
+  "mDotDriverData": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "mDescription": "ロイ",
+  "mEffectContainer": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  }
+}

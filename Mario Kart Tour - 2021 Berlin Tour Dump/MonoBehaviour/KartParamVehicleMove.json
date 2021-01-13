@@ -1,0 +1,24 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": 8348556554749442507
+  },
+  "m_Name": "KartParamVehicleMove",
+  "cSpeedRatio_Star": 1.1,
+  "cSpeedRatio_Fever": 1.0,
+  "cSpeedRatio_Giant": 1.1,
+  "cParamLevel_Weight_DriverScale_Small": 6,
+  "cParamLevel_Weight_DriverScale_Medium": 10,
+  "cParamLevel_Weight_DriverScale_Large": 14,
+  "cParamLevel_Accel_DriverScale_Small": 17,
+  "cParamLevel_Accel_DriverScale_Medium": 10,
+  "cParamLevel_Accel_DriverScale_Large": 3,
+  "cSidePowerRatioMin": 0.9,
+  "cWeightPowerMax": 0.6,
+  "cLowFpsPenalty": 1.0
+}

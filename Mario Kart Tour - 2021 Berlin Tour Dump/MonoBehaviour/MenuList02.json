@@ -1,0 +1,63 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": -3977807471082417869
+  },
+  "m_Name": "MenuList02",
+  "savePath": 1,
+  "isEnableCheckNoEmptyValue": 0,
+  "assetDataList": [
+    {
+      "obj": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      },
+      "path": "Assets/Main/Content/UI/Texture/Menu/MenuShop00.png",
+      "guid": "e996da0979731ae4dad96ecd3ad4bf92",
+      "substitutedArrayIndex": 0
+    },
+    {
+      "obj": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      },
+      "path": "Assets/Main/Content/UI/Texture/Menu/MenuShopSpecialOffer00.png",
+      "guid": "dc112329b74698b469cb9f98effff6de",
+      "substitutedArrayIndex": 0
+    },
+    {
+      "obj": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      },
+      "path": "Assets/Main/Content/UI/Texture/Menu/MenuTreasure00.png",
+      "guid": "2d72f86e43fc9834c907ee0f172500b0",
+      "substitutedArrayIndex": 2
+    },
+    {
+      "obj": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      },
+      "path": "Assets/Main/Content/UI/Texture/Menu/MenuSeasonReward00.png",
+      "guid": "93ec206179b76c548ac521865a53a6e9",
+      "substitutedArrayIndex": 3
+    },
+    {
+      "obj": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      },
+      "path": "Assets/Main/Content/UI/Texture/Menu/MenuSeasonRewardGold00.png",
+      "guid": "2b76b4a4805b25c49bea6b2a1f569fe6",
+      "substitutedArrayIndex": 4
+    }
+  ],
+  "assetType": 0,
+  "keyType": 0
+}

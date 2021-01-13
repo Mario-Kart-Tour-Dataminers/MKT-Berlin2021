@@ -1,0 +1,50 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": 2434717279687273224
+  },
+  "m_Name": "Wing_WarioKite_Purple",
+  "mWingModel": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "mIconInfo": [
+    {
+      "mPath": "Assets/Main/Content/Kart/Wing/Wing_WarioKite/Icons/Wing_WarioKite_Purple.png",
+      "mGuid": "c6c5574b921233c4fb6006fcf1ec8369"
+    },
+    {
+      "mPath": "Assets/Main/Content/Kart/Wing/Wing_WarioKite/Icons/Wing_WarioKite_Purple_Large.png",
+      "mGuid": "2b59e6778828f2f4e812de6501c2411f"
+    },
+    {
+      "mPath": "Assets/Main/Content/Kart/Wing/Wing_WarioKite/Icons/Wing_WarioKite_Purple_Small.png",
+      "mGuid": "920c2836d8a33e047bc45c712ef5a014"
+    }
+  ],
+  "mWingType": 0,
+  "mIsFixedIcon": 0,
+  "mBaseParameter": {
+    "m_FileID": 2,
+    "m_PathID": 9124757297423815860
+  },
+  "mMaterial": {
+    "m_FileID": 1,
+    "m_PathID": 273165703590922315
+  },
+  "mEffectContainer": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "mIsDisableAngleAnimation": 0,
+  "mDescription": "",
+  "mColorValiationRoot": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  }
+}

@@ -1,0 +1,112 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": 6196479991189854357
+  },
+  "m_Name": "AudioCourseObj",
+  "CourseObjAnimationEventParam": [
+    {
+      "AnimationName": "Gds_LuigiMansion_Chandelier_01_Anim",
+      "SoundBankName": "Chandelier",
+      "SoundEvents": [
+        {
+          "SoundEventName": "SwingL",
+          "AnimationTime": 0.433333337
+        },
+        {
+          "SoundEventName": "SwingR",
+          "AnimationTime": 1.56666672
+        },
+        {
+          "SoundEventName": "SwingL",
+          "AnimationTime": 3.0
+        },
+        {
+          "SoundEventName": "SwingR",
+          "AnimationTime": 4.116667
+        },
+        {
+          "SoundEventName": "Fall",
+          "AnimationTime": 5.633333
+        }
+      ]
+    },
+    {
+      "AnimationName": "Gds_LuigiMansion_Chandelier_02_Anim",
+      "SoundBankName": "Chandelier",
+      "SoundEvents": [
+        {
+          "SoundEventName": "SwingL",
+          "AnimationTime": 0.7
+        },
+        {
+          "SoundEventName": "SwingR",
+          "AnimationTime": 1.9
+        },
+        {
+          "SoundEventName": "SwingL",
+          "AnimationTime": 3.3
+        },
+        {
+          "SoundEventName": "SwingR",
+          "AnimationTime": 4.5
+        },
+        {
+          "SoundEventName": "Fall",
+          "AnimationTime": 5.66667
+        }
+      ]
+    },
+    {
+      "AnimationName": "Gds_LuigiMansion_Chandelier_03_Anim",
+      "SoundBankName": "Chandelier",
+      "SoundEvents": [
+        {
+          "SoundEventName": "SwingL",
+          "AnimationTime": 1.58333337
+        },
+        {
+          "SoundEventName": "SwingR",
+          "AnimationTime": 3.0
+        },
+        {
+          "SoundEventName": "SwingL",
+          "AnimationTime": 4.33333349
+        },
+        {
+          "SoundEventName": "SwingR",
+          "AnimationTime": 5.5
+        },
+        {
+          "SoundEventName": "Fall",
+          "AnimationTime": 6.66666651
+        }
+      ]
+    },
+    {
+      "AnimationName": "Gds_LuigiMansion_PictureTeresa_01_Anim",
+      "SoundBankName": "PictureTeresa",
+      "SoundEvents": [
+        {
+          "SoundEventName": "FrameTeresa",
+          "AnimationTime": 0.566666663
+        }
+      ]
+    },
+    {
+      "AnimationName": "Gds_LuigiMansion_PictureTeresa_02_Anim",
+      "SoundBankName": "PictureTeresa",
+      "SoundEvents": [
+        {
+          "SoundEventName": "FrameTeresa",
+          "AnimationTime": 2.0
+        }
+      ]
+    }
+  ]
+}

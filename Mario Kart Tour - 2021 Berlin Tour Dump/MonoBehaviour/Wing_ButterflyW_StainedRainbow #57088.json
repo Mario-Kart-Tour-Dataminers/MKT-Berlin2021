@@ -1,0 +1,50 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": 2434717279687273224
+  },
+  "m_Name": "Wing_ButterflyW_StainedRainbow",
+  "mWingModel": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "mIconInfo": [
+    {
+      "mPath": "Assets/Main/Content/Kart/Wing/Wing_ButterflyW/Icons/Wing_ButterflyW_StainedRainbow.png",
+      "mGuid": "db6f1d24722e0d64facbe9903f3c7ea3"
+    },
+    {
+      "mPath": "Assets/Main/Content/Kart/Wing/Wing_ButterflyW/Icons/Wing_ButterflyW_StainedRainbow_Large.png",
+      "mGuid": "0528582b7bc071d49a4bf9bfa2543f12"
+    },
+    {
+      "mPath": "Assets/Main/Content/Kart/Wing/Wing_ButterflyW/Icons/Wing_ButterflyW_StainedRainbow_Small.png",
+      "mGuid": "22122c645c2cb6f4da63bc23dd49cecd"
+    }
+  ],
+  "mWingType": 0,
+  "mIsFixedIcon": 0,
+  "mBaseParameter": {
+    "m_FileID": 1,
+    "m_PathID": -7601625198101821159
+  },
+  "mMaterial": {
+    "m_FileID": 0,
+    "m_PathID": -2554259112509387041
+  },
+  "mEffectContainer": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "mIsDisableAngleAnimation": 0,
+  "mDescription": "",
+  "mColorValiationRoot": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  }
+}

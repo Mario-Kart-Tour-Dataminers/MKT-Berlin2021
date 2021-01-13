@@ -1,0 +1,135 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": -2094441087577622512
+  },
+  "m_Name": "DaisyYukata",
+  "mModel": {
+    "m_FileID": 1,
+    "m_PathID": -3924498912520134385
+  },
+  "mFaceTextures": [
+    {
+      "m_FileID": 2,
+      "m_PathID": 7824533029082876
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -5749637735195570339
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -2415912335429232170
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -138356654124805578
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 4724891878331287837
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -8194795142657269003
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 3351278775319578676
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -399348799701855349
+    }
+  ],
+  "mIsFaceTextureEmission": 0,
+  "mEmblem": {
+    "m_FileID": 0,
+    "m_PathID": -1356278033445988525
+  },
+  "mAnimatorOverrideController": {
+    "m_FileID": 3,
+    "m_PathID": 5315819456983502636
+  },
+  "mKartScaleSize": 1.0,
+  "mWingJointType": 0,
+  "mFaceChangeEvent": {
+    "m_FileID": 0,
+    "m_PathID": 8249120583265524001
+  },
+  "mIconInfo": [
+    {
+      "mPath": "Assets/Main/Content/Driver/DaisyYukata/Icons/DaisyYukata.png",
+      "mGuid": "800b5f647d949c143b9c508c4aeaa070"
+    },
+    {
+      "mPath": "Assets/Main/Content/Driver/DaisyYukata/Icons/DaisyYukataMap.png",
+      "mGuid": "600985014bbed3f468a189e568d20231"
+    },
+    {
+      "mPath": "Assets/Main/Content/Driver/DaisyYukata/Icons/DaisyYukataFaceEntry.png",
+      "mGuid": "acf234e543ed78246a042ce6ff0c1ec6"
+    },
+    {
+      "mPath": "Assets/Main/Content/Driver/DaisyYukata/Icons/DaisyYukataWholeBody.png",
+      "mGuid": "dd339540794bbc543b19cc93bd6c89e7"
+    },
+    {
+      "mPath": "Assets/Main/Content/Driver/DaisyYukata/Icons/DaisyYukataUpperBody.png",
+      "mGuid": "3e6cf22a0df2e0f46bf06c356eec075f"
+    },
+    {
+      "mPath": "",
+      "mGuid": ""
+    },
+    {
+      "mPath": "Assets/Main/Content/Driver/DaisyYukata/Icons/DaisyYukata_Small.png",
+      "mGuid": "b0b45564c8f45884882d21d3948714f7"
+    },
+    {
+      "mPath": "Assets/Main/Content/Driver/DaisyYukata/Icons/DaisyYukataFaceEntry_Small.png",
+      "mGuid": "c55b09ea3feee294ea109ad093adeb3a"
+    },
+    {
+      "mPath": "Assets/Main/Content/Driver/DaisyYukata/Icons/DaisyYukataWholeBody_Small.png",
+      "mGuid": "0abc149c8bfb2814e9b1f743be16ce64"
+    },
+    {
+      "mPath": "Assets/Main/Content/Driver/DaisyYukata/Icons/DaisyYukataUpperBody_Small.png",
+      "mGuid": "56f723684ee41cb4cb01c7b33e39732c"
+    }
+  ],
+  "mColorGroup": 0,
+  "mCharacterTextureList": [],
+  "mBaseParameter": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "mBodyMaterial": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "mEyeMaterial": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "mDynamicUnitMngInitData": {
+    "m_FileID": 0,
+    "m_PathID": -1298202784889264574
+  },
+  "mMetamorData": [],
+  "mDotDriverData": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "mDescription": "",
+  "mEffectContainer": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  }
+}

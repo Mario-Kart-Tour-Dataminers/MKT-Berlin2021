@@ -1,0 +1,135 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": -2094441087577622512
+  },
+  "m_Name": "PaulineParty",
+  "mModel": {
+    "m_FileID": 1,
+    "m_PathID": 4306192345682592592
+  },
+  "mFaceTextures": [
+    {
+      "m_FileID": 2,
+      "m_PathID": 1096233102607544846
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 1746527872616342441
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 7266556163334509488
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 2500487560361345206
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 7615232425289476928
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -8201348278772623215
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -927745020123986088
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -8490762230497718892
+    }
+  ],
+  "mIsFaceTextureEmission": 0,
+  "mEmblem": {
+    "m_FileID": 0,
+    "m_PathID": -6766847181418739290
+  },
+  "mAnimatorOverrideController": {
+    "m_FileID": 3,
+    "m_PathID": 633852826415233951
+  },
+  "mKartScaleSize": 1.1,
+  "mWingJointType": 0,
+  "mFaceChangeEvent": {
+    "m_FileID": 0,
+    "m_PathID": -8149762504596926440
+  },
+  "mIconInfo": [
+    {
+      "mPath": "Assets/Main/Content/Driver/PaulineParty/Icons/PaulineParty.png",
+      "mGuid": "41c6531ff26a67e44b1f45818111b3f7"
+    },
+    {
+      "mPath": "Assets/Main/Content/Driver/PaulineParty/Icons/PaulinePartyMap.png",
+      "mGuid": "9f80ae5f882eaa64c8bd87a1fbfd9395"
+    },
+    {
+      "mPath": "Assets/Main/Content/Driver/PaulineParty/Icons/PaulinePartyFaceEntry.png",
+      "mGuid": "9af0c0d191135a742ba61506b72d13ab"
+    },
+    {
+      "mPath": "Assets/Main/Content/Driver/PaulineParty/Icons/PaulinePartyWholeBody.png",
+      "mGuid": "81a770d86512173488e13dcc74db51f2"
+    },
+    {
+      "mPath": "Assets/Main/Content/Driver/PaulineParty/Icons/PaulinePartyUpperBody.png",
+      "mGuid": "e1b71e6750ef8db45b843f6a0391c891"
+    },
+    {
+      "mPath": "",
+      "mGuid": ""
+    },
+    {
+      "mPath": "Assets/Main/Content/Driver/PaulineParty/Icons/PaulineParty_Small.png",
+      "mGuid": "0004335c6f22aaf4eb52b60b4ba526d7"
+    },
+    {
+      "mPath": "Assets/Main/Content/Driver/PaulineParty/Icons/PaulinePartyFaceEntry_Small.png",
+      "mGuid": "a39e24770544adb4ea358bec8acfbfbb"
+    },
+    {
+      "mPath": "Assets/Main/Content/Driver/PaulineParty/Icons/PaulinePartyWholeBody_Small.png",
+      "mGuid": "f6320f1dfb262ac409a70f26a07e8cc2"
+    },
+    {
+      "mPath": "Assets/Main/Content/Driver/PaulineParty/Icons/PaulinePartyUpperBody_Small.png",
+      "mGuid": "9c98adbc50a757840811b531e585acc0"
+    }
+  ],
+  "mColorGroup": 0,
+  "mCharacterTextureList": [],
+  "mBaseParameter": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "mBodyMaterial": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "mEyeMaterial": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "mDynamicUnitMngInitData": {
+    "m_FileID": 0,
+    "m_PathID": 1085137770398102470
+  },
+  "mMetamorData": [],
+  "mDotDriverData": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "mDescription": "",
+  "mEffectContainer": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  }
+}

@@ -1,0 +1,50 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": 2434717279687273224
+  },
+  "m_Name": "Wing_PParasol_Blue",
+  "mWingModel": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "mIconInfo": [
+    {
+      "mPath": "Assets/Main/Content/Kart/Wing/Wing_PParasol/Icons/Wing_PParasol_Blue.png",
+      "mGuid": "b0d82a1396c243245be0c8104a09ad51"
+    },
+    {
+      "mPath": "Assets/Main/Content/Kart/Wing/Wing_PParasol/Icons/Wing_PParasol_Blue_Large.png",
+      "mGuid": "352f9b05d6527c24a804cc71dd00ffb7"
+    },
+    {
+      "mPath": "Assets/Main/Content/Kart/Wing/Wing_PParasol/Icons/Wing_PParasol_Blue_Small.png",
+      "mGuid": "4e40800eabca66840beca68a4936d3bf"
+    }
+  ],
+  "mWingType": 0,
+  "mIsFixedIcon": 0,
+  "mBaseParameter": {
+    "m_FileID": 2,
+    "m_PathID": 255618208156333930
+  },
+  "mMaterial": {
+    "m_FileID": 0,
+    "m_PathID": 1886350492898112586
+  },
+  "mEffectContainer": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "mIsDisableAngleAnimation": 0,
+  "mDescription": "",
+  "mColorValiationRoot": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  }
+}

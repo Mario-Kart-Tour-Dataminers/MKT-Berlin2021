@@ -1,0 +1,50 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": 2434717279687273224
+  },
+  "m_Name": "Wing_Ribbon",
+  "mWingModel": {
+    "m_FileID": 0,
+    "m_PathID": -4331501491043764590
+  },
+  "mIconInfo": [
+    {
+      "mPath": "Assets/Main/Content/Kart/Wing/Wing_Ribbon/Icons/Wing_Ribbon.png",
+      "mGuid": "058c4d9973c132e42a109e34f85c30c0"
+    },
+    {
+      "mPath": "Assets/Main/Content/Kart/Wing/Wing_Ribbon/Icons/Wing_Ribbon_Large.png",
+      "mGuid": "117083b1de262f54091816e4ddbc61bb"
+    },
+    {
+      "mPath": "Assets/Main/Content/Kart/Wing/Wing_Ribbon/Icons/Wing_Ribbon_Small.png",
+      "mGuid": "d02c371bd1a73f949b42dc2233be7b78"
+    }
+  ],
+  "mWingType": 1,
+  "mIsFixedIcon": 0,
+  "mBaseParameter": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "mMaterial": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "mEffectContainer": {
+    "m_FileID": 0,
+    "m_PathID": -3698338371781762641
+  },
+  "mIsDisableAngleAnimation": 0,
+  "mDescription": "",
+  "mColorValiationRoot": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  }
+}

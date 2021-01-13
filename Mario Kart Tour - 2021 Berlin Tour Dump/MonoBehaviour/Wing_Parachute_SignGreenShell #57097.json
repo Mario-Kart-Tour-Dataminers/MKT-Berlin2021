@@ -1,0 +1,50 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": 2434717279687273224
+  },
+  "m_Name": "Wing_Parachute_SignGreenShell",
+  "mWingModel": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "mIconInfo": [
+    {
+      "mPath": "Assets/Main/Content/Kart/Wing/Wing_Parachute/Icons/Wing_Parachute_SignGreenShell.png",
+      "mGuid": "16e9c20e807b21240ae619e717524c2e"
+    },
+    {
+      "mPath": "Assets/Main/Content/Kart/Wing/Wing_Parachute/Icons/Wing_Parachute_SignGreenShell_Large.png",
+      "mGuid": "32559436e7620064eb655399e97b7ddb"
+    },
+    {
+      "mPath": "Assets/Main/Content/Kart/Wing/Wing_Parachute/Icons/Wing_Parachute_SignGreenShell_Small.png",
+      "mGuid": "f0862966fd847044aae0bed8f181856f"
+    }
+  ],
+  "mWingType": 0,
+  "mIsFixedIcon": 0,
+  "mBaseParameter": {
+    "m_FileID": 4,
+    "m_PathID": 411820290415868396
+  },
+  "mMaterial": {
+    "m_FileID": 0,
+    "m_PathID": -5322944188367686262
+  },
+  "mEffectContainer": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "mIsDisableAngleAnimation": 0,
+  "mDescription": "",
+  "mColorValiationRoot": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  }
+}

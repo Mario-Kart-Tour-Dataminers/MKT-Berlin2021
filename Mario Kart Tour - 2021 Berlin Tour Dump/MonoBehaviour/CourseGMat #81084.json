@@ -1,0 +1,58 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": -6888412163677188206
+  },
+  "m_Name": "CourseGMat",
+  "mAllMaterialsInKCol": [
+    {
+      "mAttribute": 0,
+      "mMaterialId": 9
+    },
+    {
+      "mAttribute": 0,
+      "mMaterialId": 3
+    },
+    {
+      "mAttribute": 15,
+      "mMaterialId": 2
+    },
+    {
+      "mAttribute": 0,
+      "mMaterialId": 2
+    },
+    {
+      "mAttribute": 18,
+      "mMaterialId": 0
+    },
+    {
+      "mAttribute": 15,
+      "mMaterialId": 0
+    },
+    {
+      "mAttribute": 14,
+      "mMaterialId": 0
+    },
+    {
+      "mAttribute": 17,
+      "mMaterialId": 0
+    },
+    {
+      "mAttribute": 20,
+      "mMaterialId": 0
+    },
+    {
+      "mAttribute": 15,
+      "mMaterialId": 3
+    },
+    {
+      "mAttribute": 0,
+      "mMaterialId": 4
+    }
+  ]
+}

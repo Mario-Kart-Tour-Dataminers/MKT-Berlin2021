@@ -1,0 +1,135 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": -2094441087577622512
+  },
+  "m_Name": "LuigiPenguin",
+  "mModel": {
+    "m_FileID": 1,
+    "m_PathID": -7553972972695215857
+  },
+  "mFaceTextures": [
+    {
+      "m_FileID": 3,
+      "m_PathID": -7060450382537567090
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -5995535918186552815
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -1461608831553098119
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -7545860481818190421
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 1983371688160038673
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 4793302792435593595
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 4803322953573798598
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -8574505611435894867
+    }
+  ],
+  "mIsFaceTextureEmission": 0,
+  "mEmblem": {
+    "m_FileID": 0,
+    "m_PathID": -5602758262298999159
+  },
+  "mAnimatorOverrideController": {
+    "m_FileID": 2,
+    "m_PathID": 8586360289672432227
+  },
+  "mKartScaleSize": 1.0,
+  "mWingJointType": 0,
+  "mFaceChangeEvent": {
+    "m_FileID": 0,
+    "m_PathID": -1342301418898886357
+  },
+  "mIconInfo": [
+    {
+      "mPath": "Assets/Main/Content/Driver/LuigiPenguin/Icons/LuigiPenguin.png",
+      "mGuid": "ce5fc751332844048b6e882ec00344eb"
+    },
+    {
+      "mPath": "Assets/Main/Content/Driver/LuigiPenguin/Icons/LuigiPenguinMap.png",
+      "mGuid": "366457d379b78064fb571b83f6f960e2"
+    },
+    {
+      "mPath": "Assets/Main/Content/Driver/LuigiPenguin/Icons/LuigiPenguinFaceEntry.png",
+      "mGuid": "a305ff5b85ee44047872873c8fe3f7ab"
+    },
+    {
+      "mPath": "Assets/Main/Content/Driver/LuigiPenguin/Icons/LuigiPenguinWholeBody.png",
+      "mGuid": "90ad0bab19124654892002e902a526aa"
+    },
+    {
+      "mPath": "Assets/Main/Content/Driver/LuigiPenguin/Icons/LuigiPenguinUpperBody.png",
+      "mGuid": "ee28334ed32c7234783edc26948efaf6"
+    },
+    {
+      "mPath": "",
+      "mGuid": ""
+    },
+    {
+      "mPath": "Assets/Main/Content/Driver/LuigiPenguin/Icons/LuigiPenguin_Small.png",
+      "mGuid": "303e9f7df71660a41b32488ee560da23"
+    },
+    {
+      "mPath": "Assets/Main/Content/Driver/LuigiPenguin/Icons/LuigiPenguinFaceEntry_Small.png",
+      "mGuid": "62cfc1803c486e040a09d723d53011e2"
+    },
+    {
+      "mPath": "Assets/Main/Content/Driver/LuigiPenguin/Icons/LuigiPenguinWholeBody_Small.png",
+      "mGuid": "2f80a3879c12c3347a813480359edd1e"
+    },
+    {
+      "mPath": "Assets/Main/Content/Driver/LuigiPenguin/Icons/LuigiPenguinUpperBody_Small.png",
+      "mGuid": "fcb54cb8b932a5846954719bab641ee5"
+    }
+  ],
+  "mColorGroup": 0,
+  "mCharacterTextureList": [],
+  "mBaseParameter": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "mBodyMaterial": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "mEyeMaterial": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "mDynamicUnitMngInitData": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "mMetamorData": [],
+  "mDotDriverData": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "mDescription": "",
+  "mEffectContainer": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  }
+}

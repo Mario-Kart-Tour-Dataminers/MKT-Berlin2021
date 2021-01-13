@@ -1,0 +1,117 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": -3977807471082417869
+  },
+  "m_Name": "SettingList01",
+  "savePath": 1,
+  "isEnableCheckNoEmptyValue": 0,
+  "assetDataList": [
+    {
+      "obj": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      },
+      "path": "Assets/Main/Content/UI/Texture/Setting/SettingEconomy01.png",
+      "guid": "df16e0ab93c9c5b409921a6fa7b73b74",
+      "substitutedArrayIndex": 0
+    },
+    {
+      "obj": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      },
+      "path": "Assets/Main/Content/UI/Texture/Setting/SettingDrift01.png",
+      "guid": "35cd1e2d641bc8e49ae4a22fe439deaa",
+      "substitutedArrayIndex": 1
+    },
+    {
+      "obj": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      },
+      "path": "Assets/Main/Content/UI/Texture/Setting/SettingGuide01.png",
+      "guid": "a5e2e87b950ee32488272eadbd24e74d",
+      "substitutedArrayIndex": 2
+    },
+    {
+      "obj": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      },
+      "path": "Assets/Main/Content/UI/Texture/Setting/SettingItem01.png",
+      "guid": "a50bec06c3a00014fa7a89fe61f1b127",
+      "substitutedArrayIndex": 3
+    },
+    {
+      "obj": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      },
+      "path": "Assets/Main/Content/UI/Texture/Setting/SettingGyro01.png",
+      "guid": "7b2c4dd0c0b5d48459a7e7d96b7eba90",
+      "substitutedArrayIndex": 4
+    },
+    {
+      "obj": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      },
+      "path": "Assets/Main/Content/UI/Texture/Setting/SettingBGM01.png",
+      "guid": "0bbd7a7c50de9d34db61d59483e1ed0d",
+      "substitutedArrayIndex": 5
+    },
+    {
+      "obj": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      },
+      "path": "Assets/Main/Content/UI/Texture/Setting/SettingSeparate01.png",
+      "guid": "07fd3cd47b036da4a97e10cb7494d2fb",
+      "substitutedArrayIndex": 6
+    },
+    {
+      "obj": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      },
+      "path": "Assets/Main/Content/UI/Texture/Setting/SettingHandleDrift01.png",
+      "guid": "cbfedfa1fbea5a14b9fb3336c1917568",
+      "substitutedArrayIndex": 7
+    },
+    {
+      "obj": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      },
+      "path": "Assets/Main/Content/UI/Texture/Setting/SettingHoldVertical01.png",
+      "guid": "7068e2a4927df134e89a1cc9f14130fe",
+      "substitutedArrayIndex": 8
+    },
+    {
+      "obj": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      },
+      "path": "Assets/Main/Content/UI/Texture/Setting/SettingHoldHorizontal01.png",
+      "guid": "e35fd73ca03b217499c330a9fe993926",
+      "substitutedArrayIndex": 9
+    },
+    {
+      "obj": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      },
+      "path": "Assets/Main/Content/UI/Texture/Setting/SettingHoldFlexible01.png",
+      "guid": "1bc452b8e79f6764498269d0e97b4458",
+      "substitutedArrayIndex": 10
+    }
+  ],
+  "assetType": 0,
+  "keyType": 0
+}

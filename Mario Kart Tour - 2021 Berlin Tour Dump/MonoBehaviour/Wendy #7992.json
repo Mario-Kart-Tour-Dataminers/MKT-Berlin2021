@@ -1,0 +1,135 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": -2094441087577622512
+  },
+  "m_Name": "Wendy",
+  "mModel": {
+    "m_FileID": 3,
+    "m_PathID": -7779094382391865059
+  },
+  "mFaceTextures": [
+    {
+      "m_FileID": 1,
+      "m_PathID": 7389292303858961329
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -3546125046073968657
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 3746249624480307375
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 2137552123977589399
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 613042521231840974
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 2797794508072363659
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 4704279644391772072
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 4015954523476993940
+    }
+  ],
+  "mIsFaceTextureEmission": 0,
+  "mEmblem": {
+    "m_FileID": 0,
+    "m_PathID": -3449052495906750249
+  },
+  "mAnimatorOverrideController": {
+    "m_FileID": 2,
+    "m_PathID": 1388885681635990322
+  },
+  "mKartScaleSize": 0.85,
+  "mWingJointType": 0,
+  "mFaceChangeEvent": {
+    "m_FileID": 0,
+    "m_PathID": -5524465738651948965
+  },
+  "mIconInfo": [
+    {
+      "mPath": "Assets/Main/Content/Driver/Wendy/Icons/Wendy.png",
+      "mGuid": "596908856cea6694ebcc81f98a2f6489"
+    },
+    {
+      "mPath": "Assets/Main/Content/Driver/Wendy/Icons/WendyMap.png",
+      "mGuid": "a4412e980aea97a4ebf305653c734785"
+    },
+    {
+      "mPath": "Assets/Main/Content/Driver/Wendy/Icons/WendyFaceEntry.png",
+      "mGuid": "eafecd2b0e13bb24b89a4fc7007ae87d"
+    },
+    {
+      "mPath": "Assets/Main/Content/Driver/Wendy/Icons/WendyWholeBody.png",
+      "mGuid": "c9e4d954e0febb44a98806ec61ed54ea"
+    },
+    {
+      "mPath": "Assets/Main/Content/Driver/Wendy/Icons/WendyUpperBody.png",
+      "mGuid": "bc0fb451bcf1e2a46a22b38e037c1915"
+    },
+    {
+      "mPath": "",
+      "mGuid": ""
+    },
+    {
+      "mPath": "Assets/Main/Content/Driver/Wendy/Icons/Wendy_Small.png",
+      "mGuid": "d9370a99c8c5e64448bec09fa9a4b0bb"
+    },
+    {
+      "mPath": "Assets/Main/Content/Driver/Wendy/Icons/WendyFaceEntry_Small.png",
+      "mGuid": "6ec2e47690b92f849b4f1b0c5ebb9be7"
+    },
+    {
+      "mPath": "Assets/Main/Content/Driver/Wendy/Icons/WendyWholeBody_Small.png",
+      "mGuid": "7aef80c183a6b764aa70c5e1fe91d813"
+    },
+    {
+      "mPath": "Assets/Main/Content/Driver/Wendy/Icons/WendyUpperBody_Small.png",
+      "mGuid": "bb20c5972d46fba4191bff3cb0e1c877"
+    }
+  ],
+  "mColorGroup": 0,
+  "mCharacterTextureList": [],
+  "mBaseParameter": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "mBodyMaterial": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "mEyeMaterial": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "mDynamicUnitMngInitData": {
+    "m_FileID": 0,
+    "m_PathID": -3148092307703445188
+  },
+  "mMetamorData": [],
+  "mDotDriverData": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "mDescription": "ウェンディ",
+  "mEffectContainer": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  }
+}

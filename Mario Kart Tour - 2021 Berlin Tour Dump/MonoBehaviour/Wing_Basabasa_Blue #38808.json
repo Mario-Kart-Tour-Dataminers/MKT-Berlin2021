@@ -1,0 +1,50 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": 2434717279687273224
+  },
+  "m_Name": "Wing_Basabasa_Blue",
+  "mWingModel": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "mIconInfo": [
+    {
+      "mPath": "Assets/Main/Content/Kart/Wing/Wing_Basabasa/Icons/Wing_Basabasa_Blue.png",
+      "mGuid": "ddc39fdc10086264eb06dd52577afe99"
+    },
+    {
+      "mPath": "Assets/Main/Content/Kart/Wing/Wing_Basabasa/Icons/Wing_Basabasa_Blue_Large.png",
+      "mGuid": "5cf39581112153848a5bd0c75239f8fa"
+    },
+    {
+      "mPath": "Assets/Main/Content/Kart/Wing/Wing_Basabasa/Icons/Wing_Basabasa_Blue_Small.png",
+      "mGuid": "6aa9a2dc04dacfd4b8f3b70c12999b3d"
+    }
+  ],
+  "mWingType": 0,
+  "mIsFixedIcon": 0,
+  "mBaseParameter": {
+    "m_FileID": 1,
+    "m_PathID": -3545415275461388014
+  },
+  "mMaterial": {
+    "m_FileID": 2,
+    "m_PathID": -7167553208379736930
+  },
+  "mEffectContainer": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "mIsDisableAngleAnimation": 0,
+  "mDescription": "バサバサカイト（青）",
+  "mColorValiationRoot": {
+    "m_FileID": 1,
+    "m_PathID": -3545415275461388014
+  }
+}

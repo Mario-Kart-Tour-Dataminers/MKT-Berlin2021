@@ -1,0 +1,29 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": 2776185883449993066
+  },
+  "m_Name": "Silhouette",
+  "active": 1,
+  "enabled": {
+    "overrideState": 1,
+    "value": 1
+  },
+  "depthFactor": {
+    "overrideState": 1,
+    "value": 60.0
+  },
+  "baseDepth": {
+    "overrideState": 1,
+    "value": 0.15
+  },
+  "secondaryColorThreshold": {
+    "overrideState": 1,
+    "value": 0.7
+  }
+}

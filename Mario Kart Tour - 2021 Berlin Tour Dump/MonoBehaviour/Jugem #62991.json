@@ -1,0 +1,135 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": -2094441087577622512
+  },
+  "m_Name": "Jugem",
+  "mModel": {
+    "m_FileID": 1,
+    "m_PathID": 4539020178883222862
+  },
+  "mFaceTextures": [
+    {
+      "m_FileID": 2,
+      "m_PathID": 2977044307949615471
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -8536503289923688272
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -5663027411283857929
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -2410361091881149673
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 8872183551902239463
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -7291815318259139147
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 4474588329746250705
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 3368324513909819500
+    }
+  ],
+  "mIsFaceTextureEmission": 0,
+  "mEmblem": {
+    "m_FileID": 0,
+    "m_PathID": 5900509540228241981
+  },
+  "mAnimatorOverrideController": {
+    "m_FileID": 3,
+    "m_PathID": 7698305799607034935
+  },
+  "mKartScaleSize": 0.85,
+  "mWingJointType": 0,
+  "mFaceChangeEvent": {
+    "m_FileID": 0,
+    "m_PathID": -4883249387801116238
+  },
+  "mIconInfo": [
+    {
+      "mPath": "Assets/Main/Content/Driver/Jugem/Icons/Jugem.png",
+      "mGuid": "4d190c54cd53d65409ce1567a3da6677"
+    },
+    {
+      "mPath": "Assets/Main/Content/Driver/Jugem/Icons/JugemMap.png",
+      "mGuid": "c5a83a52459ec6c44917fc4b43d7d967"
+    },
+    {
+      "mPath": "Assets/Main/Content/Driver/Jugem/Icons/JugemFaceEntry.png",
+      "mGuid": "5cf4dc37190884f44bb82b8c048d7973"
+    },
+    {
+      "mPath": "Assets/Main/Content/Driver/Jugem/Icons/JugemWholeBody.png",
+      "mGuid": "0400e19c1b6279549986b5b9898876c9"
+    },
+    {
+      "mPath": "Assets/Main/Content/Driver/Jugem/Icons/JugemUpperBody.png",
+      "mGuid": "d1634f0b876e34c4a921f20686770de4"
+    },
+    {
+      "mPath": "",
+      "mGuid": ""
+    },
+    {
+      "mPath": "Assets/Main/Content/Driver/Jugem/Icons/Jugem_Small.png",
+      "mGuid": "3d721d1b4d501464f9f4414990d5b2b5"
+    },
+    {
+      "mPath": "Assets/Main/Content/Driver/Jugem/Icons/JugemFaceEntry_Small.png",
+      "mGuid": "d08cfd4c815d8a54b9272d508c0ea9e2"
+    },
+    {
+      "mPath": "Assets/Main/Content/Driver/Jugem/Icons/JugemWholeBody_Small.png",
+      "mGuid": "7e58f460c683e334e8b5510e80692dd0"
+    },
+    {
+      "mPath": "Assets/Main/Content/Driver/Jugem/Icons/JugemUpperBody_Small.png",
+      "mGuid": "cceb4c68ec159a24b83749aed294691b"
+    }
+  ],
+  "mColorGroup": 0,
+  "mCharacterTextureList": [],
+  "mBaseParameter": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "mBodyMaterial": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "mEyeMaterial": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "mDynamicUnitMngInitData": {
+    "m_FileID": 0,
+    "m_PathID": 9143680988222896855
+  },
+  "mMetamorData": [],
+  "mDotDriverData": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "mDescription": "ジュゲム",
+  "mEffectContainer": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  }
+}

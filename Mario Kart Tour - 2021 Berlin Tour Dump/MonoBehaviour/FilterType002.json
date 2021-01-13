@@ -1,0 +1,22 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": 4454195247659244470
+  },
+  "m_Name": "FilterType002",
+  "settings": [
+    {
+      "m_FileID": 0,
+      "m_PathID": -4816511368115737545
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -4604602937782239336
+    }
+  ]
+}

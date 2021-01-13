@@ -1,0 +1,278 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": -8127481489339046486
+  },
+  "m_Name": "SpriteListsHolder",
+  "parameterIconPathList": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "commonIconPathList": {
+    "m_FileID": 4,
+    "m_PathID": 582562137047282830
+  },
+  "raceRankIconPathList": {
+    "m_FileID": 5,
+    "m_PathID": -2893800201445074505
+  },
+  "rankingRankIconPathList": {
+    "m_FileID": 6,
+    "m_PathID": -7396722092471006587
+  },
+  "userRankPathList": {
+    "m_FileID": 0,
+    "m_PathID": -8606800244404597743
+  },
+  "hitItemList": {
+    "m_FileID": 7,
+    "m_PathID": -2525209802991670139
+  },
+  "teamIconList": {
+    "m_FileID": 8,
+    "m_PathID": -2216256564359795752
+  },
+  "rarityFrameList": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "rarityMinFrameList": {
+    "m_FileID": 0,
+    "m_PathID": 7178546690094520157
+  },
+  "notDriverRarityMinFrameList": {
+    "m_FileID": 0,
+    "m_PathID": -136997640607286977
+  },
+  "notPartsRarityMinFrameList": {
+    "m_FileID": 0,
+    "m_PathID": 4722570247992780840
+  },
+  "notPartsRarityMinFrameListForOverlapItems": {
+    "m_FileID": 0,
+    "m_PathID": 2724833873940673436
+  },
+  "rarityLongFrameList": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "rarityMessageBaseList": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "rarityGraphicTextList": [
+    {
+      "m_FileID": 0,
+      "m_PathID": -6675453533907610811
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 0
+    }
+  ],
+  "coinRaceBackgroundPathList": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "virtualCurrencyIconPathList": {
+    "m_FileID": 0,
+    "m_PathID": 7537464608645425064
+  },
+  "coinIconPathList": {
+    "m_FileID": 0,
+    "m_PathID": 8337888144506868168
+  },
+  "staminaIconPathList": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "treasureBoxProductImageList": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "ruleTitlePathList": {
+    "m_FileID": 0,
+    "m_PathID": -8606800244404597743
+  },
+  "ccIconLocalizeSprite": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "shopTopContentTypePathList": {
+    "m_FileID": 0,
+    "m_PathID": -6201473033701126013
+  },
+  "ccIconPathList": {
+    "m_FileID": 0,
+    "m_PathID": 9222008585193449087
+  },
+  "ccKartIconPathList": {
+    "m_FileID": 0,
+    "m_PathID": -7232181431591530671
+  },
+  "driverBackgroundLargeImagePathList": {
+    "m_FileID": 0,
+    "m_PathID": -301551016170703046
+  },
+  "partsBackgroundLargeImagePathList": {
+    "m_FileID": 0,
+    "m_PathID": -2934576936837223400
+  },
+  "defaultBackgroundLargeImagePathList": {
+    "m_FileID": 0,
+    "m_PathID": 41587641059228543
+  },
+  "subMenuButtonIconPathList": {
+    "m_FileID": 9,
+    "m_PathID": -6834889350792660170
+  },
+  "mainMenuCourseIconPathList": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "mainMenuCourseLinkIconPathList": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "startIconList": {
+    "m_FileID": 0,
+    "m_PathID": 5968332530685860492
+  },
+  "comboRankList": {
+    "m_FileID": 10,
+    "m_PathID": -2684422601146308876
+  },
+  "dlgResultActionBaseList": {
+    "m_FileID": 11,
+    "m_PathID": -87763236563823962
+  },
+  "celebrationMessagePathList": {
+    "m_FileID": 0,
+    "m_PathID": -5575806432040134540
+  },
+  "clearStatusImageList": {
+    "m_FileID": 0,
+    "m_PathID": 5408431886545380390
+  },
+  "notOpenCupImageList": {
+    "m_FileID": 12,
+    "m_PathID": 9129155203743338845
+  },
+  "tutorialGuideList": {
+    "m_FileID": 0,
+    "m_PathID": 215500884294974168
+  },
+  "cupOptionButtonImageList": {
+    "m_FileID": 13,
+    "m_PathID": -8708522726098696012
+  },
+  "passBoxImageList": {
+    "m_FileID": 0,
+    "m_PathID": -8754866226942326118
+  },
+  "passBannerImageList": {
+    "m_FileID": 14,
+    "m_PathID": 6474555028772707147
+  },
+  "passLicenseImageList": {
+    "m_FileID": 0,
+    "m_PathID": -3577607498000179881
+  },
+  "passGetImageList": {
+    "m_FileID": 0,
+    "m_PathID": -5592259658266176456
+  },
+  "mainMenuItemBackgroundImageList": {
+    "m_FileID": 15,
+    "m_PathID": -4783483433389575827
+  },
+  "mainMenuItemBackgroundImageList2": {
+    "m_FileID": 0,
+    "m_PathID": -3842286050630368804
+  },
+  "mainMenuItemBackgroundDisableImageList": {
+    "m_FileID": 16,
+    "m_PathID": 1697824468660805034
+  },
+  "settingToggleItemOnImagePathList": {
+    "m_FileID": 0,
+    "m_PathID": 2234880695411384463
+  },
+  "settingToggleItemOffImagePathList": {
+    "m_FileID": 0,
+    "m_PathID": -180792756272045559
+  },
+  "snsSpriteList": {
+    "m_FileID": 0,
+    "m_PathID": -5561969536024631763
+  },
+  "subInfoButtonIconPathList": {
+    "m_FileID": 0,
+    "m_PathID": 4569042780955054354
+  },
+  "userRankOpenInfoIconPathList": {
+    "m_FileID": 0,
+    "m_PathID": -7152068685146225114
+  },
+  "lockIconPathList": {
+    "m_FileID": 0,
+    "m_PathID": 6621473714067899236
+  },
+  "ticketIconPathList": {
+    "m_FileID": 0,
+    "m_PathID": -9146089406557959444
+  },
+  "availableItemIconImageList": {
+    "m_FileID": 0,
+    "m_PathID": 5964192647332648854
+  },
+  "treasureBoxTypeImageList": {
+    "m_FileID": 0,
+    "m_PathID": 6780139833544053236
+  },
+  "levelMeterStateImageList": {
+    "m_FileID": 0,
+    "m_PathID": -4192819903185743046
+  },
+  "powerUpImageList": {
+    "m_FileID": 0,
+    "m_PathID": 2007157228242953289
+  },
+  "netPlayLobbyContentBaseList": {
+    "m_FileID": 0,
+    "m_PathID": 2693394986516389547
+  },
+  "menuButtonIconImageList": {
+    "m_FileID": 9,
+    "m_PathID": -6834889350792660170
+  },
+  "tourGiftIconImageList": {
+    "m_FileID": 17,
+    "m_PathID": -6167418194414527739
+  },
+  "mainMenuEmphasisIconImageList": {
+    "m_FileID": 18,
+    "m_PathID": 4114796963321617877
+  },
+  "raceBtnDlgRetryImageList": {
+    "m_FileID": 0,
+    "m_PathID": 2519832338225118760
+  },
+  "itemImageList": {
+    "m_FileID": 0,
+    "m_PathID": 8519589425037672673
+  },
+  "eventCoinImageList": {
+    "m_FileID": 0,
+    "m_PathID": 9111347917271047648
+  },
+  "remainingTimeList": {
+    "m_FileID": 19,
+    "m_PathID": -1811514566641430259
+  }
+}

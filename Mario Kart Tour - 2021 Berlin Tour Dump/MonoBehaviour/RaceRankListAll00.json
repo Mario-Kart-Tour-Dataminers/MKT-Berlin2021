@@ -1,0 +1,90 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": -3977807471082417869
+  },
+  "m_Name": "RaceRankListAll00",
+  "savePath": 1,
+  "isEnableCheckNoEmptyValue": 0,
+  "assetDataList": [
+    {
+      "obj": {
+        "m_FileID": 1,
+        "m_PathID": -2748123274258504735
+      },
+      "path": "",
+      "guid": "",
+      "substitutedArrayIndex": 0
+    },
+    {
+      "obj": {
+        "m_FileID": 2,
+        "m_PathID": 9084542664849432920
+      },
+      "path": "",
+      "guid": "",
+      "substitutedArrayIndex": 1
+    },
+    {
+      "obj": {
+        "m_FileID": 3,
+        "m_PathID": -632885483100507760
+      },
+      "path": "",
+      "guid": "",
+      "substitutedArrayIndex": 2
+    },
+    {
+      "obj": {
+        "m_FileID": 4,
+        "m_PathID": -2615416022273800142
+      },
+      "path": "",
+      "guid": "",
+      "substitutedArrayIndex": 3
+    },
+    {
+      "obj": {
+        "m_FileID": 5,
+        "m_PathID": -208166495716847688
+      },
+      "path": "",
+      "guid": "",
+      "substitutedArrayIndex": 4
+    },
+    {
+      "obj": {
+        "m_FileID": 6,
+        "m_PathID": -7116324862812112398
+      },
+      "path": "",
+      "guid": "",
+      "substitutedArrayIndex": 5
+    },
+    {
+      "obj": {
+        "m_FileID": 7,
+        "m_PathID": -1352669015705492459
+      },
+      "path": "",
+      "guid": "",
+      "substitutedArrayIndex": 6
+    },
+    {
+      "obj": {
+        "m_FileID": 8,
+        "m_PathID": -4524417633633107672
+      },
+      "path": "",
+      "guid": "",
+      "substitutedArrayIndex": 7
+    }
+  ],
+  "assetType": 2,
+  "keyType": 0
+}

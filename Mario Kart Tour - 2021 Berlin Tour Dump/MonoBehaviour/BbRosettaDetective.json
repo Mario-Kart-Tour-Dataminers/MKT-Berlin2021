@@ -1,0 +1,131 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": -2094441087577622512
+  },
+  "m_Name": "BbRosettaDetective",
+  "mModel": {
+    "m_FileID": 1,
+    "m_PathID": -3974483022538539860
+  },
+  "mFaceTextures": [
+    {
+      "m_FileID": 2,
+      "m_PathID": -6736397059448954834
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 8351759996469233229
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 5947149355122504950
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 5532844070548066501
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -8145306968008203212
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -3376370457818195612
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -1806411286389188032
+    }
+  ],
+  "mIsFaceTextureEmission": 0,
+  "mEmblem": {
+    "m_FileID": 0,
+    "m_PathID": -7828368331360552169
+  },
+  "mAnimatorOverrideController": {
+    "m_FileID": 3,
+    "m_PathID": -6518588775715437908
+  },
+  "mKartScaleSize": 0.85,
+  "mWingJointType": 0,
+  "mFaceChangeEvent": {
+    "m_FileID": 0,
+    "m_PathID": 7380998998428383947
+  },
+  "mIconInfo": [
+    {
+      "mPath": "Assets/Main/Content/Driver/BbRosettaDetective/Icons/BbRosettaDetective.png",
+      "mGuid": "6d5ac785d9cb07c43908805c653a755d"
+    },
+    {
+      "mPath": "Assets/Main/Content/Driver/BbRosettaDetective/Icons/BbRosettaDetectiveMap.png",
+      "mGuid": "580d895c06bef064086c5550584200c8"
+    },
+    {
+      "mPath": "Assets/Main/Content/Driver/BbRosettaDetective/Icons/BbRosettaDetectiveFaceEntry.png",
+      "mGuid": "668e739e01ad8fb41a669ca261f92314"
+    },
+    {
+      "mPath": "Assets/Main/Content/Driver/BbRosettaDetective/Icons/BbRosettaDetectiveWholeBody.png",
+      "mGuid": "793f236afc6a99145bd21b59e30dd744"
+    },
+    {
+      "mPath": "Assets/Main/Content/Driver/BbRosettaDetective/Icons/BbRosettaDetectiveUpperBody.png",
+      "mGuid": "1310391341814eb458825c6daacdaee0"
+    },
+    {
+      "mPath": "",
+      "mGuid": ""
+    },
+    {
+      "mPath": "Assets/Main/Content/Driver/BbRosettaDetective/Icons/BbRosettaDetective_Small.png",
+      "mGuid": "9c8c8416d2307b743882b0341f07ccba"
+    },
+    {
+      "mPath": "Assets/Main/Content/Driver/BbRosettaDetective/Icons/BbRosettaDetectiveFaceEntry_Small.png",
+      "mGuid": "472775d6b1808aa46bbf446b6238f48d"
+    },
+    {
+      "mPath": "Assets/Main/Content/Driver/BbRosettaDetective/Icons/BbRosettaDetectiveWholeBody_Small.png",
+      "mGuid": "7570833356fe01c4fa692474a55f3fa4"
+    },
+    {
+      "mPath": "Assets/Main/Content/Driver/BbRosettaDetective/Icons/BbRosettaDetectiveUpperBody_Small.png",
+      "mGuid": "bf810d8140a1d874f9f602a617d25572"
+    }
+  ],
+  "mColorGroup": 0,
+  "mCharacterTextureList": [],
+  "mBaseParameter": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "mBodyMaterial": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "mEyeMaterial": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "mDynamicUnitMngInitData": {
+    "m_FileID": 0,
+    "m_PathID": -2827899947567374788
+  },
+  "mMetamorData": [],
+  "mDotDriverData": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "mDescription": "",
+  "mEffectContainer": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  }
+}

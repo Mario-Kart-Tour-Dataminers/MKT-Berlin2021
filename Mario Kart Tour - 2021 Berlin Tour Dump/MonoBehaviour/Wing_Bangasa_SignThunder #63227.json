@@ -1,0 +1,50 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": 2434717279687273224
+  },
+  "m_Name": "Wing_Bangasa_SignThunder",
+  "mWingModel": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "mIconInfo": [
+    {
+      "mPath": "Assets/Main/Content/Kart/Wing/Wing_Bangasa/Icons/Wing_Bangasa_SignThunder.png",
+      "mGuid": "94287fec81bb84f4b9b0aa2e72ab82d9"
+    },
+    {
+      "mPath": "Assets/Main/Content/Kart/Wing/Wing_Bangasa/Icons/Wing_Bangasa_SignThunder_Large.png",
+      "mGuid": "3ea00817c0d931a45b5dcdaa250c1342"
+    },
+    {
+      "mPath": "Assets/Main/Content/Kart/Wing/Wing_Bangasa/Icons/Wing_Bangasa_SignThunder_Small.png",
+      "mGuid": "741c2a763c531384e8fb8c07418b197e"
+    }
+  ],
+  "mWingType": 0,
+  "mIsFixedIcon": 0,
+  "mBaseParameter": {
+    "m_FileID": 4,
+    "m_PathID": 5574116931583460884
+  },
+  "mMaterial": {
+    "m_FileID": 0,
+    "m_PathID": -6741618925744454501
+  },
+  "mEffectContainer": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "mIsDisableAngleAnimation": 0,
+  "mDescription": "",
+  "mColorValiationRoot": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  }
+}

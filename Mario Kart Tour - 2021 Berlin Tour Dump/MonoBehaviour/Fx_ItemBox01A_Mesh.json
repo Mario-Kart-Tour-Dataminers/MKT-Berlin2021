@@ -1,0 +1,18 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": 8670473757938694334
+  },
+  "m_Name": "Fx_ItemBox01A_Mesh",
+  "mMeshes": [
+    {
+      "m_FileID": 0,
+      "m_PathID": 9044119937881881568
+    }
+  ]
+}

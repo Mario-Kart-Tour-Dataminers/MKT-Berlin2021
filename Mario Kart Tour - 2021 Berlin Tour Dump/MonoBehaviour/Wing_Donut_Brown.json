@@ -1,0 +1,50 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": 2434717279687273224
+  },
+  "m_Name": "Wing_Donut_Brown",
+  "mWingModel": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "mIconInfo": [
+    {
+      "mPath": "Assets/Main/Content/Kart/Wing/Wing_Donut/Icons/Wing_Donut_Brown.png",
+      "mGuid": "f8e975090a7e2754ab93644257209b26"
+    },
+    {
+      "mPath": "Assets/Main/Content/Kart/Wing/Wing_Donut/Icons/Wing_Donut_Brown_Large.png",
+      "mGuid": "2d1c29d0e0a0c8640aaa6827db37378d"
+    },
+    {
+      "mPath": "Assets/Main/Content/Kart/Wing/Wing_Donut/Icons/Wing_Donut_Brown_Small.png",
+      "mGuid": "6a9b22152bd8e614692c26609d488fda"
+    }
+  ],
+  "mWingType": 0,
+  "mIsFixedIcon": 0,
+  "mBaseParameter": {
+    "m_FileID": 1,
+    "m_PathID": 7830630551284210953
+  },
+  "mMaterial": {
+    "m_FileID": 0,
+    "m_PathID": 6942641151244047873
+  },
+  "mEffectContainer": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "mIsDisableAngleAnimation": 0,
+  "mDescription": "",
+  "mColorValiationRoot": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  }
+}

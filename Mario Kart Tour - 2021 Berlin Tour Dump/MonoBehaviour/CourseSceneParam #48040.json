@@ -1,0 +1,75 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": -8094386303974766579
+  },
+  "m_Name": "CourseSceneParam",
+  "mProjectorShadowGlobalCutOffDistanceY": 0.0,
+  "mFogChangeData": {
+    "mElements": [
+      {
+        "mEffBit": 1,
+        "mFogPattern": 1,
+        "mColor": {
+          "r": 0.0,
+          "g": 0.917647064,
+          "b": 1.0,
+          "a": 1.0
+        },
+        "mDistanceBegin": -125.0,
+        "mDistanceEnd": 400.0,
+        "mRaceStartTimeSecond": 0.0,
+        "mDurationSecond": 0.0,
+        "mAreaStartSecond": 0.01,
+        "mAreaEndSecond": 0.01,
+        "mReferenceWater": 0
+      },
+      {
+        "mEffBit": 3,
+        "mFogPattern": 1,
+        "mColor": {
+          "r": 0.0,
+          "g": 0.676606953,
+          "b": 0.745098054,
+          "a": 1.0
+        },
+        "mDistanceBegin": -100.0,
+        "mDistanceEnd": 200.0,
+        "mRaceStartTimeSecond": 0.0,
+        "mDurationSecond": 0.0,
+        "mAreaStartSecond": 0.01,
+        "mAreaEndSecond": 0.01,
+        "mReferenceWater": 0
+      }
+    ]
+  },
+  "mFlareChangeData": {
+    "mDefaultOn": 1,
+    "mElements": [
+      {
+        "mEffBit": 4,
+        "mDisableFlare": 1
+      }
+    ]
+  },
+  "mPowerSavingAdjustColor": {
+    "x": 0.0,
+    "y": 0.0,
+    "z": 0.0,
+    "w": 0.0
+  },
+  "mIsDisableProjectionShadowStencil": 0,
+  "mProjectionShadowRenderQueue": -1,
+  "mIsMapObjShadowRenderAfterTransparent": 0,
+  "mLightParametersChangeData": {
+    "mElements": []
+  },
+  "mLightProbeChangeData": {
+    "mElements": []
+  }
+}

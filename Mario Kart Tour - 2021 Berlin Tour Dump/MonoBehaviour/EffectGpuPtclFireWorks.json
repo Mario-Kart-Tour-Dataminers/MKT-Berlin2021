@@ -1,0 +1,21 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 3721261379175237670
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": 6393670299583049589
+  },
+  "m_Name": "",
+  "ParticleNum": 200,
+  "BoundingSize": 20.0,
+  "RandomPosScale": {
+    "x": 100.0,
+    "y": 20.0,
+    "z": 0.0
+  },
+  "Interval": 0.2,
+  "IntervalRandom": 0.0
+}

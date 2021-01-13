@@ -1,0 +1,135 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": -2094441087577622512
+  },
+  "m_Name": "BbRosetta",
+  "mModel": {
+    "m_FileID": 3,
+    "m_PathID": 4279081870342746718
+  },
+  "mFaceTextures": [
+    {
+      "m_FileID": 2,
+      "m_PathID": 5229598974387904778
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -4372782227684712747
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -52652142299171963
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -4252286569905879194
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -4738029037020079676
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -2475939725506614589
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 537948232087012091
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -5164007601548469627
+    }
+  ],
+  "mIsFaceTextureEmission": 0,
+  "mEmblem": {
+    "m_FileID": 0,
+    "m_PathID": 4739361546367598711
+  },
+  "mAnimatorOverrideController": {
+    "m_FileID": 1,
+    "m_PathID": 2840136582660373945
+  },
+  "mKartScaleSize": 0.85,
+  "mWingJointType": 0,
+  "mFaceChangeEvent": {
+    "m_FileID": 0,
+    "m_PathID": -4210745837603395170
+  },
+  "mIconInfo": [
+    {
+      "mPath": "Assets/Main/Content/Driver/BbRosetta/Icons/BbRosetta.png",
+      "mGuid": "64e32f3eb3a823a4e9f248de9441ddda"
+    },
+    {
+      "mPath": "Assets/Main/Content/Driver/BbRosetta/Icons/BbRosettaMap.png",
+      "mGuid": "b2a9d9e5e098a554eb4ed307a3845867"
+    },
+    {
+      "mPath": "Assets/Main/Content/Driver/BbRosetta/Icons/BbRosettaFaceEntry.png",
+      "mGuid": "5ac1c75c82e46924c9d00d93568bfa37"
+    },
+    {
+      "mPath": "Assets/Main/Content/Driver/BbRosetta/Icons/BbRosettaWholeBody.png",
+      "mGuid": "d85571d3b2a2b1d4c9e6b172517495fc"
+    },
+    {
+      "mPath": "Assets/Main/Content/Driver/BbRosetta/Icons/BbRosettaUpperBody.png",
+      "mGuid": "d7a2c4fb231db9a42a494075e4b8a055"
+    },
+    {
+      "mPath": "",
+      "mGuid": ""
+    },
+    {
+      "mPath": "Assets/Main/Content/Driver/BbRosetta/Icons/BbRosetta_Small.png",
+      "mGuid": "ceaa7492358c0d54384a54441761a5f6"
+    },
+    {
+      "mPath": "Assets/Main/Content/Driver/BbRosetta/Icons/BbRosettaFaceEntry_Small.png",
+      "mGuid": "5ac3f10842b801a4b91d2fcca5e3dc62"
+    },
+    {
+      "mPath": "Assets/Main/Content/Driver/BbRosetta/Icons/BbRosettaWholeBody_Small.png",
+      "mGuid": "fc88b0fa6a71377459778427ca8c4bef"
+    },
+    {
+      "mPath": "Assets/Main/Content/Driver/BbRosetta/Icons/BbRosettaUpperBody_Small.png",
+      "mGuid": "e5f58bf7b49f2a54a87baeed756bfd17"
+    }
+  ],
+  "mColorGroup": 0,
+  "mCharacterTextureList": [],
+  "mBaseParameter": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "mBodyMaterial": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "mEyeMaterial": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "mDynamicUnitMngInitData": {
+    "m_FileID": 0,
+    "m_PathID": -7098398787836620782
+  },
+  "mMetamorData": [],
+  "mDotDriverData": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "mDescription": "ベビィロゼッタ",
+  "mEffectContainer": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  }
+}

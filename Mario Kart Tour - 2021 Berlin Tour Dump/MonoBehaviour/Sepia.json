@@ -1,0 +1,30 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": 4454195247659244470
+  },
+  "m_Name": "Sepia",
+  "settings": [
+    {
+      "m_FileID": 0,
+      "m_PathID": -8913717225729068145
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 1221191954947467369
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 1501274725517224328
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -3251006813893714850
+    }
+  ]
+}

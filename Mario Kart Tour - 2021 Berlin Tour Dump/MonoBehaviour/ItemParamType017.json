@@ -1,0 +1,2579 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": -6811733484762771059
+  },
+  "m_Name": "ItemParamType017",
+  "mResources": {
+    "mModel": {
+      "m_FileID": 0,
+      "m_PathID": -5213654995246885890
+    },
+    "mIsUseKillerLod": 0,
+    "mIsTransparent": 1,
+    "mTextureForReplace": {
+      "m_FileID": 0,
+      "m_PathID": 0
+    },
+    "mJointsToSetScale": [],
+    "mAnimatorController": {
+      "m_FileID": 0,
+      "m_PathID": 0
+    },
+    "mIsStopAnimOnPowerSave": 0,
+    "mIsUseAnimationRoot": 1,
+    "mEffectContainer": {
+      "m_FileID": 0,
+      "m_PathID": 4413315523274079041
+    }
+  },
+  "mParams": {
+    "mItemType": 17,
+    "mLabel": "PathDashRing",
+    "mDefaultSlotResult": 16,
+    "mDefaultSlotResults": [
+      79
+    ],
+    "mItemClass": 2,
+    "mItemTypeOverrideForHitUI": 0,
+    "mIsBackThrow": 0,
+    "mIsOnlyFrontThrow": 1,
+    "mIsInvisibleInBackThrow": 0,
+    "mAppear": {
+      "mMaxAppearNum": 10,
+      "mIsOverrideMaxAppearNumOnTeam": 0,
+      "mMaxAppearNumOnTeam": 10,
+      "mLifeSecMin": 9.0,
+      "mLifeSecond": 9.0,
+      "mIsCheckLifeInFever": 0,
+      "mNextState": 8
+    },
+    "mBehaviour": {
+      "mGravity": 0.02,
+      "mGravityStand": 0.17,
+      "mGravityVelRatioCurve": {
+        "mType": 1,
+        "mTypeParams": [],
+        "mAnimationCurve": {
+          "m_Curve": [
+            {
+              "time": 0.0,
+              "value": 1.0,
+              "inSlope": 2.83284612E-06,
+              "outSlope": 2.83284612E-06,
+              "weightedMode": 0,
+              "inWeight": 0.333333343,
+              "outWeight": 0.333333343
+            },
+            {
+              "time": 0.227027357,
+              "value": 1.0,
+              "inSlope": 0.0,
+              "outSlope": 0.0,
+              "weightedMode": 0,
+              "inWeight": 0.333333343,
+              "outWeight": 0.333333343
+            },
+            {
+              "time": 1.08960807,
+              "value": 1.0,
+              "inSlope": -3.05018466E-06,
+              "outSlope": -3.54054618,
+              "weightedMode": 0,
+              "inWeight": 0.333333343,
+              "outWeight": 0.333333343
+            },
+            {
+              "time": 2.0,
+              "value": 0.0,
+              "inSlope": 0.0,
+              "outSlope": 0.0,
+              "weightedMode": 0,
+              "inWeight": 0.333333343,
+              "outWeight": 0.333333343
+            }
+          ],
+          "m_PreInfinity": 2,
+          "m_PostInfinity": 2,
+          "m_RotationOrder": 4
+        }
+      },
+      "mMass": 0.5,
+      "mUseType": 1,
+      "mIsUseDying": 1,
+      "mDyingStateSec": 1.0,
+      "mDyingColOnSec": 0.3,
+      "mIsEmitDestEffectOnVanish": 1,
+      "mStateAfterDrop": 8,
+      "mIsChaseTarget": 0,
+      "mBombProbOnBreak": 0,
+      "mAlertType": 0,
+      "mIsShowAlertInLockOnAnotherKart": 0,
+      "mIsHitOwnerAfterThrowStand": 0,
+      "mIsUseContinuousPrimCol": 0,
+      "mIsUseContinuousPrimColBoth": 0,
+      "mIsUseContinuousGndCol": 0,
+      "mEffortOnStartMove": {
+        "mEffort": 0,
+        "mParam": 1.0
+      },
+      "mRotType": 4,
+      "mIsProhibitOverrideRotType": 0,
+      "mRotVelDeg": -3.0,
+      "mRotTypeParam2": 1.0,
+      "mRotTypeParam3": 1.0,
+      "mAdditionalRotTypeParam": {
+        "Enabled": 0,
+        "Value": []
+      },
+      "mIsMulSpeedToRotTypeParam": 0,
+      "mIsBreakOnHitWall": 0,
+      "mIsStandOnHitFloor": 0,
+      "mIsQuickVanishOnStandAtOutOfRoute": 1,
+      "mExVelRatio": 0.0,
+      "mExVelSubRatio": 1.0,
+      "mExVelMax": 0.0,
+      "mCanGetItemBox": 0,
+      "mBreakScoreTargetItem": [],
+      "mIsVanishOtherEntriesOnBreakEquip": 0,
+      "mAngleDegLimitFromKartRoutePath": {
+        "Enabled": 1,
+        "Value": 40.0
+      },
+      "mDropOffsetL": {
+        "IsUsePos": 0,
+        "Pos": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0
+        }
+      },
+      "mSlotResultEnablePlus": [
+        79
+      ],
+      "mIsBehaveNotPlusIfGenerateFromItem": 0,
+      "mIsBehaveNotPlusIfGenerateFromCannon": 1,
+      "mIsBreakOnTime": 0,
+      "mBreakSecOnTime": 1.0,
+      "mComponents": []
+    },
+    "mParabolic": {
+      "mIsEnabled": 1,
+      "mShotDegMin": 21.0,
+      "mShotDegMax": 36.0,
+      "mShotDegMinBackThrow": 31.0,
+      "mShotDegMaxBackThrow": 81.0,
+      "mInitSpeed": 0.900000036,
+      "mInitSpeedFever": 0.900000036,
+      "mInitSpeedFrontFasterEvent": 0.900000036,
+      "mInitSpeedBack": 0.45,
+      "mInitSpeedRatioToKartDriveSpeed": 1.0,
+      "mInitSpeedRatioCannon": 1.3,
+      "mCheckInitVelMin": 0.1,
+      "mCheckInitVelMax": 2.4,
+      "mCheckInitVelMaxCannon": 4.0,
+      "mReflectCoef": 1.0,
+      "mMapObjFloorReflectCoef": -1.0,
+      "mFricCoef": 1.0,
+      "mMapObjFloorFricCoef": -1.0,
+      "mFloorReflectNumMax": 3.0,
+      "mStateAfterBoundEnd": 3,
+      "mIsIncrementBoundCountOnTrampoline": 0
+    },
+    "mFever": {
+      "mKartReactIndexInFeverMultiEquip": 1,
+      "mIsForceLodInFeverEquip": 0,
+      "mIsActionOnTouch": 0,
+      "mIsExtendRadiusOnAction": 0,
+      "mEquipMultiRadiusRatioInFever": {
+        "m_Curve": [],
+        "m_PreInfinity": 2,
+        "m_PostInfinity": 2,
+        "m_RotationOrder": 4
+      }
+    },
+    "mCollision": {
+      "mParent": 0,
+      "mReactionType": {
+        "mDefault": 0,
+        "mIsChangeInMove": 0,
+        "mMove": 0,
+        "mIsChangeInEquip": 0,
+        "mEquip": 0,
+        "mIsChangeInBurst": 0,
+        "mBurst": 0
+      },
+      "mIsIgnoreSameOwnerBurst": 0,
+      "mIsIgnoreOwnersEquipItem": 0,
+      "mIsNoneReactVsMapObjOnMoving": 0,
+      "mIsNoneReactVsItemOnMoving": 0,
+      "mEquippedItemReactToMapObj": [
+        0,
+        0,
+        0
+      ],
+      "mMapObjReactToEquippedItem": [
+        0,
+        1,
+        2
+      ]
+    },
+    "mReaction": {
+      "mParent": 0,
+      "mKartHitReactDefault": 4,
+      "mKartHitReactStand": 4,
+      "mKartReacts": [
+        21,
+        0
+      ],
+      "mKartReactLists": [
+        {
+          "mList": [
+            21
+          ]
+        }
+      ],
+      "mKartReactJumpAction": 0,
+      "mKartReactGuard": 19,
+      "mReactIntervalSec": 0.7,
+      "mIsIgnoreHitOwner": 0,
+      "mIsHitMultiKarts": 1,
+      "mIsExitBreakOnReactBreak": 1,
+      "mIsIgnoreHitToFloatingKartInStand": 1,
+      "mIsIgnoreHitToInvincibleKart": 0,
+      "mReactEnabledMinVel": {
+        "Enabled": 0,
+        "Value": 0.0
+      },
+      "mCoinEmitNum": 0,
+      "mCoinEmitVel": 0.3,
+      "mCoinEmitAngleDeg": 60.0
+    },
+    "mSize": {
+      "mColRadius": 0.390000045,
+      "mGndColRadius": 0.240000024,
+      "mIsCheckFloor": 1,
+      "mIsCheckWall": 0,
+      "mIsUseEdgeGndCol": 0,
+      "mIsUseNarrow": 1,
+      "mGndColOffset": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "mGndColOffsetCurve": {
+        "mX": {
+          "mType": 0,
+          "mTypeParams": [],
+          "mAnimationCurve": {
+            "m_Curve": [
+              {
+                "time": 0.0,
+                "value": 1.0,
+                "inSlope": 0.0,
+                "outSlope": 0.0,
+                "weightedMode": 0,
+                "inWeight": 0.333333343,
+                "outWeight": 0.333333343
+              },
+              {
+                "time": 1.0,
+                "value": 1.0,
+                "inSlope": 0.0,
+                "outSlope": 0.0,
+                "weightedMode": 0,
+                "inWeight": 0.333333343,
+                "outWeight": 0.333333343
+              }
+            ],
+            "m_PreInfinity": 2,
+            "m_PostInfinity": 2,
+            "m_RotationOrder": 4
+          }
+        },
+        "mY": {
+          "mType": 0,
+          "mTypeParams": [],
+          "mAnimationCurve": {
+            "m_Curve": [
+              {
+                "time": 0.0,
+                "value": 0.0,
+                "inSlope": 0.0,
+                "outSlope": 0.0,
+                "weightedMode": 0,
+                "inWeight": 0.333333343,
+                "outWeight": 0.333333343
+              },
+              {
+                "time": 1.0,
+                "value": -0.1,
+                "inSlope": 0.0,
+                "outSlope": 0.0,
+                "weightedMode": 0,
+                "inWeight": 0.333333343,
+                "outWeight": 0.333333343
+              }
+            ],
+            "m_PreInfinity": 2,
+            "m_PostInfinity": 2,
+            "m_RotationOrder": 4
+          }
+        },
+        "mZ": {
+          "mType": 0,
+          "mTypeParams": [],
+          "mAnimationCurve": {
+            "m_Curve": [
+              {
+                "time": 0.0,
+                "value": 1.0,
+                "inSlope": 0.0,
+                "outSlope": 0.0,
+                "weightedMode": 0,
+                "inWeight": 0.333333343,
+                "outWeight": 0.333333343
+              },
+              {
+                "time": 1.0,
+                "value": 1.0,
+                "inSlope": 0.0,
+                "outSlope": 0.0,
+                "weightedMode": 0,
+                "inWeight": 0.333333343,
+                "outWeight": 0.333333343
+              }
+            ],
+            "m_PreInfinity": 2,
+            "m_PostInfinity": 2,
+            "m_RotationOrder": 4
+          }
+        }
+      },
+      "mIsApplyAttToGndColOffset": 0,
+      "mScaleMax": 18.0,
+      "mScaleVel": 0.45,
+      "mScaleInEquipMulti": 1.0,
+      "mScaleVelInEquipMulti": 0.06,
+      "mOffsetMultiY": 0.53,
+      "mOffsetMultiZ": 0.1,
+      "mIsApplyKartBodySizeInEquipMulti": 1,
+      "mIsApplyItemColSizeInEquipMulti": 1,
+      "mWallColRadiusRate": 0.24,
+      "mOffsetHangX": 0.0,
+      "mOffsetHangY": 1.15,
+      "mIsForceSetScaleOnBeginThrow": 0,
+      "mScaleForceBeginThrow": 2.0,
+      "mClipScaleCoefficient": 1.7,
+      "mModelBaseScale": 1.0,
+      "mRejectVecScaleRatioToGndColHit": {
+        "Enabled": 1,
+        "Value": 10.0
+      }
+    },
+    "mReflect": {
+      "mWallReflectCoef": 0.0,
+      "mWallFricCoef": 1.0,
+      "mReflectNumForwardBreak": 1000,
+      "mReflectNumBackBreak": 1000,
+      "mReflectNumCannonBreak": 1000,
+      "mReflectNumFeverBreak": 1000
+    },
+    "mUse": {
+      "mKartReactOnUse": 0,
+      "mParamOnUse": 1.0,
+      "mCoinGetNumOnUse": 0,
+      "mKartReactOnFeverUse": 0,
+      "mKartReactOnHitDrop": 21,
+      "mIsVanishOnDropHit": 0,
+      "mEffectOnHitDrop": {
+        "mKeyString": ""
+      },
+      "mKartReactOnHitEquip": 0,
+      "mRepeatEfforEndCondition": 0,
+      "mIsEndWatchOnRepeatEffort": 0,
+      "mIsKeepEquipInRepeatEffort": 0,
+      "mIsVisibleInRepeatEffort": 0,
+      "mIsVisibleShadowInRepeatEffort": 0,
+      "mIsSyncScaleToKartCollision": 0,
+      "mKartRadiusOfScale1": 1.0,
+      "mScaleMax": 2.0,
+      "mScaleInFeverAction": {
+        "mType": 0,
+        "mTypeParams": [],
+        "mAnimationCurve": {
+          "m_Curve": [
+            {
+              "time": 0.0,
+              "value": 1.0,
+              "inSlope": 0.0,
+              "outSlope": 0.0,
+              "weightedMode": 0,
+              "inWeight": 0.333333343,
+              "outWeight": 0.333333343
+            },
+            {
+              "time": 1.0,
+              "value": 1.0,
+              "inSlope": 0.0,
+              "outSlope": 0.0,
+              "weightedMode": 0,
+              "inWeight": 0.333333343,
+              "outWeight": 0.333333343
+            }
+          ],
+          "m_PreInfinity": 2,
+          "m_PostInfinity": 2,
+          "m_RotationOrder": 4
+        }
+      },
+      "mSlotResultReplace": {
+        "mIsEnabled": 0,
+        "mReplaceSec": 1.0,
+        "mSelector": {
+          "mTable": []
+        }
+      }
+    },
+    "mEquipHang": {
+      "mScaleInEquipHang": 1.0,
+      "mScaleVelInEquipHang": 0.333333343,
+      "mBaseOffsetHangZ": 0.299999982,
+      "mIsAutoEquip": 1,
+      "mIsEquipFront": 0,
+      "mIsReverseDirectionInEquipFront": 0,
+      "mIsEscapeWing": 0,
+      "mIsUseAdditionalAtt": 1,
+      "mAdditionalAtt": {
+        "x": 0.0,
+        "y": 180.0,
+        "z": 0.0
+      }
+    },
+    "mEmission": {
+      "mBreak": {
+        "mEmitItems": [],
+        "mMaxEmitNumOnOneTime": -1,
+        "mEmitProbabilities": [],
+        "mEmitDuplications": [],
+        "mIsRandomPos": 0,
+        "mAttType": 1,
+        "mAttL": {
+          "IsUseAtt": 0,
+          "Att": {
+            "mPitchAngleDeg": 0.0,
+            "mYawAngleDeg": 0.0,
+            "mRollAngleDeg": 0.0
+          }
+        },
+        "mYawAngleDeg": [],
+        "mEmitPitchAngleDeg": 45.0,
+        "mEmitVel": 0.5,
+        "mEmitPosOffset": 0.2,
+        "mIsEmitOneInFever": 0
+      },
+      "mOther": {
+        "mEmitInfos": [
+          {
+            "Item": 17,
+            "Value": 2
+          }
+        ]
+      },
+      "mIsUseMoveAttTypeOverrided": 0,
+      "mMoveAttTypeOverrided": 0
+    },
+    "mBurst": {
+      "mBurstScaleMin": 0.15,
+      "mBurstScaleMax": 19.0,
+      "mBurstScaleVel": 1.8,
+      "mBurstCollisionLifeSec": 0.583,
+      "mCanGuardBySuperHorn": 1,
+      "mEffectIndex": -1,
+      "mBurstLifeSec": 1.0,
+      "mBurstAnimSpeedRatio": 1.0,
+      "mSetFloorPos": {
+        "Enabled": 1,
+        "Value": 4.1
+      },
+      "mIsKartHitEnabledBeforeBurst": 1,
+      "mReactIndex1BurstSec": 100.0
+    },
+    "mAI": {
+      "mReactionOfAI": 0
+    },
+    "mShadow": {
+      "mIsShadowEnabled": 0,
+      "mShadowScaleRatio": 1.8,
+      "mIsShadowEnabledInMove": 0,
+      "mIsShadowEnabledInMoveEnemy": 0
+    },
+    "mModule": {
+      "mHasChasedModule": 0,
+      "mChaseSecMax": 1.0,
+      "mOneChaseLatencySec": 0.2
+    },
+    "mSkill": {
+      "mAvoidLockOnLevelToNeed": 1,
+      "mHomingSkillLevelToNeed": 0
+    },
+    "mAnimation": {
+      "mTriggerOnStateInit": [],
+      "mKeyOnStateInit": []
+    },
+    "mScaleAnim": {
+      "mOnBound": {
+        "mIsEnabled": 0,
+        "mAnchor": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0
+        },
+        "mScaleX": {
+          "mType": 0,
+          "mTypeParams": [],
+          "mCurve": []
+        },
+        "mScaleY": {
+          "mType": 0,
+          "mTypeParams": [],
+          "mCurve": []
+        },
+        "mScaleZ": {
+          "mType": 0,
+          "mTypeParams": [],
+          "mCurve": []
+        },
+        "mRot": {
+          "mX": {
+            "mType": 0,
+            "mTypeParams": [],
+            "mCurve": []
+          },
+          "mY": {
+            "mType": 0,
+            "mTypeParams": [],
+            "mCurve": []
+          },
+          "mZ": {
+            "mType": 0,
+            "mTypeParams": [],
+            "mCurve": []
+          }
+        },
+        "mPositionX": {
+          "mType": 0,
+          "mTypeParams": [],
+          "mCurve": []
+        },
+        "mPositionY": {
+          "mType": 0,
+          "mTypeParams": [],
+          "mCurve": []
+        },
+        "mPositionZ": {
+          "mType": 0,
+          "mTypeParams": [],
+          "mCurve": []
+        }
+      },
+      "mOnEffort": {
+        "mIsEnabled": 0,
+        "mAnchor": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0
+        },
+        "mScaleX": {
+          "mType": 0,
+          "mTypeParams": [],
+          "mCurve": []
+        },
+        "mScaleY": {
+          "mType": 0,
+          "mTypeParams": [],
+          "mCurve": []
+        },
+        "mScaleZ": {
+          "mType": 0,
+          "mTypeParams": [],
+          "mCurve": []
+        },
+        "mRot": {
+          "mX": {
+            "mType": 0,
+            "mTypeParams": [],
+            "mCurve": []
+          },
+          "mY": {
+            "mType": 0,
+            "mTypeParams": [],
+            "mCurve": []
+          },
+          "mZ": {
+            "mType": 0,
+            "mTypeParams": [],
+            "mCurve": []
+          }
+        },
+        "mPositionX": {
+          "mType": 0,
+          "mTypeParams": [],
+          "mCurve": []
+        },
+        "mPositionY": {
+          "mType": 0,
+          "mTypeParams": [],
+          "mCurve": []
+        },
+        "mPositionZ": {
+          "mType": 0,
+          "mTypeParams": [],
+          "mCurve": []
+        }
+      },
+      "mOnMove": {
+        "mIsEnabled": 0,
+        "mAnchor": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0
+        },
+        "mScaleX": {
+          "mType": 0,
+          "mTypeParams": [],
+          "mCurve": []
+        },
+        "mScaleY": {
+          "mType": 0,
+          "mTypeParams": [],
+          "mCurve": []
+        },
+        "mScaleZ": {
+          "mType": 0,
+          "mTypeParams": [],
+          "mCurve": []
+        },
+        "mRot": {
+          "mX": {
+            "mType": 0,
+            "mTypeParams": [],
+            "mCurve": []
+          },
+          "mY": {
+            "mType": 0,
+            "mTypeParams": [],
+            "mCurve": []
+          },
+          "mZ": {
+            "mType": 0,
+            "mTypeParams": [],
+            "mCurve": []
+          }
+        },
+        "mPositionX": {
+          "mType": 0,
+          "mTypeParams": [],
+          "mCurve": []
+        },
+        "mPositionY": {
+          "mType": 0,
+          "mTypeParams": [],
+          "mCurve": []
+        },
+        "mPositionZ": {
+          "mType": 0,
+          "mTypeParams": [],
+          "mCurve": []
+        }
+      },
+      "mOnDying": {
+        "mIsEnabled": 1,
+        "mAnchor": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0
+        },
+        "mScaleX": {
+          "mType": 1,
+          "mTypeParams": [],
+          "mCurve": [
+            {
+              "m_Curve": [
+                {
+                  "time": 0.0,
+                  "value": 1.0,
+                  "inSlope": 0.0,
+                  "outSlope": 0.0,
+                  "weightedMode": 0,
+                  "inWeight": 0.333333343,
+                  "outWeight": 0.333333343
+                },
+                {
+                  "time": 0.0587703064,
+                  "value": 0.137970686,
+                  "inSlope": 0.001445146,
+                  "outSlope": 0.001445146,
+                  "weightedMode": 0,
+                  "inWeight": 0.333333343,
+                  "outWeight": 0.333333343
+                },
+                {
+                  "time": 0.474609375,
+                  "value": 0.0,
+                  "inSlope": 0.0,
+                  "outSlope": 0.0,
+                  "weightedMode": 0,
+                  "inWeight": 0.333333343,
+                  "outWeight": 0.333333343
+                }
+              ],
+              "m_PreInfinity": 2,
+              "m_PostInfinity": 2,
+              "m_RotationOrder": 4
+            }
+          ]
+        },
+        "mScaleY": {
+          "mType": 1,
+          "mTypeParams": [],
+          "mCurve": [
+            {
+              "m_Curve": [
+                {
+                  "time": 0.0,
+                  "value": 1.0,
+                  "inSlope": 0.0,
+                  "outSlope": 0.0,
+                  "weightedMode": 0,
+                  "inWeight": 0.333333343,
+                  "outWeight": 0.333333343
+                },
+                {
+                  "time": 0.122063763,
+                  "value": 1.3,
+                  "inSlope": 0.001445146,
+                  "outSlope": 0.001445146,
+                  "weightedMode": 0,
+                  "inWeight": 0.333333343,
+                  "outWeight": 0.333333343
+                },
+                {
+                  "time": 0.474609375,
+                  "value": 0.0,
+                  "inSlope": 0.0,
+                  "outSlope": 0.0,
+                  "weightedMode": 0,
+                  "inWeight": 0.333333343,
+                  "outWeight": 0.333333343
+                }
+              ],
+              "m_PreInfinity": 2,
+              "m_PostInfinity": 2,
+              "m_RotationOrder": 4
+            }
+          ]
+        },
+        "mScaleZ": {
+          "mType": 1,
+          "mTypeParams": [],
+          "mCurve": [
+            {
+              "m_Curve": [
+                {
+                  "time": 0.0,
+                  "value": 1.0,
+                  "inSlope": 0.0,
+                  "outSlope": 0.0,
+                  "weightedMode": 0,
+                  "inWeight": 0.333333343,
+                  "outWeight": 0.333333343
+                },
+                {
+                  "time": 0.122063763,
+                  "value": 1.3,
+                  "inSlope": 0.001445146,
+                  "outSlope": 0.001445146,
+                  "weightedMode": 0,
+                  "inWeight": 0.333333343,
+                  "outWeight": 0.333333343
+                },
+                {
+                  "time": 0.474609375,
+                  "value": 0.0,
+                  "inSlope": 0.0,
+                  "outSlope": 0.0,
+                  "weightedMode": 0,
+                  "inWeight": 0.333333343,
+                  "outWeight": 0.333333343
+                }
+              ],
+              "m_PreInfinity": 2,
+              "m_PostInfinity": 2,
+              "m_RotationOrder": 4
+            }
+          ]
+        },
+        "mRot": {
+          "mX": {
+            "mType": 0,
+            "mTypeParams": [],
+            "mCurve": []
+          },
+          "mY": {
+            "mType": 0,
+            "mTypeParams": [],
+            "mCurve": []
+          },
+          "mZ": {
+            "mType": 0,
+            "mTypeParams": [],
+            "mCurve": []
+          }
+        },
+        "mPositionX": {
+          "mType": 0,
+          "mTypeParams": [],
+          "mCurve": []
+        },
+        "mPositionY": {
+          "mType": 0,
+          "mTypeParams": [],
+          "mCurve": []
+        },
+        "mPositionZ": {
+          "mType": 0,
+          "mTypeParams": [],
+          "mCurve": []
+        }
+      },
+      "mOnEquipHang": {
+        "mIsEnabled": 0,
+        "mAnchor": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0
+        },
+        "mScaleX": {
+          "mType": 0,
+          "mTypeParams": [],
+          "mCurve": []
+        },
+        "mScaleY": {
+          "mType": 0,
+          "mTypeParams": [],
+          "mCurve": []
+        },
+        "mScaleZ": {
+          "mType": 0,
+          "mTypeParams": [],
+          "mCurve": []
+        },
+        "mRot": {
+          "mX": {
+            "mType": 0,
+            "mTypeParams": [],
+            "mCurve": []
+          },
+          "mY": {
+            "mType": 0,
+            "mTypeParams": [],
+            "mCurve": []
+          },
+          "mZ": {
+            "mType": 0,
+            "mTypeParams": [],
+            "mCurve": []
+          }
+        },
+        "mPositionX": {
+          "mType": 0,
+          "mTypeParams": [],
+          "mCurve": []
+        },
+        "mPositionY": {
+          "mType": 0,
+          "mTypeParams": [],
+          "mCurve": []
+        },
+        "mPositionZ": {
+          "mType": 0,
+          "mTypeParams": [],
+          "mCurve": []
+        }
+      },
+      "mIsSetVisibleOnFeverEquipAroundIfAnyEffortOnce": 0
+    },
+    "mLc": {
+      "mPosOffsetXYZ": {
+        "mX": {
+          "mType": 0,
+          "mTypeParams": [],
+          "mAnimationCurve": {
+            "m_Curve": [
+              {
+                "time": 0.0,
+                "value": 1.0,
+                "inSlope": 0.0,
+                "outSlope": 0.0,
+                "weightedMode": 0,
+                "inWeight": 0.333333343,
+                "outWeight": 0.333333343
+              },
+              {
+                "time": 1.0,
+                "value": 1.0,
+                "inSlope": 0.0,
+                "outSlope": 0.0,
+                "weightedMode": 0,
+                "inWeight": 0.333333343,
+                "outWeight": 0.333333343
+              }
+            ],
+            "m_PreInfinity": 2,
+            "m_PostInfinity": 2,
+            "m_RotationOrder": 4
+          }
+        },
+        "mY": {
+          "mType": 0,
+          "mTypeParams": [],
+          "mAnimationCurve": {
+            "m_Curve": [
+              {
+                "time": 0.0,
+                "value": 1.0,
+                "inSlope": 0.0,
+                "outSlope": 0.0,
+                "weightedMode": 0,
+                "inWeight": 0.333333343,
+                "outWeight": 0.333333343
+              },
+              {
+                "time": 1.0,
+                "value": 1.0,
+                "inSlope": 0.0,
+                "outSlope": 0.0,
+                "weightedMode": 0,
+                "inWeight": 0.333333343,
+                "outWeight": 0.333333343
+              }
+            ],
+            "m_PreInfinity": 2,
+            "m_PostInfinity": 2,
+            "m_RotationOrder": 4
+          }
+        },
+        "mZ": {
+          "mType": 0,
+          "mTypeParams": [],
+          "mAnimationCurve": {
+            "m_Curve": [
+              {
+                "time": 0.0,
+                "value": 1.0,
+                "inSlope": 0.0,
+                "outSlope": 0.0,
+                "weightedMode": 0,
+                "inWeight": 0.333333343,
+                "outWeight": 0.333333343
+              },
+              {
+                "time": 1.0,
+                "value": 1.0,
+                "inSlope": 0.0,
+                "outSlope": 0.0,
+                "weightedMode": 0,
+                "inWeight": 0.333333343,
+                "outWeight": 0.333333343
+              }
+            ],
+            "m_PreInfinity": 2,
+            "m_PostInfinity": 2,
+            "m_RotationOrder": 4
+          }
+        }
+      }
+    },
+    "mP2P": {
+      "mIsFakeCrash": 0
+    },
+    "mCamera": {
+      "mIsRestrainShake": 0
+    },
+    "mAudio": {
+      "mIsChildOfAudioManagerObj": 0,
+      "mSpeedTriggers": [
+        {
+          "mType": 0,
+          "mSpeed": 0.1
+        },
+        {
+          "mType": 1,
+          "mSpeed": 0.01
+        }
+      ]
+    },
+    "mParamLevelList": [
+      {
+        "mSize": {
+          "mColRadius": 0.39,
+          "mGndColRadius": 0.24,
+          "mIsCheckFloor": 1,
+          "mIsCheckWall": 0,
+          "mIsUseEdgeGndCol": 0,
+          "mIsUseNarrow": 1,
+          "mGndColOffset": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          },
+          "mGndColOffsetCurve": {
+            "mX": {
+              "mType": 0,
+              "mTypeParams": [],
+              "mAnimationCurve": {
+                "m_Curve": [
+                  {
+                    "time": 0.0,
+                    "value": 1.0,
+                    "inSlope": 0.0,
+                    "outSlope": 0.0,
+                    "weightedMode": 0,
+                    "inWeight": 0.0,
+                    "outWeight": 0.0
+                  },
+                  {
+                    "time": 1.0,
+                    "value": 1.0,
+                    "inSlope": 0.0,
+                    "outSlope": 0.0,
+                    "weightedMode": 0,
+                    "inWeight": 0.0,
+                    "outWeight": 0.0
+                  }
+                ],
+                "m_PreInfinity": 2,
+                "m_PostInfinity": 2,
+                "m_RotationOrder": 4
+              }
+            },
+            "mY": {
+              "mType": 0,
+              "mTypeParams": [],
+              "mAnimationCurve": {
+                "m_Curve": [
+                  {
+                    "time": 0.0,
+                    "value": 0.0,
+                    "inSlope": 0.0,
+                    "outSlope": 0.0,
+                    "weightedMode": 0,
+                    "inWeight": 0.333333343,
+                    "outWeight": 0.333333343
+                  },
+                  {
+                    "time": 1.0,
+                    "value": -0.1,
+                    "inSlope": 0.0,
+                    "outSlope": 0.0,
+                    "weightedMode": 0,
+                    "inWeight": 0.333333343,
+                    "outWeight": 0.333333343
+                  }
+                ],
+                "m_PreInfinity": 2,
+                "m_PostInfinity": 2,
+                "m_RotationOrder": 4
+              }
+            },
+            "mZ": {
+              "mType": 0,
+              "mTypeParams": [],
+              "mAnimationCurve": {
+                "m_Curve": [
+                  {
+                    "time": 0.0,
+                    "value": 1.0,
+                    "inSlope": 0.0,
+                    "outSlope": 0.0,
+                    "weightedMode": 0,
+                    "inWeight": 0.0,
+                    "outWeight": 0.0
+                  },
+                  {
+                    "time": 1.0,
+                    "value": 1.0,
+                    "inSlope": 0.0,
+                    "outSlope": 0.0,
+                    "weightedMode": 0,
+                    "inWeight": 0.0,
+                    "outWeight": 0.0
+                  }
+                ],
+                "m_PreInfinity": 2,
+                "m_PostInfinity": 2,
+                "m_RotationOrder": 4
+              }
+            }
+          },
+          "mIsApplyAttToGndColOffset": 0,
+          "mScaleMax": 18.0,
+          "mScaleVel": 0.45,
+          "mScaleInEquipMulti": 1.0,
+          "mScaleVelInEquipMulti": 0.06,
+          "mOffsetMultiY": 0.53,
+          "mOffsetMultiZ": 0.1,
+          "mIsApplyKartBodySizeInEquipMulti": 1,
+          "mIsApplyItemColSizeInEquipMulti": 1,
+          "mWallColRadiusRate": 0.24,
+          "mOffsetHangX": 0.0,
+          "mOffsetHangY": 1.15,
+          "mIsForceSetScaleOnBeginThrow": 0,
+          "mScaleForceBeginThrow": 2.0,
+          "mClipScaleCoefficient": 1.7,
+          "mModelBaseScale": 1.0,
+          "mRejectVecScaleRatioToGndColHit": {
+            "Enabled": 1,
+            "Value": 10.0
+          }
+        },
+        "mBehaviourL": {
+          "mRotVelDeg": -12.0
+        },
+        "mUse": {
+          "mKartReactOnUse": 8,
+          "mParamOnUse": 1.2,
+          "mCoinGetNumOnUse": 0,
+          "mKartReactOnFeverUse": 0,
+          "mKartReactOnHitDrop": 21,
+          "mIsVanishOnDropHit": 0,
+          "mEffectOnHitDrop": {
+            "mKeyString": ""
+          },
+          "mKartReactOnHitEquip": 0,
+          "mRepeatEfforEndCondition": 0,
+          "mIsEndWatchOnRepeatEffort": 0,
+          "mIsKeepEquipInRepeatEffort": 0,
+          "mIsVisibleInRepeatEffort": 0,
+          "mIsVisibleShadowInRepeatEffort": 0,
+          "mIsSyncScaleToKartCollision": 0,
+          "mKartRadiusOfScale1": 1.0,
+          "mScaleMax": 2.0,
+          "mScaleInFeverAction": {
+            "mType": 0,
+            "mTypeParams": [],
+            "mAnimationCurve": {
+              "m_Curve": [
+                {
+                  "time": 0.0,
+                  "value": 1.0,
+                  "inSlope": 0.0,
+                  "outSlope": 0.0,
+                  "weightedMode": 0,
+                  "inWeight": 0.0,
+                  "outWeight": 0.0
+                },
+                {
+                  "time": 1.0,
+                  "value": 1.0,
+                  "inSlope": 0.0,
+                  "outSlope": 0.0,
+                  "weightedMode": 0,
+                  "inWeight": 0.0,
+                  "outWeight": 0.0
+                }
+              ],
+              "m_PreInfinity": 2,
+              "m_PostInfinity": 2,
+              "m_RotationOrder": 4
+            }
+          },
+          "mSlotResultReplace": {
+            "mIsEnabled": 0,
+            "mReplaceSec": 1.0,
+            "mSelector": {
+              "mTable": []
+            }
+          }
+        },
+        "mEmission": {
+          "mBreak": {
+            "mEmitItems": [],
+            "mMaxEmitNumOnOneTime": -1,
+            "mEmitProbabilities": [],
+            "mEmitDuplications": [],
+            "mIsRandomPos": 0,
+            "mAttType": 1,
+            "mAttL": {
+              "IsUseAtt": 0,
+              "Att": {
+                "mPitchAngleDeg": 0.0,
+                "mYawAngleDeg": 0.0,
+                "mRollAngleDeg": 0.0
+              }
+            },
+            "mYawAngleDeg": [],
+            "mEmitPitchAngleDeg": 45.0,
+            "mEmitVel": 0.5,
+            "mEmitPosOffset": 0.2,
+            "mIsEmitOneInFever": 0
+          },
+          "mOther": {
+            "mEmitInfos": []
+          },
+          "mIsUseMoveAttTypeOverrided": 0,
+          "mMoveAttTypeOverrided": 0
+        },
+        "mBurst": {
+          "mBurstScaleMin": 0.15,
+          "mBurstScaleMax": 19.0,
+          "mBurstScaleVel": 1.8,
+          "mBurstCollisionLifeSec": 0.583,
+          "mCanGuardBySuperHorn": 1,
+          "mEffectIndex": -1,
+          "mBurstLifeSec": 1.0,
+          "mBurstAnimSpeedRatio": 1.0,
+          "mSetFloorPos": {
+            "Enabled": 0,
+            "Value": 0.0
+          },
+          "mIsKartHitEnabledBeforeBurst": 1,
+          "mReactIndex1BurstSec": 100.0
+        },
+        "mScaleAnim": {
+          "mOnBound": {
+            "mIsEnabled": 0,
+            "mAnchor": {
+              "x": 0.0,
+              "y": 0.0,
+              "z": 0.0
+            },
+            "mScaleX": {
+              "mType": 0,
+              "mTypeParams": [],
+              "mCurve": []
+            },
+            "mScaleY": {
+              "mType": 0,
+              "mTypeParams": [],
+              "mCurve": []
+            },
+            "mScaleZ": {
+              "mType": 0,
+              "mTypeParams": [],
+              "mCurve": []
+            },
+            "mRot": {
+              "mX": {
+                "mType": 0,
+                "mTypeParams": [],
+                "mCurve": []
+              },
+              "mY": {
+                "mType": 0,
+                "mTypeParams": [],
+                "mCurve": []
+              },
+              "mZ": {
+                "mType": 0,
+                "mTypeParams": [],
+                "mCurve": []
+              }
+            },
+            "mPositionX": {
+              "mType": 0,
+              "mTypeParams": [],
+              "mCurve": []
+            },
+            "mPositionY": {
+              "mType": 0,
+              "mTypeParams": [],
+              "mCurve": []
+            },
+            "mPositionZ": {
+              "mType": 0,
+              "mTypeParams": [],
+              "mCurve": []
+            }
+          },
+          "mOnEffort": {
+            "mIsEnabled": 0,
+            "mAnchor": {
+              "x": 0.0,
+              "y": 0.0,
+              "z": 0.0
+            },
+            "mScaleX": {
+              "mType": 0,
+              "mTypeParams": [],
+              "mCurve": []
+            },
+            "mScaleY": {
+              "mType": 0,
+              "mTypeParams": [],
+              "mCurve": []
+            },
+            "mScaleZ": {
+              "mType": 0,
+              "mTypeParams": [],
+              "mCurve": []
+            },
+            "mRot": {
+              "mX": {
+                "mType": 0,
+                "mTypeParams": [],
+                "mCurve": []
+              },
+              "mY": {
+                "mType": 0,
+                "mTypeParams": [],
+                "mCurve": []
+              },
+              "mZ": {
+                "mType": 0,
+                "mTypeParams": [],
+                "mCurve": []
+              }
+            },
+            "mPositionX": {
+              "mType": 0,
+              "mTypeParams": [],
+              "mCurve": []
+            },
+            "mPositionY": {
+              "mType": 0,
+              "mTypeParams": [],
+              "mCurve": []
+            },
+            "mPositionZ": {
+              "mType": 0,
+              "mTypeParams": [],
+              "mCurve": []
+            }
+          },
+          "mOnMove": {
+            "mIsEnabled": 0,
+            "mAnchor": {
+              "x": 0.0,
+              "y": 0.0,
+              "z": 0.0
+            },
+            "mScaleX": {
+              "mType": 0,
+              "mTypeParams": [],
+              "mCurve": []
+            },
+            "mScaleY": {
+              "mType": 0,
+              "mTypeParams": [],
+              "mCurve": []
+            },
+            "mScaleZ": {
+              "mType": 0,
+              "mTypeParams": [],
+              "mCurve": []
+            },
+            "mRot": {
+              "mX": {
+                "mType": 0,
+                "mTypeParams": [],
+                "mCurve": []
+              },
+              "mY": {
+                "mType": 0,
+                "mTypeParams": [],
+                "mCurve": []
+              },
+              "mZ": {
+                "mType": 0,
+                "mTypeParams": [],
+                "mCurve": []
+              }
+            },
+            "mPositionX": {
+              "mType": 0,
+              "mTypeParams": [],
+              "mCurve": []
+            },
+            "mPositionY": {
+              "mType": 0,
+              "mTypeParams": [],
+              "mCurve": []
+            },
+            "mPositionZ": {
+              "mType": 0,
+              "mTypeParams": [],
+              "mCurve": []
+            }
+          },
+          "mOnDying": {
+            "mIsEnabled": 1,
+            "mAnchor": {
+              "x": 0.0,
+              "y": 0.0,
+              "z": 0.0
+            },
+            "mScaleX": {
+              "mType": 1,
+              "mTypeParams": [],
+              "mCurve": [
+                {
+                  "m_Curve": [
+                    {
+                      "time": 0.0,
+                      "value": 1.0,
+                      "inSlope": 0.0,
+                      "outSlope": 0.0,
+                      "weightedMode": 0,
+                      "inWeight": 0.333333343,
+                      "outWeight": 0.333333343
+                    },
+                    {
+                      "time": 0.0587703064,
+                      "value": 0.137970686,
+                      "inSlope": 0.001445146,
+                      "outSlope": 0.001445146,
+                      "weightedMode": 0,
+                      "inWeight": 0.333333343,
+                      "outWeight": 0.333333343
+                    },
+                    {
+                      "time": 0.474609375,
+                      "value": 0.0,
+                      "inSlope": 0.0,
+                      "outSlope": 0.0,
+                      "weightedMode": 0,
+                      "inWeight": 0.333333343,
+                      "outWeight": 0.333333343
+                    }
+                  ],
+                  "m_PreInfinity": 2,
+                  "m_PostInfinity": 2,
+                  "m_RotationOrder": 4
+                }
+              ]
+            },
+            "mScaleY": {
+              "mType": 1,
+              "mTypeParams": [],
+              "mCurve": [
+                {
+                  "m_Curve": [
+                    {
+                      "time": 0.0,
+                      "value": 1.0,
+                      "inSlope": 0.0,
+                      "outSlope": 0.0,
+                      "weightedMode": 0,
+                      "inWeight": 0.333333343,
+                      "outWeight": 0.333333343
+                    },
+                    {
+                      "time": 0.122063763,
+                      "value": 1.3,
+                      "inSlope": 0.001445146,
+                      "outSlope": 0.001445146,
+                      "weightedMode": 0,
+                      "inWeight": 0.333333343,
+                      "outWeight": 0.333333343
+                    },
+                    {
+                      "time": 0.474609375,
+                      "value": 0.0,
+                      "inSlope": 0.0,
+                      "outSlope": 0.0,
+                      "weightedMode": 0,
+                      "inWeight": 0.333333343,
+                      "outWeight": 0.333333343
+                    }
+                  ],
+                  "m_PreInfinity": 2,
+                  "m_PostInfinity": 2,
+                  "m_RotationOrder": 4
+                }
+              ]
+            },
+            "mScaleZ": {
+              "mType": 1,
+              "mTypeParams": [],
+              "mCurve": [
+                {
+                  "m_Curve": [
+                    {
+                      "time": 0.0,
+                      "value": 1.0,
+                      "inSlope": 0.0,
+                      "outSlope": 0.0,
+                      "weightedMode": 0,
+                      "inWeight": 0.333333343,
+                      "outWeight": 0.333333343
+                    },
+                    {
+                      "time": 0.122063763,
+                      "value": 1.3,
+                      "inSlope": 0.001445146,
+                      "outSlope": 0.001445146,
+                      "weightedMode": 0,
+                      "inWeight": 0.333333343,
+                      "outWeight": 0.333333343
+                    },
+                    {
+                      "time": 0.474609375,
+                      "value": 0.0,
+                      "inSlope": 0.0,
+                      "outSlope": 0.0,
+                      "weightedMode": 0,
+                      "inWeight": 0.333333343,
+                      "outWeight": 0.333333343
+                    }
+                  ],
+                  "m_PreInfinity": 2,
+                  "m_PostInfinity": 2,
+                  "m_RotationOrder": 4
+                }
+              ]
+            },
+            "mRot": {
+              "mX": {
+                "mType": 0,
+                "mTypeParams": [],
+                "mCurve": []
+              },
+              "mY": {
+                "mType": 0,
+                "mTypeParams": [],
+                "mCurve": []
+              },
+              "mZ": {
+                "mType": 0,
+                "mTypeParams": [],
+                "mCurve": []
+              }
+            },
+            "mPositionX": {
+              "mType": 0,
+              "mTypeParams": [],
+              "mCurve": []
+            },
+            "mPositionY": {
+              "mType": 0,
+              "mTypeParams": [],
+              "mCurve": []
+            },
+            "mPositionZ": {
+              "mType": 0,
+              "mTypeParams": [],
+              "mCurve": []
+            }
+          },
+          "mOnEquipHang": {
+            "mIsEnabled": 0,
+            "mAnchor": {
+              "x": 0.0,
+              "y": 0.0,
+              "z": 0.0
+            },
+            "mScaleX": {
+              "mType": 0,
+              "mTypeParams": [],
+              "mCurve": []
+            },
+            "mScaleY": {
+              "mType": 0,
+              "mTypeParams": [],
+              "mCurve": []
+            },
+            "mScaleZ": {
+              "mType": 0,
+              "mTypeParams": [],
+              "mCurve": []
+            },
+            "mRot": {
+              "mX": {
+                "mType": 0,
+                "mTypeParams": [],
+                "mCurve": []
+              },
+              "mY": {
+                "mType": 0,
+                "mTypeParams": [],
+                "mCurve": []
+              },
+              "mZ": {
+                "mType": 0,
+                "mTypeParams": [],
+                "mCurve": []
+              }
+            },
+            "mPositionX": {
+              "mType": 0,
+              "mTypeParams": [],
+              "mCurve": []
+            },
+            "mPositionY": {
+              "mType": 0,
+              "mTypeParams": [],
+              "mCurve": []
+            },
+            "mPositionZ": {
+              "mType": 0,
+              "mTypeParams": [],
+              "mCurve": []
+            }
+          },
+          "mIsSetVisibleOnFeverEquipAroundIfAnyEffortOnce": 0
+        }
+      }
+    ]
+  },
+  "mStraightMode": 1,
+  "mStraight": {
+    "mInitSpeedAdd": 2.7,
+    "mInitSpeedBaseCannon": 0.3,
+    "mInitSpeedKartRatio": 1.0,
+    "mCheckIniVelMax": 9.65,
+    "mCheckIniVelMin": 0.25,
+    "mBackInitVelKartRatio": 0.0600000024,
+    "mBackInitVelMax": 1.5,
+    "mBackInitVelMin": 0.25,
+    "mThrowUpOffset": 0.0,
+    "mInitTorqueVelDeg": 5.0,
+    "mTermSpeedAdd": 0.0,
+    "mTermSpeedKartRatio": 0.0,
+    "mTermSpeedRatio": {
+      "mType": 0,
+      "mTypeParams": [],
+      "mAnimationCurve": {
+        "m_Curve": [
+          {
+            "time": 0.0,
+            "value": 1.0,
+            "inSlope": 0.0,
+            "outSlope": 0.0,
+            "weightedMode": 0,
+            "inWeight": 0.333333343,
+            "outWeight": 0.333333343
+          },
+          {
+            "time": 1.0,
+            "value": 1.0,
+            "inSlope": 0.0,
+            "outSlope": 0.0,
+            "weightedMode": 0,
+            "inWeight": 0.333333343,
+            "outWeight": 0.333333343
+          }
+        ],
+        "m_PreInfinity": 2,
+        "m_PostInfinity": 2,
+        "m_RotationOrder": 4
+      }
+    },
+    "mStopVel": 0.01,
+    "mSpeedLerpRatio": 0.022,
+    "mSpeedAddByFric": -0.05,
+    "mVelDirLerpRatioOnGnd": 0.5,
+    "mAdditionalvel": {
+      "IsUseCurve": 0,
+      "mCurveX": {
+        "m_Curve": [
+          {
+            "time": 0.0,
+            "value": 1.0,
+            "inSlope": 0.0,
+            "outSlope": 0.0,
+            "weightedMode": 0,
+            "inWeight": 0.333333343,
+            "outWeight": 0.333333343
+          },
+          {
+            "time": 1.0,
+            "value": 1.0,
+            "inSlope": 0.0,
+            "outSlope": 0.0,
+            "weightedMode": 0,
+            "inWeight": 0.333333343,
+            "outWeight": 0.333333343
+          }
+        ],
+        "m_PreInfinity": 2,
+        "m_PostInfinity": 2,
+        "m_RotationOrder": 4
+      },
+      "mCurveY": {
+        "m_Curve": [
+          {
+            "time": 0.0,
+            "value": 1.0,
+            "inSlope": 0.0,
+            "outSlope": 0.0,
+            "weightedMode": 0,
+            "inWeight": 0.333333343,
+            "outWeight": 0.333333343
+          },
+          {
+            "time": 1.0,
+            "value": 1.0,
+            "inSlope": 0.0,
+            "outSlope": 0.0,
+            "weightedMode": 0,
+            "inWeight": 0.333333343,
+            "outWeight": 0.333333343
+          }
+        ],
+        "m_PreInfinity": 2,
+        "m_PostInfinity": 2,
+        "m_RotationOrder": 4
+      }
+    },
+    "mObjReflectVelRatio": 1.0,
+    "mReflectLimitAngleMin": {
+      "Enabled": 0,
+      "Value": 0.0
+    },
+    "mKartReflectVelRatioOfAngleDeg": {
+      "mType": 0,
+      "mTypeParams": [],
+      "mAnimationCurve": {
+        "m_Curve": [
+          {
+            "time": 0.0,
+            "value": 1.0,
+            "inSlope": 0.0,
+            "outSlope": 0.0,
+            "weightedMode": 0,
+            "inWeight": 0.333333343,
+            "outWeight": 0.333333343
+          },
+          {
+            "time": 1.0,
+            "value": 1.0,
+            "inSlope": 0.0,
+            "outSlope": 0.0,
+            "weightedMode": 0,
+            "inWeight": 0.333333343,
+            "outWeight": 0.333333343
+          }
+        ],
+        "m_PreInfinity": 2,
+        "m_PostInfinity": 2,
+        "m_RotationOrder": 4
+      }
+    },
+    "mObjReflectVelRatioItem": 2.0,
+    "mItemReflectLimitAngleMin": {
+      "Enabled": 0,
+      "Value": 0.0
+    },
+    "mItemReflectVelRatioOfAngleDeg": {
+      "mType": 0,
+      "mTypeParams": [],
+      "mAnimationCurve": {
+        "m_Curve": [
+          {
+            "time": 0.0,
+            "value": 1.0,
+            "inSlope": 0.0,
+            "outSlope": 0.0,
+            "weightedMode": 0,
+            "inWeight": 0.333333343,
+            "outWeight": 0.333333343
+          },
+          {
+            "time": 1.0,
+            "value": 1.0,
+            "inSlope": 0.0,
+            "outSlope": 0.0,
+            "weightedMode": 0,
+            "inWeight": 0.333333343,
+            "outWeight": 0.333333343
+          }
+        ],
+        "m_PreInfinity": 2,
+        "m_PostInfinity": 2,
+        "m_RotationOrder": 4
+      }
+    },
+    "mReflectUpLerpRatio": 0.6
+  },
+  "mStraightCurve": {
+    "mSpeed": {
+      "mIsEnabled": [
+        1,
+        1,
+        1
+      ],
+      "mValues": [
+        {
+          "mType": 1,
+          "mTypeParams": [],
+          "mAnimationCurve": {
+            "m_Curve": [
+              {
+                "time": 0.0,
+                "value": 0.0,
+                "inSlope": 2.83284612E-06,
+                "outSlope": 2.83284612E-06,
+                "weightedMode": 0,
+                "inWeight": 0.333333343,
+                "outWeight": 0.333333343
+              },
+              {
+                "time": 0.227027357,
+                "value": 1.50000072,
+                "inSlope": 0.0,
+                "outSlope": 0.0,
+                "weightedMode": 0,
+                "inWeight": 0.333333343,
+                "outWeight": 0.333333343
+              },
+              {
+                "time": 1.087777,
+                "value": 1.5,
+                "inSlope": -3.05018466E-06,
+                "outSlope": -3.54054618,
+                "weightedMode": 0,
+                "inWeight": 0.333333343,
+                "outWeight": 0.333333343
+              },
+              {
+                "time": 2.0,
+                "value": 0.0,
+                "inSlope": 0.0,
+                "outSlope": 0.0,
+                "weightedMode": 0,
+                "inWeight": 0.333333343,
+                "outWeight": 0.333333343
+              }
+            ],
+            "m_PreInfinity": 2,
+            "m_PostInfinity": 2,
+            "m_RotationOrder": 4
+          }
+        },
+        {
+          "mType": 1,
+          "mTypeParams": [],
+          "mAnimationCurve": {
+            "m_Curve": [
+              {
+                "time": 0.0,
+                "value": 0.0,
+                "inSlope": 2.83284612E-06,
+                "outSlope": 2.83284612E-06,
+                "weightedMode": 0,
+                "inWeight": 0.333333343,
+                "outWeight": 0.333333343
+              },
+              {
+                "time": 0.229316175,
+                "value": 1.50000072,
+                "inSlope": 0.0,
+                "outSlope": 0.0,
+                "weightedMode": 0,
+                "inWeight": 0.333333343,
+                "outWeight": 0.333333343
+              },
+              {
+                "time": 1.08960807,
+                "value": 1.5,
+                "inSlope": -3.05018466E-06,
+                "outSlope": -3.54054618,
+                "weightedMode": 0,
+                "inWeight": 0.333333343,
+                "outWeight": 0.333333343
+              },
+              {
+                "time": 2.0,
+                "value": 0.0,
+                "inSlope": 0.0,
+                "outSlope": 0.0,
+                "weightedMode": 0,
+                "inWeight": 0.333333343,
+                "outWeight": 0.333333343
+              }
+            ],
+            "m_PreInfinity": 2,
+            "m_PostInfinity": 2,
+            "m_RotationOrder": 4
+          }
+        },
+        {
+          "mType": 1,
+          "mTypeParams": [],
+          "mAnimationCurve": {
+            "m_Curve": [
+              {
+                "time": 0.0,
+                "value": 3.0,
+                "inSlope": 2.83284612E-06,
+                "outSlope": 2.83284612E-06,
+                "weightedMode": 0,
+                "inWeight": 0.333333343,
+                "outWeight": 0.333333343
+              },
+              {
+                "time": 1.08960807,
+                "value": 3.0,
+                "inSlope": -3.05018466E-06,
+                "outSlope": -3.54054618,
+                "weightedMode": 0,
+                "inWeight": 0.333333343,
+                "outWeight": 0.333333343
+              },
+              {
+                "time": 2.0,
+                "value": 0.0,
+                "inSlope": 0.0,
+                "outSlope": 0.0,
+                "weightedMode": 0,
+                "inWeight": 0.333333343,
+                "outWeight": 0.333333343
+              }
+            ],
+            "m_PreInfinity": 2,
+            "m_PostInfinity": 2,
+            "m_RotationOrder": 4
+          }
+        }
+      ]
+    },
+    "mFastestKartSpeeApplydRatio": {
+      "mIsEnabled": [
+        1,
+        1,
+        1
+      ],
+      "mValues": [
+        {
+          "mType": 1,
+          "mTypeParams": [],
+          "mAnimationCurve": {
+            "m_Curve": [
+              {
+                "time": 0.0,
+                "value": 1.0,
+                "inSlope": 2.83284612E-06,
+                "outSlope": 2.83284612E-06,
+                "weightedMode": 0,
+                "inWeight": 0.333333343,
+                "outWeight": 0.333333343
+              },
+              {
+                "time": 1.089608,
+                "value": 1.0,
+                "inSlope": -3.05018466E-06,
+                "outSlope": -1.9986589,
+                "weightedMode": 0,
+                "inWeight": 0.333333343,
+                "outWeight": 0.333333343
+              },
+              {
+                "time": 2.0,
+                "value": 0.0,
+                "inSlope": 0.0,
+                "outSlope": 0.0,
+                "weightedMode": 0,
+                "inWeight": 0.333333343,
+                "outWeight": 0.333333343
+              }
+            ],
+            "m_PreInfinity": 2,
+            "m_PostInfinity": 2,
+            "m_RotationOrder": 4
+          }
+        },
+        {
+          "mType": 1,
+          "mTypeParams": [],
+          "mAnimationCurve": {
+            "m_Curve": [
+              {
+                "time": 0.0,
+                "value": 1.0,
+                "inSlope": 2.83284612E-06,
+                "outSlope": 2.83284612E-06,
+                "weightedMode": 0,
+                "inWeight": 0.333333343,
+                "outWeight": 0.333333343
+              },
+              {
+                "time": 0.361306071,
+                "value": 1.0,
+                "inSlope": -3.05018466E-06,
+                "outSlope": -10.4211941,
+                "weightedMode": 0,
+                "inWeight": 0.333333343,
+                "outWeight": 0.333333343
+              },
+              {
+                "time": 0.6143799,
+                "value": 0.0,
+                "inSlope": 0.0,
+                "outSlope": 0.0,
+                "weightedMode": 0,
+                "inWeight": 0.333333343,
+                "outWeight": 0.333333343
+              }
+            ],
+            "m_PreInfinity": 2,
+            "m_PostInfinity": 2,
+            "m_RotationOrder": 4
+          }
+        },
+        {
+          "mType": 1,
+          "mTypeParams": [],
+          "mAnimationCurve": {
+            "m_Curve": [
+              {
+                "time": 0.0,
+                "value": 1.0,
+                "inSlope": 2.83284612E-06,
+                "outSlope": 2.83284612E-06,
+                "weightedMode": 0,
+                "inWeight": 0.333333343,
+                "outWeight": 0.333333343
+              },
+              {
+                "time": 0.361306071,
+                "value": 1.0,
+                "inSlope": -3.05018466E-06,
+                "outSlope": -10.4211941,
+                "weightedMode": 0,
+                "inWeight": 0.333333343,
+                "outWeight": 0.333333343
+              },
+              {
+                "time": 0.6143799,
+                "value": 0.0,
+                "inSlope": 0.0,
+                "outSlope": 0.0,
+                "weightedMode": 0,
+                "inWeight": 0.333333343,
+                "outWeight": 0.333333343
+              }
+            ],
+            "m_PreInfinity": 2,
+            "m_PostInfinity": 2,
+            "m_RotationOrder": 4
+          }
+        }
+      ]
+    }
+  },
+  "mPath": {
+    "mIsPathMoveAffectGravity": 0,
+    "mIsRiseTarget": 0,
+    "mVelLerpRatio": {
+      "mType": 1,
+      "mTypeParams": [],
+      "mAnimationCurve": {
+        "m_Curve": [
+          {
+            "time": 0.0,
+            "value": 0.03089881,
+            "inSlope": 0.0,
+            "outSlope": 0.0,
+            "weightedMode": 0,
+            "inWeight": 0.333333343,
+            "outWeight": 0.333333343
+          },
+          {
+            "time": 0.988468766,
+            "value": 0.3,
+            "inSlope": 0.5097653,
+            "outSlope": 0.5097653,
+            "weightedMode": 0,
+            "inWeight": 0.333333343,
+            "outWeight": 0.333333343
+          }
+        ],
+        "m_PreInfinity": 2,
+        "m_PostInfinity": 2,
+        "m_RotationOrder": 4
+      }
+    },
+    "mWallRouteRatio": 0.0,
+    "mWallRouteLerpRatio": 0.05,
+    "mDistanceToPathTarget": 30.0,
+    "mMinAngleDegFromYAxis": 0.0,
+    "mStuckTimeSec": 9999.0,
+    "mIsKeepInitRelativePos": 1,
+    "mIsTargetUpperPosInAir": 0,
+    "mIsChasePathGlide": 1,
+    "mIsInRoutePathRadius": 0,
+    "mDistanceFromRouteLREdge": -0.5,
+    "mSideMoveSpeed": {
+      "mType": 1,
+      "mTypeParams": [],
+      "mAnimationCurve": {
+        "m_Curve": [
+          {
+            "time": 0.0,
+            "value": 0.0,
+            "inSlope": -0.00377194374,
+            "outSlope": 0.006486441,
+            "weightedMode": 0,
+            "inWeight": 0.333333343,
+            "outWeight": 0.333333343
+          },
+          {
+            "time": 2.49650526,
+            "value": 0.119911015,
+            "inSlope": 0.04277922,
+            "outSlope": 0.04277922,
+            "weightedMode": 0,
+            "inWeight": 0.333333343,
+            "outWeight": 0.333333343
+          }
+        ],
+        "m_PreInfinity": 2,
+        "m_PostInfinity": 2,
+        "m_RotationOrder": 4
+      }
+    },
+    "mSideMoveStartDistanceZ": 25.0,
+    "mIsTargetVelYZero": 0,
+    "mIsVisibleOnMove": 1,
+    "mVisibleVel": 0.1
+  },
+  "mGenerate": {
+    "mGenerateList": [
+      {
+        "mItem": 17,
+        "mGenerateSec": 0.5,
+        "mStateOnGenerate": 2,
+        "mPosL": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0
+        },
+        "mVel": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.1
+        },
+        "mIsSyncLifeTime": 1,
+        "mLifeTimeAddOnSync": -1.2,
+        "mIsOverrideMoveAttType": 1,
+        "mMoveAttTypeOverrided": 10
+      },
+      {
+        "mItem": 17,
+        "mGenerateSec": 0.42,
+        "mStateOnGenerate": 2,
+        "mPosL": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0
+        },
+        "mVel": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.1
+        },
+        "mIsSyncLifeTime": 1,
+        "mLifeTimeAddOnSync": -0.6,
+        "mIsOverrideMoveAttType": 1,
+        "mMoveAttTypeOverrided": 10
+      }
+    ]
+  },
+  "mIsStopOnGenerate": 1,
+  "mIsVanishOnBehindBottomKart": 1,
+  "mRotTypeParamRatioCurve": {
+    "mType": 1,
+    "mTypeParams": [],
+    "mAnimationCurve": {
+      "m_Curve": [
+        {
+          "time": 0.0,
+          "value": 2.5,
+          "inSlope": 0.0,
+          "outSlope": 0.0,
+          "weightedMode": 0,
+          "inWeight": 0.333333343,
+          "outWeight": 0.333333343
+        },
+        {
+          "time": 0.365046263,
+          "value": 2.5,
+          "inSlope": 0.06311786,
+          "outSlope": -3.169435,
+          "weightedMode": 0,
+          "inWeight": 0.333333343,
+          "outWeight": 0.333333343
+        },
+        {
+          "time": 0.8312487,
+          "value": 1.0,
+          "inSlope": -3.67074275,
+          "outSlope": -3.67074275,
+          "weightedMode": 0,
+          "inWeight": 0.333333343,
+          "outWeight": 0.333333343
+        }
+      ],
+      "m_PreInfinity": 2,
+      "m_PostInfinity": 2,
+      "m_RotationOrder": 4
+    }
+  },
+  "mParamLevelList": [
+    {
+      "mStraightCurve": {
+        "mSpeed": {
+          "mIsEnabled": [
+            1,
+            1,
+            1
+          ],
+          "mValues": [
+            {
+              "mType": 1,
+              "mTypeParams": [],
+              "mAnimationCurve": {
+                "m_Curve": [
+                  {
+                    "time": 0.0,
+                    "value": 0.0,
+                    "inSlope": 0.0,
+                    "outSlope": 0.0,
+                    "weightedMode": 0,
+                    "inWeight": 0.0,
+                    "outWeight": 0.0
+                  },
+                  {
+                    "time": 0.2270274,
+                    "value": 2.0,
+                    "inSlope": 0.0,
+                    "outSlope": 0.0,
+                    "weightedMode": 0,
+                    "inWeight": 0.333333343,
+                    "outWeight": 0.333333343
+                  },
+                  {
+                    "time": 0.38,
+                    "value": 2.0,
+                    "inSlope": -0.0153239165,
+                    "outSlope": -0.0153239165,
+                    "weightedMode": 0,
+                    "inWeight": 0.229876146,
+                    "outWeight": 0.333333343
+                  },
+                  {
+                    "time": 2.0,
+                    "value": 0.0,
+                    "inSlope": -0.000632611162,
+                    "outSlope": -0.000632611162,
+                    "weightedMode": 0,
+                    "inWeight": 0.333333343,
+                    "outWeight": 0.333333343
+                  }
+                ],
+                "m_PreInfinity": 2,
+                "m_PostInfinity": 2,
+                "m_RotationOrder": 4
+              }
+            },
+            {
+              "mType": 1,
+              "mTypeParams": [],
+              "mAnimationCurve": {
+                "m_Curve": [
+                  {
+                    "time": 0.0,
+                    "value": 0.0,
+                    "inSlope": 0.0,
+                    "outSlope": 0.0,
+                    "weightedMode": 0,
+                    "inWeight": 0.0,
+                    "outWeight": 0.0
+                  },
+                  {
+                    "time": 0.2270274,
+                    "value": 1.5,
+                    "inSlope": 0.0,
+                    "outSlope": 0.0,
+                    "weightedMode": 0,
+                    "inWeight": 0.333333343,
+                    "outWeight": 0.333333343
+                  },
+                  {
+                    "time": 0.5,
+                    "value": 1.49646378,
+                    "inSlope": 0.0370230377,
+                    "outSlope": 0.0370230377,
+                    "weightedMode": 0,
+                    "inWeight": 0.333333343,
+                    "outWeight": 0.15608041
+                  },
+                  {
+                    "time": 2.0,
+                    "value": 0.0,
+                    "inSlope": 0.0,
+                    "outSlope": 0.0,
+                    "weightedMode": 0,
+                    "inWeight": 0.0,
+                    "outWeight": 0.0
+                  }
+                ],
+                "m_PreInfinity": 2,
+                "m_PostInfinity": 2,
+                "m_RotationOrder": 4
+              }
+            },
+            {
+              "mType": 1,
+              "mTypeParams": [],
+              "mAnimationCurve": {
+                "m_Curve": [
+                  {
+                    "time": 0.0,
+                    "value": 3.0,
+                    "inSlope": 0.0,
+                    "outSlope": 0.0,
+                    "weightedMode": 0,
+                    "inWeight": 0.0,
+                    "outWeight": 0.0
+                  },
+                  {
+                    "time": 1.089608,
+                    "value": 3.0,
+                    "inSlope": 0.0,
+                    "outSlope": -3.31372333,
+                    "weightedMode": 0,
+                    "inWeight": 0.333333343,
+                    "outWeight": 0.08443323
+                  },
+                  {
+                    "time": 2.0,
+                    "value": 0.0,
+                    "inSlope": 0.0,
+                    "outSlope": 0.0,
+                    "weightedMode": 0,
+                    "inWeight": 0.0,
+                    "outWeight": 0.0
+                  }
+                ],
+                "m_PreInfinity": 2,
+                "m_PostInfinity": 2,
+                "m_RotationOrder": 4
+              }
+            }
+          ]
+        },
+        "mFastestKartSpeeApplydRatio": {
+          "mIsEnabled": [
+            1,
+            1,
+            1
+          ],
+          "mValues": [
+            {
+              "mType": 1,
+              "mTypeParams": [],
+              "mAnimationCurve": {
+                "m_Curve": [
+                  {
+                    "time": 0.0,
+                    "value": 1.0,
+                    "inSlope": 0.0,
+                    "outSlope": 0.0,
+                    "weightedMode": 0,
+                    "inWeight": 0.0,
+                    "outWeight": 0.0
+                  },
+                  {
+                    "time": 1.089608,
+                    "value": 1.0,
+                    "inSlope": 0.0,
+                    "outSlope": -1.376884,
+                    "weightedMode": 0,
+                    "inWeight": 0.333333343,
+                    "outWeight": 0.0724383444
+                  },
+                  {
+                    "time": 2.0,
+                    "value": 0.0,
+                    "inSlope": 0.0,
+                    "outSlope": 0.0,
+                    "weightedMode": 0,
+                    "inWeight": 0.0,
+                    "outWeight": 0.0
+                  }
+                ],
+                "m_PreInfinity": 2,
+                "m_PostInfinity": 2,
+                "m_RotationOrder": 4
+              }
+            },
+            {
+              "mType": 1,
+              "mTypeParams": [],
+              "mAnimationCurve": {
+                "m_Curve": [
+                  {
+                    "time": 0.0,
+                    "value": 1.0,
+                    "inSlope": 0.0,
+                    "outSlope": 0.0,
+                    "weightedMode": 0,
+                    "inWeight": 0.0,
+                    "outWeight": 0.0
+                  },
+                  {
+                    "time": 1.089608,
+                    "value": 1.0,
+                    "inSlope": 0.0,
+                    "outSlope": -1.23784578,
+                    "weightedMode": 0,
+                    "inWeight": 0.333333343,
+                    "outWeight": 0.08057487
+                  },
+                  {
+                    "time": 2.0,
+                    "value": 0.0,
+                    "inSlope": 0.0,
+                    "outSlope": 0.0,
+                    "weightedMode": 0,
+                    "inWeight": 0.0,
+                    "outWeight": 0.0
+                  }
+                ],
+                "m_PreInfinity": 2,
+                "m_PostInfinity": 2,
+                "m_RotationOrder": 4
+              }
+            },
+            {
+              "mType": 1,
+              "mTypeParams": [],
+              "mAnimationCurve": {
+                "m_Curve": [
+                  {
+                    "time": 0.0,
+                    "value": 1.0,
+                    "inSlope": 0.0,
+                    "outSlope": 0.0,
+                    "weightedMode": 0,
+                    "inWeight": 0.0,
+                    "outWeight": 0.0
+                  },
+                  {
+                    "time": 1.089608,
+                    "value": 1.0,
+                    "inSlope": 0.0,
+                    "outSlope": -1.12220049,
+                    "weightedMode": 0,
+                    "inWeight": 0.333333343,
+                    "outWeight": 0.09481372
+                  },
+                  {
+                    "time": 2.0,
+                    "value": 0.0,
+                    "inSlope": 0.0,
+                    "outSlope": 0.0,
+                    "weightedMode": 0,
+                    "inWeight": 0.0,
+                    "outWeight": 0.0
+                  }
+                ],
+                "m_PreInfinity": 2,
+                "m_PostInfinity": 2,
+                "m_RotationOrder": 4
+              }
+            }
+          ]
+        }
+      },
+      "mGenerate": {
+        "mGenerateList": [
+          {
+            "mItem": 17,
+            "mGenerateSec": 0.32,
+            "mStateOnGenerate": 2,
+            "mPosL": {
+              "x": 0.0,
+              "y": 0.0,
+              "z": 0.0
+            },
+            "mVel": {
+              "x": 0.0,
+              "y": 0.0,
+              "z": 0.1
+            },
+            "mIsSyncLifeTime": 1,
+            "mLifeTimeAddOnSync": -1.2,
+            "mIsOverrideMoveAttType": 1,
+            "mMoveAttTypeOverrided": 10
+          },
+          {
+            "mItem": 17,
+            "mGenerateSec": 0.24,
+            "mStateOnGenerate": 2,
+            "mPosL": {
+              "x": 0.0,
+              "y": 0.0,
+              "z": 0.0
+            },
+            "mVel": {
+              "x": 0.0,
+              "y": 0.0,
+              "z": 0.1
+            },
+            "mIsSyncLifeTime": 1,
+            "mLifeTimeAddOnSync": -0.9,
+            "mIsOverrideMoveAttType": 1,
+            "mMoveAttTypeOverrided": 10
+          },
+          {
+            "mItem": 17,
+            "mGenerateSec": 0.24,
+            "mStateOnGenerate": 2,
+            "mPosL": {
+              "x": 0.0,
+              "y": 0.0,
+              "z": 0.0
+            },
+            "mVel": {
+              "x": 0.0,
+              "y": 0.0,
+              "z": 0.1
+            },
+            "mIsSyncLifeTime": 1,
+            "mLifeTimeAddOnSync": -0.6,
+            "mIsOverrideMoveAttType": 1,
+            "mMoveAttTypeOverrided": 10
+          },
+          {
+            "mItem": 17,
+            "mGenerateSec": 0.24,
+            "mStateOnGenerate": 2,
+            "mPosL": {
+              "x": 0.0,
+              "y": 0.0,
+              "z": 0.0
+            },
+            "mVel": {
+              "x": 0.0,
+              "y": 0.0,
+              "z": 0.1
+            },
+            "mIsSyncLifeTime": 1,
+            "mLifeTimeAddOnSync": -0.3,
+            "mIsOverrideMoveAttType": 1,
+            "mMoveAttTypeOverrided": 10
+          }
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,67 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": -3393848682055733865
+  },
+  "m_Name": "FxCt_Kt_Tire_Default_Ref",
+  "mEffectContainer": {
+    "m_FileID": 0,
+    "m_PathID": 5632341981205529129
+  },
+  "mSpecialEffectContainerList": [
+    {
+      "mKey": 1894510494,
+      "mContainer": {
+        "m_FileID": 0,
+        "m_PathID": -5205581952725400128
+      }
+    },
+    {
+      "mKey": 1594305071,
+      "mContainer": {
+        "m_FileID": 31,
+        "m_PathID": -1623209331450538688
+      }
+    },
+    {
+      "mKey": 4192937177,
+      "mContainer": {
+        "m_FileID": 0,
+        "m_PathID": -7922502664774445648
+      }
+    },
+    {
+      "mKey": 1177062736,
+      "mContainer": {
+        "m_FileID": 0,
+        "m_PathID": -7135192461754866303
+      }
+    },
+    {
+      "mKey": 2480727258,
+      "mContainer": {
+        "m_FileID": 0,
+        "m_PathID": 2305495525578328815
+      }
+    },
+    {
+      "mKey": 521017335,
+      "mContainer": {
+        "m_FileID": 0,
+        "m_PathID": 7389023043213747162
+      }
+    },
+    {
+      "mKey": 2419345957,
+      "mContainer": {
+        "m_FileID": 0,
+        "m_PathID": 5263622727317639771
+      }
+    }
+  ]
+}

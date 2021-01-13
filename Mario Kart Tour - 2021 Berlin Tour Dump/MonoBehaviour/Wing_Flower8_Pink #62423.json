@@ -1,0 +1,50 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": 2434717279687273224
+  },
+  "m_Name": "Wing_Flower8_Pink",
+  "mWingModel": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "mIconInfo": [
+    {
+      "mPath": "Assets/Main/Content/Kart/Wing/Wing_Flower8/Icons/Wing_Flower8_Pink.png",
+      "mGuid": "e144abcd609c4804c930bf5159a50fb1"
+    },
+    {
+      "mPath": "Assets/Main/Content/Kart/Wing/Wing_Flower8/Icons/Wing_Flower8_Pink_Large.png",
+      "mGuid": "259bfb6ede474024e947b2c120e685ec"
+    },
+    {
+      "mPath": "Assets/Main/Content/Kart/Wing/Wing_Flower8/Icons/Wing_Flower8_Pink_Small.png",
+      "mGuid": "b011498a7fa8f9d41b7088eba44aa039"
+    }
+  ],
+  "mWingType": 0,
+  "mIsFixedIcon": 0,
+  "mBaseParameter": {
+    "m_FileID": 1,
+    "m_PathID": 5935096358540543435
+  },
+  "mMaterial": {
+    "m_FileID": 0,
+    "m_PathID": 5118685229270424708
+  },
+  "mEffectContainer": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "mIsDisableAngleAnimation": 0,
+  "mDescription": "",
+  "mColorValiationRoot": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  }
+}

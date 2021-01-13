@@ -1,0 +1,26 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": 980329048157257672
+  },
+  "m_Name": "Fbx_G3ds_RockRockMountain_MapInfo",
+  "rect": {
+    "x": -491.463654,
+    "y": -505.7371,
+    "width": 1011.39954,
+    "height": 1011.39954
+  },
+  "sprite": {
+    "m_FileID": 0,
+    "m_PathID": -1074442749980884020
+  },
+  "offset": {
+    "x": -35.0,
+    "y": 0.0
+  }
+}

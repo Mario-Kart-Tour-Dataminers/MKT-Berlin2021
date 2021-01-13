@@ -1,0 +1,50 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": 7476094910291601073
+  },
+  "m_Name": "KartBalloonParam",
+  "mModel": {
+    "m_FileID": 0,
+    "m_PathID": -2580798532063350573
+  },
+  "mTextures": [
+    {
+      "m_FileID": 0,
+      "m_PathID": 7077453722778361016
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -5923382019174422393
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 999700459799412777
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -7698129961761811579
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -4362175117808726766
+    },
+    {
+      "m_FileID": 2,
+      "m_PathID": 1416943621342231780
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -1332055970974650917
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -1108964159794124710
+    }
+  ]
+}

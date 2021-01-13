@@ -1,0 +1,50 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": 2434717279687273224
+  },
+  "m_Name": "Wing_WeddingBell",
+  "mWingModel": {
+    "m_FileID": 0,
+    "m_PathID": -5253027372323373773
+  },
+  "mIconInfo": [
+    {
+      "mPath": "Assets/Main/Content/Kart/Wing/Wing_WeddingBell/Icons/Wing_WeddingBell.png",
+      "mGuid": "b7bd87a461cf6474a89222080b06ae4c"
+    },
+    {
+      "mPath": "Assets/Main/Content/Kart/Wing/Wing_WeddingBell/Icons/Wing_WeddingBell_Large.png",
+      "mGuid": "98447e4e15fbd704f99090f8152d7ae0"
+    },
+    {
+      "mPath": "Assets/Main/Content/Kart/Wing/Wing_WeddingBell/Icons/Wing_WeddingBell_Small.png",
+      "mGuid": "5c8d22977f36dfb4fb81fa6a71ba3811"
+    }
+  ],
+  "mWingType": 1,
+  "mIsFixedIcon": 0,
+  "mBaseParameter": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "mMaterial": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "mEffectContainer": {
+    "m_FileID": 0,
+    "m_PathID": -7378813400235323126
+  },
+  "mIsDisableAngleAnimation": 0,
+  "mDescription": "",
+  "mColorValiationRoot": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  }
+}

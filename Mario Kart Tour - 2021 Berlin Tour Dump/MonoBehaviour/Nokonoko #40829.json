@@ -1,0 +1,135 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": -2094441087577622512
+  },
+  "m_Name": "Nokonoko",
+  "mModel": {
+    "m_FileID": 1,
+    "m_PathID": 1951875113239114306
+  },
+  "mFaceTextures": [
+    {
+      "m_FileID": 2,
+      "m_PathID": -5275331384589389645
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 5767035586256386904
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 6129168660885324994
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -8212633624683085872
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -8694031315539538466
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -7244697258220987126
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 138801446329273317
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 8978569401191476637
+    }
+  ],
+  "mIsFaceTextureEmission": 0,
+  "mEmblem": {
+    "m_FileID": 0,
+    "m_PathID": -3630116679673533649
+  },
+  "mAnimatorOverrideController": {
+    "m_FileID": 3,
+    "m_PathID": 5616179473325022596
+  },
+  "mKartScaleSize": 0.85,
+  "mWingJointType": 0,
+  "mFaceChangeEvent": {
+    "m_FileID": 0,
+    "m_PathID": -3859378763378360373
+  },
+  "mIconInfo": [
+    {
+      "mPath": "Assets/Main/Content/Driver/Nokonoko/Icons/Nokonoko.png",
+      "mGuid": "f6a79502aa6792946bb1695625bb9d66"
+    },
+    {
+      "mPath": "Assets/Main/Content/Driver/Nokonoko/Icons/NokonokoMap.png",
+      "mGuid": "82ed00fc9ba4de144abb4903df5fa3dd"
+    },
+    {
+      "mPath": "Assets/Main/Content/Driver/Nokonoko/Icons/NokonokoFaceEntry.png",
+      "mGuid": "dd274ef8547e3b44aaa6a9fc26911c12"
+    },
+    {
+      "mPath": "Assets/Main/Content/Driver/Nokonoko/Icons/NokonokoWholeBody.png",
+      "mGuid": "d67f46531bb861e46b23d99a4acc1509"
+    },
+    {
+      "mPath": "Assets/Main/Content/Driver/Nokonoko/Icons/NokonokoUpperBody.png",
+      "mGuid": "b8b5c8e28aa641b43b203e505f8fca8e"
+    },
+    {
+      "mPath": "",
+      "mGuid": ""
+    },
+    {
+      "mPath": "Assets/Main/Content/Driver/Nokonoko/Icons/Nokonoko_Small.png",
+      "mGuid": "382941d9e2a58a441b41593110a68381"
+    },
+    {
+      "mPath": "Assets/Main/Content/Driver/Nokonoko/Icons/NokonokoFaceEntry_Small.png",
+      "mGuid": "102c8a3bbe4eee74ba458df8872fce93"
+    },
+    {
+      "mPath": "Assets/Main/Content/Driver/Nokonoko/Icons/NokonokoWholeBody_Small.png",
+      "mGuid": "6fc3144bbec46094893e783ed2c04ab1"
+    },
+    {
+      "mPath": "Assets/Main/Content/Driver/Nokonoko/Icons/NokonokoUpperBody_Small.png",
+      "mGuid": "989546439a989744e88ae87b49a5a426"
+    }
+  ],
+  "mColorGroup": 0,
+  "mCharacterTextureList": [],
+  "mBaseParameter": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "mBodyMaterial": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "mEyeMaterial": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "mDynamicUnitMngInitData": {
+    "m_FileID": 0,
+    "m_PathID": -6430149897294565119
+  },
+  "mMetamorData": [],
+  "mDotDriverData": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "mDescription": "ノコノコ",
+  "mEffectContainer": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  }
+}

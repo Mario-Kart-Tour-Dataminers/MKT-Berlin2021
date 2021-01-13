@@ -1,0 +1,135 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": -2094441087577622512
+  },
+  "m_Name": "BbLuigi",
+  "mModel": {
+    "m_FileID": 1,
+    "m_PathID": 5355701697887802049
+  },
+  "mFaceTextures": [
+    {
+      "m_FileID": 3,
+      "m_PathID": -7400703078829067254
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -1187668031045830295
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 8983890687156924554
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -1054346089078522611
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -9217877374717797203
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 8440859163651679445
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -2770278734408399453
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -283416061488960445
+    }
+  ],
+  "mIsFaceTextureEmission": 0,
+  "mEmblem": {
+    "m_FileID": 0,
+    "m_PathID": -1933441542218882587
+  },
+  "mAnimatorOverrideController": {
+    "m_FileID": 2,
+    "m_PathID": -117545888569057567
+  },
+  "mKartScaleSize": 0.85,
+  "mWingJointType": 0,
+  "mFaceChangeEvent": {
+    "m_FileID": 0,
+    "m_PathID": 3824128608781659916
+  },
+  "mIconInfo": [
+    {
+      "mPath": "Assets/Main/Content/Driver/BbLuigi/Icons/BbLuigi.png",
+      "mGuid": "b1ecb8d99676e5d49b9248ffe9650913"
+    },
+    {
+      "mPath": "Assets/Main/Content/Driver/BbLuigi/Icons/BbLuigiMap.png",
+      "mGuid": "8d4bf1f40d59b534dbe43278b57420b4"
+    },
+    {
+      "mPath": "Assets/Main/Content/Driver/BbLuigi/Icons/BbLuigiFaceEntry.png",
+      "mGuid": "9d6e02c3daf425a44a3ab3d50a799501"
+    },
+    {
+      "mPath": "Assets/Main/Content/Driver/BbLuigi/Icons/BbLuigiWholeBody.png",
+      "mGuid": "d4126ee3a9a6ea14d9c2ccf6c8856cd0"
+    },
+    {
+      "mPath": "Assets/Main/Content/Driver/BbLuigi/Icons/BbLuigiUpperBody.png",
+      "mGuid": "af6e916ebb6e75140afe04e98f33a673"
+    },
+    {
+      "mPath": "",
+      "mGuid": ""
+    },
+    {
+      "mPath": "Assets/Main/Content/Driver/BbLuigi/Icons/BbLuigi_Small.png",
+      "mGuid": "0ebee77a1229f7647a2d797f97adc538"
+    },
+    {
+      "mPath": "Assets/Main/Content/Driver/BbLuigi/Icons/BbLuigiFaceEntry_Small.png",
+      "mGuid": "acf6aff94df08794dae13e408a3e8a13"
+    },
+    {
+      "mPath": "Assets/Main/Content/Driver/BbLuigi/Icons/BbLuigiWholeBody_Small.png",
+      "mGuid": "4c0d7aa6230b30142b20c381c7d82ddb"
+    },
+    {
+      "mPath": "Assets/Main/Content/Driver/BbLuigi/Icons/BbLuigiUpperBody_Small.png",
+      "mGuid": "f0ed3d58f39efc745abc32c6af4afd5e"
+    }
+  ],
+  "mColorGroup": 0,
+  "mCharacterTextureList": [],
+  "mBaseParameter": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "mBodyMaterial": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "mEyeMaterial": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "mDynamicUnitMngInitData": {
+    "m_FileID": 0,
+    "m_PathID": -1213181818918969640
+  },
+  "mMetamorData": [],
+  "mDotDriverData": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "mDescription": "ベビィルイージ",
+  "mEffectContainer": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  }
+}

@@ -1,0 +1,135 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": -2094441087577622512
+  },
+  "m_Name": "DK",
+  "mModel": {
+    "m_FileID": 1,
+    "m_PathID": -4990241736108410039
+  },
+  "mFaceTextures": [
+    {
+      "m_FileID": 2,
+      "m_PathID": 3643100703400688777
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -5125466148729170872
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 5251900515965326471
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 3114028966577142040
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -4919392377118473077
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 2364418956403809919
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 1185077349835511919
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 8476400789353875509
+    }
+  ],
+  "mIsFaceTextureEmission": 0,
+  "mEmblem": {
+    "m_FileID": 0,
+    "m_PathID": -6895333638529506538
+  },
+  "mAnimatorOverrideController": {
+    "m_FileID": 3,
+    "m_PathID": -4563021628345301369
+  },
+  "mKartScaleSize": 1.1,
+  "mWingJointType": 0,
+  "mFaceChangeEvent": {
+    "m_FileID": 0,
+    "m_PathID": -8370529980193998755
+  },
+  "mIconInfo": [
+    {
+      "mPath": "Assets/Main/Content/Driver/DK/Icons/DK.png",
+      "mGuid": "3798e2787571a3a4791bcef38ba870de"
+    },
+    {
+      "mPath": "Assets/Main/Content/Driver/DK/Icons/DKMap.png",
+      "mGuid": "39ff774ea678cb5439ad6495c6fcf03b"
+    },
+    {
+      "mPath": "Assets/Main/Content/Driver/DK/Icons/DKFaceEntry.png",
+      "mGuid": "a88cc32115de30949801e893a5f96a66"
+    },
+    {
+      "mPath": "Assets/Main/Content/Driver/DK/Icons/DKWholeBody.png",
+      "mGuid": "ba71c442a5db2be409078a99d066886a"
+    },
+    {
+      "mPath": "Assets/Main/Content/Driver/DK/Icons/DKUpperBody.png",
+      "mGuid": "9aea2774354a02241a4095a530f0c244"
+    },
+    {
+      "mPath": "",
+      "mGuid": ""
+    },
+    {
+      "mPath": "Assets/Main/Content/Driver/DK/Icons/DK_Small.png",
+      "mGuid": "14ba3d2b8c20fbe4e89467fa741e2668"
+    },
+    {
+      "mPath": "Assets/Main/Content/Driver/DK/Icons/DKFaceEntry_Small.png",
+      "mGuid": "6f4f8749d28d07d41a54878af8aacbae"
+    },
+    {
+      "mPath": "Assets/Main/Content/Driver/DK/Icons/DKWholeBody_Small.png",
+      "mGuid": "b021a1a59ccadbb4d9f8de8a662e2b1c"
+    },
+    {
+      "mPath": "Assets/Main/Content/Driver/DK/Icons/DKUpperBody_Small.png",
+      "mGuid": "5dd0abb206709b646acddf118ffc8afa"
+    }
+  ],
+  "mColorGroup": 0,
+  "mCharacterTextureList": [],
+  "mBaseParameter": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "mBodyMaterial": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "mEyeMaterial": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "mDynamicUnitMngInitData": {
+    "m_FileID": 0,
+    "m_PathID": -4834684852172977785
+  },
+  "mMetamorData": [],
+  "mDotDriverData": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "mDescription": "ドンキーコング",
+  "mEffectContainer": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  }
+}

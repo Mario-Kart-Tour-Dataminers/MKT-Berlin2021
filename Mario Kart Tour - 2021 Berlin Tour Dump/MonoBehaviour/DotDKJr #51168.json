@@ -1,0 +1,102 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": -2094441087577622512
+  },
+  "m_Name": "DotDKJr",
+  "mModel": {
+    "m_FileID": 0,
+    "m_PathID": -3706751933361173902
+  },
+  "mFaceTextures": [],
+  "mIsFaceTextureEmission": 0,
+  "mEmblem": {
+    "m_FileID": 0,
+    "m_PathID": -5707317827993685635
+  },
+  "mAnimatorOverrideController": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "mKartScaleSize": 1.0,
+  "mWingJointType": 0,
+  "mFaceChangeEvent": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "mIconInfo": [
+    {
+      "mPath": "Assets/Main/Content/Driver/DotDKJr/Icons/DotDKJr.png",
+      "mGuid": "af78b48cca0e0e84eb5071b8135a5281"
+    },
+    {
+      "mPath": "Assets/Main/Content/Driver/DotDKJr/Icons/DotDKJrMap.png",
+      "mGuid": "136171f0d50f32d4d942880ab295c00c"
+    },
+    {
+      "mPath": "Assets/Main/Content/Driver/DotDKJr/Icons/DotDKJrFaceEntry.png",
+      "mGuid": "21c29529ebb8522459556b452f3836f0"
+    },
+    {
+      "mPath": "Assets/Main/Content/Driver/DotDKJr/Icons/DotDKJrWholeBody.png",
+      "mGuid": "5790d3573eff0c4418c8170579610ee4"
+    },
+    {
+      "mPath": "Assets/Main/Content/Driver/DotDKJr/Icons/DotDKJrUpperBody.png",
+      "mGuid": "bf0ddf1841e158746b793233204de9bd"
+    },
+    {
+      "mPath": "",
+      "mGuid": ""
+    },
+    {
+      "mPath": "Assets/Main/Content/Driver/DotDKJr/Icons/DotDKJr_Small.png",
+      "mGuid": "f8b04381521e0c6468a2cb7280f626f8"
+    },
+    {
+      "mPath": "Assets/Main/Content/Driver/DotDKJr/Icons/DotDKJrFaceEntry_Small.png",
+      "mGuid": "c2d7bc6b111d51044abed498bc464287"
+    },
+    {
+      "mPath": "Assets/Main/Content/Driver/DotDKJr/Icons/DotDKJrWholeBody_Small.png",
+      "mGuid": "8bb29d21e01c1e04cac346390fe5894c"
+    },
+    {
+      "mPath": "Assets/Main/Content/Driver/DotDKJr/Icons/DotDKJrUpperBody_Small.png",
+      "mGuid": "ce07556eb046e0a4d8c097d5bae7eeeb"
+    }
+  ],
+  "mColorGroup": 0,
+  "mCharacterTextureList": [],
+  "mBaseParameter": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "mBodyMaterial": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "mEyeMaterial": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "mDynamicUnitMngInitData": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "mMetamorData": [],
+  "mDotDriverData": {
+    "m_FileID": 0,
+    "m_PathID": 3346362714118113751
+  },
+  "mDescription": "ドット絵マリオ(仮)",
+  "mEffectContainer": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  }
+}

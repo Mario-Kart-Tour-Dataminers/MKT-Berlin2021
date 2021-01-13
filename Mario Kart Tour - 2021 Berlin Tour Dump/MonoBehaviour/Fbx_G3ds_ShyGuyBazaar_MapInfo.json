@@ -1,0 +1,26 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": 980329048157257672
+  },
+  "m_Name": "Fbx_G3ds_ShyGuyBazaar_MapInfo",
+  "rect": {
+    "x": -524.4548,
+    "y": -488.347321,
+    "width": 914.7749,
+    "height": 914.7749
+  },
+  "sprite": {
+    "m_FileID": 0,
+    "m_PathID": 2544973751587191450
+  },
+  "offset": {
+    "x": -20.0,
+    "y": 0.0
+  }
+}

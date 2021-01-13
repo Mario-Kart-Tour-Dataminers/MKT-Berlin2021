@@ -1,0 +1,30 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": 4454195247659244470
+  },
+  "m_Name": "OilPainting",
+  "settings": [
+    {
+      "m_FileID": 0,
+      "m_PathID": -6873255741775742710
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -4562014871794018633
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 8859683703146726112
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -3606637207347189886
+    }
+  ]
+}

@@ -1,0 +1,102 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": -2094441087577622512
+  },
+  "m_Name": "DotMario",
+  "mModel": {
+    "m_FileID": 0,
+    "m_PathID": -4895811917667940464
+  },
+  "mFaceTextures": [],
+  "mIsFaceTextureEmission": 0,
+  "mEmblem": {
+    "m_FileID": 0,
+    "m_PathID": -2599639305341678443
+  },
+  "mAnimatorOverrideController": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "mKartScaleSize": 1.0,
+  "mWingJointType": 0,
+  "mFaceChangeEvent": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "mIconInfo": [
+    {
+      "mPath": "Assets/Main/Content/Driver/DotMario/Icons/DotMario.png",
+      "mGuid": "17b4c35dd01f9154e8dd4d574c39e097"
+    },
+    {
+      "mPath": "Assets/Main/Content/Driver/DotMario/Icons/DotMarioMap.png",
+      "mGuid": "9eab4ac870f0c6a45a9dadfa7d151177"
+    },
+    {
+      "mPath": "Assets/Main/Content/Driver/DotMario/Icons/DotMarioFaceEntry.png",
+      "mGuid": "dc8dce520bcc59d4a96136b06e57dec6"
+    },
+    {
+      "mPath": "Assets/Main/Content/Driver/DotMario/Icons/DotMarioWholeBody.png",
+      "mGuid": "7c97805123d16d143951322445343f4b"
+    },
+    {
+      "mPath": "Assets/Main/Content/Driver/DotMario/Icons/DotMarioUpperBody.png",
+      "mGuid": "015c991ec61701547ab70574fab8f4ee"
+    },
+    {
+      "mPath": "",
+      "mGuid": ""
+    },
+    {
+      "mPath": "Assets/Main/Content/Driver/DotMario/Icons/DotMario_Small.png",
+      "mGuid": "f96858c8d39b23d4db37a58da6edd899"
+    },
+    {
+      "mPath": "Assets/Main/Content/Driver/DotMario/Icons/DotMarioFaceEntry_Small.png",
+      "mGuid": "a746ab985d2beca4e9156cfde2da99a7"
+    },
+    {
+      "mPath": "Assets/Main/Content/Driver/DotMario/Icons/DotMarioWholeBody_Small.png",
+      "mGuid": "1830e96ad2ccc9c4783b7af47edc9540"
+    },
+    {
+      "mPath": "Assets/Main/Content/Driver/DotMario/Icons/DotMarioUpperBody_Small.png",
+      "mGuid": "6c1c9975d3b225d4bb0142f52690754e"
+    }
+  ],
+  "mColorGroup": 0,
+  "mCharacterTextureList": [],
+  "mBaseParameter": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "mBodyMaterial": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "mEyeMaterial": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "mDynamicUnitMngInitData": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "mMetamorData": [],
+  "mDotDriverData": {
+    "m_FileID": 0,
+    "m_PathID": -2918080178186901588
+  },
+  "mDescription": "ドット絵マリオ(仮)",
+  "mEffectContainer": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  }
+}

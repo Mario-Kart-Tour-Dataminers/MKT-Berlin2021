@@ -1,0 +1,50 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": 2434717279687273224
+  },
+  "m_Name": "Wing_Map_TreasureA",
+  "mWingModel": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "mIconInfo": [
+    {
+      "mPath": "Assets/Main/Content/Kart/Wing/Wing_Map/Icons/Wing_Map_TreasureA.png",
+      "mGuid": "3e1b9105a5b807f45aac1a26532f60e2"
+    },
+    {
+      "mPath": "Assets/Main/Content/Kart/Wing/Wing_Map/Icons/Wing_Map_TreasureA_Large.png",
+      "mGuid": "5a105ad4314bab34fbd70f4f2eebe84a"
+    },
+    {
+      "mPath": "Assets/Main/Content/Kart/Wing/Wing_Map/Icons/Wing_Map_TreasureA_Small.png",
+      "mGuid": "5bfdf514a8c0a474894e6c902860fce3"
+    }
+  ],
+  "mWingType": 0,
+  "mIsFixedIcon": 0,
+  "mBaseParameter": {
+    "m_FileID": 0,
+    "m_PathID": -9039730046144991957
+  },
+  "mMaterial": {
+    "m_FileID": 0,
+    "m_PathID": -8003065427906579279
+  },
+  "mEffectContainer": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "mIsDisableAngleAnimation": 0,
+  "mDescription": "",
+  "mColorValiationRoot": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  }
+}
